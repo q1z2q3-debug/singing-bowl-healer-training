@@ -36,6 +36,8 @@ singing-bowl-healer-training/
 │   ├── cleanup.py               # 目录/标题/空行清理
 │   ├── emf2png.py               # EMF 矢量图转 PNG
 │   └── fix_img_paths.py         # 图片相对路径修复
+├── assets/
+│   └── wechat-qrcode.jpg       # 微信联系二维码
 ├── LICENSE
 └── README.md
 ```
@@ -66,6 +68,14 @@ python scripts/fix_img_paths.py  # 绝对路径改相对路径
 - ✅ 允许改编与二次创作（需以相同协议共享）
 - ❌ 不得用于商业用途
 - ✌️ 转载时请注明出处
+
+## 联系我们
+
+简念颂钵音疗中心 · 欢迎扫码交流：
+
+<p align="center">
+  <img src="assets/wechat-qrcode.jpg" alt="简念颂钵音疗中心 微信二维码" width="280" />
+</p>
 
 ## 贡献
 
