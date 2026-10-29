@@ -22,7 +22,8 @@
 
 ## 在线阅读
 
-直接打开 [`docs/颂钵疗愈师培训7.0.md`](docs/颂钵疗愈师培训7.0.md) 即可阅读，GitHub 会自动渲染 Markdown 与图片。
+- **官方站点（GitHub Pages）**：https://q1z2q3-debug.github.io/singing-bowl-healer-training/ — 带 SEO 落地页，含结构化数据，更易被搜索引擎收录
+- **GitHub 仓库全文**：直接打开 [`docs/颂钵疗愈师培训7.0.md`](docs/颂钵疗愈师培训7.0.md)，GitHub 会自动渲染 Markdown 与图片
 
 也可以下载仓库后用 Typora、Obsidian、VS Code 等任意 Markdown 编辑器阅读。
 
