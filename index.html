@@ -1,28 +1,21 @@
 <!DOCTYPE html>
-<html lang="zh-CN">
+<html lang="zh-CN" data-theme="light">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>颂钵疗愈师培训 7.0（大字版）· 免费开源声音疗愈 / 音疗师培训教材</title>
   <meta name="description" content="免费开源的《颂钵疗愈师培训 7.0（大字版）》教材：系统讲解颂钵疗愈、声音疗愈、音疗师培训，涵盖颂钵技法、声音与振动理论、脉轮经络、个案实操与自然疗法。CC BY-NC-SA 4.0 协议。" />
-  <meta name="keywords" content="颂钵疗愈师培训,声音疗愈,音疗师培训,颂钵教程,颂钵疗愈课程,脉轮音疗,身心放松,助眠减压,Tibetan Singing Bowl,Sound Healing,Sound Therapy Training,Chakra Healing" />
+  <meta name="keywords" content="颂钵疗愈师培训,声音疗愈,音疗师培训,颂钵教程,脉轮音疗,Tibetan Singing Bowl,Sound Healing,Sound Therapy Training,Chakra Healing" />
   <meta name="author" content="润泽（五感六觉）" />
   <meta name="robots" content="index, follow" />
-
-  <!-- Open Graph / 社交分享 -->
   <meta property="og:type" content="website" />
   <meta property="og:title" content="颂钵疗愈师培训 7.0（大字版）· 免费开源教材" />
   <meta property="og:description" content="系统、免费、可传播的声音疗愈与音疗师培训教程。涵盖颂钵技法、理论、脉轮经络与实操。" />
   <meta property="og:locale" content="zh_CN" />
   <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
   <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
-  <meta property="og:image:width" content="1280" />
-  <meta property="og:image:height" content="640" />
-  <meta property="og:image:alt" content="颂钵疗愈师培训 7.0 免费开源教材 封面" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
-
-  <!-- 结构化数据：课程 -->
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -30,87 +23,638 @@
     "name": "颂钵疗愈师培训 7.0（大字版）",
     "description": "系统讲解颂钵疗愈与声音疗愈的免费开源培训教材，涵盖颂钵技法、声音与振动理论、脉轮经络、个案实操与自然疗法。",
     "inLanguage": "zh-CN",
-    "provider": {
-      "@type": "Organization",
-      "name": "五感六觉 · 简念颂钵音疗中心",
-      "sameAs": "https://github.com/q1z2q3-debug/singing-bowl-healer-training"
-    },
+    "provider": { "@type": "Organization", "name": "五感六觉 · 简念颂钵音疗中心",
+                  "sameAs": "https://github.com/q1z2q3-debug/singing-bowl-healer-training" },
     "educationalLevel": "初学者到高级",
     "teaches": ["颂钵技法", "声音疗愈", "脉轮与经络", "个案实操", "疗愈师职业素养"],
     "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
   }
   </script>
-
   <style>
-    :root { --bg:#f7f4ee; --ink:#2b2622; --accent:#8a6d3b; --line:#e5dccb; }
-    * { box-sizing: border-box; }
-    body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
-           background:var(--bg); color:var(--ink); line-height:1.7; }
-    .wrap { max-width:820px; margin:0 auto; padding:48px 20px 80px; }
-    h1 { font-size:30px; line-height:1.3; margin:0 0 8px; }
-    h2 { font-size:22px; margin:36px 0 12px; border-left:4px solid var(--accent); padding-left:12px; }
-    .sub { color:var(--accent); font-size:15px; margin:0 0 24px; }
-    .card { background:#fff; border:1px solid var(--line); border-radius:12px; padding:20px 22px; margin:16px 0; }
-    .kw { display:inline-block; background:#efe7d6; color:var(--accent); border-radius:20px; padding:5px 12px; margin:4px 4px 0 0; font-size:13px; }
-    a.btn { display:inline-block; background:var(--accent); color:#fff; text-decoration:none; padding:12px 22px; border-radius:8px; font-weight:600; margin:6px 8px 6px 0; }
-    a.btn.ghost { background:#fff; color:var(--accent); border:1px solid var(--accent); }
-    .qr { text-align:center; margin:28px 0; }
-    .qr img { width:240px; max-width:70%; border:1px solid var(--line); border-radius:10px; }
-    footer { color:#7a7066; font-size:13px; margin-top:40px; text-align:center; }
-    ul { padding-left:20px; } li { margin:6px 0; }
+    :root{
+      --bg:#f7f4ee; --ink:#2b2622; --muted:#7a7066; --accent:#8a6d3b; --line:#e5dccb;
+      --card:#ffffff; --side:#fbf8f2; --hover:#efe7d6;
+    }
+    [data-theme="dark"]{
+      --bg:#17150f; --ink:#e9e2d4; --muted:#a99e8c; --accent:#d8b46a; --line:#3a342a;
+      --card:#211e17; --side:#1c1a13; --hover:#2c2820;
+    }
+    *{box-sizing:border-box}
+    html,body{margin:0;padding:0}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+      background:var(--bg);color:var(--ink);line-height:1.7;transition:background .25s,color .25s}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    /* top bar */
+    .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:12px;
+      padding:12px 18px;background:var(--card);border-bottom:1px solid var(--line)}
+    .topbar .brand{font-weight:700;font-size:16px}
+    .topbar .spacer{flex:1}
+    .topbar .lang a{font-size:13px;padding:4px 8px;border:1px solid var(--line);border-radius:6px}
+    .iconbtn{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);
+      border-radius:8px;padding:6px 10px;font-size:14px}
+    .menu-btn{display:none}
+    /* layout */
+    .layout{display:flex;align-items:flex-start;max-width:1200px;margin:0 auto}
+    .sidebar{position:sticky;top:54px;width:300px;max-height:calc(100vh - 54px);overflow:auto;
+      background:var(--side);border-right:1px solid var(--line);padding:16px 14px}
+    .sidebar h3{font-size:13px;color:var(--muted);margin:0 0 8px;letter-spacing:.04em}
+    #search{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:8px;
+      background:var(--card);color:var(--ink);font-size:14px;margin-bottom:12px}
+    .nav-tree,.nav-tree ul{list-style:none;margin:0;padding:0}
+    .nav-tree ul.sub{padding-left:14px;border-left:1px solid var(--line);margin-left:6px}
+    .nav-tree details.chap>summary{list-style:none;cursor:pointer}
+    .nav-tree details.chap>summary::-webkit-details-marker{display:none}
+    .nav-tree summary a, .nav-tree .nav-branch>a, .nav-tree .nav-leaf>a{
+      display:block;padding:6px 8px;border-radius:6px;font-size:14px}
+    .nav-tree summary a{font-weight:600}
+    .nav-tree .nav-leaf>a{font-size:13px;color:var(--muted)}
+    .nav-tree a:hover{background:var(--hover);text-decoration:none}
+    .nav-tree details.chap>summary::before{content:"\25B8";display:inline-block;width:1em;
+      color:var(--muted);transition:transform .15s}
+    .nav-tree details.chap[open]>summary::before{transform:rotate(90deg)}
+    .nav-count{color:var(--muted);font-size:12px;margin:4px 0 14px}
+    /* main */
+    .main{flex:1;min-width:0;padding:30px 28px 80px}
+    .hero img{width:100%;border-radius:12px;border:1px solid var(--line);margin-bottom:18px}
+    h1{font-size:28px;margin:0 0 6px;line-height:1.3}
+    .sub{color:var(--accent);font-size:15px;margin:0 0 20px}
+    .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px;margin:16px 0}
+    .btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none!important;
+      padding:11px 20px;border-radius:8px;font-weight:600;margin:6px 8px 6px 0}
+    .btn.ghost{background:var(--card);color:var(--accent);border:1px solid var(--accent)}
+    .kw{display:inline-block;background:var(--hover);color:var(--accent);border-radius:20px;
+      padding:5px 12px;margin:4px 4px 0 0;font-size:13px}
+    .qr{text-align:center;margin:24px 0}
+    .qr img{width:220px;max-width:70%;border:1px solid var(--line);border-radius:10px}
+    footer{color:var(--muted);font-size:13px;margin-top:36px;text-align:center}
+    @media (max-width:860px){
+      .menu-btn{display:inline-block}
+      .sidebar{position:fixed;top:54px;left:0;height:calc(100vh - 54px);width:82%;max-width:320px;
+        transform:translateX(-100%);transition:transform .25s;z-index:15;box-shadow:2px 0 12px rgba(0,0,0,.15)}
+      .sidebar.open{transform:translateX(0)}
+      .main{padding:22px 16px 70px}
+    }
   </style>
 </head>
 <body>
-  <div class="wrap">
-    <h1>颂钵疗愈师培训 7.0（大字版）</h1>
-    <p class="sub">免费开源 · 声音疗愈 / 音疗师培训教材 · CC BY-NC-SA 4.0</p>
-
-    <img src="assets/social-preview.png" alt="颂钵疗愈师培训 7.0 封面"
-         style="width:100%;border-radius:12px;border:1px solid var(--line);margin:0 0 20px;" />
-
-    <div class="card">
-      <p>本站点对应 GitHub 开源仓库
-        <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training">singing-bowl-healer-training</a>，
-        收录《颂钵疗愈师培训 7.0（大字版）》完整 Markdown 教材，系统讲解<strong>颂钵疗愈、声音疗愈与音疗师培训</strong>。</p>
-      <a class="btn" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md">📖 在线阅读教材</a>
-      <a class="btn ghost" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/archive/refs/heads/main.zip">⬇️ 下载仓库</a>
-    </div>
-
-    <h2>教材内容</h2>
-    <div class="card">
-      <ul>
-        <li><strong>第一章 初识颂钵</strong>：什么是钵、钵之名与质、缘起与发展、各类颂钵、制作、选钵、鉴别、配件</li>
-        <li><strong>使用技法</strong>：请钵、持钵、敲钵、磨钵、移钵、放钵、止音、丁夏、清洁保养、呼吸实践</li>
-        <li><strong>第二章 理论课题</strong>：声音基础、振动基础、能量基础、疗愈原理、脉轮节奏、穴位经络</li>
-        <li><strong>第三章 实践操作</strong>：案例实操、颂钵音乐会演奏、个案精品体验流程</li>
-        <li><strong>第四章 颂钵生命智慧</strong>：人生观、世界观、价值观、疗愈师专业要求、元气自我修复</li>
-        <li><strong>自然疗法（初中高）</strong>：呼吸、瑜伽、芳香、颂钵、音乐、水晶、饮食、香道、冥想、气功</li>
-      </ul>
-      <p style="color:#7a7066;font-size:14px;">全文约 6700+ 行，配图 250 余张。</p>
-    </div>
-
-    <h2>关键词</h2>
-    <div>
-      <span class="kw">颂钵疗愈师培训</span><span class="kw">声音疗愈</span><span class="kw">音疗师培训</span>
-      <span class="kw">颂钵教程</span><span class="kw">颂钵疗愈课程</span><span class="kw">脉轮音疗</span>
-      <span class="kw">身心放松</span><span class="kw">助眠减压</span><span class="kw">Tibetan Singing Bowl</span>
-      <span class="kw">Sound Healing</span><span class="kw">Sound Therapy Training</span><span class="kw">Chakra Healing</span>
-    </div>
-
-    <h2>联系我们</h2>
-    <div class="qr">
-      <img src="assets/wechat-qrcode.jpg" alt="简念颂钵音疗中心 微信二维码" />
-      <p style="font-size:14px;color:#7a7066;">简念颂钵音疗中心 · 扫码交流</p>
-    </div>
-
-    <h2>许可协议</h2>
-    <div class="card">
-      <p>本作品采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>
-      （署名—非商业性使用—相同方式共享）协议开源。✅ 可自由阅读、下载、转发、教学；✅ 可改编（需相同协议共享）；❌ 不得用于商业用途。</p>
-      <p style="color:#a05;font-size:14px;">⚠️ 免责声明：教材内容仅用于学习与培训，不构成医疗建议，不能替代专业诊疗。</p>
-    </div>
-
-    <footer>© 2026 润泽（五感六觉）· 简念颂钵音疗中心 · 本站点由 GitHub Pages 托管</footer>
+  <div class="topbar">
+    <button class="iconbtn menu-btn" id="menuBtn" aria-label="菜单">☰</button>
+    <span class="brand">🌀 颂钵疗愈师培训 7.0</span>
+    <span class="spacer"></span>
+    <span class="lang"><a href="en/index.html">EN</a></span>
+    <button class="iconbtn" id="themeBtn" aria-label="切换主题">🌙</button>
   </div>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <h3>目录导航</h3>
+      <input id="search" type="search" placeholder="搜索章节 / 关键词…" autocomplete="off" />
+      <p class="nav-count" id="navCount"></p>
+      <ul class="nav-tree" id="navTree">
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#" data-text="前言 · Front Matter">前言 · Front Matter</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#序言编者按" data-text="序言（编者按）">序言（编者按）</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#适用对象" data-text="适用对象">适用对象</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#使用说明" data-text="使用说明">使用说明</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#疗愈安全须知" data-text="疗愈安全须知">疗愈安全须知</a></li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一章-初识颂钵" data-text="第一章 初识颂钵">第一章 初识颂钵</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#本章学习目标" data-text="本章学习目标">本章学习目标</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一节-什么是钵初级" data-text="第一节 什么是钵？（初级）">第一节 什么是钵？（初级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#111-钵之型" data-text="1.1.1 钵之型">1.1.1 钵之型</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#112-钵之名" data-text="1.1.2 钵之名">1.1.2 钵之名</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#113-钵之质" data-text="1.1.3 钵之质">1.1.3 钵之质</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#114-缘起与发展" data-text="1.1.4 缘起与发展">1.1.4 缘起与发展</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1141-颂钵起源" data-text="1.1.4.1 颂钵起源">1.1.4.1 颂钵起源</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1142-钵的探源" data-text="1.1.4.2 钵的探源">1.1.4.2 钵的探源</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1143-颂钵发展" data-text="1.1.4.3 颂钵发展">1.1.4.3 颂钵发展</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二节-颂钵基础初级" data-text="第二节 颂钵基础（初级）">第二节 颂钵基础（初级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#121-各类颂钵" data-text="1.2.1 各类颂钵">1.2.1 各类颂钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1311-传统钵的分类" data-text="1.3.1.1 传统钵的分类">1.3.1.1 传统钵的分类</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13111-藏巴帝" data-text="1.3.1.1.1 藏巴帝">1.3.1.1.1 藏巴帝</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13112-塔多巴帝" data-text="1.3.1.1.2 塔多巴帝">1.3.1.1.2 塔多巴帝</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13113-其他传统钵" data-text="1.3.1.1.3 其他传统钵">1.3.1.1.3 其他传统钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1312-现代钵介绍" data-text="1.3.1.2 现代钵介绍">1.3.1.2 现代钵介绍</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13121-满月钵" data-text="1.3.1.2.1 满月钵">1.3.1.2.1 满月钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13122-新月钵" data-text="1.3.1.2.2 新月钵">1.3.1.2.2 新月钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13123-无底钵" data-text="1.3.1.2.3 无底钵">1.3.1.2.3 无底钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13124-紫金钵盂" data-text="1.3.1.2.4 紫金钵盂">1.3.1.2.4 紫金钵盂</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13125-简念薄款深度疗愈钵" data-text="1.3.1.2.5 简念®薄款深度疗愈钵">1.3.1.2.5 简念®薄款深度疗愈钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13126-铜钵德国麦尔" data-text="1.3.1.2.6 铜钵德国麦尔">1.3.1.2.6 铜钵德国麦尔</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13127-台湾铜磬" data-text="1.3.1.2.7 台湾铜磬">1.3.1.2.7 台湾铜磬</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13128-音乐钵" data-text="1.3.1.2.8 音乐钵">1.3.1.2.8 音乐钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#13129-梵音碗" data-text="1.3.1.2.9 梵音碗">1.3.1.2.9 梵音碗</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#131210-海豚音钵" data-text="1.3.1.2.10 海豚音钵">1.3.1.2.10 海豚音钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#131211-台湾引磬" data-text="1.3.1.2.11 台湾引磬">1.3.1.2.11 台湾引磬</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#131212-机器钵" data-text="1.3.1.2.12 机器钵">1.3.1.2.12 机器钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#131213-卡萨钵" data-text="1.3.1.2.13 卡萨钵">1.3.1.2.13 卡萨钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#131214-水晶钵" data-text="1.3.1.2.14 水晶钵">1.3.1.2.14 水晶钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1313-其他疗愈乐器" data-text="1.3.1.3 其他疗愈乐器">1.3.1.3 其他疗愈乐器</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#" data-text=""></a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#122-颂钵制作" data-text="1.2.2 颂钵制作">1.2.2 颂钵制作</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#熔铸矿物冶炼" data-text="熔铸（矿物冶炼）">熔铸（矿物冶炼）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#研粉炼铜" data-text="研粉炼铜">研粉炼铜</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#浇铸成型" data-text="浇铸成型">浇铸成型</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#加热锻打" data-text="加热锻打">加热锻打</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#回火退火" data-text="回火退火">回火退火</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#打磨抛光" data-text="打磨抛光">打磨抛光</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#雕刻上色" data-text="雕刻上色">雕刻上色</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#123-如何选钵" data-text="1.2.3 如何选钵">1.2.3 如何选钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#清晰用途" data-text="清晰用途">清晰用途</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#选择脉轮" data-text="选择脉轮">选择脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#选择尺寸颜色外型" data-text="选择尺寸/颜色/外型">选择尺寸/颜色/外型</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#选择重量" data-text="选择重量">选择重量</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#喜好为主" data-text="喜好为主">喜好为主</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#亲身感受" data-text="亲身感受">亲身感受</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#耳朵肌肉情绪去聆听" data-text="耳朵、肌肉、情绪去聆听">耳朵、肌肉、情绪去聆听</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#124-颂钵鉴别" data-text="1.2.4 颂钵鉴别">1.2.4 颂钵鉴别</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#观察" data-text="观察">观察</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#敲击" data-text="敲击">敲击</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#转钵" data-text="转钵">转钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#纹饰与瑕疵" data-text="纹饰与瑕疵">纹饰与瑕疵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#125-周边配件" data-text="1.2.5 周边配件">1.2.5 周边配件</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#钵槌" data-text="钵槌">钵槌</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#磨棒" data-text="磨棒">磨棒</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#垫圈" data-text="垫圈">垫圈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#吸盘" data-text="吸盘">吸盘</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#防滑垫" data-text="防滑垫">防滑垫</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#抱枕" data-text="抱枕">抱枕</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#眼枕" data-text="眼枕">眼枕</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#按摩床睡垫" data-text="按摩床/睡垫">按摩床/睡垫</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#瑜伽毯" data-text="瑜伽毯">瑜伽毯</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三节-使用技法初中高" data-text="第三节 使用技法（初中高）">第三节 使用技法（初中高）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#131-请钵-inviting" data-text="1.3.1 请钵 Inviting">1.3.1 请钵 Inviting</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#132-持钵-holding" data-text="1.3.2 持钵 Holding">1.3.2 持钵 Holding</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#133-敲钵-striking" data-text="1.3.3 敲钵 Striking">1.3.3 敲钵 Striking</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#134-磨钵-rubbing" data-text="1.3.4 磨钵 Rubbing">1.3.4 磨钵 Rubbing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#135-移钵-moving" data-text="1.3.5 移钵 Moving">1.3.5 移钵 Moving</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#136-放钵-placing" data-text="1.3.6 放钵 Placing">1.3.6 放钵 Placing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#137-敲击手法节奏力度" data-text="1.3.7 敲击手法、节奏、力度">1.3.7 敲击手法、节奏、力度</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#138-磨钵角度速度力度" data-text="1.3.8 磨钵角度、速度、力度">1.3.8 磨钵角度、速度、力度</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#139-止音-stopping" data-text="1.3.9 止音 Stopping">1.3.9 止音 Stopping</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1310-丁夏使用技法及场合" data-text="1.3.10 丁夏使用技法及场合">1.3.10 丁夏使用技法及场合</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1311-颂钵的清洁与保养" data-text="1.3.11 颂钵的清洁与保养">1.3.11 颂钵的清洁与保养</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1312-颂钵呼吸实践" data-text="1.3.12 颂钵呼吸实践">1.3.12 颂钵呼吸实践</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#1313-单铜锣敲击技巧" data-text="1.3.13 单铜锣敲击技巧">1.3.13 单铜锣敲击技巧</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#章节小结" data-text="章节小结">章节小结</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#思考题" data-text="思考题">思考题</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二章-理论课题" data-text="第二章 理论课题">第二章 理论课题</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#本章学习目标-1" data-text="本章学习目标">本章学习目标</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一节-声音基础初中高" data-text="第一节 声音基础（初中高）">第一节 声音基础（初中高）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#211-型质合一" data-text="2.1.1 型质合一">2.1.1 型质合一</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#212-声音要素" data-text="2.1.2 声音要素">2.1.2 声音要素</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#213-声音接收" data-text="2.1.3 声音接收">2.1.3 声音接收</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#214-基础钵音" data-text="2.1.4 基础钵音">2.1.4 基础钵音</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2141-钵的音调" data-text="2.1.4.1 钵的音调">2.1.4.1 钵的音调</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2142-五脏有音" data-text="2.1.4.2 五脏有音">2.1.4.2 五脏有音</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2143-神奇泛音" data-text="2.1.4.3 神奇泛音">2.1.4.3 神奇泛音</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2144-五度音程" data-text="2.1.4.4 五度音程">2.1.4.4 五度音程</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二节-振动基础初中高" data-text="第二节 振动基础（初中高）">第二节 振动基础（初中高）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#221-同频共振波振" data-text="2.2.1 同频共振（波振）">2.2.1 同频共振（波振）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2211-脉轮同频能量场" data-text="2.2.1.1 脉轮同频（能量场）">2.2.1.1 脉轮同频（能量场）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2212-什么是谐振调频" data-text="2.2.1.2 什么是谐振（调频）">2.2.1.2 什么是谐振（调频）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#222-物理振动震感" data-text="2.2.2 物理振动（震感）">2.2.2 物理振动（震感）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2221-人体水分" data-text="2.2.2.1 人体水分">2.2.2.1 人体水分</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2222-组织系统" data-text="2.2.2.2 组织系统">2.2.2.2 组织系统</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三节-能量基础中高级" data-text="第三节 能量基础（中高级）">第三节 能量基础（中高级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#231-三脉" data-text="2.3.1 三脉">2.3.1 三脉</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2311-左脉" data-text="2.3.1.1 左脉">2.3.1.1 左脉</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2312-中脉" data-text="2.3.1.2 中脉">2.3.1.2 中脉</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2313-右脉" data-text="2.3.1.3 右脉">2.3.1.3 右脉</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2314-自律神经系统" data-text="2.3.1.4 自律神经系统">2.3.1.4 自律神经系统</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2315-大脑协同平衡" data-text="2.3.1.5 大脑协同平衡">2.3.1.5 大脑协同平衡</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#232-七轮" data-text="2.3.2 七轮">2.3.2 七轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2321-海底轮课题" data-text="2.3.2.1 海底轮课题">2.3.2.1 海底轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2322-脐轮课题" data-text="2.3.2.2 脐轮课题">2.3.2.2 脐轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2323-胃轮课题" data-text="2.3.2.3 胃轮课题">2.3.2.3 胃轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2324-心轮课题" data-text="2.3.2.4 心轮课题">2.3.2.4 心轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2325-喉轮课题" data-text="2.3.2.5 喉轮课题">2.3.2.5 喉轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2326-眉心轮课题" data-text="2.3.2.6 眉心轮课题">2.3.2.6 眉心轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2327-顶轮课题" data-text="2.3.2.7 顶轮课题">2.3.2.7 顶轮课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#233-三大能量中级选修" data-text="2.3.3 三大能量（中级选修）">2.3.3 三大能量（中级选修）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2331-瓦塔课题" data-text="2.3.3.1 瓦塔课题">2.3.3.1 瓦塔课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2332-皮塔课题" data-text="2.3.3.2 皮塔课题">2.3.3.2 皮塔课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2333-卡帕课题" data-text="2.3.3.3 卡帕课题">2.3.3.3 卡帕课题</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#234-五大元素高级选修" data-text="2.3.4 五大元素（高级选修）">2.3.4 五大元素（高级选修）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2341-地" data-text="2.3.4.1 地">2.3.4.1 地</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2342-水" data-text="2.3.4.2 水">2.3.4.2 水</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2343-火" data-text="2.3.4.3 火">2.3.4.3 火</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2344-风" data-text="2.3.4.4 风">2.3.4.4 风</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2345-空" data-text="2.3.4.5 空">2.3.4.5 空</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#235-科学认知" data-text="2.3.5 科学认知">2.3.5 科学认知</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2351-波的特性" data-text="2.3.5.1 波的特性">2.3.5.1 波的特性</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2352-尼古拉特斯拉" data-text="2.3.5.2 尼古拉·特斯拉">2.3.5.2 尼古拉·特斯拉</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2353-涌现" data-text="2.3.5.3 涌现">2.3.5.3 涌现</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2354-能量" data-text="2.3.5.4 能量">2.3.5.4 能量</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2345-万物皆数" data-text="2.3.4.5 万物皆数">2.3.4.5 万物皆数</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2356-七彩虹" data-text="2.3.5.6 七彩虹">2.3.5.6 七彩虹</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2357-能量层级" data-text="2.3.5.7 能量层级">2.3.5.7 能量层级</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2358-人类图" data-text="2.3.5.8 人类图">2.3.5.8 人类图</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#236-脉轮与星系扩展选修" data-text="2.3.6 脉轮与星系（扩展选修）">2.3.6 脉轮与星系（扩展选修）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2361-木星" data-text="2.3.6.1 木星">2.3.6.1 木星</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2362-土星" data-text="2.3.6.2 土星">2.3.6.2 土星</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2363-水星" data-text="2.3.6.3 水星">2.3.6.3 水星</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2364-太阳" data-text="2.3.6.4 太阳">2.3.6.4 太阳</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2365-火星" data-text="2.3.6.5 火星">2.3.6.5 火星</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2366-金星" data-text="2.3.6.6 金星">2.3.6.6 金星</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2367-月亮" data-text="2.3.6.7 月亮">2.3.6.7 月亮</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第四节-疗愈原理初中高" data-text="第四节 疗愈原理（初中高）">第四节 疗愈原理（初中高）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#241-声波音基础" data-text="2.4.1 声（波）音基础">2.4.1 声（波）音基础</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#242-振震动基础" data-text="2.4.2 振（震）动基础">2.4.2 振（震）动基础</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#243-调频激发脑波" data-text="2.4.3 调频激发脑波">2.4.3 调频激发脑波</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#244-整体自然疗法" data-text="2.4.4 整体自然疗法">2.4.4 整体自然疗法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#245-颂钵生命价值初中高" data-text="2.4.5 颂钵生命价值（初中高）">2.4.5 颂钵生命价值（初中高）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#是什么让我们能量失衡" data-text="是什么让我们能量失衡？">是什么让我们能量失衡？</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2451-身体层面" data-text="2.4.5.1 身体层面">2.4.5.1 身体层面</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2452-心理层面" data-text="2.4.5.2 心理层面">2.4.5.2 心理层面</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#2453-精神层面" data-text="2.4.5.3 精神层面">2.4.5.3 精神层面</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第五节-脉轮节奏中高级" data-text="第五节 脉轮节奏（中高级）">第五节 脉轮节奏（中高级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#251-脐轮波" data-text="2.5.1 脐轮波">2.5.1 脐轮波</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#252-胃轮波" data-text="2.5.2 胃轮波">2.5.2 胃轮波</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#253-心轮波" data-text="2.5.3 心轮波">2.5.3 心轮波</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#254-三轮" data-text="2.5.4 三轮">2.5.4 三轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#255-能量旋律" data-text="2.5.5 能量旋律">2.5.5 能量旋律</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第六节-穴位经络中高级" data-text="第六节 穴位经络（中高级）">第六节 穴位经络（中高级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#261-常见穴位" data-text="2.6.1 常见穴位">2.6.1 常见穴位</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#262-膀胱经" data-text="2.6.2 膀胱经">2.6.2 膀胱经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#263-脾胃经" data-text="2.6.3 脾胃经">2.6.3 脾胃经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#264-肺经" data-text="2.6.4 肺经">2.6.4 肺经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#265-肝胆经" data-text="2.6.5 肝胆经">2.6.5 肝胆经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#266-三焦经" data-text="2.6.6 三焦经">2.6.6 三焦经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#267-心包经" data-text="2.6.7 心包经">2.6.7 心包经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#-1" data-text="\">\</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#-2" data-text="\">\</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#章节小结-1" data-text="章节小结">章节小结</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#思考题-1" data-text="思考题">思考题</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三章-实践操作" data-text="第三章 实践操作">第三章 实践操作</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#本章学习目标-2" data-text="本章学习目标">本章学习目标</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一节-案例实操" data-text="第一节 案例实操">第一节 案例实操</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#311-气场清理与净化初级" data-text="3.1.1 气场清理与净化（初级）">3.1.1 气场清理与净化（初级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#眉心轮净化" data-text="眉心轮净化">眉心轮净化</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#任脉净化" data-text="任脉净化">任脉净化</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#督脉净化" data-text="督脉净化">督脉净化</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#三脉净化" data-text="三脉净化">三脉净化</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3115-脉轮激活" data-text="3.1.1.5 脉轮激活">3.1.1.5 脉轮激活</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#食音法" data-text="食音法">食音法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#相印法" data-text="相印法">相印法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#脉轮激活" data-text="脉轮激活">脉轮激活</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#spa-按摩" data-text="SPA 按摩">SPA 按摩</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#带脉疏通" data-text="带脉疏通">带脉疏通</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#312-空间的清理与净化初级" data-text="3.1.2 空间的清理与净化（初级）">3.1.2 空间的清理与净化（初级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3121-场域净化的技法" data-text="3.1.2.1 场域净化的技法">3.1.2.1 场域净化的技法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3122-能量水制作" data-text="3.1.2.2 能量水制作">3.1.2.2 能量水制作</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3123-能量花制作" data-text="3.1.2.3 能量花制作">3.1.2.3 能量花制作</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#313-单钵疗愈案例中级" data-text="3.1.3 单钵疗愈案例（中级）">3.1.3 单钵疗愈案例（中级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3131-放空减压" data-text="3.1.3.1 放空减压">3.1.3.1 放空减压</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3132-静心冥想" data-text="3.1.3.2 静心冥想">3.1.3.2 静心冥想</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3133-清肠排便" data-text="3.1.3.3 清肠排便">3.1.3.3 清肠排便</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3134-疏通肩颈" data-text="3.1.3.4 疏通肩颈">3.1.3.4 疏通肩颈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3135-缓解痛经" data-text="3.1.3.5 缓解痛经">3.1.3.5 缓解痛经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3136-太空人疗愈" data-text="3.1.3.6 太空人疗愈">3.1.3.6 太空人疗愈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#314-膀胱经疏通排毒中高" data-text="3.1.4 膀胱经疏通排毒（中高）">3.1.4 膀胱经疏通排毒（中高）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#315-督脉疏通高级" data-text="3.1.5 督脉疏通（高级）">3.1.5 督脉疏通（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#316-心轮舒压理气中级" data-text="3.1.6 心轮舒压理气（中级）">3.1.6 心轮舒压理气（中级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#317-三钵疗愈中级" data-text="3.1.7 三钵疗愈（中级）">3.1.7 三钵疗愈（中级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#318-失眠头痛疗法高级" data-text="3.1.8 失眠头痛疗法（高级）">3.1.8 失眠头痛疗法（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#319-女性妇科调理高级" data-text="3.1.9 女性妇科调理（高级）">3.1.9 女性妇科调理（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3110-疏肝理气音疗高级" data-text="3.1.10 疏肝理气音疗（高级）">3.1.10 疏肝理气音疗（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3111-胃部调理疗法高级" data-text="3.1.11 胃部调理疗法（高级）">3.1.11 胃部调理疗法（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3112-长期偏头痛高级" data-text="3.1.12 长期偏头痛（高级）">3.1.12 长期偏头痛（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3113-单纯腰肌劳损音疗高级" data-text="3.1.13 单纯腰肌劳损音疗（高级）">3.1.13 单纯腰肌劳损音疗（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3114-七钵综合疗法高级" data-text="3.1.14 七钵综合疗法（高级）">3.1.14 七钵综合疗法（高级）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3115-女性保养类高级选修" data-text="3.1.15 女性保养类（高级选修）">3.1.15 女性保养类（高级选修）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#卵巢子宫养护" data-text="卵巢子宫养护">卵巢子宫养护</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#乳腺保养" data-text="乳腺保养">乳腺保养</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#面部保养" data-text="面部保养">面部保养</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#更年期调理" data-text="更年期调理">更年期调理</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#经期调理" data-text="经期调理">经期调理</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#缓解痛经" data-text="缓解痛经">缓解痛经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#两性关系缓和技法" data-text="两性关系缓和技法">两性关系缓和技法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#3116-情绪调理类高级选修" data-text="3.1.16 情绪调理类（高级选修）">3.1.16 情绪调理类（高级选修）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#抑郁" data-text="抑郁">抑郁</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#委屈" data-text="委屈">委屈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#恐惧愤怒" data-text="恐惧、愤怒">恐惧、愤怒</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#神经衰弱" data-text="神经衰弱">神经衰弱</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二节-颂钵音乐会演奏高级" data-text="第二节 颂钵音乐会演奏（高级）">第二节 颂钵音乐会演奏（高级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#321-净手仪式" data-text="3.2.1 净手仪式">3.2.1 净手仪式</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#322-颂钵音乐会的场域布置" data-text="3.2.2 颂钵音乐会的场域布置">3.2.2 颂钵音乐会的场域布置</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#323-音乐沙龙会的行钵流程" data-text="3.2.3 音乐沙龙会的行钵流程">3.2.3 音乐沙龙会的行钵流程</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#324-音乐沙龙会的注意事项" data-text="3.2.4 音乐沙龙会的注意事项">3.2.4 音乐沙龙会的注意事项</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三节个案精品体验流程高级" data-text="第三节个案精品体验流程（高级）">第三节个案精品体验流程（高级）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-1-自我能量保护" data-text="流程 1. 自我能量保护">流程 1. 自我能量保护</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-2-课前沟通" data-text="流程 2. 课前沟通">流程 2. 课前沟通</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-3-疗愈场域净化" data-text="流程 3. 疗愈场域净化">流程 3. 疗愈场域净化</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-4-引导放松瑜伽放松" data-text="流程 4. 引导放松（瑜伽放松）">流程 4. 引导放松（瑜伽放松）</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-5-项目开启" data-text="流程 5. 项目开启">流程 5. 项目开启</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#背部疗愈" data-text="背部疗愈">背部疗愈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#正面疗愈" data-text="正面疗愈">正面疗愈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-6-撤钵" data-text="流程 6. 撤钵">流程 6. 撤钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-7-唤醒" data-text="流程 7. 唤醒">流程 7. 唤醒</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#流程-8-交流疗愈体验" data-text="流程 8. 交流疗愈体验">流程 8. 交流疗愈体验</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#章节小结-2" data-text="章节小结">章节小结</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#思考题-2" data-text="思考题">思考题</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第四章-颂钵生命智慧高级" data-text="第四章 颂钵生命智慧（高级）">第四章 颂钵生命智慧（高级）</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#本章学习目标-3" data-text="本章学习目标">本章学习目标</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一节-人生观" data-text="第一节 人生观">第一节 人生观</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#411-空性人即钵" data-text="4.1.1 空性｜人即钵">4.1.1 空性｜人即钵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#412-自主行修" data-text="4.1.2 自主｜行修">4.1.2 自主｜行修</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#413-本自具足" data-text="4.1.3 本自｜具足">4.1.3 本自｜具足</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#414-自立利他" data-text="4.1.4 自立｜利他">4.1.4 自立｜利他</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#415-有度中道" data-text="4.1.5 有度｜中道">4.1.5 有度｜中道</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#416-和谐有序" data-text="4.1.6 和谐｜有序">4.1.6 和谐｜有序</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#417-生命正念" data-text="4.1.7 生命｜正念">4.1.7 生命｜正念</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#418-生命刻度" data-text="4.1.8 生命｜刻度">4.1.8 生命｜刻度</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#419-生命像素" data-text="4.1.9 生命｜像素\">4.1.9 生命｜像素\</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二节-世界观" data-text="第二节 世界观">第二节 世界观</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#421-什么是疗愈" data-text="4.2.1 什么是疗愈">4.2.1 什么是疗愈</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4211-什么是治疗" data-text="4.2.1.1 什么是治疗？">4.2.1.1 什么是治疗？</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4212-什么是疗愈" data-text="4.2.1.2 什么是疗愈？">4.2.1.2 什么是疗愈？</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4213-疗愈的发生" data-text="4.2.1.3 疗愈的发生">4.2.1.3 疗愈的发生</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#422-易经智慧" data-text="4.2.2 易经智慧">4.2.2 易经智慧</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#423-道德经" data-text="4.2.3 道德经">4.2.3 道德经</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#424-佛学智慧" data-text="4.2.4 佛学智慧">4.2.4 佛学智慧</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#425-大脑科学" data-text="4.2.5 大脑科学">4.2.5 大脑科学</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#426-能量显化" data-text="4.2.6 能量显化">4.2.6 能量显化</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#427-黄帝内经" data-text="4.2.7 黄帝内经">4.2.7 黄帝内经</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三节-价值观" data-text="第三节 价值观">第三节 价值观</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#431-内丰盈-爱满溢" data-text="4.3.1 内丰盈 爱满溢">4.3.1 内丰盈 爱满溢</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#432-成长型思维" data-text="4.3.2 成长型思维">4.3.2 成长型思维</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#433-圆满境界" data-text="4.3.3 圆满境界">4.3.3 圆满境界</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#434-生命绽放" data-text="4.3.4 生命绽放">4.3.4 生命绽放</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第四节-疗愈师专业基础要求" data-text="第四节 疗愈师专业基础要求">第四节 疗愈师专业基础要求</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#441-形象要求" data-text="4.4.1 形象要求">4.4.1 形象要求</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#442-专业要求" data-text="4.4.2 专业要求">4.4.2 专业要求</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#443-心念愿力" data-text="4.4.3 心念愿力">4.4.3 心念愿力</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#444-伦理考虑" data-text="4.4.4 伦理考虑">4.4.4 伦理考虑</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#445-疗愈师的状态" data-text="4.4.5 疗愈师的状态">4.4.5 疗愈师的状态</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#446-被疗愈者的状态" data-text="4.4.6 被疗愈者的状态">4.4.6 被疗愈者的状态</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第五节-疗愈师元气自我修复初中高" data-text="第五节 疗愈师元气自我修复（初中高）">第五节 疗愈师元气自我修复（初中高）</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#451-三脉平衡" data-text="4.5.1 三脉平衡">4.5.1 三脉平衡</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4511-阴阳呼吸法" data-text="4.5.1.1 阴阳呼吸法">4.5.1.1 阴阳呼吸法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4512-月亮呼吸法" data-text="4.5.1.2 月亮呼吸法">4.5.1.2 月亮呼吸法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4513-太阳呼吸法" data-text="4.5.1.3 太阳呼吸法">4.5.1.3 太阳呼吸法</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4514-吐纳六字诀" data-text="4.5.1.4 吐纳六字诀">4.5.1.4 吐纳六字诀</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#452-太极定桩" data-text="4.5.2 太极定桩">4.5.2 太极定桩</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4521-站桩" data-text="4.5.2.1 站桩">4.5.2.1 站桩</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4522-静坐" data-text="4.5.2.2 静坐">4.5.2.2 静坐</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4523-躺桩" data-text="4.5.2.3 躺桩">4.5.2.3 躺桩</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#453-经络运动" data-text="4.5.3 经络运动">4.5.3 经络运动</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4531-八段锦" data-text="4.5.3.1 八段锦">4.5.3.1 八段锦</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4532-穴位拍打" data-text="4.5.3.2 穴位拍打">4.5.3.2 穴位拍打</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4533-摇山晃海" data-text="4.5.3.3 摇山晃海">4.5.3.3 摇山晃海</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#454-瑜伽练习" data-text="4.5.4 瑜伽练习">4.5.4 瑜伽练习</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4541-经典拜日" data-text="4.5.4.1 经典拜日">4.5.4.1 经典拜日</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4542-阴瑜伽" data-text="4.5.4.2 阴瑜伽">4.5.4.2 阴瑜伽</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#455-持咒唱诵" data-text="4.5.5 持咒唱诵">4.5.5 持咒唱诵</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4551-瑜伽圣音-om" data-text="4.5.5.1 瑜伽圣音 om">4.5.5.1 瑜伽圣音 om</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#om-静态习练" data-text="OM 静态习练">OM 静态习练</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#om-动态练习" data-text="OM 动态练习">OM 动态练习</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4552-大明咒" data-text="4.5.5.2 大明咒">4.5.5.2 大明咒</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4553-绿度母心咒" data-text="4.5.5.3 绿度母心咒">4.5.5.3 绿度母心咒</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4554-百字明" data-text="4.5.5.4 百字明">4.5.5.4 百字明</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#4555-脉轮母音" data-text="4.5.5.5 脉轮母音">4.5.5.5 脉轮母音</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#章节小结-3" data-text="章节小结">章节小结</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#思考题-3" data-text="思考题">思考题</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第五章-自然疗法初中高" data-text="第五章 自然疗法（初中高）">第五章 自然疗法（初中高）</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#本章学习目标-4" data-text="本章学习目标">本章学习目标</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一节-呼吸" data-text="第一节 呼吸">第一节 呼吸</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二节-瑜伽" data-text="第二节 瑜伽">第二节 瑜伽</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三节-芳香" data-text="第三节 芳香">第三节 芳香</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第一脉轮" data-text="第一脉轮">第一脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第二脉轮" data-text="第二脉轮">第二脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第三脉轮" data-text="第三脉轮">第三脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第四脉轮" data-text="第四脉轮">第四脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第五脉轮" data-text="第五脉轮">第五脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第六脉轮" data-text="第六脉轮">第六脉轮</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第七脉轮" data-text="第七脉轮">第七脉轮</a></li>
+            </ul>
+          </li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第四节-颂钵" data-text="第四节 颂钵">第四节 颂钵</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第五节-音乐" data-text="第五节 音乐">第五节 音乐</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第六节-水晶" data-text="第六节 水晶">第六节 水晶</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第七节-饮食" data-text="第七节 饮食">第七节 饮食</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第八节-香道" data-text="第八节 香道">第八节 香道</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第九节-冥想" data-text="第九节 冥想">第九节 冥想</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第十节-气功" data-text="第十节 气功">第十节 气功</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#第十一节-其他" data-text="第十一节 其他">第十一节 其他</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#章节小结-4" data-text="章节小结">章节小结</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#思考题-4" data-text="思考题">思考题</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#附件" data-text="附件">附件</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#本章学习目标-5" data-text="本章学习目标">本章学习目标</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#冥想引导词" data-text="冥想引导词">冥想引导词</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#坐姿引导" data-text="坐姿引导">坐姿引导</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#躺姿引导" data-text="躺姿引导">躺姿引导</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#退出引导" data-text="退出引导">退出引导</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#引导放松词" data-text="引导放松词">引导放松词</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#阿森斯失眠量表" data-text="阿森斯失眠量表">阿森斯失眠量表</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#焦虑自评量表" data-text="焦虑自评量表">焦虑自评量表</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#抑郁自评量表" data-text="抑郁自评量表">抑郁自评量表</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#阿育吠陀能量表" data-text="阿育吠陀能量表">阿育吠陀能量表</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#术语表" data-text="术语表">术语表</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#七轮速查表" data-text="七轮速查表">七轮速查表</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#参考资料" data-text="参考资料">参考资料</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#章节小结-5" data-text="章节小结">章节小结</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md#思考题-5" data-text="思考题">思考题</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      </ul>
+    </aside>
+
+    <main class="main">
+      <div class="hero">
+        <img src="assets/social-preview.png" alt="颂钵疗愈师培训 7.0 封面" />
+      </div>
+      <h1>颂钵疗愈师培训 7.0（大字版）</h1>
+      <p class="sub">免费开源 · 声音疗愈 / 音疗师培训教材 · CC BY-NC-SA 4.0</p>
+
+      <div class="card">
+        <p>本站点对应 GitHub 开源仓库
+          <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training">singing-bowl-healer-training</a>，
+          收录《颂钵疗愈师培训 7.0（大字版）》完整 Markdown 教材，系统讲解<strong>颂钵疗愈、声音疗愈与音疗师培训</strong>。</p>
+        <a class="btn" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md">📖 在线阅读教材</a>
+        <a class="btn ghost" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/archive/refs/heads/main.zip">⬇️ 下载仓库</a>
+      </div>
+
+      <h2>教材亮点</h2>
+      <div class="card">
+        <ul>
+          <li><strong>由器入道</strong>：从“初识颂钵 → 理论课题 → 实践操作 → 生命智慧 → 自然疗法”五阶推进。</li>
+          <li><strong>每章自检</strong>：章首“学习目标”、章末“章节小结”与“思考题”，方便自学校验。</li>
+          <li><strong>实操工具箱</strong>：冥想引导词、放松词，以及阿森斯失眠、焦虑、抑郁、阿育吠陀等标准化量表。</li>
+          <li><strong>配图丰富</strong>：全书 250+ 张图示，集中于 <code>docs/media/</code> 对照查阅。</li>
+          <li><strong>开放共建</strong>：CC BY-NC-SA 4.0 协议，欢迎在仓库提交修订（见 <code>CONTRIBUTING.md</code>）。</li>
+        </ul>
+      </div>
+
+      <h2>关键词</h2>
+      <div>
+        <span class="kw">颂钵疗愈师培训</span><span class="kw">声音疗愈</span><span class="kw">音疗师培训</span>
+        <span class="kw">颂钵教程</span><span class="kw">脉轮音疗</span><span class="kw">身心放松</span>
+        <span class="kw">助眠减压</span><span class="kw">Tibetan Singing Bowl</span>
+        <span class="kw">Sound Healing</span><span class="kw">Sound Therapy Training</span><span class="kw">Chakra Healing</span>
+      </div>
+
+      <h2>联系我们</h2>
+      <div class="qr">
+        <img src="assets/wechat-qrcode.jpg" alt="简念颂钵音疗中心 微信二维码" />
+        <p style="font-size:14px;color:var(--muted)">简念颂钵音疗中心 · 扫码交流</p>
+      </div>
+
+      <h2>许可协议</h2>
+      <div class="card">
+        <p>本作品采用 <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh">CC BY-NC-SA 4.0</a>
+        （署名—非商业性使用—相同方式共享）协议开源。✅ 可自由阅读、下载、转发、教学；✅ 可改编（需相同协议共享）；❌ 不得用于商业用途。</p>
+        <p style="color:#a05;font-size:14px">⚠️ 免责声明：教材内容仅用于学习与培训，不构成医疗建议，不能替代专业诊疗。</p>
+      </div>
+
+      <footer>© 2026 润泽（五感六觉）· 简念颂钵音疗中心 · 由 GitHub Pages 托管</footer>
+    </main>
+  </div>
+
+  <script>
+    var BASE = "https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md";
+    // theme toggle
+    var themeBtn = document.getElementById('themeBtn');
+    var saved = localStorage.getItem('sbt-theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    function syncIcon(){ themeBtn.textContent = document.documentElement.getAttribute('data-theme')==='dark' ? '☀️' : '🌙'; }
+    syncIcon();
+    themeBtn.onclick = function(){
+      var cur = document.documentElement.getAttribute('data-theme');
+      var next = cur==='dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('sbt-theme', next); syncIcon();
+    };
+    // mobile menu
+    var menuBtn = document.getElementById('menuBtn');
+    var sidebar = document.getElementById('sidebar');
+    menuBtn.onclick = function(){ sidebar.classList.toggle('open'); };
+    document.querySelector('.main').addEventListener('click', function(){ sidebar.classList.remove('open'); });
+    // search filter
+    var search = document.getElementById('search');
+    var tree = document.getElementById('navTree');
+    var allItems = Array.prototype.slice.call(tree.querySelectorAll('li'));
+    var countEl = document.getElementById('navCount');
+    function applyFilter(q){
+      q = q.trim().toLowerCase();
+      var visible = 0;
+      allItems.forEach(function(li){
+        var a = li.querySelector('a');
+        var t = (a ? a.getAttribute('data-text')||a.textContent : '').toLowerCase();
+        var hit = !q || t.indexOf(q) !== -1;
+        li.style.display = hit ? '' : 'none';
+        if (hit) visible++;
+        if (q){
+          var d = li.closest('details');
+          if (d && hit) d.open = true;
+        }
+      });
+      countEl.textContent = q ? ('匹配 ' + visible + ' 项') : '';
+    }
+    search.addEventListener('input', function(){ applyFilter(this.value); });
+  </script>
 </body>
 </html>
