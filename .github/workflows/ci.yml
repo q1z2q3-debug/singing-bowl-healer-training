@@ -1,0 +1,26 @@
+name: CI
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Textbook integrity (HTML residue, table columns)
+        run: python3 scripts/check_integrity.py
+
+      - name: Links, anchors and heading numbering
+        run: python3 scripts/check_links.py
+
+      - name: Landing pages are up to date
+        run: |
+          python3 scripts/build_landing.py
+          git diff --exit-code index.html en/index.html
