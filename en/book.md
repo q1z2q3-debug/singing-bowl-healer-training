@@ -4260,19 +4260,822 @@ This chapter elevates healing from "technique" to "life wisdom," giving the heal
 
 # Chapter 5 — Natural Therapies
 
+### Learning Objectives of This Chapter
+
+- Become familiar with natural therapies such as breath, yoga, aroma, singing bowl, music, crystal, diet, incense, meditation, and qigong;
+- Understand their synergistic relationship with the chakras and sound healing;
+- Begin to form an "integrative self-care" way of thinking.
+
+**Mindful Healthy Lifestyle**
+
+The *Huangdi Neijing* (Yellow Emperor's Inner Canon) says: "In high antiquity there were those who understood the Dao. They modeled themselves on yin and yang, harmonized with the arts and numbers, were moderate in eating and drinking, regular in rising and resting, and never labored to excess — thus body and spirit were both preserved, and they fulfilled their heavenly years, passing a hundred years before departing."
+
+"Therefore their will was at rest and their desires few; their hearts were at peace and they were without fear; their bodies toiled but were not weary; their qi moved in accord and each followed their own wishes, attaining all they desired. Hence they delighted in their food, were content in their clothing, found joy in their customs, and did not envy those above or below them — such people may be called simple."
+
+The *Tao Te Ching* also says: "Savor your food, beautify your clothing, be at peace in your dwelling, and rejoice in your customs."
+
+"Five colors blind the eye; five sounds deafen the ear; five flavors dull the palate; galloping and hunting madden the mind; rare goods lead one astray. Therefore the sage provides for the belly, not the eye — he rejects the latter and chooses the former."
+
+The *Analects* records: "He did not dislike finely cleaned rice nor finely minced meat. When the rice was spoiled, the fish stale, or the meat putrid, he did not eat. When the color was bad, he did not eat. When the smell was bad, he did not eat. When it was not properly prepared, he did not eat. When it was not in season, he did not eat. When the meat was not cut properly, he did not eat. When he had no proper sauce, he did not eat. Even when there was much meat, it did not exceed the due proportion of grain. Only in wine there was no limit — yet he never drank to confusion. He did not drink wine bought in the market or eat dried meat from the market. He never dispensed with ginger at his meals, yet he did not eat much of it."
+
+"The wise delight in water; the benevolent delight in mountains. The wise are active; the benevolent are still. The wise are happy; the benevolent live long."
+
+All of these point toward a mindful, healthy way of living — comprehensive wisdom and action regarding health, and life and death, spanning dietary health, emotional management, and more.
+
+![Singing bowl healing illustration](../docs/media/image234.png)
+
 ## 5.1 Breath
+
+Compared with other systems of the human body, breath is both the outward expression of the body's self-regulation and the connective link running through the reptilian brain, the emotional brain, and the thinking brain — the whole brain.
+
+The reptilian brain controls breathing; even when we are not paying attention to it, our breath continues moment by moment, in and out. Our emotional brain, according to our emotional responses, affects the structure of breathing, making it rapid or slow. And as the thinking brain unique to humans, our mind can regulate the breath to bring ourselves a calm state of mind.
+
+Breath is the only gateway through which the brain can regulate all three brains at once.
+
+![Singing bowl healing illustration](../docs/media/image235.png)
+
+Whether it is Indian yoga — where breath is the soul of yoga, the word being *Prana*, meaning the source of life — or Chinese qigong, both make use of breath regulation. As a land of Eastern wisdom, over thousands of years we have formed a cognition and cultivation for perceiving higher-dimensional levels.
+
+Breath, exhalation and inhalation, have become a favorable tool for us to use our bodies.
+
+In a large speech contest, it is hard to avoid nervousness; a deep breath can ease the mood. Scientifically, it supplies abundant oxygen, and at the same time deep breathing is a way to let consciousness and body relax. From the perspective of human evolution, under the gaze of many eyes an impulse to flee arises; through tense emotion and rapid breathing the body prepares itself fully for escape.
+
+Through awareness of the breath, we train our brain, master our emotions, and relieve the stress and anxiety the body carries because of emotion — this itself is a common form of natural therapy.
+
+Breath is both the starting point of healing and the method of healing, and even more the endpoint of healing.
+
+At the beginning of healing, our breath rhythm is unconsciously chaotic or shallow; during healing, by means of breath regulation we perceive and observe ourselves, meditating or relaxing, activating the body's self-healing mechanism. At the end of healing, our breath becomes deep, long, and powerful, and our whole energy is much elevated. With gradual practice, both our breath rhythm and our way of breathing can make irreversible progress.
+
+The lungs govern qi and command breathing; regulating the breath can promote the circulation of qi and blood within the body.
+
+Breath is the body's most direct exchange with the external world; regulating the breath makes the inner and outer environments more harmonious.
+
+Breath can change the autonomic nervous system; though not directly controlled by consciousness, it can be influenced by it. The internal organs are governed by the autonomic nervous system, and breath can indirectly affect their function.
+
+Of gastrointestinal peristalsis, glandular secretion, heartbeat, and breathing, only breathing can be most directly perceived.
+
+- Internal-organ function
+- Autonomic nerves
+- Breath
+- Conscious
+
+*Breath regulation (Tiao Xi)* means, in the practice of health qigong, under the guidance of intention and with the cooperation of bodily movement, to actively and consciously adjust and control the breath — guiding the habitual chest breathing toward the soft, slow, fine, even, deep, long, and gentle abdominal breathing. (Deep, long, gentle, fine) — (slow, fine, even, long); "fine" means the breath sound is too faint to be heard.
+
+The essence of breath regulation is to apply consciousness, adjusting the breath so that intention and qi unite, exchanging postnatal qi for prenatal qi. According to its purpose, Zhineng Qigong divides breath regulation into regulation in daily life and regulation in practice.
+
+Breath regulation is one of the four essential principles of qigong, and one of the "three regulations" spoken of by the ancients — also called "adjusting the breath." The character *xi* (息) in "breath regulation" generally has three ancient meanings: 1. spirit; 2. breathing; 3. the pause between breaths.
+
+In the term "breath regulation" it usually means the latter two. Its essence is to apply consciousness, adjusting the breath so that intention and qi unite, exchanging *postnatal qi* for *prenatal qi*. According to its purpose, Zhineng Qigong divides breath regulation into regulation in daily life and regulation in practice.
+
+Breath regulation in daily life combines the various situations encountered in daily life, work, and study, adjusting the functions of all parts of the body through breath regulation. The aim is to cultivate good habits, train character, balance work and rest, and raise work efficiency.
+
+**Points to note in breath-regulation practice**
+
+**Choose the breath according to need:**
+
+Health qigong emphasizes natural breathing, meaning to choose the breathing method according to the purpose of practice. There are methods such as natural breathing, reverse breathing, forward breathing, and pause breathing. For beginners, the frail, those with cardiopulmonary disease and cardiac insufficiency, the natural-breathing method should be adopted, so as not to burden the heart and lungs.
+
+For those in good constitution who also have some foundation in health qigong, practicing outdoors where the air is good, the reverse-breathing method may be chosen, so as to better regulate the nervous system, absorb oxygen to the greatest extent, expel carbon dioxide, and improve health.
+
+For rehabilitation patients with gastrointestinal disease, essential hypertension, and pulmonary disease, deep, long abdominal breathing may be chosen. The "exhale–pause–inhale" method can effectively raise sympathetic excitability, suiting those with low blood pressure and hyperactive digestive function; the "inhale–pause–exhale" method is the reverse.
+
+**Combine movement and breath:**
+
+Breath practice may be combined after the movements or postures are correct and proficient, emphasizing that movement serves the breath. The specific way to combine with movement is: inhale on rising, exhale on falling; inhale on opening, exhale on closing; inhale on relaxing, exhale on tightening; inhale first, then exhale. On inhalation, draw up the anus and lift the perineum, tongue touching the upper palate; on exhalation, the tongue drops, the abdomen and anus relax.
+
+This is because it conforms to the needs of human anatomy and physiology: generally, the body's rising, opening, and relaxing, together with the contraction of the anus, increase thoracic negative pressure, facilitating air intake; while the body's falling, closing, and tightening, together with the relaxation of the anus, just reduce thoracic negative pressure, suiting the expulsion of carbon dioxide.
+
+**Light inhale, heavy exhale:**
+
+Deep, long abdominal breathing can strengthen the elastic fiber net around the alveolar walls and the diaphragm's strength, helping to improve the symptoms of emphysema. Physiology tells us the lungs themselves do not inhale; inhalation is produced by the contraction of the respiratory muscles enlarging thoracic volume and increasing intrathoracic negative pressure, so that atmospheric pressure presses air through the respiratory tract into the lungs.
+
+The exhalation process is completed by the lungs themselves, because around the alveoli, besides a network of blood vessels, there is a crisscrossing elastic fiber net, like so many rubber bands. When inhaling, as the alveoli expand they are stretched and tightened; if an emphysema patient inhales too heavily or too violently, the already-elasticity-lost fiber net is overburdened and may even break, worsening the condition.
+
+Therefore, emphysema patients should adopt a light-inhale method during exercise. Moreover, when the respiratory muscles relax and are no longer stretched and tightened, this crisscrossing elastic fiber net shortens accordingly, compressing the alveoli and squeezing the air out of them, forming exhalation. A heavy-exhale approach more easily expels the turbid air from the alveoli, and helps strengthen the elastic fiber net of the alveolar walls and the diaphragm's strength — thus preventing injury and improving respiratory function, to the end of promoting health.
+
+**Emphasize nasal inhalation:**
+
+Generally, breath practice is best done by nasal inhalation, which makes breath depth easier to control and is hygienic, less likely to cause pulmonary infection; on exhalation one may choose nasal or oral exhalation as the situation warrants.
+
+*Exhale to emit the heart and lungs, inhale to receive the liver and kidneys.*
+
+Exhalation-sound six-syllable formula: Xu, He, Hu, Si, Chui, Xi.
+
+*Mind regulation (Tiao Xin)*: (meta-cognition) intention-holding, visualization, stillness (the psychological operation of eliminating all thought activity), formlessness (the relaxation stage, the tactile stage, the pleasure stage, the void stage).
+
+**Breath exploration:**
+
+*Upright breath:* advocates that breathing should be deep and fine, reaching the abdomen. Upright breath is also called reverse breath, using [on exhalation, slow and long, the lower abdomen below the navel expands] [on inhalation, deep and long, the lower abdomen below the navel contracts]. In breathing, it should be: extreme, still, fine — in seated meditation, when one cannot hear one's own breath sound, it is right.
+
+*Pause breath:* adds a stillness segment within the breath change.
+
+There are two kinds of pause breath: pausing after inhalation can train inhalation capacity, tonifying qi and blood; pausing after exhalation can train exhalation capacity, expelling turbid qi.
+
+*The subtle use of breath:* exhale, inhale, pause.
+
+A longer inhalation time raises sympathetic excitability; a longer exhalation time raises parasympathetic excitability. Insomnia: inhale–exhale–pause; cold hands and feet: inhale–pause–exhale.
+
+*Cessation breath:* in breathing, pausing the breath helps attain cessation. At the moment of cessation, the brain stops thinking, life energy enters a state of stillness, and the chakra energy gradually activates. Cessation of breath, cessation of thought — one's true nature manifests.
+
 ## 5.2 Yoga
+
+Yoga, originating in India and now风靡 worldwide, is itself a kind of natural therapy. At a shallow level it is a form of daily exercise; most people's current understanding leans toward it being a top choice of women's exercise. In fact yoga has existed in China for a fairly long time. Modern yoga was reintroduced to China from the West after World War II; before that, the brothers Su Shi and Su Zhe practiced yoga, as did Emperor Qianlong; among modern celebrities who came into contact with yoga, not a few were men such as Chen Kun. In Jin Yong's martial-arts novel *Tian Long Ba Bu* (Demi-Gods and Semi-Devils), Zhuang Ju Xian used the *Yi Jin Jing* (Tendon-Changing Classic) for detoxifying — which has a deep connection with yoga, using yoga's Cow-Face posture for detoxification.
+
+Now yoga has initially formed a new business; yoga studios large and small across the country have become places for people's daily exercise. Many yoga teachers have also begun to explore the singing bowl, using it as an auxiliary tool to upgrade their professional skills or to restore their own energy. Relatively speaking, singing-bowl healers should also explore yoga more, understand yoga culture; the connection and combination of singing bowl and yoga will bring life itself more brand-new cognition and experience.
+
+**The Eight Limbs of Yoga**
+
+1. *Yamas* (restraints): external control, the universe's moral precepts. Five principles: non-violence, non-stealing, honesty and truth, moderation (non-indulgence), non-greed.
+2. *Niyamas* (observances): internal control, self-purification through self-discipline. Purity, contentment, self-discipline, self-study (studying the knowledge of body, mind, intellect, and self), devotion to the divine (letting go of self, surrendering to nature and the universe).
+3. *Asanas* (postures): yoga poses, also called body regulation. The body is always in the present; through cues, perceive stability and joy.
+4. *Pranayama* (breath control): rhythmic breathing, control of exhalation, also called breath regulation. The control of breath.
+5. *Pratyahara* (withdrawal of senses): the spirit is liberated from the slavery of the senses and external things; the senses vanish, the inner mind is controlled — also called mind regulation.
+6. *Dharana* (concentration): focused attention, single-mindedness.
+7. *Dhyana* (meditation): seated meditation.
+8. *Samadhi*: from meditation, super-consciousness is fully concentrated into the soul, merging with the universe as one.
+
+Yoga is a system that helps human beings fully realize their potential by raising consciousness.
+
+Yoga postures use ancient, easy-to-master techniques to improve people's physical, psychological, emotional, and spiritual capacities — a form of exercise that unifies body, mind, and spirit, including the body-regulating asanas, the breath-regulating pranayama, and the mind-regulating dhyana, to attain the oneness of body and mind.
+
+**The essence of the Eight Limbs of Yoga**
+
+Yoga is a long-standing, unbroken method of cultivation, aimed at helping us attain bodily-emotional balance and inner peace.
+
+The Eight Limbs of Yoga are an important part of yoga cultivation; they are called the "eight-limbed path," the compass of yoga practice.
+
+First, the basic concept of the Eight Limbs. The eight-limbed path of yoga is composed of three parts: moral guidelines, postures and breath control, and meditation. They are respectively:
+
+Moral guidelines: including the five aspects of non-harming, not lying, not stealing, not indulging, and non-attachment.
+
+Postures and breath control: through practicing various yoga postures and breath control, purify body and mind, bringing body and mind to balance and coordination.
+
+Meditation: through concentration and meditation, raise one's understanding of self and surroundings, thus realizing inner calm and peace.
+
+Next, let us understand the connotations and cultivation methods of the Eight Limbs one by one.
+
+The first and second limbs: moral guidelines.
+
+Moral guidelines include the five aspects of non-harming, not lying, not stealing, not indulging, and non-attachment. These guidelines aim to help us establish a good mode of behavior, to maintain bodily-emotional balance. Moral guidelines are the foundation of yoga cultivation and the most basic behavioral principles of our lives. Only by observing these guidelines can we walk a healthy and beautiful path.
+
+The third and fourth limbs: postures and breath control.
+
+Yoga postures and breath control are the core of yoga cultivation; through practicing various postures and breath control, purify body and mind, bringing body and mind to balance and coordination. These practices can help improve physical health, strengthen immunity, and relieve stress and anxiety. In practicing yoga, we should focus on the breath and posture, to attain bodily-emotional balance.
+
+The fifth, sixth, and seventh limbs: meditation.
+
+The purpose of yoga is to help us realize inner calm and peace. To achieve this, we need to raise our understanding of self and surroundings through meditation. Meditation can help us reduce stress, soothe body and mind, and strengthen attention and concentration. In meditation, we should focus on the breath and the feeling of the body, constantly observing and becoming aware of our inner experience.
+
+The eighth limb: liberation.
+
+The ultimate purpose of yoga cultivation is liberation — that is, through cultivation we can free ourselves from the suffering of life and realize inner calm and peace. Liberation is not a simple process; it requires persistent cultivation and continuous improvement of our practice level. Only when we truly realize self-cognition and understanding at the depths of our hearts can we attain the state of liberation.
+
+In summary, the eight-limbed path of yoga is a method of cultivation that helps us realize bodily-emotional balance and inner peace. By observing moral guidelines, practicing yoga postures and breath control, and meditating, we can raise our physical health and inner calm and peace.
+
 ## 5.3 Aroma
+
+![Singing bowl healing illustration](../docs/media/image236.jpeg)
+
+Aromatherapy originated in ancient civilizations such as Egypt and became popular in modern Europe. A French chemist, by chance, discovered that the oil of mint or lavender had special healing effects, confirming the scientific theoretical basis of plant essential oils. Because of their excellent permeability, essential oils can reach the deep tissues of the skin, be absorbed by the body's capillary vessels, and finally reach the healed organ through blood circulation. The name "aromatherapy" comes from Latin.
+
+Guided by the science of aromatherapy, different methods — aromatic massage, inhalation, bathing, hot compresses — let the essential oils act on the human body, regulating the body's major systems, giving play to bodily function, self-healing ability, and balance and regenerative capacity, achieving the goals of strengthening the body, improving mental state, and even stimulating the cerebral cortex through the body's visual, tactile, and olfactory senses, enlightening human thought, providing spiritual comfort, and releasing the heavy psychological and spiritual burdens and diseases, so that people establish a positive attitude toward life.
+
+The combination of essential oils and singing bowls can achieve a synergistic effect, purifying space and energy field and enhancing the healing effect.
+
+True healing is to dissolve the present worries and sorrows, fill oneself with positive energy, and possess the courage to face the past and the future.
+
+If we trace the history of aromatic healing deeply, it too is a cultural form with a thousand years of history. With the development of science and technology in modern times, we can extract the effective chemical components from plants; essential oils are also called "gifts of the earth." Amid the complex and varied nature, all kinds of intrusive development have made plants evolve a "cannot-run-away" defensive or evolutionary mechanism — on one hand protecting themselves, on the other continuing life.
+
+It is on this basis that essential oils were discovered, fortunate to be found by humans and used in our lives and healing.
+
+Essential oils are extracted from a great variety of plants; fundamentally they are the creation and crystallization of plants' life energy. Essential oils can promote the secretion of specific hormones; moreover, the positions of the endocrine glands overlap with the chakras, so it can be said that essential oils themselves also have the function and ability to activate the chakras. Beyond this, essential oils can also strengthen our energy body.
+
+For example:
+
+When we inhale Benzoin, we feel the energy of the first chakra (Root Chakra) become stable;
+
+When inhaling Bergamot, we feel the energy of the fourth chakra (Heart Chakra) activated.
+
+Root-type plants, in seeking a rooted strength, in this mode of thought and nature, plants such as Vetiver also make the mood become stable.
+
+### First Chakra
+
+With the meanings of foundation, root, and support, this chakra plays a considerable role in the foundational ability we establish related to survival, and in the foundational stage of bodily-emotional development.
+
+It is the cornerstone of life's sense of security. The number one — the "one" of the first chakra — because it has the meaning of independence and autonomy, the number one itself also has the power of "I can create my own life," such decisive force. Gradually, we can give ourselves a sense of security at every moment.
+
+![Singing bowl healing illustration](../docs/media/image237.jpeg)
+
+The first chakra also has the meaning of "all things are one." Each person decides their own different life purpose and life lessons, then is born into the world. Do not imitate others; while thinking about why one was born, cultivate the strength to live out one's true nature — this can be said to be one of the core connotations of the first chakra.
+
+Energy meaning: independence and autonomy, beginning, reality, evolution, grounding.
+
+Red symbolizes flame, giving us a burning, warm impression; some say it is the color of passion, justice, and humanity, while also symbolizing civilization, with meanings of evolution and revolution.
+
+Those who like red will not be satisfied with the status quo, can pour twice the enthusiasm of others into exploring all kinds of things, to achieve a better, more perfect life.
+
+State when balanced:
+
+Wanting to try brand-new things, or to launch a brand-new plan, full of drive, thinking pragmatically, living down-to-earth.
+
+When imbalanced:
+
+Exhausted, accumulating anger and frustration, troubled by money and material things.
+
+When balanced, one dares to face challenges, is not satisfied with the status quo, does not parrot others, possesses the drive to explore all kinds of things to achieve a better, more perfect life. Not imitating others, knowing one's own life code, respecting different states of life, understanding one's own heaven-ordained destiny, seeking one's own way of life's expression, through open exploration, via one's infinite source of energy, living out one's true self, down-to-earth, self-reliant, creating one's own life with one's own strength, with material life and spiritual state matched and unified.
+
+When balanced, one has the spirit of "standing" — as the saying goes, when a person stands, all things rise; one sheds slave mentality, yet does not rely on talent to be arrogant, pursuing power and status, making one's life more stable, but not enslaving others through power and status.
+
+This accords with the independence and autonomy in *The 7 Habits of Highly Effective People*: be proactive, begin with the end in mind, put first things first (the habits of success in the private sphere).
+
+Practice: one may choose baby crawling, or walking barefoot to connect with the earth.
+
+![Singing bowl healing illustration](../docs/media/image238.jpeg)
+
+**Recommended essential oils:**
+
+*Benzoin*, sourced from resin, is a substance secreted by a tree to protect its bark when injured — hence it has a powerful protective effect, just as its name suggests, able to give people a calm and reassuring resinous aroma.
+
+Those who possess the ability to protect and care for others resonate with benzoin; those who like benzoin can also be healed — it suits those who lack a sense of security and need protection.
+
+Those who are always caring for the people and things around them and consuming their own energy will often have their bodily state disrupted because of insufficient "qi"; at this time, benzoin's aroma is highly recommended, because it can protect us, avoiding the body's "qi" continuously leaking outward. At the same time it lets us put down the state of over-thinking and over-worrying, relieving the mood of over-effort, inexplicable emo, and irritability.
+
+*Vetiver*, extracted from the plant's roots, whose roots can extend two or three meters into the soil; its essential oil itself possesses a refined and profound aroma. Its roots plunge deep into the earth so its leaves can continuously stretch upward.
+
+Thus vetiver can strengthen our grounding ability while raising our spirituality. As is well known, it is an aroma that unifies the energy of the first through seventh chakras, able to combine flesh and soul, promoting self-integration. It is also quite suitable for those who value material science and do not believe in spiritual energy.
+
+It is an aroma that can dispel unease and anxiety, giving us calm and stability.
+
+Vetiver itself also has the effect of purifying the energy body, and is highly recommended for healers to use.
+
+*Patchouli*, with its unique growth requirements and purification process, has a distinctive charm on the first chakra; without fertile land it cannot grow smoothly, so it absorbs abundantly the nourishment from the earth. After its leaves are taken and dried and fermented, distillation is applied — thus like whiskey or brandy, the longer it ages the richer it becomes. Such a production background lets us advance steadily, letting us brew the fine wine of life; making good use of the settling of time, it is an aroma that gives us a feeling of steadiness, carefulness, and abundance.
+
+We realize that pursuing abundance in real life is feasible (positive energy); when, because we already possess everything we need, we feel satisfied with the reality before us, we will find patchouli's aroma physically and mentally refreshing. It lets one perceive that no matter how much one changes, no matter when one begins to change, life is necessarily changeable — having clear values and wanting to make one's foundation more solid, patchouli is the best choice. Let us maintain toward reality the thought that "what is expected is not so"; when in a state of being unable to accept the abundance before us, one may feel this aroma is not so pleasant. Moreover, for those who cannot find their life purpose, do not know in what way they should live, and fundamentally do not understand the meaning of their own existence, this aroma seems hard for them to cope with.
+
+Thus patchouli is precisely an indicator that lets us understand our own inner state.
+
+For those preparing to lose weight or intending to lose weight, patchouli is a good starting point — it lets us face reality while making us worthy of the beautiful, initiating action and gaining a helpful hand for change.
+
+### Second Chakra
+
+The reproductive chakra, Sanskrit *Svadhishthana*, with the meaning of sweetness and sweetness. Existence itself is joy, 1+1=2, is a relationship; the life lesson of the second chakra means that we, as a person, must face another person, and in the process of getting along with that other person, mutually learn and share each other's feelings and joy — the so-called *interpersonal relationships*.
+
+Emotional processing, intimate relationships, respecting the other (thoughts), valuing oneself (values).
+
+![Singing bowl healing illustration](../docs/media/image239.jpeg)
+
+Orange energy meaning: vitality, happiness, sociability, sexuality, connections, beauty, appearance.
+
+Just as the life lesson of interpersonal relationships shows, the *emotion* produced by human exchange relates closely to orange. The positive and active aspect of emotion manifests as joy and happiness, while the negative and passive aspect manifests as shock, trauma, and dependency, etc. Discomfort related to the second chakra may appear, such as disorders of the intestines and reproductive organs.
+
+Children aged 4–7 are in the period of emotional processing and relationship building, building connection with self and others in this process, becoming aware of their own emotions, getting along with people, respecting others' thoughts while being able to value their own values.
+
+When balanced:
+
+Showing kindness and friendliness to anyone, wanting to interact with many people.
+
+Cheerful, energetic, very optimistic.
+
+Surrounded by beautiful things and happy people, feeling very blessed.
+
+When imbalanced:
+
+Not believing life is happy.
+
+Having suffered emotional blows and repressed them.
+
+Easily acting spoiled, depending on others, having traumatic experience.
+
+![Singing bowl healing illustration](../docs/media/image240.jpeg)
+
+**Recommended essential oils:** Red Mandarin, Sweet Fennel, Clary Sage.
+
+*Red Mandarin* can soothe the delicate heart of those sensitive to emotion, used to adjust children's emotional imbalance, called the "children's essential oil."
+
+Because its aroma has the characteristic of delicacy, it can resonate with those highly sensitive to their surroundings, unable to smoothly express their own emotions and possessing a delicate sensibility.
+
+Moreover, essential oils extracted from edible plants and fruits also benefit the digestive system, gently regulating its function, able to heal children with anorexia caused by relationship tension.
+
+In interpersonal relationships, it warmly cares for the delicate heart unskilled at getting along with others, awakening the realization that one need not over-display oneself — just be oneself.
+
+*Sweet Fennel*'s aroma can let one clearly distinguish one's own likes and dislikes. It has the two functions of regulating the digestive system and killing the *Lactobacillus* that causes tooth decay. Used simultaneously on intestinal detox, it improves constipation and abdominal bloating caused by gas accumulation. It has an estrogen-like effect promoting reproductive-system function.
+
+This aroma can let one discover the joy hidden in the heart, and can endow us with courage, helping us open the door to the creativity of a life built with our own hands.
+
+In relationships, it can release our over-repression of inner emotion, soothing our true inner self, especially in the handling of male-female relationships.
+
+*Clary Sage* was once used in the treatment of the eyes, also named "clear eye." After the seeds formed from its flowering are soaked in water, then the seeds are pounded to release the sticky mucus. It is said this liquid has the effect of adsorbing foreign matter in the eyes.
+
+To sum up, clary sage has the actual effect of making the eyes clear and bright. Therefore, its aroma can also endow us with "the power to see things invisible to the naked eye." Because it raises our intuition and sensitivity, opening the sensory feeling of "feel," we thereby are able to sense things invisible to the naked eye.
+
+Clary sage's aroma can also help us open the perceptual ability invisible to the naked eye, and is known to regulate the body's hormonal balance. At the same time, clary sage's powerful "relaxing" effect can gently release our body, mind, and all emotions, and we sincerely hope that those who live every day in a highly tense environment, constantly consuming bodily energy, will use this aroma.
+
+### Third Chakra
+
+**Life lesson**
+
+The solar plexus, located at the abdomen, is regarded as the center of all nerves; the third chakra is also called the Solar Plexus Chakra.
+
+*Manipura* is translated as "lustrous gem," meaning each of us is a lustrous gem, a valuable, sparkling existence.
+
+The sun is a unique existence; even as we build various relationships in society, we still ponder: in what way do I exist?
+
+The third chakra's life lesson is — to display one's own personality, and gradually strengthen the power of being an *individual*.
+
+The life lesson concerning self-life positioning and self-esteem.
+
+A role is a mask; the true self chooses a role suited to one's own character — casting!
+
+The third chakra's lesson: life positioning and self-esteem.
+
+![Singing bowl healing illustration](../docs/media/image241.jpeg)
+
+When we play our own role in society, whether we can feel happiness from the bottom of our hearts also belongs to the scope of the third chakra's lesson.
+
+True happiness requires learning to follow one's inner voice while establishing one's role positioning in society.
+
+To understand the state of the third chakra, we may use the sense of security and satisfaction from the first chakra's life lesson as a judging indicator.
+
+Those brilliant, sparkling people are those who, after personally devoting themselves to their work, completing tasks and responsibilities, let themselves feel "so happy" from the bottom of their hearts. Anxiety is stomachache, or stress is gastric ulcer.
+
+The third chakra's life lesson also contains *choice* and *decision*; from these experiences we will gradually temper the sense of responsibility of "my own life decided by myself," as well as the decisiveness and strong will to make one's own choices.
+
+The vicious cycle between adrenaline and the hormone secreted by the pancreas:
+
+① Because blood sugar concentration in the body drops, the adrenal glands secrete adrenaline and noradrenaline.
+
+② One becomes irritable, easily angered; insecurity increases.
+
+③ To dissipate such feelings, one begins to crave sweets.
+
+④ After eating sweets, because of adrenaline and the like, blood sugar rises abruptly.
+
+⑤ To lower blood sugar, excessive insulin is secreted, and blood sugar value drops abruptly again.
+
+⑥ The body again becomes a low-blood-sugar environment, returning to ①.
+
+When we fall into such a vicious cycle, the pancreas responsible for secreting insulin becomes weaker and weaker, causing insulin secretion to begin to decrease, and developing into diabetes. Moreover, the increase in adrenaline and noradrenaline secretion is because we feel stress, so stress itself is also one of the causes of high blood sugar.
+
+Ages 8–11: beginning to think about one's life positioning and the role one chooses, the period of cultivating self-esteem and self-discipline; try to listen to the inner voice, seek the inner voice, purely pursuing one's own happiness.
+
+Symbol in nature: sun, light.
+
+Energy meaning: happiness, personality, freshness, intellect, hope.
+
+Symbolizing sunlight, it is precisely the energy that lets living beings on earth grow and thrive. This lofty energy can help us build our own uniqueness, and endow us with wisdom and strength, leading us toward a happy life.
+
+The supreme happiness of life is to truly live out oneself.
+
+State when balanced:
+
+Happiness overflowing.
+
+Clear judgment.
+
+Filled with the feeling of living out one's true self.
+
+State when imbalanced:
+
+Feeling much unease and fear.
+
+Not knowing what to do, in a state of confusion.
+
+Habitually criticizing others.
+
+![Singing bowl healing illustration](../docs/media/image242.jpeg)
+
+**Corresponding essential oils:** Cardamom, Lemongrass, Roman Chamomile.
+
+Ylang-ylang, Juniper Berry, Black Pepper, Cardamom, Lemongrass, Peppermint can all be used to regulate third-chakra energy.
+
+*Cardamom*'s composition is quite unique; half of cardamom's aroma is the main component of eucalyptus essential oil — cineole, which promotes emotional release and discharge; the other half is an ester with deep sedative action found in clary sage and roman chamomile. Release + sedation. Because cardamom belongs to spices, it also has the effect of raising appetite and promoting digestion.
+
+So-called digestion means the process of transforming the food one takes in into the nutrition and survival energy needed by one's own body. If analyzed from the spiritual level, it represents us doing what we ought to do, and fully feeling the things obtained in this process, then transforming them into our own energy and resources. Therefore, this aroma has a deep relationship with the渴望 to live out oneself.
+
+Through aromas such as cardamom promoting our digestive ability, we will raise such desires as "want to taste more of life," "want to enjoy life more," and "want to give oneself more unique happiness." Be a little kinder to yourself, while respecting food!
+
+*Lemongrass*
+
+Carrying the energy of self-reliance and strengthening individuality.
+
+The self-reliant spirit of "I am myself," and supporting and strengthening our own core values.
+
+When stomachache and loss of appetite appear because of unease and stress, use lemongrass to cross this problem; when the sympathetic nerve in the autonomic nervous system dominates, lemongrass has the effect of helping the parasympathetic nerve function, thus leading us into a state of easy relaxation.
+
+It can help us express our core values well under conditions of uncertainty and wavering (wisdom).
+
+*Roman Chamomile*
+
+The language of chamomile: strength in adversity. Although chamomile's appearance looks very pitiable, when it is trampled to the ground, it will certainly stand up again and recover its original appearance. Outer softness, inner strength is one of the characteristics of this aroma.
+
+When challenges to self-esteem are imminent, it can endow us with the strength and self-esteem needed to cross these challenges.
+
+The aroma of surrender, able to relax body and mind and fully use this opportunity, must do one's utmost, personally complete everything. Occasionally also the courage to give up.
+
+The certain effort under tension transforms into the all-out calm and stability under relaxation.
+
+Roman chamomile also has a mother-like包容力, called the "mother's aroma," the encouragement of maternal love and one's own strength.
+
+### Fourth Chakra
+
+**Life lesson**
+
+*Anahata* — never stopping, the sound emitted so the two do not conflict.
+
+With both powerful creativity and destructive power, the place and accelerator of all emotions.
+
+The lesson to learn is: unconditional love.
+
+![Singing bowl healing illustration](../docs/media/image243.jpeg)
+
+Begin learning love from loving and accepting oneself.
+
+Do not control others, but simply love. Do not expect reward from others, but forgive the other's mistakes. Consciously learn to love.
+
+When we, through loving ourselves, begin to awaken from unconditional love, we can learn and understand how to love others.
+
+Therefore we unconditionally accept others without controlling them; such experience is the necessary process of learning and growth, and supports us to complete our personal天赋 mission.
+
+Non-discriminatory treatment, for the sake of loving oneself, love overflowing.
+
+Green.
+
+Symbol in nature: forest, plant leaves, grassland.
+
+Energy meaning: growth, change, harmony, learning, freedom, space.
+
+State of energy when balanced:
+
+Able to feel all emotions candidly.
+
+Act according to one's inner truth.
+
+Cherish oneself.
+
+When imbalanced:
+
+Habitually enduring, not knowing what one truly wants to do.
+
+Depending on each other for survival, attempting to control others.
+
+Strong sense of self-denial.
+
+![Singing bowl healing illustration](../docs/media/image244.jpeg)
+
+Bergamot, Green Mandarin, and Lime — essential oils with orange-colored peels.
+
+Rose [queen of flowers] itself contains more than 1000 kinds of aromatic components; despite the variety, the whole is harmonious, symbolizing harmony and completeness.
+
+Rose essential oil can support the normal operation of the heart chakra to a great extent. Rose's aroma is warm, aromatic, and sweet, able to penetrate deep into our hearts, bringing us full love and comfort, supporting our ability to express and receive love in life.
+
+Rose essential oil has the effect of soothing emotion and comforting the heart. It can help relieve negative emotions such as loss, sadness, anxiety, and melancholy, letting our hearts become more calm, peaceful, and comfortable. At the same time, rose essential oil can also evoke our inner feelings and emotions, letting us more easily express and share our love and care.
+
+Rose essential oil can also strengthen our ability for self-love and self-acceptance. It can promote our care for and respect of ourselves, raise our self-esteem and self-confidence, letting us have more courage and strength to face the challenges and difficulties of life.
+
+*Geranium*'s greatest characteristic is its super-strong bodily-emotional balancing effect; geranium has the effect of regulating female hormones, but it actually has the efficacy of activating all hormones of the body and regulating the body's overall hormonal balance.
+
+Geranium is also a good helper for healing edema and gynecological problems.
+
+Geranium's very strong "qi" — this qi is precisely the driving force of blood and water circulation, releasing emotion, introspecting self-value.
+
+Lime's aroma is one that can move our hearts and let us sincerely generate expectation and anticipation for ourselves. We want to do this thing; its aroma makes such a mood more clear, letting us feel we are worthy of doing this thing.
+
+We often, wanting to do something, immediately enter the value judgment of benefit. Even if completing this thing, what help is it to me? We usually habitually use such a thinking pattern to view a thing.
+
+Even so, we should be very clear that somewhere in our hearts we are telling ourselves: "live following the inner voice, deliberately letting us weave a happier life." At such times, we can actively use lime aroma in life, because it will support us to create our own life, and let us cultivate a kind of loving feeling named "cherishing oneself." Absorb solar energy, then grow oneself.
+
+The preciousness of human beings lies in being the primate of all things, gathering all things into one body and using them! The heart chakra is more about acknowledging or surrendering, accepting one's own imperfections! As long as one's foundation is solid, our heart can be liberated, free and easy; it lets us experience from such a posture a joy like soaring freely in the sky.
+
+*Palmarosa*, acknowledging one's own inner strength and weakness, letting oneself taste the sense of security arising from the heart, putting down the strong desire to control, whether strong or weak, both are important components of me; only after truly understanding all parts of oneself does stable security arise. At the same time it eliminates jealousy of others or the mind to constrain others; as long as one's own foundation is solid, our heart can be liberated, free and easy.
+
+### Fifth Chakra
+
+Coinciding with the position of the throat, it is the energy center governing sound, language, and speech. The fifth chakra relates to the whole process of communication; through its action we can express opinions to others to show ourselves, while not forgetting to listen to others' voices.
+
+*Vishuddha* means purification.
+
+What the fifth chakra wants to tell us is: every word and phrase of yours is continuously affecting the whole world; we will learn in this stage to take responsibility for the words we speak, because words already spoken, carrying energy, cannot be undone.
+
+The first place one's own voice reaches, without doubt, is our own two ears.
+
+To let oneself hear the true voice, try to perceive whether one is living in an honest way following the inner heart, whether the spoken words match the inner true feeling.
+
+Furthermore, the fifth chakra is the entrance for us to understand the world as a whole and the future vision, raising spirituality. It can be said to be a bridge for us to live in a more spiritual way.
+
+Color of the energy center: sky, water, ocean, earth.
+
+Blue energy meaning: motherhood, femininity, inclusiveness, spiritual will, trust, communication, inner.
+
+Blue represents the color of inclusiveness, while also containing maternal energy.
+
+Trust is often thought of as trust of others, but first, the most important is self-trust.
+
+State when balanced:
+
+Attractive voice and way of speaking.
+
+Able to express one's thoughts candidly.
+
+Trust one's own life, wanting to live free and easy.
+
+When imbalanced:
+
+Unable to stop speaking negative words.
+
+Not expressing one's own opinions, merely accommodating the other.
+
+Unable to believe in oneself.
+
+![Singing bowl healing illustration](../docs/media/image245.jpeg)
+
+![Singing bowl healing illustration](../docs/media/image246.jpeg)
+
+*Cypress*'s greatest characteristic is the effect of accepting things and making them flow; moreover, from the perspective of its effect of astringing excess water in the body, it can be said to be an essential oil with very strong purification ability, helping us expel all unwanted things.
+
+*Scots Pine*'s characteristic is leaves in two-needle bundles, so it can be said to be an aroma that strengthens the boundary line between self and others (the ocean shelterbelt, the boundary between land and sea). Because it can strengthen in communication that self is self and other is other, this boundary line, in the healer community that easily resonates with clients, it is a very popular protective aroma.
+
+*Eucalyptus* is a well-known essential oil that helps the respiratory organs stay clear. Eucalyptus oil can stimulate tracheal epithelial cells, promoting respiratory patency; at the same time, it also has a good anti-inflammatory effect, effectively reducing discomfort such as throat pain and swelling; preventing flu, purifying energy.
+
+From the energy perspective, the throat chakra is closely linked to throat health; when we face communication difficulty or emotional change, the throat chakra becomes imbalanced. Eucalyptus essential oil can promote throat health and stabilize emotion, thus promoting the balance of the throat chakra.
+
+Eucalyptus essential oil can also raise attention and concentration, letting us more easily focus on verbal and auditory activities. Eucalyptus essential oil has a close connection and interaction with the throat chakra; in daily life it can help us better express ourselves and listen to others through promoting throat and respiratory health.
+
+The sixth chakra, the location of the third eye, *Ajna* means awareness.
+
+### Sixth Chakra
+
+It is one of the body's seven main chakras. *Ajna* means awareness.
+
+It is located at the center of the forehead, the bridge connecting body and mind.
+
+The sixth chakra is regarded as the center of wisdom, intuition, and extrasensory ability. It is also an important region of the mental, emotional, and spiritual levels.
+
+When balanced:
+
+Able to understand that the occurrence of all things in life is for one's own growth.
+
+A calm and composed emotional state.
+
+Having a strong spirit of self-reflection.
+
+When imbalanced:
+
+Repeatedly experiencing difficulties of the same pattern.
+
+Strong sense of victimization.
+
+Afraid to face one's true self.
+
+![Singing bowl healing illustration](../docs/media/image247.jpeg)
+
+Knowing beyond thought, understanding the essence of things, and letting us grow continuously, from dualistic opposition to harmonious unity, giving up judgment and prejudice toward problems, putting down accumulated self-esteem, pursuing deep insight, pursuing the sole truth, thus cultivating a strong spirit of self-reflection, acquiring wisdom and insight.
+
+![Singing bowl healing illustration](../docs/media/image248.jpeg)
+
+*Yarrow*
+
+Whatever happens in the real world, try to accept "these are all necessary experiences for letting oneself grow," and trust oneself, gradually perceiving the essence revealed by this event. And yarrow's aroma can let this series of events flow smoothly.
+
+Cares for seborrheic dermatitis caused by the fire of anger.
+
+*Thymol Thyme*, the aroma of courage, can give us the energy to bravely take the first step toward the unknown future. It can let us change our perspective on things through moving forward, and support us to change our way of life through introspecting ourselves.
+
+*Immortelle (Helichrysum)*, a golden state that never fades, whenever. Lets the user's soul shine, or can let one retrieve the radiance of one's own soul.
+
+### Seventh Chakra
+
+Awakening.
+
+Wisdom and the oneness of the world, mysterious, sacred — only when we have completely developed all other chakra energies and balanced all chakra energies does the crown chakra's energy appear.
+
+Doing what one likes while also contributing to society. The self-actualization chakra of spending a fulfilled life by giving full play to one's innate personality and potential.
+
+When balanced:
+
+Not attached to past and future, valuing living in the present very much.
+
+The mood always bright and peaceful.
+
+Feeling all things are connected, and one is a part of them.
+
+When imbalanced:
+
+Not knowing the meaning and purpose of one's own life.
+
+Feeling one does not belong.
+
+Feeling discordant with one's own life.
+
+![Singing bowl healing illustration](../docs/media/image249.jpeg)
+
+![Singing bowl healing illustration](../docs/media/image250.jpeg)
+
+The crown chakra is an important concept in Eastern cultural traditions such as Hinduism, Buddhism, and yoga, referring to one of the body's seven main energy centers. The crown chakra is located at the center of the top of the head, the highest and purest energy center within the body, related to human spirituality, wisdom, and awakening.
+
+*Sandalwood* essential oil is an aromatic substance obtained by distilling or extracting the wood of the sandalwood tree (*Santalum album*). Sandalwood essential oil has many effects, including soothing emotion, raising attention, promoting relaxation, and calming the nervous system.
+
+In some yoga, meditation, and other practices, using sandalwood essential oil can help people reach a better state of relaxation and meditation, thus better opening, balancing, and activating the crown chakra's energy.
+
+*Agarwood (Chen Xiang)* is a natural spice extracted from the agarwood tree (*Santalum*), used in aromatherapy, energy healing, and other aspects. Agarwood has effects such as soothing emotion, reducing stress and anxiety, and at the same time can help people enter a meditative state, enhancing attention and calmness.
+
+Using agarwood in the crown chakra's energy-healing practice can help people, through breathing, meditation, and other means, deeply relax body and mind, balance and activate the crown chakra's energy. Agarwood's aroma can stimulate the nervous system, promote the body's relaxation, and at the same time clear negative energy, enhance the flow of positive energy, making people feel a more peaceful, serene state.
+
+*True Lavender*: regulates the rhythm of the mind, thought, and consciousness, guiding us to live at our own pace.
+
+*Spikenard*: says YES to the past that shaped the present self, and through reviewing the past, encourages us to fully accept our once-lived life path; the past shaped the present me, but does not determine the present me. Affirm and accept everything, live down-to-earth, letting the conscious life in the heart land into the future.
+
+**Special note:**
+
+The reference or used brand of essential oils is doTERRA essential oils.
+
+*pursue what's pure*
+
+To the utmost purity.
+
+Essential oil is a natural, safe aromatic compound. Nowadays, more and more people begin to emphasize using natural, pure products in life; extracts from nature undoubtedly understand our body's needs better, and this trend is gradually becoming mainstream.
+
+dōTERRA — gifts of the earth.
+
+doTERRA is a global planting and sales multinational enterprise, with excellent cultural philosophy, huge market demand, and supremely pure product attributes, becoming the world's largest essential-oil group. To guarantee genuine products, the only official purchase channel (consult us) — through recommended purchase one may obtain first-purchase set discounts; later recommend partners to share usage experience together, obtain the supremely pure exquisite experience of essential oils, and raise quality of life.
+
 ## 5.4 Singing Bowl
+
+Himalayan singing bowls originate from the Himalayan mountains, made by hand-forging seven local metals and natural ores. Each singing bowl has a unique texture and sound frequency, transmitting sound vibration deep into body and mind through striking or rubbing. Local people and monks both use the singing bowl, as one of the religious vessels. Some monks also use it to regulate psychological emotion, achieving the effect of relaxing body and mind and releasing stress.
+
+The Himalayan bowl (Himalaya bowl) was originally a vessel monks used as tableware; gradually many people took it up for quiet meditation. The bowl's deep, far-reaching, clangorous sound, as if as long as the holder strikes it once, can let people enter a state of bodily-emotional ease, while balancing and harmonizing the body's seven chakras.
+
+Singing-bowl music theory basics: the singing bowl is an energy vibration that can be heard, seen, and felt. In shamanism and Nada yoga / sound yoga, people believe that the vibration of sound can awaken the body; its stable energy can resonate with us and thus produce different influences. The frequency it emits can penetrate deep into the body's core, resonating with the inner frequency. It strengthens the immune system, produces a sense of happiness, releases traumatic emotion, and accelerates the healing of the body. It balances and harmonizes the body's seven chakras, opens blocked and painful areas, while liberating acid-tight muscles.
+
+It lets the restless heart gradually settle and stabilize, the state of insomnia be balanced, releasing and dissipating accumulated stress and pain, soothing depressed emotion. When the energy within the body can flow harmoniously, the self-healing ability is also awakened. The vibration of sound waves crosses rational thinking and speaks directly to consciousness; when the mind is purified and organized through sound, body and mind experience a clarity and intuition.
+
+Medicine has also begun to pay attention to and research this ancient sound-healing art, applying it to the healing of difficult and complicated medical conditions, such as insomnia, cancer, tumors, stroke, Alzheimer's disease, bone and joint, immune disorders, mental tension, anxiety, depression, etc. Singing bowls are used worldwide in meditation, music, relaxation, personal bodily-emotional recuperation, and religious rituals. Oncologists, psychological healers, massage therapists, and yoga practitioners all love the singing bowl's unique healing effect.
+
+Singing-bowl healing was discovered as early as 600 BCE and endowed with various mysterious legends. Records of Asian use of singing bowls can be traced back to the Bronze Age 3000 years ago. In India, records of singing bowls can be traced to the four Vedas.
+
 ## 5.5 Music
+
+Music therapy (Music Therapy) is a young applied discipline, involving a wide range of subjects, with a sprawling field of application and rich schools of thought, so from the development of music therapy there is no unified disciplinary definition standard. This is because music therapy is, after all, a relatively young discipline, and also because music therapists of different countries and nations are influenced by different cultures, histories, economies, politics, medical conditions, and many other factors, plus the different fields and healing methods experts of various countries carry out music therapy, so inconsistent definitions are produced. Simply put, music therapy is the use of all forms of musical activity — including listening, singing, playing, rhythmic movement, and various means — to stimulate and hypnotize the person, and use sound to stimulate bodily response, enabling the person to achieve health.
+
+The definition of the American Music Therapy Association is: "Music Therapy is the clinical and evidence-based use of music interventions to accomplish individualized goals within a therapeutic relationship by a credentialed professional who has completed an approved music therapy program" (American Music Therapy Association, 2005).
+
 ## 5.6 Crystal
+
+Natural crystals, tempered by the earth for tens of millions of years and in long-term resonance and interaction with nature, contain a positive magnetic field with grand and infinite energy waves. Natural crystals release 8 million oscillations per second, containing within them powerful and abundant energy, so wearing natural crystals has a certain auxiliary effect on improving the living environment.
+
+The English word for crystal is "crystal," evolved from the Greek "krystallos," originally meaning clear ice, because the ancient Greeks believed these transparent raw stones were stone turned from frozen water. Crystals can release stable vibrations, helping to establish internal balance, possessing powerful healing power.
+
+Quartz crystal is an energy converter, able to receive a certain form of energy and convert it into a higher form of energy; crystal is a kind of acousto-optic material, able to convert sound waves into light, sound into light.
+
+Crystal can quiet the mind. Crystal minerals exist beautifully and colorfully, possessing a powerful strength that has always been a good helper of energy healing; they stably and quietly emit their own light and power, letting all who contact them obtain bodily-emotional healing. Crystal, in scientific and traditional research, is endowed with many different functions because it is rich in naturally accumulated minerals, crystals, silica, and many other chemical elements.
+
+- Super Seven — attracts wealth, maintains health, attracts marriage, raises popularity.
+- Obsidian — wards off evil, absorbs negative energy, eliminates stress.
+- Fluorite — purifies the energy field, removes miscellaneous qi and balances the chakras.
+- Amethyst — strengthens memory and helps thinking.
+- Sunstone — raises positive energy, can resist depression, raises confidence.
+- Black Rutilated Quartz — clears negative energy; for those who are unlucky in all things, physically weak and easily ill.
+- Clear Quartz — purifies and calms the mind, brings peace of mind.
+- Gold Rutilated Quartz — attracts wealth, also greatly helps career.
+- Amazonite — relieves anxiety, clarifies thought, extracts from negative thinking.
+- Rose Quartz — opens the heart, accepts oneself, releases the inner heart.
+
+Root Chakra corresponding energy stones: Smoky Quartz, Black Tourmaline, Black Rutilated Quartz, Obsidian, Red Agate, etc.;
+
+Navel Chakra corresponding energy stones: Garnet, Ruby, Red Phantom Crystal, etc.;
+
+Solar Chakra corresponding energy stones: Citrine, Gold Rutilated Quartz, Tiger's Eye, Pyrite, etc.;
+
+Heart Chakra corresponding energy stones: Emerald, Green Phantom, Green Rutilated Quartz, Peridot, etc.;
+
+Throat Chakra corresponding energy stones: Aquamarine, Blue Chalcedony, Lapis Lazuli, etc.;
+
+Brow Chakra corresponding energy stones: Purple Apex Crystal, Amethyst, Amethyst-Citrine, etc.;
+
+Crown Chakra corresponding energy stones: Clear Quartz, White Phantom, White Moonstone, White Chalcedony, etc.
+
+Crystal healing, actually also called energy restoration healing; what it uses is not only natural crystal, but natural minerals collectively called Power Stone. This healing art is analogous to the concept of traditional Chinese medicine. The crystal healer understands the client's bodily-emotional condition through tarot reading and hand scanning, applies the unique art of natural-mineral arrangement, supplemented by REIKI, Ayurveda, and other healing methods, injects the crystal's energy into the human chakras (Chakras, energy centers), purifies the human energy, causing body and mind to reach harmony, balance, and oneness, and bringing forth the wish and initiative of "becoming a beautiful self," to pursue a happy life. Therefore, this healing can be said to be a kind of "heart-healing art."
+
+When we can resonate with the frequency of high-energy crystal minerals, it naturally also indicates that our present mind and thought are in a higher energy state. These high-energy crystals not only can activate our energy body, but also adjust the frequency state of the body's aura, raise immunity, increase vitality; as well as raise our inner awareness and insight, strengthen confidence, concentrate attention, dissolve worry, and thereby reduce erroneous decisions; in addition they can improve interpersonal relationships, win popularity or increase opposite-sex attraction.
+
 ## 5.7 Diet
+
+Diet therapy, also called food therapy, is a method of using the characteristics of food to regulate body function under the guidance of TCM theory, so as to obtain health or cure disease and prevent illness. Diet therapy uses common foods in our daily lives, with accurate pairing and careful preparation to give play to their natural efficacy; accumulated over time, it assists the human body in stimulating its self-healing ability, thus obtaining natural health from the inside out.
+
+**Recommended red vegetables:**
+
+![Beetroot](../docs/media/image251.jpeg)
+
+**Beetroot**
+
+Beetroot is a highly nutritious health food; it also has various natural active components that can repair the human body's damaged gastric mucosa, and can prevent irritating substances from harming the human gastrointestinal mucosa. Eating more beetroot usually can prevent and relieve gastric ulcers, and also raise gastrointestinal digestive function; it can quickly reduce symptoms such as abdominal distension and pain, poor appetite, and indigestion.
+
+Beetroot also has a very positive effect on the human cardiovascular system; the trace elements magnesium and folic acid it contains, after being absorbed by the body, can soften blood vessels, and reduce blood viscosity; it can prevent thrombus formation, and keep human blood pressure and blood lipids in a normal and stable state. Regular consumption will significantly reduce the probability of cardiovascular disease.
+
+In nature, all vitamin B12 is synthesized by microorganisms; higher animals and plants cannot manufacture vitamin B12. The main physiological function of vitamin B12 is to participate in the manufacture of bone-marrow red blood cells, preventing pernicious anemia; preventing the brain nerves from being damaged.
+
+**Recommended green vegetables:**
+
+![Celery](../docs/media/image252.jpeg)
+
+**Celery** belongs to the western- celery type of celery. Celery's cellulose content is higher than that of Chinese celery (i.e., common celery), and can promote defecation and detox, diuresis and detumescence. Celery has a longer shape, straight stems, leaf edges saw-toothed, leaf taste bitter but the rest of the parts relatively fragrant; it can be made into a dish to eat, or juiced into celery juice to drink. Celery is naturally cool-loving, strongly cold-resistant; in the world, celery is mostly distributed in humid areas or along the Mediterranean coast. Celery is rich in nutritional elements such as protein, vitamins, dietary fiber, minerals, etc. Eating celery can not only moisten the stomach and intestines, promote digestion, diuresis and dehumidification, but also calm the mind and lower blood pressure, beautify the skin, nourish the blood and blacken the hair, etc.
+
+Celery has rich nutritional elements, such as protein, carbohydrates, dietary fiber, minerals, vitamins, etc. According to measurements, celery's dietary fiber is richer than common celery; eating celery can supplement dietary fiber, moisten the stomach and intestines, promote gastrointestinal peristalsis, promote digestion, diuresis and dehumidification.
+
+In addition, celery is rich in iron; eating celery can supplement iron, avoid dry skin and pale complexion, and also blacken the hair, maintain the normal functioning of the nervous system, keep vitality. Celery is also rich in calcium; eating celery can supplement calcium, maintain bone health, reduce fatigue, strengthen the brain, maintain the body's acid-base balance, etc.
+
+Celery has rich effects, such as promoting digestion, beautifying the skin, promoting bone health development, anti-cancer, etc.
+
+Celery is generally edible by all people; celery is rich in nutritional elements; eating celery can promote gastrointestinal peristalsis, promote defecation, diuresis and dehumidification, lower blood pressure, lower cholesterol, and also beautify and blacken the hair, etc. But those with deficiency-cold spleen and stomach, insecure intestines, low blood pressure, and men in the childbearing-marriage period should eat less celery.
+
+1. Suitable for obesity patients. Celery is low in calories — only 12 kcal per 100 g — and rich in dietary fiber; eating gives a sense of satiety, easily curbing appetite, and can promote gastrointestinal peristalsis, promote defecation and detox, suitable for obesity patients.
+
+2. Suitable for hypertension and high-cholesterol patients. Celery contains acidic blood-pressure-lowering components and rich vitamins; eating celery can lower blood pressure and cholesterol, suitable for hypertension and high-cholesterol patients.
+
+3. Suitable for anemia patients. Celery is rich in iron; eating celery can supplement iron, nourish the blood, and reduce anemia.
+
+**Water health**
+
+The World Health Organization (WHO) announced seven healthy standards for human drinking water:
+
+1. The water contains no physical, chemical, or biological pollution harmful to human health.
+2. The water contains appropriate beneficial minerals for human health, in ionic state.
+3. The water's hardness is moderate, between 150–300 mg/L (calculated as calcium carbonate).
+4. The water's pH value is weakly alkaline (7.3–8.3).
+5. The water contains dissolved oxygen and carbonate ions.
+6. The water has strong dissolving power and permeability.
+7. The water's molecular clusters are small.
+
+**Tea ceremony**
+
+The tea ceremony is the way of appreciating the beauty of tea. It is also regarded as a life art of brewing and drinking tea, a life etiquette using tea as a medium, a life style of self-cultivation using tea. Through brewing, appreciating, smelling, and drinking tea, it enhances friendship, beautifies the mind and cultivates virtue, learns ritual, and appreciates traditional virtue — a very beneficial harmonious ritual. Drinking tea can quiet the mind and spirit, helping to cultivate sentiment and remove distracting thoughts.
+
+The reason the tea ceremony can be called a "Dao" is that the natural and humanistic spirit it contains is enough to influence the development of Chinese people, the times, and consciousness. Tea originates from China and prospers worldwide.
+
+Tea is not only itself endowed with health attributes; the rituals involved in the tea-tasting process can also let people engage in natural healing, harvesting inner health and fulfillment. This is the so-called "zen and tea are of one taste."
+
 ## 5.8 Incense
+
+> Incense ceremony is a fashion etiquette with a long history, appreciated and comprehended through forms of incense appreciation such as eye observation, hand touch, and nose smell, cultivating body and mind in the aroma. The ancients burned incense to enjoy elegance and display noble status; as communicators of simple living, the great wisdom, in the noisy and busy living space, burns a furnace of incense, experiences the wonderful pleasure of life, lets the impetuous heart return to tranquility.
+>
+> The incense ceremony is the way of appreciating the beauty of incense, and together with the tea ceremony, flower arrangement, qin (zither) ceremony, and calligraphy ceremony is called the soul of Chinese tradition — namely: the "Five-Dao culture."
+>
+> "Calligraphy Dao to clarify aspiration, flower Dao to nourish the heart, tea Dao to harmonize, qin Dao to delight emotion, incense Dao to quiet the mind." The essence of the Five Daos lies in quieting the mind to comprehend the Dao; incense Dao especially takes quieting the mind as paramount — stillness brings calm, calm brings thought, thought brings comprehension, comprehension brings penetration.
+
 ## 5.9 Meditation
+
+![Singing bowl healing illustration](../docs/media/image253.png)
+
 ## 5.10 Qigong
+
+Qigong is a bodily-emotional exercise skill of the unity of the three regulations — regulating the body, regulating the breath, and regulating the mind.
+
 ## 5.11 Others
 
-<!-- TODO: translate each section of Chapter 5 -->
+**Flower essence**
+
+In the 1930s, Dr. Edward Bach discovered flower essence, a pure plant-purified beauty product, applied in the fields of emotion, body, and women's beauty. If "essential oil" is compared to "gold," then "flower essence" is comparable to "diamond." The French Institut des Hautes Études Scientifiques achieved great results in 2011 — the birth of flower essence. It takes 1000 flowers to extract one drop of essential oil, and 1000 drops of essential oil to refine one drop of flower essence.
+
+Flower essence is a higher-level re-extraction selectively based on plant essential oils. In this process, harmful and useless components are selectively discarded, retaining only the components needed and beneficial to the skin. Flower essence can assist humans in accepting their own emotions, raising self-awareness, and balancing the body's energy field. Our civilized life constantly accumulates various stresses and emotions; flower essence is a gentle and effective spiritual antidote, letting many long-term emotion-affected, psychosomatic, or chronic-disease patients find a new dawn on the road to health.
+
+Flower essence is not essential oil, nor is it aromatherapy. Flower essence is the living information light-wave of flowers, recording the flower's loving life information through a photosynthesis-like thermal oscillation, preserved in pure water. After high-multiple dilution and oscillation steps, its latent energy wave frequency is massively released, becoming an energy wave with a healing mechanism. It can resonate with the cell energy within the human body, letting the body's endocrine, immune, digestive, metabolic, and nervous systems, etc., as well as the mental and spiritual levels, produce a harmonious energy magnetic field, displaying optimal functional condition, stimulating incredible healing effects.
+
+**Color oil**
+
+Color oil is a spiritual therapy, derived from the realm of color and light. It is composed of an upper colored oily liquid and a lower differently-colored watery liquid; all materials come from crystal, minerals, and plants. All plants are cultivated by the highest-level planting method — biodynamic farming. Color oil can eliminate bodily-level pain and sadness through direct application, while raising our original life force and wisdom. Color oil is a very effective therapy, letting us obtain balance and harmony of body, mind, and spirit.
+
+**Tarot cards**
+
+Tarot cards, transliterated from the word "TAROT," are called "nature's treasure house of mysteries." It is an ancient Western divination tool, popular in Europe since the Middle Ages; its origin has always been a mystery. Tarot is a tool for analyzing, predicting, and offering advice on people, events, and things.
+
+**\**
+
+**Art psychology**
+
+Art psychology originated in late-18th-century Europe; at first it was a method psychiatrists used to diagnose patients by drawing. Later it was used by Freud, a pioneer of modern psychology, to analyze dreams — patients often expressed dreams they could not express in words through drawing, then these works were analyzed to understand the human inner world.
+
+**Patting**
+
+Patting therapy is a method of treating disease, using a mallet, wooden stick, or steel-wire-made beater to pat rhythmically with varying intensity at specific locations. There are many kinds of patting rhythms, such as the "seven-li beat" and "four-one-four." This therapy can help regulate the body's energy, promote blood circulation, relieve pain, strengthen immunity, achieving bodily-emotional balance. Patting therapy is a simple, easy-to-learn, safe, and side-effect-free natural therapy, suitable for people of all ages.
+
+**Environment**
+
+Environmental natural therapy is a therapy conducted by returning to the natural environment or in specific environments such as ultra-high negative-ion spaces and oxygen chambers. Behind this therapy reflects people's pursuit of high-quality life; outdoor activities, travel, etc. are all ways of returning to nature and relaxing body and mind. In such an environment, we can deeply breathe fresh air, contact the beautiful scenery of nature, feel the power of elements such as sunlight, wind, and water, thereby relieving stress, relaxing body and mind, and raising immunity. Environmental natural therapy is a simple, feasible, safe, and side-effect-free natural therapy, suitable for people of all ages.
+
+**Hydrotherapy**
+
+Hydrotherapy (Solus Par Agula) is a method of using water of different temperatures, pressures, and solute contents, acting on the human body in different ways to prevent and treat disease. The effects of hydrotherapy on the human body are mainly temperature stimulation, mechanical stimulation, and chemical stimulation. According to its use method it can be divided into immersion bath, shower, jet bath, whirlpool bath, bubble bath, etc.; according to its temperature it can be divided into high-temperature bath, warm bath, neutral-temperature bath, and cold bath; according to the drugs it contains it can be divided into carbonate bath, pine-resin bath, salt bath, and starch bath, etc.
+
+Others also include: traditional Chinese medicine, acupuncture, patting, tuina (Chinese medical massage), massage, etc.
+
+### Chapter Summary
+
+This chapter places the singing bowl within a larger map of natural therapies, emphasizing "integration" — taking the chakras as the axis, connecting the all-around self-care of body, mind, breath, and environment. The singing bowl is not isolated; it is the best "linking" healing medium.
+
+### Reflection Questions
+
+1. Which two natural therapies would you most want to combine with the singing bowl, and why?
+2. Why is "breath" placed as the first section of natural therapies?
+3. How can crystal healing and sound healing be coordinated?
 
 # Appendices
 
