@@ -1,8 +1,7 @@
 # Singing Bowl Healer Training 7.0 — English Edition
 
-> Working translation of [`../docs/颂钵疗愈师培训7.0.md`](../docs/颂钵疗愈师培训7.0.md).
+> Complete English translation of [`../docs/颂钵疗愈师培训7.0.md`](../docs/颂钵疗愈师培训7.0.md).
 > Framing material and glossary are also summarized in [`README.md`](README.md).
-> Chapters are translated section by section; remaining `<!-- TODO -->` blocks await translation.
 > Contribute via [`../TRANSLATION.md`](../TRANSLATION.md).
 
 ---
@@ -53,7 +52,7 @@ For more professional ethics and state requirements, see Chapter 4, *Basic Profe
 - Master the basic technique chain: inviting, holding, striking, rubbing, moving, placing, and stopping;
 - Understand key points for bowl selection and peripheral accessories.
 
-**Further reading**: Healing theory and energy systems — see [Chapter 2, Theoretical Topics](../docs/颂钵疗愈师培训7.0.md#第二章-理论课题).
+**Further reading**: Healing theory and energy systems — see [Chapter 2, Theoretical Topics](#chapter-2--theoretical-topics).
 
 ![WeChat image](../docs/media/image2.png)
 
