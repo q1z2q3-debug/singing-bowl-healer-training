@@ -2117,11 +2117,533 @@ The singing bowl can be said to be the best fine-tuner that simultaneously influ
 
 ## Section 5 — Chakra Rhythm (Beginner–Intermediate–Advanced)
 
-<!-- TODO: translate 2.5 Chakra Rhythm (2.5.1–2.5.5) from Chinese source -->
+### 2.5.1 The Navel-Chakra Wave
+
+The navel chakra (the third chakra) is one of the body's seven major energy centers, located at the navel. Its color is yellow, representing self-esteem, confidence, willpower, and personality traits. The healthy functioning of the navel chakra helps people maintain physical and mental health and balance.
+
+The wave pattern of the navel chakra is usually described as `OOx|OOx|OOxOx`, where "O" represents a peak of energy and "x" represents a trough. This waveform represents the flow state of the navel chakra's energy, and also reflects a person's emotional and mental state. When the navel-chakra energy flows normally, the waveform shows a steady `OOx|OOx|OOxOx` shape, meaning the person's emotion and mental state are balanced.
+
+However, when the navel-chakra energy is disturbed by external factors, the waveform becomes irregular or jittery, meaning the person's emotional and mental state may have been affected.
+
+For example, when a person feels inferior, lacks confidence, or has insufficient willpower, the navel-chakra energy is affected and the waveform becomes unstable.
+
+Therefore, maintaining the normal flow of navel-chakra energy is very important. Yoga, meditation, and sound healing can be used to adjust and balance it, raising confidence, willpower, and personality traits, and keeping body and mind healthy and balanced.
+
+`OOx|OOx|OOxOx`
+
+### 2.5.2 The Stomach-Chakra Wave
+
+The stomach chakra is one of the body's important energy centers. It is the main energy center of the digestive and metabolic systems, closely linked with the stomach, liver, gallbladder, spleen, intestines, and other organs, playing an important regulatory role in physical health and the function of the internal organs.
+
+The main function of the stomach chakra is to regulate the operation of the digestive and metabolic systems, including promoting digestion and absorption of food, regulating gastrointestinal peristalsis, and maintaining the body's metabolism.
+
+In addition, the stomach chakra is closely related to emotional and mental states; it can balance the body's energy and emotions, relieve stress and anxiety, and raise immunity and resistance.
+
+The stomach chakra's energy can be regulated by various methods, including yoga, meditation, massage, singing-bowl massage, tuina (Chinese manipulative therapy), and acupuncture. Among these, massage and tuina are among the most commonly used.
+
+By massaging and pressing the acupoints around the stomach chakra, its energy can be stimulated and regulated, promoting bodily health and balance.
+
+`Oxxx|Oxxx|Oxxx|OxOx`
+
+### 2.5.3 The Heart-Chakra Wave
+
+The heart chakra is the main energy center of the body's emotional and mental systems, closely linked with the heart, lungs, circulatory system, and other organs, playing an important regulatory role in physical health and emotional state.
+
+The main function of the heart chakra is to regulate emotion and mental state, including balancing emotions, relieving stress, raising self-confidence, and enhancing love and compassion. In addition, the heart chakra is closely related to the body's circulatory and respiratory systems; it can balance the body's energy and emotions and raise immunity and resistance.
+
+`OOxx|OOxx|OOxx|OOxx`
+
+### 2.5.4 The Three Upper and Three Lower Chakras
+
+Chakra theory holds that there are seven major chakras in the human body, located in different parts of the body, each related to different organs and emotional states. Among them, the upper three chakras comprise the seventh, sixth, and fifth chakras, located in the upper half of the body; the lower three chakras comprise the third, second, and first chakras, located in the lower half of the body.
+
+**The upper three chakras:**
+
+1. Seventh chakra (crown): located at the top of the head, related to spirituality, wisdom, and a realm beyond the worldly.
+2. Sixth chakra (brow): located at the center of the forehead, related to thinking, judgment, decision-making, and creativity.
+3. Fifth chakra (throat): located at the center of the throat, related to expression, communication, and creative expression.
+
+**The lower three chakras:**
+
+1. Third chakra (navel): located at the center of the abdomen, related to self-worth, self-esteem, and self-confidence.
+2. Second chakra (dantian): located below the abdomen, related to sexuality, emotion, and creativity.
+3. First chakra (sacrum): located at the lower part of the body, related to survival, safety, and a sense of stability.
+
+Understanding and balancing the energy of the upper and lower three chakras can help people achieve balance and health at the physical, emotional, and spiritual levels.
+
+### 2.5.5 The Melody of Energy
+
+![Singing bowl healing diagram](../docs/media/image140.png)
 
 ## Section 6 — Acupoints & Meridians (Beginner–Intermediate–Advanced)
 
-<!-- TODO: translate 2.6 Acupoints & Meridians (2.6.1–2.6.7) from Chinese source -->
+### 2.6.1 Common Acupoints
+
+Acupoints: Fengchi (GB20), Xuehai (SP10), Sanyinjiao (SP6), Guanyuan (CV4), Zusanli (ST36).
+
+- **Fengchi (Wind Pool)**
+
+![Singing bowl healing diagram](../docs/media/image141.png)
+
+Fengchi is an acupoint at the upper part of the body, located at the back of the neck, in the depression between the cervical spine and the skull. It belongs to the Gallbladder Meridian of Foot-Shaoyang, and is also where the Shaoyang of hand and foot and the Yangwei vessel meet, and where the Yangqiao vessel enters. Fengchi has the effects of calming the liver and extinguishing wind, dispelling wind and releasing the exterior, clearing the head and brightening the eyes, and unblocking the orifices. It is an important point for treating wind syndromes and a commonly used point for head diseases, clinically often treated with reducing technique.
+
+According to the chapter "Lingshu · Rebing" (Miraculous Pivot · Heat Diseases), Fengchi is an important acupoint for treating headache, dizziness, heat disease with no sweating, malaria, wind-stroke with aphasia, goiter, stiffness and pain of the neck, unclear vision, red and painful eyes, eye strain, ear diseases, nasal congestion, and convulsions caused by wind-pathogen. Because wind is a yang evil with a light, rising nature, and only wind can reach above the head, while Fengchi is located in the temporal depression behind the hairline — the meeting point of Hand-Shaoyang and Yangwei — it governs wind-stroke hemiplegia and Shaoyang headache, and is where wind-pathogen accumulates; hence its name, "Wind Pool."
+
+Pressing and stimulating Fengchi can promote blood circulation, relieve head pain and discomfort, resolve eye and ear problems, and at the same time raise immunity and improve the body's overall condition.
+
+- **Xuehai (Sea of Blood)**
+
+![Singing bowl healing diagram](../docs/media/image142.jpeg)
+
+Xuehai is located on the inner side of the thigh, in the groove of the muscle about three finger-widths above the upper inner angle of the kneecap. It is one of the body's acupoints. Xuehai can relieve and treat irregular menstruation, dysmenorrhea, functional uterine bleeding, abdominal distension, diarrhea, and abdominal pain, and can also relieve and treat knee pain, anemia, rubella, eczema, and neurodermatitis.
+
+In addition, Xuehai can treat menopausal disorders, leg slimming, blood tonification, liver nourishment, and skin moisturizing — especially skin diseases caused by blood deficiency and blood viscosity, which can be treated with the patting method.
+
+Xuehai is a very important acupoint that can effectively regulate the body's blood circulation and promote health. In daily life, we can stimulate Xuehai through massage, patting, and other methods to achieve therapeutic and health-care effects.
+
+- **Sanyinjiao (Three Yin Intersection)**
+
+![Singing bowl healing diagram](../docs/media/image143.png)
+
+Sanyinjiao is an acupoint on the inner side of the lower leg, belonging to the Spleen Meridian of Foot-Taiyin. It is located three finger-widths above the inner ankle, in the depression at the upper edge of the tibia directly above the ankle tip. Sanyinjiao is a very important acupoint with multiple effects and functions.
+
+First, Sanyinjiao can relieve physiological pain such as dysmenorrhea and irregular menstruation. Second, it can also relieve swelling of the soles of the feet — especially after prolonged standing or walking, massage of Sanyinjiao can relieve the feeling of swollen soles.
+
+In addition, Sanyinjiao can regulate the body's metabolism and relieve problems of being overweight or underweight.
+
+Finally, Sanyinjiao can also help treat infertility and promote fertility.
+
+- **Guanyuan (Gate of Origin)**
+
+![Singing bowl healing diagram](../docs/media/image144.png)
+
+Guanyuan is located three cun below the navel — a very important acupoint. It is called the gateway where the primordial yin and yang qi are stored and concealed, and is an important site where men store essence and women store blood. At the same time, Guanyuan is also the seat that commands the primordial qi, playing a very important role in human health.
+
+Moxibustion on Guanyuan can make the true fire of the Gate of Life (Mingmen) abundant, strengthen the small intestine's absorption function, thereby tonifying qi and blood, and mainly treating various deficiency conditions.
+
+In addition to moxibustion, methods such as massage and acupuncture can also stimulate Guanyuan to achieve therapeutic and health-care effects. For example, massaging Guanyuan can relieve abdominal discomfort and gastrointestinal dysfunction; acupuncture on Guanyuan can treat infertility, menstrual disorders, and prostatitis.
+
+- **Zusanli (Three Miles on Foot)**
+
+![Singing bowl healing diagram](../docs/media/image145.png)
+
+Zusanli is an acupoint on the foot, located below the knee, in front of the fibular head, three finger-widths from the anterior border of the tibia. It is the He-Sea point of the Stomach Meridian of Foot-Yangming, and can treat diseases of the digestive organs, headache, toothache, neuralgia, nasal diseases, heart disease, respiratory-organ diseases, gastroptosis, poor appetite, dysentery, abdominal distension, vomiting, and all other chief complaints of the stomach, abdomen, and intestines. In addition, Zusanli also helps raise immunity, promote metabolism, improve sleep quality, and relieve anxiety and stress.
+
+When massaging Zusanli, press with the thumb or middle finger for 5–10 minutes each time, 2–3 times a day, to relieve the above symptoms. Therefore, Zusanli is widely used in traditional Chinese medicine, massage, acupuncture, and moxibustion — a simple, safe, and effective method of self-care.
+
+### 2.6.2 The Bladder Meridian
+
+The Bladder Meridian of Foot-Taiyang is one of the meridians in the body's meridian system. It begins at the inner canthus (Jingming BL1), ascends to the forehead, and meets at the top of the head (Baihui GV20). A branch from the top of the head reaches the upper ear; another straight branch leaves the top of the head, travels back to the occiput, enters the cranial cavity, connects with the brain, exits and descends to the nape (Tianzhu BL10), then divides left and right along the inner side of the scapula and both sides of the spine (1.5 cun lateral to the spine midline) down to the waist (Shenshu BL23), enters the muscles beside the spine, penetrates deep into the abdominal cavity, connects with the kidney, and belongs to the bladder.
+
+A branch from the waist travels down along both sides of the spine, passes through the buttocks, descends along the lateral posterior thigh to the popliteal fossa (Weizhong BL40). Another branch separates from the nape (Tianzhu) and descends, passing the inner side of the scapula, then along the spine (3 cun lateral to the midline) down to the hip joint (Huantiao GB30), through the posterior thigh to the popliteal fossa where it meets the previous branch, then descends through the gastrocnemius, exits behind the lateral malleolus, along the lateral dorsum of the foot to the lateral end of the little toe (Zhiyin BL67), connecting with the Kidney Meridian of Foot-Shaoyin.
+
+The main function of the Bladder Meridian is to excrete waste from the body and regulate water metabolism, with a certain regulatory effect on the urinary, reproductive, and nervous systems. In TCM theory, the Bladder Meridian is also closely related to the liver, kidney, spleen, and stomach zang-fu organs, helping to regulate their functions. Clinically it is often used to treat urinary tract infections, cystitis, neuralgia, headache, dizziness, insomnia, and neck-shoulder pain. Acupuncture, massage, and moxibustion can all stimulate the Bladder Meridian to treat disease and maintain health.
+
+![Singing bowl healing diagram](../docs/media/image146.png)
+
+**Bladder Meridian of Foot-Taiyang**
+
+*The waterway that reaches the whole body.*
+
+**Diseases**
+
+When the Bladder Meridian is diseased, it mainly manifests as follows:
+
+- *Meridian syndrome*: deficiency-cold of the meridian makes one easily wind-averse and cold-averse, with runny nose and sneezing, and pain and movement disorder along the meridian's path such as the neck, back, lower back, and lower leg.
+- *Zang-fu syndrome*: difficult urination, enuresis, turbid urine, blood in urine.
+- *Exhaustion of bladder qi*: enuresis, eyes staring upward (three-white-eye).
+- *Hyperactive symptoms*: urinary and reproductive-organ diseases, stiffness and soreness of back muscles, lower-limb spasm and pain, front and back headache.
+- *Deficient symptoms*: scanty urine, genital swelling, back-muscle swelling, heavy and weak limbs, dizziness, weak lower back.
+
+**Care**
+
+The Bladder Meridian has 134 points from head to foot on both sides. Use both thumbs and index fingers to pinch the muscles on both sides of the spine (or use the palm heel) and push from the cervical spine all the way to the tailbone as far as possible, then bring the index fingers together, press on the spine, and push back up to the starting position.
+
+The leg portion of the Bladder Meridian can be fully stimulated by pressing-circular or tapping the points. Once a day, repeat several times.
+
+The Shen period (15:00–17:00) is when the Bladder Meridian is in command; the bladder is responsible for storing water and body fluids — water is excreted, while body fluids circulate within. Drinking water at this time is appropriate.
+
+Body temperature is higher in the Shen period, most pronounced in yin-deficient people. Appropriate activity at this time helps the body's fluid circulation; drinking yin-nourishing, fire-purging tea is most effective for yin-deficient people.
+
+*Contraindication*: Never hold urine after drinking, otherwise it hinders detoxification. Also, a noontime nap helps ensure energy in the Shen period.
+
+### 2.6.3 The Spleen & Stomach Meridians
+
+The Stomach Meridian of Foot-Yangming is the longest meridian in the body's meridian system. It begins beside the wing of the nose, ascends along the face, the root of the nose, and the inner canthus, intersecting the Bladder Meridian of Foot-Taiyang, then enters the upper teeth along the lateral side of the nose bridge, exits and flanks the mouth, encircles the lips, meets left and right at the mentolabial groove (Chengjiang CV24), and finally retreats along the posterior-inferior border of the mandible to Daying ST5. The Stomach Meridian of Foot-Yangming is mainly responsible for the body's digestion, absorption, transportation, and excretion, and is also related to the body's qi and blood and body fluids.
+
+The Stomach Meridian has many branches, including the branch from Daying down to Dazhui, the branch from the pylorus down to Qijie, the branch three cun below the knee down to the lateral end of the middle toe, and the branch from the dorsum of the foot to the medial end of the great toe (Yinbai SP1). Among these, the branch from the pylorus is one of the important branches — it penetrates the diaphragm, enters the thoracic cavity, belongs to the stomach meridian, connects with the spleen, and is also related to respiration and the heart.
+
+The Stomach Meridian is also very important in TCM treatment, used for gastrointestinal diseases, indigestion, and edema. Commonly used points include Zusanli, Hegu, Chengshan, and Yanglingquan. Stimulating its points through acupuncture and massage can regulate the balance of qi, blood, and body fluids, thereby treating disease and maintaining health.
+
+![Singing bowl healing diagram](../docs/media/image147.png)
+
+**Spleen Meridian of Foot-Taiyin**
+
+*Nourish yin and nourish blood; no disease arises.*
+
+The spleen meridian is a yin meridian, most closely connected with the zang-fu organs. When it is blocked, the body shows the following illnesses:
+
+- *Meridian syndrome*: when the spleen meridian is not smooth, the inner side of the great toe, the inner edge of the foot, the lower leg, the knee or inner thigh, and the groin show cold, soreness, distension, numbness, and pain.
+- *Zang-fu syndrome*: declined spleen function brings general fatigue or general pain, stomach pain, abdominal distension, loose stools, chest oppression, and acute pain below the heart. Exhaustion of spleen qi brings soft, atrophied muscles and emaciation.
+- *Hyperactive symptoms*: hypochondriac distending pain, vomiting, pain and difficulty moving the foot and knee, insomnia.
+- *Deficient symptoms*: indigestion, gastric flatulence, upper-abdominal pain, vomiting, limb fatigue, numbness, leg varicose veins, drowsiness, easily damaged skin.
+
+**Care**
+
+The spleen meridian is on the front and side of the body and can be maintained by patting stimulation, but the force should be moderate — pat the front side every morning, about 10 minutes per side. Moxibustion can also be used, especially on Yinbai, which stops bleeding well.
+
+The spleen is the general dispatcher of digestion, absorption, and excretion, and also the commander of the body's blood.
+
+The Si period (9:00–11:00) is when the spleen is on duty; patting and stimulating the spleen meridian then is the best care for it. Avoid dry-heat and pungent foods then, lest you damage the stomach and spleen.
+
+Good spleen function means good digestion and absorption, good blood quality, and rosy lips. Pale lips signal insufficient blood qi; purple lips signal cold entering the spleen meridian.
+
+*Contraindication*: Pregnant women should not massage Sanyinjiao on the spleen meridian. Literature records that combining Sanyinjiao with Hegu can cause miscarriage, so use with caution.
+
+**Stomach Meridian of Foot-Yangming**
+
+*The acquired foundation of the human body.*
+
+**Diseases**
+
+When the stomach meridian is troubled, one often shows the following symptoms:
+
+- *Meridian syndrome*: this meridian runs from head to foot; if blocked, one easily develops high fever, sweating, swollen neck, sore throat, toothache, deviated mouth, runny nose, or nosebleed.
+- *Zang-fu syndrome*: declined stomach function brings stomach pain and distension, indigestion, vomiting, acid reflux, borborygmus and abdominal distension; in severe cases, total loss of appetite.
+- *Hyperactive symptoms*: body heat, abdominal distension, hiccups, constipation, increased appetite, spastic stomach pain, excessive stomach acid, dry cracked lips.
+- *Deficient symptoms*: abdominal pain, diarrhea, or vomiting after meals, indigestion, insufficient stomach acid, depression, lower-limb fatigue.
+
+**Care**
+
+The stomach meridian is on the front of the body, a line from head to foot. For it, use patting stimulation to smooth the meridian's qi and blood; key facial points can be rubbed with the index or middle finger for 1 minute, with moderate force, and the leg portion can be patted a bit harder — 3 times a day (Chen period, 1 hour after meals, 1 hour before sleep), 5–10 minutes each time. Moxibustion can also relieve discomfort.
+
+In the Chen period (7:00–9:00) eat breakfast to replenish energy and settle the stomach and intestines. This is when breakfast is most easily digested and best absorbed. Arrange mild, stomach-nourishing foods such as congee and cereal. Pressing the stomach meridian 1 hour after meals starts the body's "power-generation system" and regulates gastrointestinal function.
+
+*Contraindication*: Overly dry-heat foods easily cause stomach-fire, leading to dry cracked lips and lip sores. But also avoid stomach-cold to protect the care effect.
+
+The Spleen Meridian of Foot-Taiyin begins at Yinbai (SP1) at the medial end of the great toe, ascends along the medial red-white border, passes the anterior border of the medial malleolus, ascends along the midline of the medial lower leg, meets the Liver Meridian of Foot-Jueyin at 8 cun above the medial malleolus, then ascends along the anterior medial border of the thigh into the abdomen, belongs to the spleen, and connects with the stomach. It is mainly responsible for digestion, absorption, transportation, and excretion, and is also related to qi, blood, and body fluids.
+
+Its branches include a vessel separating from the stomach that ascends through the diaphragm and pours into the heart, meeting the Heart Meridian of Hand-Shaoyin. Its points include Jing-well and He-Sea points such as Taibai (SP3), Yinlingquan (SP9), and Zusanli (ST36). Stimulating its points regulates digestion, absorption, transportation, and excretion, and promotes the circulation of qi, blood, and body fluids, thereby treating disease and maintaining health.
+
+In TCM the Spleen Meridian of Foot-Taiyin is also an important therapeutic meridian, commonly used for spleen-stomach weakness, poor appetite, edema, and fatigue. It is also related to emotion and sleep, so it has application value in treating emotional disorders and insomnia.
+
+![Singing bowl healing diagram](../docs/media/image148.png)
+
+### 2.6.4 The Lung Meridian
+
+The Lung Meridian of Hand-Taiyin is an important meridian in the body's meridian system. It begins in the middle jiao, descends to connect with the large intestine, returns along the stomach orifice, ascends through the diaphragm, and belongs to the lung. Its main function is to govern the lung's qi-blood circulation and respiratory function; its path and point distribution are closely related to the lungs and respiratory system. It travels horizontally from the lung system (the trachea, bronchi, and throat connected to the lung) to the upper outer chest, exits the axilla, descends along the anterior border of the medial upper limb, passes the cubital fossa, enters the cun-kou, goes over the thenar eminence, and straight out to the radial end of the thumb (Shaoshang LU11).
+
+At the same time, it has a branch separating behind the wrist, traveling along the dorsum of the hand to the radial end of the index finger, meeting the Large Intestine Meridian of Hand-Yangming.
+
+The Lung Meridian of Hand-Taiyin is often applied in TCM diagnosis and treatment of respiratory-system diseases, and its points are widely used in acupuncture, tuina, and other TCM physical therapies. Therefore, understanding and skillfully using it is of great significance for maintaining the health of the respiratory system.
+
+![Singing bowl healing diagram](../docs/media/image149.png)
+
+**Lung Meridian of Hand-Taiyin**
+
+*The general manager of smooth breathing.*
+
+**Diseases**
+
+The lung meridian is closely connected with the lung, large intestine, and throat. A smooth lung meridian ensures the normal function of these related organs.
+
+When the lung meridian is abnormal and blocked, the body develops the following diseases:
+
+- *Meridian syndrome*: swelling, numbness, cold, or soreness along the lung meridian's path, generally appearing in the supraclavicular fossa, upper arm, and medial upper edge of the forearm — i.e., toward the thumb.
+- *Zang-fu syndrome*: the lung itself shows cough, asthma, shortness of breath, chest distension and pain; and because the lung connects with nose and mouth, also nasal congestion, common cold, runny nose, and wind-cold aversion.
+- *Emotional disease*: abnormal lung-meridian qi easily causes emotional abnormality. Lung-qi deficiency produces sadness, inferiority, and psychological stress; lung-qi excess produces arrogance and presumption.
+- *Skin disease*: the lung meridian is closely related to the skin; abnormal lung qi can cause skin changes such as allergic skin disease, spots, and loss of luster.
+
+Because human lung qi never increases, it only decreases.
+
+### 2.6.5 The Gallbladder & Liver Meridians
+
+The Gallbladder Meridian of Foot-Shaoyang is an important meridian. It starts at the outer canthus (Tongziliao GB1), ascends to the head angle (Jianyan GB4), then descends to behind the ear (Wangu GB12), folds upward through the forehead to above the brow (Yangbai GB14), then folds back to Fengchi (GB20), descends along the neck to the shoulder, meets at Dazhui (GV14) left and right, then separates and travels forward into the supraclavicular fossa. Its main function is to regulate the qi-blood circulation of the gallbladder, liver, and triple-burner meridians and harmonize the body's yin-yang balance.
+
+Its three main branches: one separates from Wangu behind the ear, enters the ear via Yifeng, exits in front of the ear, passes Tinggong, to behind the outer canthus; one separates from the outer canthus, descends to Daying at the mandible, joins the branch of the Triple Burner Meridian on the cheek, returns below the eye socket, then descends along the mandibular angle to the neck, meets the previous vessel at the supraclavicular fossa, enters the thoracic cavity, descends through the diaphragm, connects with the liver, belongs to the gallbladder, emerges superficially at Qijie, encircles the pubic hair, and travels horizontally to Huantiao (GB30); one separates from the dorsum of the foot (Zulinqi GB41), travels forward to the lateral end of the great toe, folds back through the nail, to behind the nail of the great toe, meeting the Liver Meridian of Foot-Jueyin.
+
+Its straight branch descends from the supraclavicular fossa to the axilla, along the chest side, past the floating ribs, down to Huantiao where it meets the previous vessel, then down along the lateral thigh and outer knee, in front of the fibula, straight down to the lower end of the fibula (Juegu GB39), exits in front of the lateral malleolus, travels along the dorsum of the foot to the lateral end of the fourth toe (Xiaoyin GB44). It is often used to regulate the qi-blood circulation of the gallbladder, liver, and triple-burner meridians and harmonize yin-yang, and its points are widely used in acupuncture and tuina.
+
+![Singing bowl healing diagram](../docs/media/image150.png)
+
+The Liver Meridian of Foot-Jueyin is an important meridian. It starts behind the nail of the great toe, ascends along the dorsum of the foot to 1 cun in front of the medial malleolus (Zhongfeng LR4), ascends along the medial border of the tibia, crosses behind the Spleen Meridian of Foot-Taiyin at 8 cun above the medial malleolus, ascends past the medial knee, along the midline of the medial thigh into the pubic hair, encircles the genitals, reaches the lower abdomen, flanks the stomach on both sides, belongs to the liver, connects with the gallbladder, ascends through the diaphragm, distributes in the hypochondriac region, along the back of the throat, ascends into the nasopharynx, connects with the eye system, exits at the forehead, and ascends to meet the Governing Vessel at the top of the head. Its main function is to regulate the liver's qi-blood circulation and harmonize the body's yin-yang balance.
+
+Its two main branches: one separates from the eye system, descends inside the cheek, encircling the inner side of the lips; one separates from the liver, passes through the diaphragm, and pours upward into the lung, meeting the Lung Meridian of Hand-Taiyin.
+
+It is often applied to regulate the liver's qi-blood circulation and harmonize yin-yang, and its points are widely used in acupuncture and tuina. Therefore, understanding and skillfully using it is of great significance for maintaining liver health.
+
+![Singing bowl healing diagram](../docs/media/image151.png)
+
+**Gallbladder Meridian of Foot-Shaoyang**
+
+*A meridian with miraculous health-preserving functions.*
+
+**Diseases**
+
+When the gallbladder meridian is diseased, it mainly manifests as:
+
+- *Meridian syndrome*: bitter and dry mouth, migraine, white hair, hair loss, cold-heat aversion, axillary swelling and pain, knee or joint pain, sciatica.
+- *Zang-fu syndrome*: fullness and bitterness in the chest and hypochondrium, timidity and easy fright, poor appetite, frequent sighing, insomnia, irritability, sallow skin, constipation, etc. Exhaustion of gallbladder qi makes the eyebrows droop and hair fall.
+- *Hyperactive heat symptoms*: bitter mouth, chest and rib distension, neck or mandibular pain, throat discomfort, insomnia, headache, constipation, spasm and pain of the lateral lower leg/ankle/knee, heat under the foot.
+- *Deficient cold symptoms*: weakness, joint swelling, lower-limb weakness, yellow eyes, spitting bitter water, drowsiness, night sweating, fright and sighing, heavy breathing, loose stools.
+
+**Care**
+
+The gallbladder meridian is long, from head to foot, with many regions and broad functions. If you choose to fall asleep at the Zi period, you can pat the gallbladder meridian before sleep; the head can be scraped with fingers, but keep the force comfortable — too heavy hinders sleep. About 3 minutes each time.
+
+The Zi period (23:00–1:00) is when the first yang is born, like a seed beginning to sprout; damage to the tender sprout has the greatest impact. Do not stay up late; go to bed promptly. Falling asleep before Zi brings a clear head and rosy complexion without dark circles the next morning. Conversely, those who often cannot sleep in the Zi period have a pale complexion and dark circles. Also, poor bile detoxification and metabolism easily form crystals and stones.
+
+*Contraindication*: In the Zi period it is best not to eat late-night snacks or do strenuous exercise, lest it hinder falling asleep.
+
+**Liver Meridian of Foot-Jueyin**
+
+*The key to cultivating character.*
+
+**Diseases**
+
+The liver meridian relates to the liver, gallbladder, stomach, lung, eyes, and throat. Though its path is not long and it has few points, its role is not small. Liver disease shows:
+
+- *Meridian syndrome*: dry and bitter mouth, dizziness (hypertension), heavy falling sensation at the top of the head, dry eyes, hypochondriac distending pain, intercostal neuralgia, lower-abdominal distending pain, and diseases along its path.
+- *Zang-fu syndrome*: fullness and bitterness in the chest and hypochondrium, emotional depression, fatty liver, irregular menstruation, breast hyperplasia, uterine fibroids, prostatic hypertrophy, hernia, etc.
+- *Hyperactive heat symptoms*: headache, yellow skin, low-back pain, difficult/painful urination, dysmenorrhea, irritability, excitement, impulsiveness.
+- *Deficient cold symptoms*: dizziness, pale face, low libido, thigh and pelvic pain, lower-limb weakness, easy fatigue, blurred vision, easy fright.
+
+**Care**
+
+The liver meridian runs from Qimen (LR14) on the chest to Dadun (LR1) on the foot, 28 points on both sides. At night keep still and rest; do not stimulate its points. When in low spirits, cupping on Qimen and Riyue (GB24) of the gallbladder meridian can maintain the liver meridian.
+
+TCM holds that "the liver stores blood" and "when a person lies down, blood returns to the liver."
+
+The Chou period (1:00–3:00) is when deep sleep best cares for the liver. If you cannot sleep in the Chou period, the liver is still outputting energy to support thought and action and cannot complete metabolism.
+
+*Contraindication*: Staying up late greatly harms the liver meridian; those who fail to sleep before Chou have a greenish-gray complexion, sluggish and restless emotions, easily develop liver disease, and a dull, spot-prone face.
+
+### 2.6.6 The Triple Burner Meridian
+
+The Triple Burner Meridian of Hand-Shaoyang is an important meridian. It starts at Guanchong (SJ1) at the ulnar end of the ring finger, ascends along the ulnar side of the ring finger to the dorsal wrist, then along the forearm and outer upper arm up to the shoulder, finally enters the supraclavicular fossa, distributes at Danzhong (CV17), scatters to connect with the heart, passes through the diaphragm, and belongs successively to the upper, middle, and lower burners.
+
+Its main function is to regulate the body's qi-blood circulation, especially the circulation of the upper limb and head, and it also regulates water metabolism, body temperature, and immune function.
+
+It has two main branches: one separates from Danzhong, ascends through the shoulder, nape, behind the ear, and cheek, finally reaching below the eye socket, meeting the Gallbladder Meridian of Foot-Shaoyang; another separates from behind the ear, enters the ear, exits in front of the ear, meets the previous branch on the cheek, and finally reaches the outer canthus.
+
+Its regulatory role is of great significance to health and is widely used in TCM to treat various diseases. Its health care is also important — massage, acupuncture, and moxibustion can regulate it.
+
+![Singing bowl healing diagram](../docs/media/image152.png)
+
+**Triple Burner Meridian of Hand-Shaoyang**
+
+*Defends the safety of the head and brain.*
+
+**Diseases**
+
+When the triple burner meridian is diseased, it mainly manifests as:
+
+- *Meridian syndrome*: migraine, tinnitus and deafness, sore throat, eye pain, and other head-face-sense-organ diseases, as well as movement disorders along its path such as neck pain, shoulder-back pain, and elbow-arm pain.
+- *Zang-fu syndrome*: upper-burner disease easily brings restlessness, chest oppression, palpitations, cough, and asthma; middle-burner disease easily brings spleen-stomach distension and pain and poor appetite; lower-burner disease easily brings edema, enuresis, and abnormal urination/defecation.
+- Exhaustion of upper-burner qi brings frequent belching; middle-burner exhaustion brings inability to eat; lower-burner exhaustion brings incontinence of urine and stool.
+- *Hyperactive heat symptoms*: tinnitus, ear pain, severe headache, upper-limb pain, shoulder-neck weakness, poor appetite, insomnia, irritability.
+- *Deficient cold symptoms*: upper-limb weakness and numbness, pale face, shallow breathing, cold, scanty urine, mental and physical fatigue, depression, loose and weak muscles, hearing impairment.
+
+**Care**
+
+The triple burner meridian concentrates on the head, neck, and outer arm. Before sleep, gently pat its path for 3–5 minutes, with moderate force. If you do not want to sleep then, listen to music, read, watch TV, or do yoga, but最好 don't sleep later than the Hai period.
+
+The Hai period (21:00–23:00) is when the triple burner is in command. The triple burner is the largest of the six fu organs, the place of origin, grain-water, and body-fluid movement.
+
+It is the last of the twelve periods, when people rest and sleep. Sleeping in the Hai period lets all vessels get the best rest and recovery — very beneficial to the body and beauty. Centenarians share the common trait of sleeping in the Hai period.
+
+*Contraindication*: Staying up late may cause endocrine disorders, so it is best not to form the habit.
+
+![Singing bowl healing diagram](../docs/media/image153.png)
+
+### 2.6.7 The Pericardium Meridian
+
+The Pericardium Meridian of Hand-Jueyin is one of the twelve meridians. It begins in the chest, emerges and belongs to the pericardium, descends through the diaphragm, and connects successively with the upper, middle, and lower burners. Its main function is to regulate the qi-blood circulation of the heart and chest, protecting the health of the heart and chest organs.
+
+Its branches include one separating from the chest, emerging at the axilla 3 cun (Tianchi PC1), ascending to below the armpit, along the midline of the medial upper limb into the elbow, past the wrist, into the palm (Laogong PC8), along the radial side of the middle finger, exiting at the radial end of the middle finger (Zhongchong PC9). This branch mainly regulates the qi-blood circulation of the arm and fingers, relieving pain and numbness of the arm and fingers.
+
+Another branch separates from the palm, along the ulnar side of the ring finger (Guanchong SJ1), meeting the Triple Burner Meridian of Hand-Shaoyang. This branch mainly regulates the qi-blood circulation of the fingers and hand, relieving pain and numbness.
+
+Overall, its branches cover the arm, fingers, and hand, playing a role in regulating qi-blood circulation and relieving related pain symptoms.
+
+![Singing bowl healing diagram](../docs/media/image154.png)
+
+**Pericardium Meridian of Hand-Jueyin**
+
+*The great general that guards the heart-master's circulation.*
+
+**Diseases**
+
+When the pericardium meridian is diseased, it mainly shows:
+
+- *Meridian syndrome*: insomnia, excessive dreaming, easy waking, forgetfulness, mouth ulcers, bad breath, whole-body itching, etc.
+- *Zang-fu syndrome*: restlessness, palpitations, heart pain, chest oppression, mental disorder, etc.
+- Exhaustion of pericardium qi brings large, spiritless eyes and a body sallow as if smoked by smoke.
+
+*Hyperactive heat symptoms*: restlessness, irritability, insomnia, excessive dreaming, chest pain, hot head pain, upper-limb pain, red eyes, constipation.
+
+*Deficient cold symptoms*: palpitations, bradycardia, dizziness, difficulty breathing, upper-limb weakness, chest pain, easy waking, difficulty falling asleep.
+
+**Care**
+
+The pericardium meridian is on the inner side of the arm and includes Tianchi on the chest.
+
+A walk after dinner is appropriate; while walking, gently pat its points until flushed, with moderate force, 3–5 minutes each time.
+
+The pericardium is the heart's protective tissue and also a qi-blood channel. The pericardium meridian is most prosperous in the Xu period (19:00–21:00); those with poor heart health should best press it then.
+
+At this time also create conditions for peaceful sleep: keep a happy mood, read, listen to music, or do tai chi to relax and release stress.
+
+*Contraindication*: Dinner should not be too greasy, otherwise it easily generates excess heat and chest oppression and nausea.
+
+**Heart Meridian of Hand-Taiyin**
+
+*The king who governs human life and death.*
+
+**Diseases**
+
+When the heart meridian is abnormal, the body shows:
+
+- *Meridian syndrome*: insomnia, excessive dreaming, easy waking, difficulty falling asleep, forgetfulness, dementia; pain, numbness, cold, and unstable blood pressure along the arm the meridian passes.
+- *Zang-fu syndrome*: restlessness, palpitations, chest oppression, heart pain. Exhaustion of heart qi brings lustreless hair, emaciation, and a dull complexion.
+- *Hyperactive symptoms*: palpitations, excitement, dry mouth after exercise; under stress, with a sense of pressure, depression, numbness of the inner shoulder, pain of the little finger.
+- *Deficient symptoms*: chest oppression, difficulty breathing, pale face, shoulder and forearm pain, heavy limbs, dizziness.
+
+**Care**
+
+The heart meridian is on the inner side of the arm, 18 points on both sides. Before meals, gently pat its points along the path, with five fingers together and slightly bent, tapping comfortably, 3–5 minutes each time.
+
+The Wu period (11:00–13:00) is when the heart meridian is in command. Do not do strenuous exercise then; a short nap is greatly beneficial to the heart and keeps energy high from afternoon to evening. Quiet lying with closed eyes or a short nap — even just resting the eyes — is very good for the body.
+
+*Contraindication*: Though a nap is good, don't exceed 1 hour, otherwise it easily causes insomnia; also don't overeat at lunch — excess in anything is as bad as deficiency.
+
+### 2.6.8 The Girdle Vessel (Daimai)
+
+The Girdle Vessel is one of the body's eight extraordinary meridians. It encircles the waist like a horizontal meridian. All other meridians in the body are vertical; this one is like a rope tying all the meridians together, hence its name, "Girdle Vessel."
+
+It can restrain the longitudinal meridians — the three yin and three yang of the foot and the two qiao vessels are all restrained by the Girdle Vessel, strengthening the connections among the meridians.
+
+First: it governs the body's fourteen meridians.
+
+Second: it connects upward to the stomach and intestines, downward to the uterus and ovaries.
+
+Third: it protects the kidneys; insufficient foundation qi shows kidney-deficiency phenomena.
+
+Traditional TCM holds that regularly tapping and maintaining the Girdle Vessel has many benefits.
+
+One: it helps fat metabolism and reduces excess flesh, especially miraculous for slimming the abdomen and the sides of the waist.
+
+Two: it increases intestinal peristalsis, with a good laxative effect for constipated people.
+
+Three: it speeds up the circulation of meridian qi and blood, with the effect of regulating menstruation and stopping leucorrhea and soothing the liver and moving stagnation, clearing the blood stasis and heat accumulated here by all meridians — helping with cold, aching waist, dysmenorrhea, and the prevention and treatment of gynecological diseases.
+
+In addition, because the three points on the Girdle Vessel — "Daimai" (same name as the meridian), Wushu, and Weidao — all lie on the gallbladder meridian, tapping the Girdle Vessel is also like tapping the gallbladder meridian, able to expel toxins from the body.
+
+![Singing bowl healing diagram](../docs/media/image155.png)
+
+### 2.6.9 Other Meridians
+
+**Ren Meridian (Conception Vessel)**
+
+*The general manager of female gestation and nourishment.*
+
+**Diseases**
+
+When the Ren meridian is disordered, the following diseases may appear:
+
+- Reproductive and urinary-system diseases: irregular menstruation, dysmenorrhea, various gynecological inflammations, infertility, excessive leukorrhea, difficult urination, hernia, lower-abdominal skin itch, perineal swelling and pain, premature ejaculation, seminal emission, enuresis, prostate disease, etc.
+- Upper-abdominal digestive-system and chest-respiratory diseases: abdominal distension, vomiting, hiccups, poor appetite, chronic pharyngitis, asthma, etc.
+
+**Care**
+
+Several important points on the Ren meridian — focusing stimulation on them — maintain it. Select Zhongji (CV3), Qihai (CV6), and Guanyuan (CV4); massage with the middle-finger pad for about 5 minutes each, with a slight numb-distending feeling. Moxa sticks can also be used for gentle moxibustion, 10–15 minutes each time. This has a good health-care effect on the female reproductive system, maintaining the whole system and preventing premature aging.
+
+There is no specific time for maintaining the Ren meridian.
+
+**Governing Vessel (Du Meridian)**
+
+*The governor that regulates the qi and blood of the yang meridians.*
+
+**Diseases**
+
+When the Governing Vessel's qi-blood is abnormal, the body mainly develops head, sense-organ, spinal-cord, and limb diseases.
+
+Excess Governing-vessel yang: neck-back low-back pain, stiff neck, irritability, insomnia, excessive dreaming.
+
+Governing-vessel deficiency-cold: cold aversion and cold limbs, unsteady walking, dizziness, limb trembling, convulsions, numbness, and wind-stroke, neurasthenia, forgetfulness, dementia, schizophrenia, etc., as well as diseases along its path such as hemorrhoids, rectal prolapse, and uterine prolapse.
+
+**Care**
+
+Maintain the Governing Vessel by scraping along it with a gua-sha board, relieving headache, heat disease, and neck-back low-back pain.
+
+On the Governing Vessel, Mingmen (GV4), Yaoyang (GV3), Shenzhu (GV12), and Dazhui (GV14) are important health points; gentle moxibustion on two of them for 10–15 minutes each time gives good overall care and also raises the body's yang and resistance.
+
+There is no specific practical time for maintaining the Governing Vessel.
+
+**Kidney Meridian of Foot-Shaoyin**
+
+When the kidney meridian is abnormal, the body shows:
+
+- *Meridian syndrome*: kidney-yin deficiency mainly shows heat-aversion — dry mouth and throat, chronic pharyngitis, shortness of breath and asthma, restlessness and heart pain, insomnia and excessive dreaming, and heat in the five centers (two palms, two soles, and the heart). Kidney-yang deficiency mainly shows cold-aversion — easily cold hands and feet, dark and withered face, dizziness, sore waist and weak knees. If both symptoms exist — some are cold in winter and heat-averse in summer, some have upper heat (sore throat) and lower cold (cold hands and feet) — it indicates dual deficiency of kidney yin and yang and the approach of aging. Why some age prematurely while others stay youthful comes down to the kidney.
+- *Zang-fu syndrome*: mainly failure of water governance causing edema, difficult urination, seminal emission, impotence, palpitations, easy fright, easy fear, tinnitus, blurred vision. Kidney-qi deficiency leaves marrow unnourished — osteoporosis, loose teeth, withered hair, lustreless complexion.
+- *Hyperactive heat symptoms*: yellow and scanty urine, dry mouth, heat in the mouth, dry tongue, fatigue, heat under the foot, pain on the inner thigh, increased libido, abnormal menstruation.
+- *Deficient cold symptoms*: frequent urination, clear urine, swelling, cold legs, cold under the foot, lower-limb numbness and weakness, easy fright, indecision, decreased libido, weakened intestinal function.
+
+**Care**
+
+The kidney meridian is on the inner upper body, the inner leg, and the Yongquan (KI1) point on the sole — 54 points on both sides. At rest, use the palm or a massage hammer to pat and stimulate its points; for key points (Yongquan, Taixi KI3) use massage or moxibustion. Pat the kidney meridian 5–10 minutes each time.
+
+The You period (17:00–19:00) is when the kidney meridian is in command. It is the meridian that coordinates the body's yin-yang energy and maintains water-fluid balance; after the Shen period's fire-purging and detox, the kidney enters the stage of storing essence in the You period.
+
+*Contraindication*: In the You period avoid excessive exercise and drinking too much water.
+
+**Large Intestine Meridian of Hand-Yangming**
+
+*The protector of the body's lymphatic system.*
+
+**Diseases**
+
+When the large intestine meridian is diseased, it mainly shows:
+
+- *Meridian syndrome*: blockage causes pain, soreness, distension, and numbness along its path — the index finger, arm, upper limb, and posterior shoulder.
+- *Zang-fu syndrome*: borborygmus and abdominal pain, constipation, diarrhea, rectal prolapse, etc. Exhaustion of large-intestine qi brings uncontrollable diarrhea and fecal incontinence.
+- *Sense-organ disease*: yellow eyes, dry mouth, dry and sore eyes, runny nose or nosebleed, swollen and painful gums, sore throat, and a series of symptoms.
+- *Hyperactive heat symptoms*: constipation, abdominal distending pain, headache, shoulder and forearm pain, finger pain, body heat, dry mouth.
+- *Deficient cold symptoms*: loose stools, diarrhea, abdominal pain, dizziness, upper-limb weakness, cold hands and feet.
+
+**Care**
+
+The large intestine meridian is on the outer upper limb and effectively prevents skin disease. Patting and stimulating it to move the bowels is the best maintenance; pat along its path once a day, about 12 minutes, alternating hands. Gua-sha can also scrape out the toxins accumulated in the intestine, especially the Erjian and Quchi points.
+
+The Mao period (5:00–7:00) is when the large intestine peristalses and expels toxic waste. The lung and large intestine are exterior-interior related: the lung spreads ample fresh blood throughout the body, then promotes the large intestine into an excited state to absorb water and nutrients from food and expel residue.
+
+After getting up in the morning, develop the habit of defecating. After getting up, drink a cup of warm water, then go to the bathroom to expel the waste accumulated the day before. A morning cup of warm water also dilutes the blood and helps prevent thrombus formation.
+
+*Contraindication*: Pregnant women must not press Hegu.
+
+**Small Intestine Meridian of Hand-Taiyang**
+
+*The mirror that reflects heart capacity.*
+
+**Diseases**
+
+When the small intestine meridian is diseased, it mainly shows:
+
+- *Meridian syndrome*: deafness, yellow eyes, mouth ulcers, sore throat, swelling and pain of the jaw and neck, and arm pain along its path.
+- *Zang-fu syndrome*: pain around the navel, restlessness and chest oppression, falling pain at the top of the head, low-back and spine pain radiating, testicular hernia, dark-red and scanty urine, urinary retention, blood in urine, uncontrolled spontaneous sweating.
+- *Hyperactive symptoms*: pain from the neck, back of the head, and temple to the ear; pain around the navel and lower abdomen; constipation; pain from the posterior scapula to the outer posterior arm.
+- *Deficient symptoms*: swelling of the jaw and neck, tinnitus, declining hearing, vomiting, diarrhea, cold hands and feet, weak body.
+
+**Care**
+
+The small intestine meridian is on the shoulder and outer arm. Pressing its points along the path after lunch gives the best effect; the shoulder can be pressed by a family member, with moderate force. Press 5–10 minutes each time. Shoulder-neck pain patients can focus on Houxi (SI3); the elderly can press more on Yanglao (SI6).
+
+The Wei period (13:00–15:00) is when the small intestine is in command — the best time to maintain it. Drinking water or tea then helps the small intestine detox and reduce fire. Finish lunch before 13:00, when the small intestine is most active and absorbs nutrients best; otherwise it is wasted. Lunch must be good — high, refined, and rich in nutritional value.
+
+*Contraindication*: Try to finish lunch before 13:00, but don't rush to eat at 12:00, because then the body's blood qi is at its daily peak and the body is in its most excited state.
+
+> The wound is the place where the Light enters you.
+> — Rumi, the 13th-century spiritual poet
 
 # Chapter 3 — Practical Operation
 
