@@ -3311,25 +3311,952 @@ This chapter puts the theory of the previous two chapters into "hand" — provid
 
 # Chapter 4 — Life Wisdom of the Singing Bowl (Advanced)
 
-## 4.1 Outlook on Life
+### Learning Objectives of This Chapter
 
-<!-- TODO: translate 4.1 -->
+- Embody the life view of "the human is the bowl";
+- Understand the worldview (healing / I Ching / Tao Te Ching / Buddhism / energy manifestation) and the values (inner abundance, love overflowing, growth mindset);
+- Clarify the healer's professional foundation and vital-energy self-restoration methods.
 
-## 4.2 Worldview
+### The Bowl — Dao, Method, Technique, Instrument
 
-<!-- TODO: translate 4.2 -->
+As a vessel, the singing bowl is a tool. Yet through long development, the different ways of using it, combined with the human body's perceptual experience, have evolved into a professional set of techniques. The training of sound-healing instructors, beyond the overall theoretical study of the bowl, emphasizes the practice and application of bowl-playing methods — the same as the training of any tool's use.
 
-## 4.3 Values
+As for the comprehension and practice of Dao and Method, one not only uses the bowl skillfully, but can also customize brand-new courses according to different states and different people — not limited to the repeated use of the tool, thus achieving "the gentleman is not a mere vessel," applying skilled technique to innovatively transmit the bowl's energy and solve clients' problems customarily.
 
-<!-- TODO: translate 4.3 -->
+In learning Dao and Method, while creating or innovating methods and instruments, maintain theoretical or essential unity, to avoid straying onto a wrong path that brings irreversible loss and harm to development.
 
-## 4.4 Basic Professional Requirements for Healers
+The training of singing-bowl trainers will comprehensively unite the philosophical system, scientific system, application skills, and practical experience of the bowl, making one a genuine singing-bowl healer.
 
-<!-- TODO: translate 4.4 -->
+**01 — Choose a Good Bowl**
+
+A good bowl will emit low, middle, high, and overtone sounds on its own… If you strike it correctly, it can produce different rhythms. A good singing bowl represents even sound, stable overtones, without broken or split tones — greatly helping emotion and body return to a comfortable, peaceful state.
+
+**02 — Good Technique**
+
+Coordinated striking-technique training and tendon-soothing hand movements are very much needed. With good striking technique and proper use of the striker, the bowl's characteristics come alive in richer variety.
+
+**03 — Good Mindset**
+
+A loving, meditative process and mindset are very important. The striker is also the listener, the feeler, and the observer; cultivate a kind, compassionate heart toward yourself and others, rather than using it to perform or vent.
+
+When every strike is done with love — to act, to listen, to observe — over time, both you and the person you serve will undergo a great transformation of temperament, and the relationship between the two will grow better and better.
+
+Here, a special note: singing-bowl healing is different from medical treatment. Medical treatment is a medical act aimed at physical illness; it treats symptoms and requires drugs or surgery. The bowl healing we speak of seeks to understand the causes behind illness — those unhealthy emotions, those fixed notions. Healing is not resisting disease, but using disease to explore the deeper levels of mind and emotion — health.
+
+## Section 1 — Outlook on Life
+
+### 4.1.1 Emptiness | The Human Is the Bowl
+
+![Singing bowl healing diagram](../docs/media/image195.jpeg)
+
+**The Dao of the bowl**
+
+The bowl is for use; the bowl's space is its substance. Laozi said: "Clay is molded to make a vessel; it is precisely its emptiness that gives the vessel its use. Therefore, the existent is for benefit; the nonexistent is for use."
+
+Through the use of the singing bowl, humanity realizes an inner tranquility, a unity of heaven and humanity — on this point the wisdom of the East is so close, whether in ancient India or China.
+
+In the history of humankind, among the four great ancient civilizations, only China has been transmitted to the present. Among the excellent peoples of history, the Chinese nation has endured to this day — besides its own iteration and renewal, it has fused world civilizations with an open attitude, creating a cultural heritage rich in the spirit of the times.
+
+### 4.1.2 Autonomy | Practice
+
+![Singing bowl healing diagram](../docs/media/image196.jpeg)
+
+![](../docs/media/image197.png)
+
+### 4.1.3 Innate | Complete
+
+![Sing bowl healing diagram](../docs/media/image198.jpeg)
+
+![](../docs/media/image199.png)
+
+### 4.1.4 Self-Reliance | Altruism
+
+![Singing bowl healing diagram](../docs/media/image200.jpeg)
+
+![](../docs/media/image201.png)
+
+### 4.1.5 Moderation | Middle Way
+
+![Singing bowl healing diagram](../docs/media/image202.jpeg)
+
+### 4.1.6 Harmony | Order
+
+![Singing bowl healing diagram](../docs/media/image203.jpeg)
+
+### 4.1.7 Life | Mindfulness
+
+![](../docs/media/image204.png)![](../docs/media/image205.png)
+
+### 4.1.8 Life | Scale
+
+### 4.1.9 Life | Pixels
+
+## Section 2 — Worldview
+
+### Albert Einstein — "The World As I See It"
+
+How strange is the lot of us mortals! Each of us here for a brief sojourn; for what purpose, we know not, though sometimes we fancy we sense it. But it need not be wholly beyond comprehension if, from the everyday, we understand: a human being is here for the sake of other people — above all for those whose smiles and well-being are linked to our own; and for the many unknown ones whose destinies are bound to ours by sympathy. Daily I remind myself a hundred times that my inner and outer life depend on the labors of others, living and dead, and that I must exert myself to give in the same measure as I have received. I am strongly drawn to a frugal life, and it is my conviction that the dividing line between classes is unjust and ultimately rests on force. I believe a simple, unassuming life is good for the body and mind alike.
+
+I do not at all believe in human freedom in the philosophical sense. Each person's actions are not only governed by external necessity but also by inner necessity. Schopenhauer's words — "A man can do what he wills, but he cannot will what he wills" — have been a very real consolation to me since my youth; they have always soothed me in the face of life's difficulties and been a source of endless tolerance. This awareness can lighten the sense of responsibility that easily makes one despondent, and prevent us from taking ourselves and others too seriously; it also leads to a view of life that gives humor its due place.
+
+To inquire after the meaning or purpose of one's own or any other living being's existence, objectively considered, has always struck me as silly. Yet each person has certain ideals that determine the direction of his effort and judgment. In this sense I have never viewed comfort and happiness as life's purpose in themselves — that ethical basis I call the ideal of a pigsty. The ideals that light my way and again and again give me new courage to face life cheerfully are goodness, beauty, and truth. Without the affection of like-minded companions, without immersion in the objective world — that realm in science and art never to be fully reached — life would seem empty to me. The vulgar goals humanity strives for — property, vanity, the pursuit of luxury — I have always found contemptible.
+
+My strong sense of social justice and social responsibility stands in odd contrast to my pronounced aloofness from direct contact with people and society. I am truly a "solitary traveler," never wholly belonging to my country, my family, my friends, even those closest to me; before all these relationships I always feel a certain distance and a need for solitude — and this feeling grows with the years. One clearly perceives that mutual understanding and harmony with others has its limits, but this is no cause for regret. Such a person surely loses some of his innocence and carefree ease; but on the other hand he can, to a large extent, be untroubled by others' opinions, habits, and judgments, and avoid building his inner balance on such unreliable foundations.
+
+My political ideal is democracy. Let every person be respected as an individual, and none be made an idol. I have been showered with excessive praise and honor — not through my own fault or merit, but as a mockery of fate; the reason perhaps lies in people's wish to grasp the few ideas I won through constant struggle, a wish many have failed to realize. I fully understand that an organization needs someone to think, to command, and to bear full responsibility. But those led must not be coerced; they must be able to choose their leaders. To me, forced despotism soon corrupts; for violence always attracts the base, and I believe the tyrant of genius is always succeeded by the scoundrel — an unfailing law. For this reason I have always firmly opposed the systems we saw in Italy and Russia. The form of democracy in Europe today is discredited, but not through the democratic principle itself; it is the instability of government and the impersonal character of elections. I believe America has found the right path — electing a president with a long enough term and full power to fulfill his duties. On the other hand, what I value in the German system is its broader provisions for the sick and the poor. In the magnificent pageant of human life, what I find truly precious is not the political state, but the creative, feeling individual — the personality; only the individual creates the noble and the excellent, while the masses are always dull in thought and feeling.
+
+Here I am reminded of the worst expression of mass life — the military system I abhor. That a man can strut with a military band in four columns is reason enough for me to despise him; he grew a brain only by mistake — a mere spinal cord would suffice. The evil breeding-ground of civilized nations should be abolished as soon as possible. Courage born of command, senseless brutality, and all the loathsome antics under the name of patriotism — I detest them all! How base and foul war seems to me! I would rather be torn to pieces than take part in such abominable work. Yet I hold humanity in very high esteem; I believe that if the healthy feelings of the people had not been systematically destroyed by commercial and political interests working through schools and newspapers, the demon of war would long since have vanished.
+
+The most beautiful experience we can have is the mysterious. It is the fundamental emotion that stands at the cradle of true art and true science. Whoever does not know it, who no longer wonders or marvels, is as good as dead, with clouded eyes. It is this mysterious experience — though tinged with fear — that gives birth to religion. We sense the existence of something we cannot penetrate, the deepest reason and the brightest beauty that we can grasp only in their most primitive forms; this knowledge and this feeling constitute true religious sentiment. In this sense, and only this sense, am I a deeply religious man. I cannot imagine a God who rewards and punishes his creatures, nor one with a will like our own. I cannot and will not imagine a life after death for the individual; let the fragile soul, from fear or silly egoism, content itself with perceiving the wondrous structure of the present world, catching a glimpse of it, and with sincere effort comprehend a small part of the reason displayed in nature — that is enough for me.
+
+*[Notes]*
+
+Schopenhauer's German original: "Ein Mensch kann zwar tun, was er will, aber nicht wollen, was er will." — translator
+
+During World War II, Einstein admitted that for a long period before the war he had been influenced by anti-Soviet propaganda, after which his view on the matter changed somewhat. See his speech at a banquet of the "American Jewish Council for Aid to Russia" on October 25, 1942, and his letter of March 16, 1950, to the American anti-Communist "theorist" Sidney Hook. — translator
+
+Refers to the Weimar Republic, established at the end of World War I in 1918 and overthrown by Hitler in 1933. When first published, the text used not "the German political system" but "our political system." — translator
+
+Having witnessed the spread of German militarism and the fascist plague, Einstein formed a very mistaken view of the masses and mass movements, a mistake that also appears in other articles. — translator
+
+After July 1933, Einstein changed this absolute anti-war stance, actively calling on anti-fascist forces to arm themselves against fascist armed aggression. See his letter of July 20, 1933, to A. Nahon. — translator
+
+This essay was first published in 1930 in *Forum and Century*, vol. 84, pp. 193–194, in the "Forum" series, no. 13, *Contemporary Philosophy*. The original title was "What I Believe." — translator
+
+### 4.2.1 What Is Healing
+
+![Sing bowl healing diagram](../docs/media/image206.jpeg)
+
+First, we suggest that those about to receive bowl healing must understand the definitions of treatment and healing, and then distinguish the difference between the two, so as not to be biased in their expectations of adjustment later.
+
+#### 4.2.1.1 What Is Treatment?
+
+The broad health field has four stages: prevention, diagnosis, treatment, and rehabilitation. The middle stages — diagnosis and treatment — belong to medicine and must be performed in a proper hospital by a physician who immediately addresses the patient's illness, restoring bodily function by eliminating disease or relieving physical symptoms. Usually, diagnosis and treatment can restore only about 50%–60% of bodily function; with later rehabilitation after a major illness, the body can recover to about 80% of its pre-illness state. Take a small skin wound: even with good recovery today, the skin function at the wound is about 80% of normal — a proportion that does not affect the patient's normal life, but scientifically it is hard to return to the most original, pristine state.
+
+When we are not physicians and cannot perform surgery or diagnose and prescribe, yet publicly claim we can "treat" illness, that is actually a very unreasonable claim.
+
+#### 4.2.1.2 What Is Healing?
+
+Of the four stages of the broad health field, healing has a broader scope, leaning more toward prevention and rehabilitation — more toward discovering pre-illness conditions and assisting repair after treatment, playing a supporting role in diagnosis and treatment. Singing-bowl healing is still being explored scientifically, but we do not rule out sound as a possible future medicine.
+
+Developing conservatively, the application of the bowl extends beyond the hospital medical system into psychological, emotional, spiritual, and transcendent levels. Non-discriminating, non-harming bowl healing can accomplish holistic body-mind-spirit healing.
+
+But healing is not local elimination or stopping of symptoms, nor merely returning the body to its pre-diagnosis state. It goes deeper, exploring inward — why specific symptoms arose — launching a tracing process beyond the bodily level, helping the patient reclaim their own power, so that their body-mind-spirit state returns to the health and vitality it should have, through a new lifestyle, way of relating, and emotion management, achieving overall restorative healing. Thus, when healing takes effect, the result is often better than the state before the illness appeared.
+
+#### 4.2.1.3 The Occurrence of Healing
+
+![Slide 19](../docs/media/image207.jpeg)
+
+### 4.2.2 Wisdom of the I Ching
+
+![Singing bowl healing diagram](../docs/media/image208.jpeg)
+
+### 4.2.3 Tao Te Ching
+
+![Singing bowl healing diagram](../docs/media/image209.jpeg)
+
+### 4.2.4 Buddhist Wisdom
+
+![Singing bowl healing diagram](../docs/media/image210.jpeg)
+
+### 4.2.5 Brain Science
+
+![Singing bowl healing diagram](../docs/media/image211.jpeg)
+
+![Singing bowl healing diagram](../docs/media/image212.jpeg)
+
+### 4.2.6 Energy Manifestation
+
+![](../docs/media/image213.png)![Slide 8](../docs/media/image214.jpeg)
+
+### 4.2.7 Huangdi Neijing (Yellow Emperor's Inner Canon)
+
+The East is associated with the color green/blue and connects to the liver; it opens at the eyes and stores its essence in the liver. Its disease manifests as fright; its flavor is sour; its class is plants and trees; its domestic animal is the chicken; its grain is wheat; it corresponds to the four seasons, above as the year-star (Jupiter), thus spring qi resides in the head. Its tone is *jue* (角), its number is eight; thus we know its disease is in the tendons; its odor is rancid.
+
+The South is associated with red and connects to the heart; it opens at the ears and stores its essence in the heart, so its disease is in the five zang. Its flavor is bitter; its class is fire; its domestic animal is the sheep; its grain is millet; it corresponds to the four seasons, above as the flickering star (Mars). Thus we know its disease is in the vessels. Its tone is *zhi* (徵), its number is seven; its odor is scorched.
+
+The Center is associated with yellow and connects to the spleen; it opens at the mouth and stores its essence in the spleen, so its disease is at the root of the tongue. Its flavor is sweet; its class is earth; its domestic animal is the ox; its grain is sorghum; it corresponds to the four seasons, above as the quiescent star (Saturn). Thus we know its disease is in the flesh. Its tone is *gong* (宫), its number is five; its odor is fragrant.
+
+The West is associated with white and connects to the lung; it opens at the nose and stores its essence in the lung, so its disease is in the back. Its flavor is pungent; its class is metal; its domestic animal is the horse; its grain is rice; it corresponds to the four seasons, above as the white star (Venus). Thus we know its disease is in the skin and hair. Its tone is *shang* (商), its number is nine; its odor is fishy.
+
+The North is associated with black and connects to the kidney; it opens at the two yin and stores its essence in the kidney, so its disease is in the streams. Its flavor is salty; its class is water; its domestic animal is the pig; its grain is beans; it corresponds to the four seasons, above as the morning star (Mercury). Thus we know its disease is in the bones. Its tone is *yu* (羽), its number is six; its odor is putrid.
+
+Therefore, one skilled in pulse diagnosis carefully observes the five zang and six fu, the obverse and reverse, yin and yang, interior and exterior, the ordering of male and female, and keeps it in the heart's intent, uniting the heart with essence. Teach it not to the unworthy; transmit it not if it is not true — this is called attaining the Dao.
+
+— *Plain Questions · Treatise on the Golden Chamber's True Words*
+
+![Singing bowl healing diagram](../docs/media/image215.png)
+
+![Singing bowl healing diagram](../docs/media/image216.png)
+
+The East generates wind; wind generates wood; wood generates sour; sour generates the liver; the liver generates the tendons; the tendons generate the heart; the liver governs the eyes. In heaven it is mystery; in humanity it is the Dao; on earth it is transformation. Transformation generates the five flavors; the Dao generates wisdom; mystery generates spirit. Spirit in heaven is wind; on earth is wood; in the body is the tendons; in the zang is the liver; in color is blue-green; in tone is *jue*; in sound is shouting; in change is grasping; in orifice is the eyes; in flavor is sour; in emotion is anger. Anger injures the liver; grief overcomes anger; wind injures the tendons; dryness overcomes wind; sour injures the tendons; pungent overcomes sour.
+
+The South generates heat; heat generates fire; fire generates bitter; bitter generates the heart; the heart generates blood; blood generates the spleen; the heart governs the tongue. In heaven it is heat; on earth is fire; in the body is the vessels; in the zang is the heart; in color is red; in tone is *zhi*; in sound is laughing; in change is worry; in orifice is the tongue; in flavor is bitter; in emotion is joy. Joy injures the heart; fear overcomes joy; heat injures the qi; cold overcomes heat; bitter injures the qi; salty overcomes bitter.
+
+The Center generates dampness; dampness generates earth; earth generates sweet; sweet generates the spleen; the spleen generates flesh; flesh generates the lung; the spleen governs the mouth. In heaven it is dampness; on earth is earth; in the body is flesh; in the zang is the spleen; in color is yellow; in tone is *gong*; in sound is singing; in change is hiccup; in orifice is the mouth; in flavor is sweet; in emotion is thought. Thought injures the spleen; anger overcomes thought; dampness injures the flesh; wind overcomes dampness; sweet injures the flesh; sour overcomes sweet.
+
+The West generates dryness; dryness generates metal; metal generates pungent; pungent generates the lung; the lung generates skin and hair; skin and hair generate the kidney; the lung governs the nose. In heaven it is dryness; on earth is metal; in the body is skin and hair; in the zang is the lung; in color is white; in tone is *shang*; in sound is weeping; in change is coughing; in orifice is the nose; in flavor is pungent; in emotion is worry. Worry injures the lung; joy overcomes worry; heat injures skin and hair; cold overcomes heat; pungent injures skin and hair; bitter overcomes pungent.
+
+The North generates cold; cold generates water; water generates salty; salty generates the kidney; the kidney generates marrow and bone; marrow generates the liver; the kidney governs the ears. In heaven it is cold; on earth is water; in the body is the bone; in the zang is the kidney; in color is black; in tone is *yu*; in sound is groaning; in change is shivering; in orifice is the ears; in flavor is salty; in emotion is fear. Fear injures the kidney; thought overcomes fear; cold injures the blood; dryness overcomes cold; salty injures the blood; sweet overcomes salty.
+
+— *Plain Questions · Treatise on the Correspondence of Yin and Yang*
+
+![Singing bowl healing diagram](../docs/media/image217.png)
+
+![Singing bowl healing diagram](../docs/media/image218.png)
+
+The heart is the official of the monarch, from which the spirit emanates. The lung is the official of the minister, from which regulation and rhythm emanate. The liver is the general, from which planning emanates. The gallbladder is the official of impartiality, from which decision emanates. The chest center (Dan-zhong) is the official of the messenger, from which joy emanates. The spleen and stomach are the officials of the granary, from which the five flavors emanate. The large intestine is the official of transport, from which transformation emanates. The small intestine is the official of reception, from which things are transformed. The kidney is the official of strength, from which skill emanates. The triple burner is the official of drainage, from which the water passage emanates. The bladder is the official of the region, where the body fluids are stored; when transformed by qi, they can be discharged. These twelve officials must never fail one another.
+
+Therefore, when the master is clear, the subordinates are at peace; thus nurturing life brings longevity, and no peril throughout one's days; governing the world thereby brings great prosperity. When the master is not clear, the twelve officials are endangered; the pathways are blocked and impassable, and the form is greatly wounded; thus nurturing life brings calamity, and governing the world puts its lineage in great peril — be cautious, be cautious.
+
+The ultimate Dao is subtle, its changes inexhaustible; who knows its origin? How precarious — the observer is watchful, who knows its essence? In the fitting and proper, who is excellent? The number of the indistinct is born of the tiny; the tiny's number arises from measure; multiplied by thousands and tens of thousands, it can grow greater; pushed to the great, its form is established.
+
+— *Plain Questions · Treatise on the Secret Canon of the Spirit*
+
+![](../docs/media/image219.png)![Singing bowl healing diagram](../docs/media/image220.png)
+
+## Section 3 — Values
+
+### "The Power of the Mind" (Xin Zhi Li)
+
+Written by Mao Zedong in May 1917 (the early summer month of the Ding-Si year).
+
+The universe is my mind; my mind is the universe. From the finest hair tip to the vastness of heaven and earth, all is driven by the mind's thought-power.
+
+Looking across the past and present, we know that humanity is the primate of all things precisely because, among the creatures of heaven and earth, it is the mind that most strives to evolve.
+
+Our ancient China, the cradle of humanistic civilization, was the first to establish the justice, morality, and virtue of all nations precisely because among the peoples of the earth it most strove for the mutual cultivation of humanity and the virtue of heaven-earth. The sages and worthies of ancient China followed the Dao of nature, combining civil and martial, planning the world with such ease and such heroic greatness.
+
+Yet heaven envied China: invasion without and turmoil within left the vast land benighted, and the people, under the insidious, violent penetration and attack of demonic bandits, gradually forgot their sacred mission; a brilliant Chinese populace was defeated by the accumulated ills of willing self-abasement, sinking, and dissipation. For five thousand years the central divine land stood in the universe, nurturing heaven's Dao, virtue transforming Kunlun, yet gradually forgot the great Dao-mission of exterminating demons and bandits. Treating demons well and sparing life, like Dongguo feeding the wolf, we gradually lost territory to the vast expanse. Demonic bandits invade and slaughter the globe, their blood-guilt reaching the heavens, greedy and brutal, hypocritical and sinister. The foolish restrain themselves and endure, the simple and good seek to influence with goodness, meeting evil with good — like fish and meat inviting the demon-bandits' blade.
+
+Surveying the world's nations across a thousand years, judging their nature by their deeds, only the Western nations are like demonic bandits — their bloodthirst is so complete that if they are not demons, no other nation could be called a demonic rogue. Only divine-heroic China is like the divine knight-sage — its reverence for the Dao and honor of virtue is so complete that if it is not the divine knight, no other nation could be called a divine sage. The divine knight-sage is the progenitor who comprehended and created agricultural production and economy — diligent in tillage, moderate in taking and giving, devoted to life and virtue, cultivating body and nature, good and kind in dealing with the world, believing in the great Dao of the unity of heaven and humanity. The demonic bandit is the sinister, hypocritical plunderer and killer — not comprehending cultivation, greedy and rampant, cruel and dangerous, aggressively extorting, perfunctorily nomadic, firmly believing in the demonic Dao of parasitic exploitation. The divine knight and the demonic bandit have been mortal enemies since the creation; the knight nourishes life while the bandit destroys it — as incompatible as water and fire, as day and night. This is the universe's adjudication of light and darkness, the slaughter of survival and death; the wise must never lightly trust that the two can coexist in peace.
+
+Loyalty and treason divide good and evil; historical fact distinguishes right from wrong; life and death adjudicate the divine and the demonic. The struggle between the divine and the demonic, the right and the wrong, has existed since ancient times, contending and battling, transforming into the human-world combat of light and darkness. Only the Dao of heaven is manifest, and the wrong can never finally overcome the right. Thus, once the divine knight stirs himself, he can exterminate the demons and bandits — never be timid with fear, and never turn traitor! The divine-demonic battle is life-or-death, never to be extinguished; therefore the knight is forever the mortal enemy of the bandit — to naively seek peace is to invite self-destruction. The bandits all take our annihilation as their essential evil; the knight must take the extermination of demons as his essential righteousness, passed down through generations, never slackening.
+
+When the state is weak and the ruler foolish, the state is broken, with invasion without and internal strife; the virtuous find their mind-power and material power insufficient, and their wish to save the world is in vain. The villainous are shameless and fearless, in collusion — truly thieves who deceive the world. The ugly and corrupt seize the people's mandate, privatize the sacred instruments, and the dull-witted serve in office, harming the state and the people. The corrupt bureaucrat and the national traitor enrich their whole families, plundering the people's fat and the nation's wealth.
+
+When the people's livelihood and hearts decline, the national power declines daily; when national power declines, the heart-power of the nation and its people also declines! Within, it can induce natural disaster and war, dynastic change; the bureaucrat, merchant, farmer, worker, and scholar all sink — not one egg remains unbroken. Without, it can entice the bandits' invasion, enslavement, and plunder; the traitor, han-jian, soldier, and student all lose home and family, with no good end. Those who emigrate to barbarian lands mostly live under others, humiliated for generations, their lives and interests unsafe.
+
+For decades the divine land has been repeatedly savagely invaded and slaughtered; the national treasury and the people's wealth have been insidiously robbed. The Jiawu naval war, the Eight-Nation Alliance, the Twenty-One Demands… the unequal and base, cowardly traitorous treaties, inviting the wolf into the house, summoning the enemy to invade — were indeed acts of the foolish ruler and traitor harming the people.
+
+Those who trade with the barbarians let foreign goods flood in, hoarding and gouging, and the people are all exploited. The vast China could not even produce the daily necessities of the people's lives, and not a few bureaucrats held power to relieve the people's hardships. All the world's demonic bandits, like entering an empty realm in China, gained much and were all astounded at China's exploitability. Thus the evil enemy's covetousness endures, its will to annihilate us never dies; we can only await the opportunity for a death-battle to repel the enemy, to exchange for temporary peace. Before the fierce war is opened and the towering national humiliation avenged, the barbarians, jackals, and fierce demons come like tasting sweet cane.
+
+The running dogs of foreign powers run rampant, the han-jian are brazen; the people are all in peril because of the corrupt han-jian bureaucrats, warlords, and comprador families who sold out the country, incurring endless national-debt servitude to the foreigners. The state is broken, warlords divide the land, wars rage year after year, debt is deep, prices soar, food and shelter are hard, disasters come in succession — when will it end? Now though the Manchu Qing is defeated, the state, politics, and economy are still controlled by the benighted autocrat and the foreign slaves; the people's heart-power is a deep, weak illness, and the barbarian enemy tramples at will — in a daze we suddenly see the myriad people enslaved, the national wealth exhausted.
+
+If we wish to save the people and govern the state, to revive China's martial vigor, though a hundred things await restoration, we can cast the remarkable and the great, becoming a generation unparalleled. The plan to save the nation and the people: the foremost principle is to strengthen the people's mind-power; and the first shortcut to renew and strengthen the people's thinking and mind-power is to break the benighted evil Dao of feudalism and bureaucracy, to punish the traitors who sold out the country and the han-jian compradors who slavishly followed the foreigners, clearly warning that their ill-gotten wealth be fined into the public treasury and that their families and descendants meet no good end — only then can the full way of education and deterrence be realized.
+
+Rise up, original and wise, establish the state and reveal the grand strategy. The new mind-power and aspiration of the nation and people must create a new learning of humane, virtuous, brave, and civilizational brilliance; new learning is the cornerstone and beam of thought and theory. If new learning does not flourish, repelling the enemy is hard, and the foreign slaves will surely prosper and the state perish. Western learning and religion all display the sinister and false; if allowed to roam the world freely, human culture is destroyed. When China's new learning gathers the great achievements of ancient and modern, it will surely become humanity's new land. China's ancient-state enemy is the Western evil demonic bandit and the han-jian; with the dwarf-thief (Japan) sharing the hatred, this hatred has no solution — be doubly vigilant, then you can save yourself and others; never confuse them.
+
+Now I advocate that in matters of the foreign affairs we should borrow the principle "learn the barbarians' strengths to control the barbarians," and fully know the ancestral teaching "those not of our kind must differ in heart; those not of our clan must be evil in nature." Dealing with the foreign bandits, repay every grievance, with thunder-like wisdom display maneuvering, strike and kill the enemy chief, only then can we win the self-reliant dignity and wealth of the Chinese nation and people. Examine closely the secret art of the Western demonic bandits' invasion and slaughter — the technique of plundering wealth to seize the world's invasion provisions, and the hypocritical mind-subduing religion that transforms the world's enslavement into a central hub. Thus countless petty, benighted, weak-nation politicians are all beguiled and paralyzed, with inferiority offering up the state-system to fawn on the foreign and be enslaved, cheaply selling the people's fat and the national soul.
+
+Study the demonic bandits' way of strengthening the nation by plundering the people — all are tactics of banding together to expand outward. Our vast China must not imitate the demonic bandits' ship-strong-gun-power global invasion; we can greatly innovate the divine-knight's mutual-aid, friendly world improvement. Whoever unites against the outside, regardless of good or evil, is the best policy to eliminate internal strife and external humiliation. This "repel the foreign" policy is deeply understood by the wise who revive the nation. With the demonic bandits rampant in the world, how can China grow strong with one corner of one country? And how can it, with the Song-dynasty Zhao's weak, self-mutilating, compromising survival, naively hope to keep the gentleman's moral intercourse with the demonic bandits? All such are national traitors who sell out the country and harm the people. Only by raising the great banner of global counterattack against the demonic bandits can we execute the strategy of strengthening the state and enriching the people while repelling the enemy. He who does not plan for the whole does not deserve to plan for a corner; he who does not plan for ten thousand generations does not deserve to plan for a moment — how can we sit alone at the bottom of the well?
+
+The fashion of studying abroad must not be indulged; the peak of national learning is of great benefit. Thus the savior must be within the country, and the aspirant abroad must not hide his will. The compatriots studying in the strong nations drift overseas; they must guard against the demonic bandits' misleading and harassment of our just souls, like wind-protection in cold winter, like warding off evil when weak and sick. Female students especially must protect their mind and will. With measured attack and relaxation, the foreign slaves, han-jian, and dwarf-thieves will find no opening and have no place to lodge. The heavenly Dao and wisdom of studying abroad lie in researching and pondering the demonic bandits' thousand-year plundering and enslavement of China's good and docile people — their heaven-given, life, and property, accumulating evidence of the thieves' crimes, pursuing the demons' atonement. Especially urgent is to see through the insidious, hidden thought and learning and the beguiling of mind-power, breaking the benightedness. Reflect on China's indulgent, compromising, enervated weakness; revive China's brave, martial defense of the Dao; devise the shortcut to surpass the demonic bandits; innovate the strange art of seizing the plunder. Lift the restrictions on the upward path for the aspiring among the people; refresh the governance to resolve the clash between the people's will and totalitarianism; release the popular will, nourish the people's livelihood; reward the commoner who is clean and public-spirited with public power.
+
+China's pillars must birth a new image of self-reliance and self-strengthening; set preventive strategies against the barbarian bandits' slaughter; raise the great aspiration of the people to enrich the state and strengthen the army; care for the livelihood and welfare of the farmers, workers, and scholars. Open new learning to nurture the new people, supplemented by new-people models as citizens; with culture attack by virtue, with martial support by courage; resist the barbarian powers' plot to exterminate China's sacred inheritance; inherit the aspiration of the world's great unity and sacred civilization; fulfill the mission of justice, virtue, and education.
+
+We hear that "the army can be deprived of its commander, but a common man cannot be deprived of his will" — the will is the power of the mind. The people's will first recommends the natural robustness of the nation's and the people's individuality, so that the pillars of the state emerge endlessly. For centuries, in foreign humiliation and internal strife, the people's individuality has been repeatedly harmed by the monarch and the bureaucrat; the ills are heavy, and the people's mind and body have been much injured — the weakness of the people is the weakness of the state. In the whole nation, whoever suppresses the individual and violates the people's individuality commits the greatest crime! Therefore China's three bonds must be removed, benighted rule and benighted governance wholly eliminated, before there is hope of shaping a strong people.
+
+Since China opened its ports, feudalism, bureaucracy, benightedness, and foreign-affairs have harmed the state and the people. Tracing the reason: the church, the capitalist, the monarch, and the traitor — these four are the "inner four thieves"; banding together like a ghostly alliance of man-eaters, all are the world's demonic bandits. Among the four thieves, the bureaucrat who holds political power is the chief culprit! The sacred heavy instrument of the state must put the people first; it must never be used to abet evil, private greed. If benighted, shallow petty men steal and occupy the state's center, then foreign demons will surely invade and the people will surely perish.
+
+Those who would annihilate China, with the great enemy of the "outer four thieves," have for a thousand years lain beside our bed; all of China's disasters originate from this. The outer four thieves are: the dwarf-thief royal house; the Jewish heretical cult of the demonic-bandit race and its derived sect chiefs; the European bandit royal houses; and the surrounding petty nations that betray and rebel. All wish to kill our hearts, capture our bodies, and plunder our wealth. As the powerful, fierce enemy for China's revenge, the washing away of humiliation, and the display of might, we must settle the historical accounts to the last detail, passing them to generation after generation — never forget. We may strike them heavily with the stratagems of war, supplemented by the new morality, conscience, and faith to assimilate them — this is the multi-pronged defense-and-attack policy.
+
+Since the Manchu Qing's foreign-affairs movement, corrupt families have all stolen and exploited the people's fat to flee overseas, for the plot of family enjoyment. Given time, the myriad Chinese people's ancestral blessings, even flesh and marrow, will be wholly stripped and sent to the Western demonic bandits and the corrupt families! The people, like falling into an abyss in cold winter, are further poisoned while at death's door. The agricultural populace, backward and narrow, will surely sink into enslavement as a perished nation. And those who plunder the national wealth flee overseas, with no one at home to investigate and punish, and no one abroad to count and block — thus the traitors follow one after another, flocking like ducks. If we cannot punish them, how are we different from the dwarf-thief, the demonic bandit, the national traitor, the brute?
+
+Looking far back to the Three-Kingdoms turbulent era, the Five Barbarians of the Northern and Southern dynasties nearly exterminated China; fortunately heaven-sent hero Ran Min saved the people; though the Tang was rich and strong, it was penetrated by the barbarian An Lushan, yet had the divine-race battle to mend the old rivers and mountains; the Song valued civil over martial, feared the outside and oppressed the inside, the root of the foreign enemy's great invasion; the Ming had rampant dwarf-thieves, repeated incursions that finally became the source of the Ming's decline; the Yuan and Qing barbarians used the whole nation's strength to raise many han-jian, the beginning of the perdition of nation and clan. Therefore the han-jian and national traitor are ultimately the crux of China's weakness.
+
+The han-jian and national traitor are also of three kinds: the first are the spies of the dwarf-thief and demonic bandits, posing as missionaries, merchants, scholars, sneaking into China awaiting their chance; the second are those intentionally bought and won over by the enemy nation or heretical cult, willingly selling out the country for glory; the third are the benighted, narrow, self-abasing who fawn on the outside and despise the inside, misled and used in ignorance, actually carrying out the betrayal of country and harm to people. All three are the public enemy of nation and people; there should be good policy of education and purification, learning from the past to warn the future, studying the patterns, setting models — this is the rectification code to revive and forever end the han-jian.
+
+Now the benighted forget their roots and fall into the abyss, yet race to dig their own graves, never thinking of the nation's and people's peril. They muddle through the present, lose the sacred mission, forget the nation's heavy responsibility; deviate from truth, violate the human root of wisdom, defile the ancestors' morality; intoxicated with pleasure, unaware of the world's upheaval, willing to be the foreign-slave fawning on the outside; immersed in self, ignoring the crisis on all sides, credulously believing the demonic bandit's slander! Thus the Western and dwarf-thief bandits can wantonly invade, plunder, and enslave our Han-Tang China, as if entering an unpeopled realm.
+
+The saints of a thousand ages take education as the root. We happen to meet this era of chaos before our eyes; all chase material desire and lose the heart, follow trivialities and forget the true, intoxicate with entertainment and lightly regard the national will, scheme for small private gain and abandon the great benefit, recognize the barbarian as father, worship the demonic bandit as teacher, let the dwarf-thief seep in, and destroy civilization in shamelessness. How can you and I live in disgrace, turning a blind eye? At the critical juncture of the nation's survival, the aspirant can hardly breathe; we must take the world as our own responsibility, saving the people from fire and water.
+
+Looking at the present, the world's structure is turbulent and shifting, the future of human civilization uncertain, the happiness of all under heaven in peril. Though technology brings material abundance, it still cannot fill the huge gulf of human desire; all factions rush about for their own private interest, and everyone is drawn into the rolling torrent. The bandit-rogues formulate the barbaric laws that adjudicate the world; the evil devil openly becomes the hypocritical leader of humanity; the nations do not think to raise the army of morality, but wholly worship the demonic bandit as teacher — the time until all grass and trees, all living beings of this planet are destroyed and extinct is not far.
+
+Though there are wise and brave ones willing to be the pillar in the midstream, they are like a man's voice in a busy market, a fish's song below a waterfall. Ask around — how many still cling to truth? How many still seek the origin? One "as long as I'm happy" and they willingly drift with the current; one "none of my business" and they practice the universal fool; one "don't talk politics" and they take the people's rights as private instruments. Do they not know that the rise and fall of the world is the responsibility of every man? Ask: how to establish the heart for heaven and earth? How to establish the life for the people? How to continue the绝学 of the past sages? How to open the great peace for ten thousand generations? If our kind no longer has this heart, then China is about to perish! And if China perishes, humanity must perish!
+
+If we wish to save China, we must raise the way of martial endeavor and flourishing industry. With the gentleman's wondrous aspiration, send forth the demon's wondrous troops; with thunder-like means, exterminate the warlords' division; set the strategy of great unity, cut the scattered and disorderly deliberation; create the good and upright strong party, avoid the harm of a hundred parties; annihilate the invading evil enemy, remove the traitor who sells the country; open the door of the weak nation, nourish the recovery of the national illness; strengthen the people's will and shape body and mind, cultivate the workers and farmers and heavy industry; replenish the people's original spirit, nurture China's strength. The people's heart under heaven cannot be deceived; the aspirant's mind-power should take the rest and recuperation of the people as the highest aim. The aspirant's mind should take insight into the demon-bandits' essence as the ruler's Dao, as the shortcut to a strong nation.
+
+The foremost way to a strong nation is to cleanse the evil, private, old order, and indulge the people's heavenly heart. When the myriad people's body-mind-will burgeons, the reality of a great nation's revival can be nurtured; the parties should observe minutely, plan that every citizen has a profession, help women and children to read, advocate that all workers eliminate drought, flood, pestilence, abolish the bureaucrat's everywhere-displayed arrogance, keep the corrupt under constant supervision, train the heavenly troops globally brave and divine. And the invention and manufacture of machines are all the unconstrained mind-power; borrowing and creating on our own can burgeon, cracking the demonic bandits' top-secret thinking; looking down upon Western technique from above, the value lies in self-renewing thought and forging a unique path. Keep the mind-power ever new, strike the demonic bandits' science at its fatal point — then new technique can destroy the enemy and strengthen ourselves.
+
+The male is the nation's body, strengthening sinew and bone, protecting and expanding industry; he must carry the aspiration to cultivate self, manage family, govern the state, and bring peace to the world. At present China's divine-race males cannot resist the demonic bandit without, and do not detect the han-jian within, addicted to the abuse of material and spiritual opium, blindly envying all the demonic bandit possesses, full of self-abasement and emptiness — then how can the offspring they raise be self-reliant? The female is the nation's meridian, nourishing the spirit, gestating the race; she must raise the sentiment of eugenics and good childbirth to assist the great enterprise. Today the central divine-race female binds her body-mind with foot-binding, refuses literacy, let alone the self-mutilation of talent-less and closed benightedness, even despising the divine-race's male kin, practicing the benightedness of recognizing the thief as lord — then how can the offspring she gestates be self-reliant? If the nation's female is self-abasing, then all she gestates is self-abasing! I observe that where the demonic bandit invades and slaughters, he enslaves and exterminates the males, beguiles and kills the females, the aim being to thoroughly perish the nation and change the race — thus the female's body-mind gestation is by no means a private sentiment of the small self; nurturing children and assisting the male are all the great-self nurturing of the nation, urgently needing to innovate the learning of womanly Dao. Therefore the strong-nation policy should have the male brave in war and willing to learn, the female releasing body-mind and diligent in virtue — practiced bit by bit.
+
+Without, we can crush the demonic bandit's rotten, withered, overwhelming force to perish us; within, we can comprehend that all China's disasters originate from the demonic bandits' instigation, and with wise clarity turn calamity into fortune. The divine knight and demonic bandit must have many decisive battles; the evil cannot invade the right — we must never forget the just mission.
+
+The greatest force of heaven is the sun; the greatest force of earth is electricity; the greatest force of man is the heart. Where the yang qi issues, even metal and stone are pierced; once the spirit arrives, what cannot be accomplished? To change dynasties, seek fortune for the people, punish the corrupt and the han-jian — what difficulty! If one is publicly loyal to the state, unyielding through a hundred setbacks, though a commoner of low station, he is not without the ability to shift the world's fortune. Can the aspirant not exert himself! The power of the heart is the mind's will and vow; one who rides the great Dao can fully manifest wondrous power, shape the nation's majesty, turn stone to gold, mold clay into troops, forge the state-body into a fortress of metal, and refine the myriad people into divine generals. Though there are evil demonic troops, how can they shake the towering China, the clear heaven and earth.
+
+Man lives between heaven and earth; the tangible is called the flesh-and-blood body, the intangible is called the true mind and real nature. Flesh is formed of material; mind-nature is born before heaven and earth. Hence the theory of materialism and idealism. Living in the world, the flesh is the instrument, the mind-nature is the master, the spirit is the heavenly Dao. The flesh shows the appearance of birth and death; the mind-nature keeps the unchanging substance; all sentient life is not contrary to this principle. The truth of all civilizations past and present issues from the mind-nature and is completed in matter. Virtuous governance, literature, art, artifacts, and even personal deeds are all driven by wish, desire, and emotion; with fine comprehension one can change heaven and earth.
+
+Therefore, what mind-nature an individual has, that outwardly is his life; what mind-nature a group has, that outwardly is its undertaking; what mind-nature a nation has, that outwardly is its civilization; what mind-nature all beings have, that outwardly is their karmic retribution. Thus the heart is the original force that forms the world's artifacts. The Buddha said: "When the mind arises, all dharmas arise; when the mind ceases, all dharmas cease." Thus Indian Buddhism perished through a passive extinguishing of mind.
+
+The Western bandit religion also had the Old Testament's Lord's violent abuse of the people; later Jesus's New Testament improved it with the Buddha-nature of loving the people. The mind-natures of god and demon vary thus; hence the world is mostly bewitched by Jesus. The Buddha is "not of man"; "not" means "non," speaking to the Buddha-nature's weakness. Jesus understood this and thus spoke of repentance, knowing shame and not doing evil; Confucius understood and thus spoke of cultivating the mind, knowing restraint and not neglecting; Shakyamuni understood and thus spoke of the three vehicles, clarifying the mind and not being benighted; Laozi understood and thus spoke of non-action, clarity and quiet and not being private. Now Buddhism and foreign religions are all imported teachings; when the foreign religion flourishes, China's Daoism daily declines.
+
+The heart is the root of all power; from inside out it can generate good, can generate evil, can create, can destroy; from outside in it can be polluted, can be pulled, can be acquiesced to, can be resisted. Cultivated with the right, it can transform all beings; cultivated with the wrong, it can devastate life. The heart's great power is such that the nation's scholar must not fail to observe it. The great man stands between heaven and earth, borrowing the vast righteous qi to nurture the aspiration of bright virtue, tuning the great power of heaven's Dao to shape the heart-power of a strong nation — thus manifesting the wondrous effect of sage-official and upright people.
+
+Generally, the hero and the champion act on themselves: establish the great aspiration, issue its driving force, strive and leap, break and clear, advancing forward without turning back. Their strength is like a great wind issuing from a long gorge, like the lustful person's sexual impulse seeking his lover — absolutely nothing can block or turn it back, and there must be nothing that blocks it, for if it is blocked, the force disappears.
+
+I have watched the brave general in battle: with the bearing of one man against ten thousand, the raging man's force is most fierce, all because he has no scruples, his driving force proceeds in a straight line, unblocked and undissipated, hence reaching the firmest and strongest. The mind-natures of all beings are originally the same; the spirit of the hero and the sage is also the same; the way of the king and sage who save the nation is also the same.
+
+Therefore the responsibility of the youth of this age is to inherit the past and inspire the future, carry forward the strengths of the ancient sages and the hundred schools, open the heart to fuse the essence of Eastern and Western civilization, newly research the wonderful technique to surpass the strong nations' industry, advance with the times to meet the world's changing situation, liberate the mind to create a generation's magnificent spirit. Break the fetters of the sects, gather the cream of science, set the model of a strong nation, and spread truth across the world! Now rectify the source, and I wish to join hands with those of like mind who pursue the truth of saving and healing the world, issuing this great vow, unceasing through generations, contributing body and mind, upholding just morality.
+
+Therefore our burden is heavy and the road long; if we can establish this great heart, gather love into action, then this tiny light will surely pierce the brightness of heaven, the spark will surely become a prairie fire, overturning heaven and earth, reversing the cosmos. Punish the corrupt national traitors within the seas, chastise the offspring of the han-jian abroad; nourish the wealth of the myriad people's economy, raise the pattern of the great nation's agriculture and industry; open the vanguard of the humane-martial world, destroy the cornerstone of the demonic bandits' international; create China's new-era strong nation, make the myriad people's thousand-generation welfare; raise China's ten-thousand-generation flourishing age, open the world's eternal peace! It is not impossible.
+
+"The Power of the Mind" has thirty-nine paragraphs in full, six hundred thirty-nine sentences, totaling over six thousand two hundred and fifty characters. Copied in the spring of the Wuyin year (i.e., spring 1938), with the nation in peril, as if falling into an abyss, I borrowed and read this great work, a topping-on-the-head awakening, deeply feeling Runzhi's (Chairman Mao's style name, Runzhi) wondrous wisdom in saving the nation. Gazing afar, I pray for my teacher, Mao Qi (Chairman Mao the wondrous man), that heaven's favor keeps him well.
+
+### 4.3.1 Inner Abundance, Love Overflowing
+
+Openness.
+
+Mindfulness.
+
+Space, Flow.
+
+Go with the flow.
+
+See the nature clearly.
+
+Love yourself first, then love others.
+
+Awaken oneself and awaken others; perfect the practice.
+
+Breath, Awareness.
+
+Where my heart rests is home.
+
+Heal yourself, influence others (the self-healed heal the other).
+
+Slowly, more patience, time.
+
+You can do it; believe you can.
+
+I can see you.
+
+Words of healing:
+
+I'm sorry, please forgive me, thank you, I love you.
+
+Meet yourself, meet beauty.
+
+Surrender.
+
+Sacred kingship.
+
+### 4.3.2 Growth Mindset
+
+![Singing bowl healing diagram](../docs/media/image221.jpeg)
+
+![](../docs/media/image222.png)
+
+### 4.3.3 State of Perfection
+
+![Singing bowl healing diagram](../docs/media/image223.jpeg)
+
+### 4.3.4 Life Blossoming
+
+![Singing bowl healing diagram](../docs/media/image224.jpeg)
+
+## Section 4 — Basic Professional Requirements for Healers
+
+### 4.4.1 Appearance Requirements
+
+Clothing should mainly be Zen-style, white-toned, with no metal objects carried, and no rings, bracelets, or other ornaments that easily contact the bowl and damage it or produce sharp sounds.
+
+The healed person: mainly loose, comfortable, soft clothing without metal ornaments.
+
+### 4.4.2 Professional Requirements
+
+Striking technique, direction, amplitude, rhythm, etc.
+
+First, it must begin with the sound healer's stability of sound waves when operating the bowl: each transmission of sound, in volume and in pitch, should achieve near-periodic stable controllability.
+
+Sound is a vibration and also an energy. If the force, direction, and amplitude keep changing — force sometimes strong, sometimes weak; amplitude sometimes large, sometimes small; direction sometimes left, sometimes right — it causes the body's muscles, bones, and even nervous system to be unbearable, similar to the discomfort a passenger feels when the driver keeps pumping and releasing the accelerator.
+
+Unstable direction, force, and amplitude often cause negative bodily sensations, and more seriously may cause harm — be cautious!
+
+When moving, try to be silent so as not to affect the healed person's experience.
+
+### 4.4.3 Mind-Intention and Vows
+
+![Singing bowl healing diagram](../docs/media/image225.jpeg)
+
+### 4.4.4 Ethical Considerations
+
+Before healing, it is important to note and acknowledge that, although singing-bowl healing brings many positive effects, the sound healing related to the bowl still has much room for scientific research and currently should not be regarded as a substitute for or replacement of hospital medical methods. This disclaimer is also stated in the book.
+
+The bowl-healing theoretical framework references the Eastern three channels, seven chakras, three great energies, five great elements, and the Huangdi Neijing, rooted in traditional experience. Although scientific development continuously verifies it, much healing still awaits scientific confirmation. Their effectiveness is mainly measured through the feedback provided by those who receive the healing.
+
+Often, your reference basis comes from your own experience. Therefore, not only must the healer improve his own capacity for awareness and feeling, but also during the healing he needs present-moment awareness to refine the bowl-healing experience — this is a fundamental, key quality and ability of the profession, fully learned, experienced, and guided by richly experienced teachers.
+
+Only when you heal for yourself or others and understand the effectiveness and limitations of traditional treatment methods, can you proceed with these healing techniques.
+
+Furthermore, healing is a positive, uplifting life experience. If there is pathological condition of body or mind, it is recommended to seek treatment from a proper hospital and professional (Chinese or Western) physician, follow the physician's advice, and take active action.
+
+### 4.4.5 The Healer's State
+
+Accompany, do not interrupt; let the energy flow naturally.
+
+Listen, maintain eye contact; avoid judgment, leading, digging, preaching, giving your own subjective advice.
+
+If the experiencer's bodily or emotional state exceeds the controllable range, you may proactively intervene and guide the breath back (e.g., hold one hand, giving strength; place one hand behind on the heart chakra, giving love. Avoid patting, which interrupts the emotional-energy flow).
+
+Share your own already-achieved, real, similar experiences.
+
+Pay attention to every expression (non-restrictive vocabulary), supplement with positive energy.
+
+*Contraindications*:
+
+- During the female physiological period, do not place the bowl on the navel chakra to strike, and do no tactile work on the waist and abdomen.
+- After major surgery, wait until the wound heals, then tactile bowl work may be done.
+- During pregnancy, no tactile work; auditory meditation is allowed.
+- At least 30 minutes after meals, tactile bowl work may be done.
+- Perform the bowl experience in all safe states, when the body is comfortable or acceptable.
+
+*Keywords*: stability, trust, open acceptance, compassion, empathy, unity of self and other.
+
+### 4.4.6 The Healed Person's State
+
+Relaxation, acceptance, quiet, peace, curiosity, ease, joy.
+
+*Notes*:
+
+- *Diet adjustment*: too hungry — gastrointestinal peristalsis accelerates; too full — not suitable for vigorous exercise or breathing-meditation practice; can supplement some warm water, beneficial to qi-blood circulation.
+- Pay attention to emptying the bowels and bladder.
+- During menstruation, pregnancy, or postpartum, do no "guarding the dantian" practice; do no forceful abdominal breathing or large limb movements, to avoid qi-blood overly descending.
+
+*Reactions after bowl healing*: normal reactions & abnormal reactions.
+
+Do not be curious, do not pursue, do not fear. Let it be natural, arise and cease on its own.
+
+- Digestive-function adjustment: increased salivation, increased appetite, thirst, hiccups, flatulence.
+- Blood system: sweating, accelerated qi-blood circulation.
+- Neural-function regulation and adjustment: agile thinking, clearer train of thought, more active brain.
+- Scattered stray thoughts: one thought replaces ten thousand thoughts; concentrate, do not suppress stray thoughts.
+- Drowsiness and sleepiness: let a thread of light into the eyes to make the mind clearer, or simply rest to conserve energy.
+- Head distension, head heaviness: over-guarding the intent; chest oppression, breath-holding: over-regulating the breath; heart palpitations, over-regulating the mind; muscle soreness, over-regulating the body.
+
+You are not a drop in the ocean.
+
+You are the entire ocean in a drop.
+
+> You are not a drop in the ocean.
+> You are the entire ocean in a drop.
+> — Rumi, the 13th-century spiritual poet
 
 ## 4.5 Healer's Vital-Energy Self-Restoration
 
-<!-- TODO: translate 4.5 (breathing methods, standing/sitting/lying post, meridian movement, yoga, mantra chanting) -->
+### Practitioner Levels: Beginner–Intermediate–Advanced
+
+### 4.5.1 Three-Channel Balance
+
+#### 4.5.1.1 Yin-Yang Breathing Method
+
+The Yin-Yang breathing method is a practice using complete yoga breathing: inhale left, exhale right; inhale right, exhale left counts as one round, repeated 7 times. Then breathe through both nostrils 7 times to maintain the body's yin-yang balance. During practice, you can gently place your hands on the body, close your eyes, and feel the breath and the channels within body and mind. After the breathing practice, the body feels slightly warm and begins to sweat — because the practice activates the body's energy channels, making qi-blood circulation more stable and beneficial. The Yin-Yang breathing method is a simple, natural therapy that helps balance body and mind, raise immunity, relieve stress, and promote health.
+
+#### 4.5.1.2 Moon Breathing Method
+
+The Moon breathing (Chandra Bhedana) is a natural therapy that lowers blood pressure through left-inhale, right-exhale, and cooling breath. In practice, sit simply, with basic chest breathing; extend the thumb and ring finger of the right hand, bending the other three fingers, and place the left palm up at the navel chakra. Then, exhaling, press the right nostril with the right thumb, inhale slowly through the left nostril; then press the left nostril with the ring finger while releasing the right nostril, and exhale slowly through the right nostril. During practice, keep the exhale slower than the inhale. This practice helps balance body and mind, lower blood pressure, relieve stress, raise immunity, and promote health.
+
+In addition, the Moon breathing can help regulate the endocrine system, improve sleep quality, and relieve anxiety and depression.
+
+#### 4.5.1.3 Sun Breathing Method
+
+Sun breathing (Surya Bhedana — right-inhale, left-exhale, heating breath, raising blood pressure):
+
+*Guidance*: simple seated posture, basic chest breathing; extend the thumb and ring finger of the right hand, bend the other three fingers, place the left palm up at the navel chakra.
+
+1. Exhale, press the left nostril with the right ring finger, inhale slowly through the right nostril.
+2. Press the right nostril with the thumb, simultaneously release the left nostril with the ring finger, exhale slowly through the left nostril.
+3. Keep the exhale slower than the inhale; during breathing, relax the body and focus on the breath.
+4. Repeat the above steps, 10–20 breaths each time, practice 5–10 minutes.
+
+The Sun breathing can help regulate the body's energy, enhance immunity, improve sleep quality, and relieve anxiety and stress, promoting physical and mental health. However, those with hypertension, heart disease, etc. must practice under a doctor's guidance.
+
+*(notes area)*
+
+#### 4.5.1.4 The Six-Syllable Breathing (Liu Zi Jue)
+
+The breath-emission method in the Daoist "Marrow-Washing Scripture" is an ancient health-preservation experience: coordinated with exhalation, one emits the six syllable-sounds "Xu, He, Hu, Si, Chui, Xi." Through this coordination of breath and sound, it is a traditional exercise method aimed at balancing the yin and yang within the body — a deeper-level skill. It belongs to the elementary sound method within "breath emission." Mastering it can clear illness within the body.
+
+Through breath emission — reverse abdominal breathing, the up-down movement of the diaphragm, and kidney-contracting practice — the function of these organs is markedly enhanced and aging delayed (in TCM called "tonifying the kidney"). When the function of producing adrenocortical hormone is enhanced, one may become energetic, with stronger resistance to external wind, cold, damp, and heat. For athletes, it can also improve competitive performance. In cultivating inner qi, the dantian is the source of vital energy; first form a qi-hill at the dantian, then it travels along the meridians, forming the body's meridian field. Thus those who cultivate the dantian achieve "kidney tonification"; when kidney qi is sufficient, martial skill can then be refined.
+
+"All breath-cultivation uses the nose to inhale and the mouth to exhale, finely and extended — this is called long breathing. Inhaling has one; exhaling has six. The one inhalation is the breath drawn in. The six exhalations are: Chui, Hu, Xi, He, Xu, Si — all are exhalations.
+
+The six-syllable sounds were anciently: spring qi often Xu, good for the liver. Summer qi often He, leveling the field. Autumn qi often Si, beautiful mid-meal. Winter also guards Hu, sleeping peacefully. The long summer should guard the central stove; Hu as the head, naturally so. Xi for the triple burner is joyful; long, fine, and keen lies in the land of longevity.
+
+The Six-Syllable Formula is a breath-emission method handed down in our country. Sun Simiao, the King of Medicine, honored it as a longevity method and practiced it daily.
+
+It uses the different pronunciations and mouth-shapes of Xu (xū), He (hē), Hu (hū), Si (sī), Chui (chuī), Xi (xī) — six characters — together with breathing, fully mobilizing the latent capacity of the organs to resist disease invasion and prevent aging. Zhao Zhixin, a national social-sports instructor, recommends it; the movements are gentle, and it can become one of the morning exercises for middle-aged and elderly friends.
+
+The Six-Syllable Formula uses abdominal breathing: exhale first, then inhale; the sound is emitted on the exhale. The exhale should be slow, deep, and even, to enlarge lung capacity. Meanwhile, stand with feet apart, shoulder-width, head upright, neck straight, knees slightly bent, whole body relaxed. Each character is recited 6 times, then one breath-regulation.
+
+**Xu — Protects the Liver**
+
+Pronounced (xū): both hands slowly rise, backs of hands facing each other, past the ribs to shoulder level; arms like a bird spreading wings upward, opening left and right, palms slightly up. On inhale, bend the arms and the hands slowly descend past chest and abdomen. Treats poor appetite, dry and astringent eyes, etc.
+
+**He — Tonifies the Heart**
+
+Pronounced (hē): palms facing inward, lift from below the abdomen, up the front of the body to between the two breasts at chest level, turn palms outward, lift up to the eyes. At the end of exhale and start of inhale, flip palms toward the face, descend past the face and chest-abdomen. Treats insomnia, forgetfulness, night sweating, etc.
+
+**Hu — Nourishes the Spleen**
+
+Pronounced (hū): hands lift from below the abdomen, palms up, to the navel; the left hand rotates outward and lifts to above the head, while the right hand rotates inward and presses down to below the abdomen. At end of exhale and start of inhale, the left arm rotates inward to palm-inward, descends past the face; simultaneously the right arm rotates, palm inward, threads upward; the two hands cross at the chest, left outside, right inside; both rotate inward and press down to before the abdomen, then naturally hang at the sides. Treats abdominal distension, diarrhea, poor appetite, muscle atrophy, skin edema, and other spleen-meridian disorders.
+
+**Si — Benefits the Lung**
+
+Pronounced (sī): hands lift from below the abdomen, gradually turn palms up, to breast level; arms rotate outward, flip palms outward into a standing palm, fingertips facing the throat; spread arms wide like a bird's wings. At end of exhale, with the inhaling tendency the arms naturally descend and hang at the sides. Those with chronic bronchitis, etc. may practice more.
+
+**Chui — Strengthens the Kidney**
+
+Pronounced (chuī): toes grip the ground, the arch of the foot lifted; arms lift from the sides, arc forward and up the front of the body to collarbone level; arms rounded as if holding a ball, fingertips facing each other. Body squats; arms descend with it; at end of exhale the hands rest above the knees. At end of exhale, with the inhaling tendency slowly stand, arms naturally descend to the sides. Treats sore weak waist and knees, night sweating, seminal emission, impotence, premature ejaculation, uterine cold, and other kidney-meridian disorders.
+
+**Xi — Regulates the Triple Burner**
+
+Pronounced (xī): hands lift from the sides as if holding something, past the abdomen to breast level; arms rotate outward, palms out, and lift toward the head; palms turn up, fingertips facing each other. On inhale, fingers spread, descend along both sides of the body from the head. Treats dizziness, tinnitus, sore throat, chest and abdominal distension, difficult urination, and other disorders from triple-burner stagnation.
+
+### 4.5.2 Taiji Fixed Stake (Taiji Ding Zhuang)
+
+In the "Plain Questions" of the Huangdi Neijing over two thousand years ago, there is the record: "In high antiquity there were true persons who grasped heaven and earth, held the yin and yang, breathed the essence-qi, stood alone guarding the spirit, with muscles as one — thus their life spanned heaven and earth."
+
+The Taiji fixed stake is a static practice method in Taiji (Tai Chi), also called Taiji stillness work. It is the foundational practice of Taiji, emphasizing static standing and breath regulation; by adjusting posture and breath, it regulates the flow of internal qi-blood, raising immunity and resistance to disease.
+
+The practice posture is generally: feet apart shoulder-width, hands hanging naturally, body relaxed, head slightly lifted, eyes looking forward, breath natural and even. During practice, pay attention to the body's center of gravity and the rhythm of breath, maintaining balance and stability.
+
+The practice time is generally 10–30 minutes, adjustable by individual. Increase time and frequency gradually; do not over-fatigue.
+
+The benefits of the Taiji fixed stake are many: it helps regulate the body's internal environment, enhance immunity and disease resistance, improve blood circulation and respiration, relieve fatigue and stress, and raise health. At the same time, it enhances focus and awareness, and self-control and self-regulation — also good for mental health and stress relief.
+
+#### 4.5.2.1 Standing Stake (Zhan Zhuang)
+
+In the standing stake, one bends the elbows and lifts the arms, bends the knees and squats — the purpose being to lower the body's center of gravity, making the lower part substantial; when the lower part is substantial, the kidney essence is substantial; when kidney essence is substantial, the ancestral qi flows smoothly, the heart-lung qi descends, and the liver-kidney qi rises — thus one enters the state of "empty above, substantial below," and can be healthy and long-lived.
+
+**Standing-stake practice method**
+
+1. Face south; feet apart, heels about two-foot-width apart; left foot toes forward, right foot toes toward the southwest; both palms face each other, raised forward level with the shoulders, slightly wider than the shoulders; bend knees and squat.
+2. Using the waist and hips as an axis, gradually turn left; shift weight to the left leg into a left-solid, right-empty step. Do not lift the right foot off the ground. Using the middle fingers as the axis, both hands simultaneously flip palms so the right palm faces up and the left palm faces down. Stop when the body turns until the nose tip, knee, and toe are in a line.
+3. The left foot pushes off the ground; using the waist and hips as axis, gradually rotate right; shift weight to the right leg into a right-bow, left-arrow step. Simultaneously both hands flip palms using the middle fingers as axis, left palm up, right palm down. Stop when the body turns until nose tip, knee, and toe are in a line.
+4. The right foot pushes off; body turns left, same as movement 2.
+5. Practice time: beginners about 10 minutes each time, gradually increasing to half an hour.
+6. Closing: when the posture is at movement 3, turn body left to face south; weight falls between the two legs; both hands flip palms to face each other; using the right heel as axis turn the toes forward; bend elbows, fingers facing each other, palms parallel gather to the chest, slowly press down to the lower abdomen; hands separate and hang at the sides; feet together shoulder-width; stand still 2–3 minutes, then finish.
+
+Stand with feet parallel, shoulder-width, slightly splayed; knees slightly bent; upper body upright; hands lift and encircle before the two shoulders, palms inward, fingers naturally apart, slightly bent, slightly higher than the shoulders, about a foot apart, elbows slightly lower than the shoulders, armpits half-empty, arms half-round, like holding a ball. Form the posture of head-topping and neck-aligning, relaxed shoulders and horizontal elbows, contained chest and lifted back, upright spine. Then align the Baihui point, the Huiyin point, and the body's center of gravity between the two feet into a straight line (as shown). Thus close the eyes and remain still, the whole body relaxed and sinking naturally, the spirit not wandering outward, breath natural; neither guarding the dantian nor any intentional activity.
+
+**Body state**: 1) the spine upright throughout; 2) head lifted up, chin slightly tucked, as if to "hide" the throat; face with a smile; 3) upper limbs: shoulders relaxed, forearms naturally sinking, upper elbows slightly lower than shoulders, hands slightly lower than elbows; 4) hands: "hold one" before the chest, fingertips facing each other about a fist's width apart, palms inward; 5) legs: feet shoulder-width, knees slightly bent, knees not past the toes, weight slightly forward onto the balls of the feet, body relaxed; 6) observe whether the whole body inside and out is relaxed or not — keep to the ordinary, do not be curious. Eyes open or closed as you like. Breathing: natural, inhale faintly, exhale continuously.
+
+**Intentional activity**: one may have no intention, or recite the Buddha's name or mantra — e.g., if the mind is fairly calm, recite "Namo Amitabha" (na mo a mi tuo fo); if more time is needed to enter stillness, recite the six-syllable true mantra "Om Mani Padme Hum" (ōng mā nī bēi mēi hōng) to let body and mind gradually enter stillness. As Sun Chuo of the Jin dynasty said in his "Discourse on Illuminating the Dao": "The ears cut off lustful sound, the mouth forgets sweet and bitter, the intent releases sorrow and joy, the heart departs from burden — hold the one in the breast."
+
+**Principle and key points**: the internal force sought by the "Hunyuan Stake" is the defensive-qi energy we spoke of earlier and its original driving force as it circulates in the human body. The centrifugal force when defensive-qi energy runs through the three yang meridians of hand and foot is the source of the traditional martial-art's "external-jin blasting" force; the centripetal force when defensive-qi energy coils back through the three yin meridians of hand and foot is the basis for stabilizing the body's center of gravity and executing the "internal-jin transformation" force. The reverse two-way operation of centrifugal and centripetal forces is the "contending force" called in internal-family boxing, jointly called the "whole force." But obtaining the whole force does not yet mean it can be used in combat — it only marks that we have crossed the threshold of traditional martial art's "internal-jin force."
+
+**Closing dry-wash method of the standing stake**: use the remaining qi after practice to rub the head, face, ears, hands, feet, etc., so these parts receive the nourishment of the original qi — loosening the sinews and invigorating the meridians, moving qi and activating blood, strengthening the body and beautifying the skin, resisting skin aging.
+
+Preparation: after closing, while the palm-center is still hot, rub the palms even hotter.
+
+(1) Wash hands: rub palm, back of hand, between fingers with each other to unblock the hand's blood vessels, about five minutes.
+(2) Wash head: with four fingers together, from both temples wipe back to the occiput, up over the crown to the forehead, to the Yintang point, turn to both sides and lightly rub the temples, then turn to the temporal side; repeat until the scalp is warm.
+(3) Wash face: with the left hand wipe horizontally across the forehead; both hands rub the face from top to bottom; with the middle joints of both index fingers rub the upper and lower eyelids from inner to outer canthus; with the index finger rub both sides of the nose bridge, up to the nose root, down to the Yingxiang point, each 36 times.
+(4) Wash ears: with index finger and thumb pinch the helix and earlobe, rubbing up and down on both sides; with the index fingertip press the depression inside the ear; pull the earlobe down several times; with the middle finger flick the back of the ear several times.
+(5) Wash feet: first massage the Zusanli point 36 times; then from Zusanli rub down the lateral lower leg to the heel 36 times; finally rub with the palm on the sole, the Yongquan point, until warm.
+
+**Standing-stake cautions**: 1) After practice, wipe off sweat, especially the sweat at Dazhui behind the neck; in summer do not immediately bathe (at least half an hour). 2) Avoid practicing under a fan or in an air-conditioned room — prone to wind-cold. Practice in a natural environment without cold wind and with fresh air for better effect. 3) Within at least half an hour after practice, avoid contact with cold water, especially in summer; avoid drinking water and bathing during this period; and best not to use the toilet within half an hour after practice — so best drink water and defecate before formal practice! 4) During practice, reduce or avoid sex; never have sex immediately after practice! 5) Beginners should avoid practicing in wind, rain, or thunder. 6) Heart patients should not over-practice. 7) After closing, rub the hands warm, stroke the knees, pat the arms, etc.
+
+#### 4.5.2.2 Sitting Stake (Jing Zuo)
+
+Sitting still not only makes the blood circulation excellent physiologically, but also unifies and concentrates the whole spirit psychologically, promoting the healthy development of psychological phenomena. The psychologist Teplov also said that holding a calm attitude is the only method to fight the distraction of attention. At the same time, when the mind is peaceful and normal, thought is clear and happy, naturally promoting gentle qi and peaceful body, preventing disease and prolonging life.
+
+Moreover, what general psychology studies is nothing more than the phenomena of mind, the functions of mind, and the changes of mind, but it never gives a proper explanation of the mind's substance, the mind's origin, and the concrete method of settling and controlling the mind. If, through sitting still, the activities of consciousness are gradually stopped, the mind's static state will be clearly present, surely aiding the creative invention of psychological theory.
+
+**Seven-point sitting method (Seven Limbs of Vairocana)**: refers to the seven key points of the limbs, including feet, spine, shoulders, hands, head, eyes, and tongue.
+
+1. Both feet in lotus (double-crossed). If not, use single lotus — left foot on right, called the "as-you-wish" seat; or right foot on left, called the "vajra" seat. Beginners who cannot even single-cross may cross the legs propped up.
+2. Spine erect. Waist naturally lifted, chest open; the weak or sick should not be overly rigid at first, nor use excessive force — with practice it naturally straightens.
+3. Both hands ring-knot below the dantian (below the lower abdomen), naturally placed on the hip bones. Palms up, the right hand's back placed on the left hand's palm, the two thumbs lightly touching — called "forming the mudra." This gesture is also called the samadhi mudra (the seal of concentration). If the left hand is on the right, it is called the Amitabha mudra.
+4. Both shoulders slightly opened level, moderate, not over-drooped or collapsed.
+5. Head upright, the back of the skull slightly drawn back and straightened. The front jaw tucked in (not lowering the head), slightly pressing the two great carotid arteries' activity.
+6. Eyes level, looking straight. Looking up easily produces a scattered, proud demeanor; looking down easily produces drowsiness. Eyes slightly open, as if closed yet open; gaze fixed at three or five steps before the seat. Beginners should close the eyes; with practice they naturally become slightly open.
+7. Tongue lightly touches the upper palate (behind the two front teeth), like an infant asleep before teeth grow. If there is saliva, swallow it slowly.
+
+**Sitting environment and cautions**: 1) Air must circulate, but no wind directly blowing on the body, to avoid future wind-damp disease. 2) Light not too dim (easy drowsiness) nor too bright (easy distraction). 3) In cool weather, cover and warm the two kidneys and back of head; even in summer, do not expose the knees, and do not sit in an air-conditioned room or under a fan. 4) Best to sit on dry rock, wood board, or tatami (thick straw mat), but still lay a moderately thick, soft cushion. 5) Beginners mostly cannot double-cross; use single cross with a cushion under the buttocks, height per individual, comfort the principle; too high or too low makes the nerves tense; cushion softness must be moderate or it affects mood and effect. 6) Best to wear a slight smile — when a person smiles, the nerves naturally relax. 7) Do not sit right after a full meal (poor digestion); can sit when hungry but not when overly hungry (scattered mind). 8) Beginners should not force long sitting; short time, many times. 9) Beginners may adjust posture before a mirror but not meditate looking at it; after sitting, lean the upper body forward slowly, return, then let the head sway naturally up and down to correct the posture. 10) Remove all constraints — watch, glasses, etc.
+
+#### 4.5.2.3 Lying Stake (Wo Zhuang)
+
+The lying stake: lie face-up flat, legs crossed, palms overlapped on the navel, whole body relaxed. For males, best place the left hand inside, left leg crossed outside; for females, the opposite — right hand inside, right leg crossed outside.
+
+Lying stake: raise both shoulders to the chest, hands hold a ball, relaxed shoulders and propped elbows, elbows about half a foot off the bed; ten fingers apart, slightly bent, as if with tension and slack; shoulders spread open; knees lifted, heels on the bed; eyes slightly closed; whole body relaxed; natural breath; turn awareness inward, sense the body's reactions and changes. This method suits the bedridden sick and accelerates recovery.
+
+This method can be called the first method of cultivation stakes, including posture and breath, conception and secrets. Its effect opens the whole body's skeletal network, generates and stimulates qi-blood, promotes meridian penetration, and has the effect of cultivating both life and nature; persistent practice brings the prenatal in sight.
+
+This stake comprehensively regulates the human health state, has good care for the waist, kidneys, and organs, and auxiliary effect on bone disease and many illnesses.
+
+**Intent**: from practice to closing, guard the dantian without relaxing.
+
+**Breathing**: tongue at the upper palate, even and fine, natural breath, intent at the dantian.
+
+**Force**: except the working part, relax bones and muscles; over time, with the breath do slight worming movement.
+
+**Upper posture**: lie supine, waist on a soft place; legs apart shoulder-width; bend knees so the lower legs and feet are level with the ground. Hands each hold a knee; knees pressed together with force, feet still apart. Use the hands to support and lift the head and shoulders so the crown is level with the knees. Support the upper-body weight with hands and knees, not the waist. Progress gradually, persist longer.
+
+**Upper conception**: the upper form is called "Dragon Coiling" — taking stillness amid movement, thinking of stillness at the extreme of motion, like a leaping dragon suddenly halting, a sudden rain stopping, finding stillness amid the body's boiling, a single thought among ten thousand.
+
+**Lower posture**: kneel on a soft place, ten toes grip the ground; knees drawn inward, not necessarily together; feet apart shoulder-width; hands support slightly past the shoulders; head straight, facing the ground; palms push the ground forward with some force so the crown is roughly level with the fingertips; bend the elbows, key point bow the waist, gather power backward without releasing, in a state ready to spring up at any moment. Progress gradually, support longer.
+
+**Lower conception**: the lower form is called "Tiger Crouching" — taking movement amid stillness, thinking of motion at the extreme of stillness, like a crouching tiger about to pounce, a thunder about to break, finding an extreme motion amid the body's silence, a single thought about to arise amid no-thought.
+
+**Closing**: finally, dispel stray thoughts, sit with closed eyes, do even fine deep breathing as closing; sitting longer is better, best longer than the moving stake.
+
+This stake is a Daoist cultivation method, yet also fits the Buddhist realm of "thus should you abide, thus subdue your mind." The upper half opens the whole body's skeleton, sitting and standing stakes, generating qi-blood, mainly; the lower half exercises the sinews and vessels, promotes circulation, and exercises the spirit. When essence-qi is abundant, it naturally breaks open the whole body's meridians, and the prenatal is only one step away.
+
+The upper form is better for those with spine, bone disease, or organ problems — needs some force to close well; the inward-drawing adjusts the hip joint and drives the upper-body skeleton's relaxation; the knee-inward-drawing adjusts the hip joint, driving the upper-body skeleton's relaxation — without force the hands pry it open; the hands must use force, otherwise the upper-body weight falls on the waist and fails to relax the skeleton.
+
+The lower form regulates the nerves, and the coiled posture nourishes the kidney and dantian. After doing the movement well, repeatedly experience the feeling that the waist, once it exerts force, will bounce up — but do not actually bounce up.
+
+With each breath, do a slight forward-back movement like the belly's rise and fall during deep sleep, to experience that critical-point feeling. The very weak should start regulation from the lower form; the upper form can be shorter.
+
+**Cautions**: when unable to persist, end with slow movement; after practice do not immediately catch wind or cold, to avoid illness. The elderly, after practice, should sit up not lie down; the elderly or those with vascular or blood-pressure issues must practice carefully under guidance, gentle movements, gradual progress. Women should not practice around menstruation.
+
+### 4.5.3 Meridian Movement
+
+#### 4.5.3.1 The Eight Brocades (Baduanjin)
+
+The Eight Brocades is an internal-organ guidance art in Chinese traditional qigong, an ancient health-preserving exercise, alongside the Yijinjing and the Five-Animal Play known as the "three wonders of the martial world."
+
+The ancients likened the set of movements to "brocade" (jǐn), meaning the movements are as beautiful and舒展 as brocade; and because the method has eight sections, each a movement, it is named "Eight Brocades."
+
+The Eight Brocades is an independent, complete fitness method, a health-preservation way fusing qigong and aerobics; through "regulating body," "regulating breath," and "regulating mind," it unblocks the body's meridians, regulates organ function, improves bad psychological states, ensures smooth qi-blood, achieving the purpose of strengthening the body, preventing and treating disease, and prolonging life.
+
+![Singing bowl healing diagram](../docs/media/image226.png)
+
+*Starting posture*: first train the legs — open the left foot, shoulder-width, slightly squat; both palms in a semicircle embrace before the abdomen.
+
+Then regulate breath: breathe a few times to smooth body and mind. The national-standard version returns to basically this standing-stake posture after each form.
+
+**Form 1: Two Hands Hold up the Heavens to Regulate the Triple Burner**
+
+[Method] Five fingers apart, cross before the abdomen; straighten the legs; both palms up-lift to the chest, rotate inward and lift up, palms up, look up; then pause, look forward. Knees slightly bent; arms descend, palms up held before the abdomen. One up-and-down is one time, 6 times.
+
+[Key point] The palm-root must push up with force, coordinated with the Baihui leading up, so the body's qi rises. The arm-up is basically parallel to the ears, forming a "pinch the spine" action at the back — done correctly.
+
+"Two hands hold up the heavens" lifts and stretches the chest and abdomen, extends the spine and waist — the organs hung on the spine and triple burner are all lifted, the triple burner unblocked, dispelling the cold-damp turbidity of rainy weather. The "pinch spine" also squeezes the Jianjing point behind the neck and the Gaohuang point on the back; the whole Du meridian feels warm — because the yang qi is instantly lifted.
+
+**Form 2: Drawing the Bow Left and Right Like Shooting the Hawk**
+
+[Method] 1) Open the left foot left, both palms cross up before the chest. Horse-stance; like drawing a bow left and right — the right palm pulls to the right chest, the left palm forms the "eight" (thumb and index like a figure eight, other three fingers bent) pushes left, draw the bow to the fullest, eyes on the fingertip. 2) Then shift weight right, right hand arcs, left foot recovers, both palms hold before the abdomen, stand together. Then reverse once; 3 times total.
+
+[Key point] Drawing the bow left and right not only opens the whole stiff shoulder-back. At full draw the index fingertip slightly numbs — this is Shangyang, the starting point of the Large Intestine Meridian of Hand-Yangming, also stretching the large intestine meridian along neck-shoulder and the whole arm; very useful for those with constipation and abdominal distension.
+
+**Form 3: Regulating Spleen and Stomach Needs Single Lift**
+
+[Method] Left palm-root up-supports, lifts to above the left head; right palm-root presses down. Then left arm descends before the abdomen; left and right 3 times.
+
+[Key point] When supporting heaven and pressing earth, force is at the palm-root, fingertips facing each other, to fully stretch the large intestine meridian. The arms alternately loose and tight, up and down opposing-pull, knead and massage the spleen and stomach, good for digestion and absorption. It also stretches the liver and gallbladder on both sides, dispersing liver qi — those often depressed or angry can practice this often.
+
+**Form 4: Looking Back to Cure Five Fatigue and Seven Injuries**
+
+[Method] Knees slightly bent, knees straight; arms extend at the sides, palms rotate outward and up; head turns as far back as possible, gaze to the left-rear diagonally, pause. Arms rotate inward back to the sides, knees slightly bent, gaze forward. Left and right 3 times.
+
+**Form 5: Swinging the Head and Shaking the Tail to Remove Heart Fire**
+
+[Method] 1) Open the right foot to stand, knees slightly bent; both palms rise along the sides; legs half-squat into horse-stance; both arms descend to rest above the knee joints. 2) Shift weight right, bend forward past the right foot surface; lower the center, the coccyx leads the upper body to rotate left, past the left foot surface. Then shift weight back, the upper body shakes back, rotates right to left and forward, the body stands. Right and left 3 times.
+
+[Key point] Try not to shortchange it; when the body sways, stretch the neck and coccyx as far as possible, slowly and continuously. The neck not stiff throughout; the jaw not deliberately tucked or raised, so the neck muscles stretch and lengthen as much as possible. If laborious, do right-left twice, then gradually increase. Those often with fire, mouth ulcers, sore throat, breaking out in acne — mostly deficient fire; the head-face floats deficient fire, the middle-lower burner is chronically cold-damp; doing this motion often can drag the floating deficient fire back to the dantian, warming the kidney water.
+
+**Form 6: Two Hands Climb the Feet to Strengthen the Kidney and Waist**
+
+[Method] 1) Knees straight, stand; both arms raise forward and up, palms forward, gaze forward. Bend elbows, palms down, press to the chest; palms reverse-thread to behind, rub down along the spine to the buttocks; simultaneously the upper body bends forward, palms along the legs to the foot surface; knees straight, gaze down-forward. 2) Both palms lift forward and up; the spine rises. One up-and-down is one time, 6 times.
+
+[Key point] When massaging the lower back, legs, and behind with the hands, use some force, because you are warming and massaging the body's first great yang meridian, the Bladder Meridian — to have the whole body's yang qi you must mobilize this meridian. When rising, lead the body up arm-by-arm, joint by joint, to fully stretch the Ren and Du vessels before and behind, nourishing both yin and yang.
+
+**Form 7: Clench the Fists and Glare Fiercely to Increase Strength**
+
+[Method] Open left foot left, foot in horse-stance; both hands make fists at the waist, thumb inside, fist-eyes up. Left fist thrusts forward, fist-eye up, glare fiercely; the left fist turns to palm, then rotates the wrist and grips into a fist, returns to the waist. Left and right 3 times.
+
+[Key point] Many details — e.g., toes grip ground, grip firm and thrust, glare with round eyes — can make liver qi smooth, peripheral qi circulate, the whole body has strength.
+
+**Form 8: Seven Tremors Behind the Back to Dispel All Diseases**
+
+[Method] 1) Both heels lift, head tops up, pause, gaze forward. Heels drop, lightly vibrate the ground. One up-and-down is one time, 7 times. 2) The Eight Brocades' closing gathers here: finally both palms join before the abdomen, even breath, whole body relaxed.
+
+[Key point] Heel up-down trains balance; when up, like rising from flat ground, toes grip, anus lifted and abdomen drawn in, putting the six fu's qi in tension. When dropping, like a mountain-river earthquake, shaking the spine and Du meridian. "Seven tremors behind" is the closing of the Eight Brocades — equivalent to leading the qi back to the origin; after the full set, re-comb the body's qi, avoiding scattering.
+
+Reminder: beginners not yet skilled should just coordinate with natural, smooth breathing. Do not deliberately breathe, big inhale-exhale; try not to hold breath, use abdominal breathing. As movements open and become skilled, "find" the breath within the movements; the body benefits more.
+
+#### 4.5.3.2 Meridian Patting
+
+30-minute meridian-patting exercise.
+
+**Through patting**
+
+One: it accelerates the metabolic process among blood, lymph, and organs, and helps unblock the waste produced by metabolism and the circulation obstacles encountered by blood and tissue circulation.
+
+Two: it can unblock the meridians, strengthen sinew and bone, develop muscle, move the joints, promote blood circulation, enhance metabolism, raise disease resistance — thus strengthening the body and delaying aging. TCM holds that the meridians are the channels of qi-blood circulation; when the channels are unblocked, qi-blood flows smoothly, delivering more essence-qi-blood-body-fluid to our organs, letting them fully play their functions and keep the body healthy. Patting acts on the surface along the meridian course; under the external force's vibrational transmission and penetration, the vitality of the tissues and organs is stimulated, promoting the regulatory function of the nerve centers, accelerating the metabolic process among blood circulation, lymph circulation, and organ tissue, and helping unblock the waste produced by metabolism and the circulation obstacles of blood and tissue fluid — achieving the purpose of health preservation.
+
+**Pat the whole head, focusing on Baihui**
+
+Patting the head mainly has marked effect on headache, dizziness, numbness, cerebellar atrophy, memory decline, and stroke sequelae. Patting Baihui mainly targets hypertension and insomnia, with auxiliary effect on the cervical spine; per individual condition, the feeling varies — head distension, head stuffiness, deep pain points, etc.; after qi-blood unblocks, discomfort naturally disappears.
+
+**Pat the whole face, focusing on the eyes**
+
+Face patting can smooth wrinkles, dispel spots, vitalize skin, enhance dermal elasticity — a beauty effect. Eye patting mainly relieves fatigue, avoiding long-term overuse leading to vision decline. Of course, pat the eyes with moderate force, not too heavy, to avoid the opposite.
+
+**Pat the kidney region**
+
+Patting the kidney region mainly for those with kidney disease — nephritis, renal cyst, pyelonephritis, frequent urination, renal failure, reduced kidney function, sore waist, back pain, body weakness, insomnia, deafness, etc. Initially patting the kidney region brings sour, numb, stuffy, painful feelings — varies by person; from light to heavy, gradual, until the pain disappears.
+
+**Pat the two ribs**
+
+Pat the liver-gallbladder region and the spleen and pancreas. With palms or fists pat the two ribs under the armpits: left hand is spleen-pancreas, right hand is liver-gallbladder, the middle is the stomach — very effective for fatty liver, liver cirrhosis, hepatic cyst, liver-qi stagnation, cholecystitis, small gallstones, polyps, diabetes, spleen deficiency, various stomach pains, stomach distension, stomach-qi stagnation, spleen-stomach disharmony, etc. Patting this area brings: liver very uncomfortable, pain, irritability, distress, distension; stomach with stomach pain, distension, wrenching feeling; patting both sides simultaneously gives an ineffable taste. When patting until inside and outside are warm, after the above discomforts disappear, the whole body feels light.
+
+**Yangming Large Intestine Meridian: helps you detox**
+
+The large intestine meridian starts at Yingxiang by the wing of the nose, passes the neck, runs through the arm, ends at the index-fingertip. Often striking the large intestine meridian clears the intestine and moistens the stomach, makes your metabolism smooth, has a strong detox effect, makes your skin smooth and breath fresh! Its active time is 5–7 AM; it is recommended to strike it before breakfast to help the body metabolize the toxins accumulated overnight.
+
+**Foot Yangming Stomach Meridian: makes your face fair with a rosy glow**
+
+If wrinkles suddenly appear on the face, it is likely depletion of the stomach meridian's qi-blood. Its best striking time is 7–9 AM; persist, and you will find your face fair with a rosy glow, and even if you stay up late, you won't look too thin and weak.
+
+**Points to note in patting**:
+
+1. Do not pat heavily for long every day.
+2. Do not pat over a wide area.
+3. Use skillful force, not brute force.
+4. The elderly, weak, seriously ill, and children should pat lightly.
+
+#### 4.5.3.3 Shaking the Mountain, Rocking the Sea (Yao Shan Huang Hai)
+
+Shaking the Mountain Rocking the Sea is a kidney-strengthening exercise that treats low-back pain and greatly tonifies kidney qi, without medicine. Rocking the Sea is a sitting exercise; by gently rotating and shaking the upper body, the five zang and six fu, the four limbs and hundred bones are moved, pushing the meridians to run normally, strengthening visceral function — treating illness when ill, strengthening when well. Rocking the Sea also self-massages the whole inside and outside, coordinates the qi of organs and meridians; it has good effect on indigestion, gastrointestinal disease, neurasthenia, insomnia, sore waist and back. At the same time, it corrects the discomfort felt after deviating in qigong practice.
+
+**Concrete method of Rocking the Sea**
+
+One: Cross-legged seated (try to sit the waist straight), both arms "as far back as possible" extended.
+
+Two: led by the waist, the upper body "draws circles" from left to right; keep the buttocks from leaving the cushion as much as possible, then from right to left. A circle left-to-right counts one, right-to-left also counts one; beginners can each do 36 circles. If it remains comfortable, continue.
+
+Three: single-cross, double-cross, or loose-cross all work. In single-cross, note: when rotating left to right, place the right foot on top; when rotating right to left, place the left foot on top.
+
+Note: "Rocking the Sea" can strengthen the five zang and six fu, waist and legs; it is also the method masters use to "grind the temperament" of disciples. Practiced year-round, the legs become supple, and one can slowly double-cross. This method can be practiced alone as a health-preservation method.
+
+Two: Level-seated Rocking the Sea — on the basis of the ordinary seat, relax the whole body; using the waist as axis, first from (male left, female right) left forward, right, bend the body; then rotate left; stand up and stretch, then turn to left, forward, right, shake — 36 times left to right, then 36 times right to left, total 72 shakes (the slower the better).
+
+**Cautions of Rocking the Sea**: 1) Be slow, even, loose, still; never impatient or violent. 2) Never move the head; use the waist as axis, the whole upper body slowly sways; when swaying left, intend as if going right — better effect. 3) Never lean back; when standing up and stretching, keep the body straight, not arched back, otherwise it becomes a reverse bow and the essence-qi scatters. 4) During rocking, merge the whole heart-mind into the information of the material movement inside and outside the body, so all aspects of the whole body are better regulated. 5) The larger the shake amplitude the better, the slower the speed the better; but beginners should not force it — progress gradually.
+
+To bring out the magical effect of "Shaking Mountain Rocking the Sea," when twisting the waist also "lift the gut internally."
+
+What is "lifting the gut internally"? The "gut" (gudao) is the gastrointestinal tract, the path of digesting the five grains. How to lift it? Simply slightly contract the anus, as if retaining a bowel movement.
+
+"Lifting the gut internally" has marked effect; the "Inner-Work Mind-Method" says: "Tightly gather the gut and lift internally; the bright moon flies above the crown; to avoid aging, return the essence to nourish the brain."
+
+**Initial effect of well-practiced Rocking the Sea**: the whole body loose and relaxed, the muscles as if bounced open like cotton; skin becomes lustrous; walking with strong legs, more grounded in doing things; less irritable, emotion more controllable; physical and mental health markedly improved within 100 days.
+
+### 4.5.4 Yoga Practice
+
+#### 4.5.4.1 Classic Sun Salutation
+
+The classic Sun Salutation, also called the Sun Hymn, is a posture sequence in yoga to pay respect to the sun, expressing reverence and gratitude to nature. It is a strongly flowing set requiring some flexibility and strength, while also paying attention to breath and awareness regulation.
+
+1. Pranamasana (Prayer pose): feet together, palms together before the chest, close eyes, breathe deeply, thank the sun.
+2. Hastauttanasana (Raised-arm pose): arms raised up, head tilted back, breathe deeply, feel the body's stretch.
+3. Hasta Padasana (Hand-foot pose): bend forward, touch the ground as much as possible, exhale, feel the body's stretch.
+4. Ashwa Sanchalanasana (Equestrian pose): right foot steps back, left knee bends, head up, breathe deeply, feel the body's balance.
+5. Parvatasana (Mountain pose): hands on the ground, extend the right foot back, body lifts up, exhale, feel the body's stretch.
+6. Ashtanga Namaskara (Eight-limb pose): body prostrates down, hands, knees, chest, and forehead on the ground, breathe deeply, feel the body's relaxation.
+7. Bhujangasana (Cobra pose): body lifts up, head tilted back, exhale, feel the body's stretch.
+8. Parvatasana (Mountain pose): hands on the ground, extend the left foot back, body lifts up, exhale, feel the body's stretch.
+9. Ashwa Sanchalanasana (Equestrian pose): left foot steps back, right knee bends, head up, breathe deeply, feel the body's balance.
+10. Hasta Padasana (Hand-foot pose): bend forward, touch the ground as much as possible, exhale, feel the body's stretch.
+11. Hastauttanasana (Raised-arm pose): arms raised up, head tilted back, breathe deeply, feel the body's stretch.
+12. Pranamasana (Prayer pose): feet together, palms together before the chest, close eyes, breathe deeply, thank the sun.
+
+When practicing the twelve-step classic Sun Salutation, pay attention to each movement's breath and posture, flowing transitions.
+
+The classic Sun Salutation has many benefits: it helps regulate the body's internal environment, enhance flexibility and strength, improve blood circulation and respiration, relieve fatigue and stress, raise health; at the same time it enhances focus and awareness, self-control and self-regulation — also good for mental health and stress relief.
+
+![IMG_256](../docs/media/image227.jpeg)
+
+#### 4.5.4.2 Yin Yoga
+
+Yin Yoga was founded in 1979 by the American yoga teacher Paul Grilley, based on yoga practice and experience combined with medical strengths, blending the essence of Chinese Daoism and martial arts. Yin Yoga emphasizes whole-body relaxation, emptying all distractions and combining slow natural breath, holding postures for a long time — exercising the bones and their connective tissue while the muscles are completely relaxed, regulating the nervous system, enhancing endurance, to reach the realm of body-mind unity.
+
+Yin Yoga is a more static practice relative to flow yoga. It mainly stimulates the body's deep tissue and joints by holding some basic postures for a long time, achieving the effect of relaxing the body and calming the mind. Yin Yoga emphasizes relaxation and stillness; relative to flow yoga, it pays more attention to the body's flexibility and inner feeling.
+
+Yin Yoga postures usually need to be held static for 3–5 minutes, sometimes longer. These postures include twists, forward bends, backbends, leg stretches, held within a comfortable range. Yin Yoga postures are usually seated or reclining, needing breath to relax the body and calm the mind.
+
+Yin Yoga has many benefits: it helps relieve the body's tension and stress, reduce fatigue and pain, raise flexibility and suppleness, promote blood and lymph circulation, enhance immunity and resistance; at the same time it helps calm the mind, reduce anxiety and stress, enhance focus and awareness, promote mental health and balance.
+
+Note: Yin Yoga should be practiced within a comfortable range, not over-stretching or twisting, to avoid injury. Also practice under a professional coach's guidance to ensure correct posture and breathing.
+
+### 4.5.5 Mantra Chanting
+
+#### 4.5.5.1 The Yoga Sacred Sound Om
+
+![Buddhist mantra true words](../docs/media/image228.jpeg)![aum](../docs/media/image229.png)
+
+Om is one of the most important sacred sounds in the religions of the Indian subcontinent — Hinduism, Buddhism, Jainism, Sikhism. It is a simple three-syllable sound composed of "A-U-M." Om represents the origin, existence, and end of the universe. It is an important element of prayer, meditation, and yoga practice, believed to have the power to purify body and mind and bring calm and inner harmony. In yoga practice, Om is used as a "breath-regulation" tool, helping the practitioner breathe deeply and relax. Also, Om is considered a source of energy, helping people connect with their inner strength and the universe's energy, achieving body-mind-spirit balance and coordination.
+
+Besides use in yoga practice, Om is widely used in Hinduism, Buddhism, Jainism, and Sikhism. In Hinduism, Om is considered one of the most important sacred sounds, viewed as "the sound of the universe" and "the language of the divine," representing the infinite, eternal, and divine. In Buddhism, Om is viewed as one of the necessary elements for reaching nirvana, used as a tool for meditation and practice. In Jainism and Sikhism, Om is also an important element of prayer and meditation.
+
+Besides religion and yoga, Om is also used in music and art as an aesthetic element. In Indian music, Om is a basic note, viewed as the root of all music. In painting and sculpture, Om is a pattern or symbol representing the universe's creation and existence.
+
+Om is a very important element of Indian culture, with deep philosophical and religious meaning, widely applied in yoga, meditation, prayer, music, and art. The initial sound-wave of the universe, collected, compressed, and organized by many scientific instruments, was found to come from a very simple, very primitive sound — that is OM (also written AUM).
+
+OM (also written AUM) is an ancient Sanskrit word called Praṇava. Georg Feuerstein said: "OM is usually seen as the most primal sound, echoing in space-time in the most subtle way of the universe's existence." Ancient yoga wisdom and modern quantum mechanics both tell us: everything in the universe vibrates; nothing is absolutely still. When we chant OM, our chanting frequency is 432 Hz — exactly the frequency of all things' vibration — meaning we are connected with the whole external world. Sound is vibration; vibration is the essence of all creation. OM is symbolized in the yoga world, representing the symbol of the entire yoga world.
+
+In Tibetan Buddhism, the root mantra-sound of all mantras has three sounds: Om — Ah — Hum.
+
+Om: the sound of the universe's life energy, the crown sound.
+
+Ah: the sound of all life's beginning, an open sound, from heart to throat.
+
+Hum (hong): the sound of the material earth's latent energy, an open sound, rising from the dantian.
+
+These three mantra-sounds connect the energy of universe, life, and earth, purifying our body, speech, and mind — the three gates.
+
+**Static Om practice**
+
+Om chanting is the simplest Sanskrit chant to learn, suitable for all ages; beginners learn easily. Om is composed of A-U-M: A and U together make the O sound (open), and the following M closes the mouth; the open and closed parts each take half the time. It is not the case that the longer you chant the better; each person's breath length differs; practicing breath methods can extend the breath.
+
+**Iyengar** said: "God is beyond vibration, but vibration, as God's most subtle form of creation, is the closest to God in the material world." The sound of OM means "resonate in harmony with the inner"; it leads us inward. Chanting this simplest word acts on our nervous system and also makes us attend to our inner situation.
+
+Meanwhile, OM is considered the most powerful and soothing chant in yoga; so when irritable and unable to settle, chanting OM calms breath and heartbeat, entering a focused, breath-held state, and brings awakening and a sense of reality to the body.
+
+**Om chanting method**
+
+Om has three syllables: A, U, M. A is pronounced "Ah"; U is pronounced "Ooh"; M is the closing "Mmm" sound, ending in a quiet, worry-free, peaceful state of mind.
+
+**Pronunciation steps**: First wear yoga or sports clothes, lie flat or sit upright on the mat, hands on the knees. Generally, the sound of yoga Om is issued from the navel position, a bit like singing from the dantian. Then issue the first syllable A from the navel, feeling the vibration below the navel. Then issue the second syllable O from the navel, feeling the whole chest and arms vibrate. Then issue the third syllable M from the navel, feeling the whole head vibrate. Finally issue the fourth syllable from the navel — that is silence; after the "M" sound, there must be silence.
+
+**Cautions**: when chanting yoga Om, first adjust the mindset.
+
+**Dynamic Om practice**
+
+AUM is the vibration from feet to crown, from beginning to end yet without beginning or end; each time a new beginning.
+
+A — (Ah) is the first Sanskrit sound, vibrating below the navel.
+
+U — (Ooh) is the central sustaining sound, vibrating from navel to shoulders.
+
+M — (Mmm) is the last Sanskrit sound, vibrating the shoulder and crown region.
+
+How to do Om chanting: (1) Relax the body, sit on the mat, straighten the back, root on the sit-bones, keep the body stable; open the shoulders, abdomen, and chest; palms together before the chest; close the eyes. (2) Issue the first sound Ah from the navel, feel the vibration below the navel. (3) Issue the second sound Ooh from the navel, feel the abdomen, chest, and arms vibrate. (4) Issue the third sound Mmm from the navel, feel the shoulder-to-head region vibrate. (5) Finally issue the fourth silent sound.
+
+**Om effects**: (1) Calm the heart, relax the body, ease stress — as we chant Om, the body's energy releases with each sound, and with it the inner repression and bodily fatigue are exhaled; when chanting ends, the body is in a completely relaxed state. (2) Lower blood pressure, benefit heart health — as we chant Om, the body's different parts vibrate in sequence — the abdominal, heart, throat chakras, etc. — massaging all seven chakras, lowering blood pressure and soothing the heart; the feeling is beyond comfortable.
+
+Om chanting, with its explosive energy and soothing effect in yoga practice — when you are irritable or depressed, try Om chanting; believe it will bring you a different experience.
+
+#### 4.5.5.2 The Great Bright Mantra (Mani Mantra)
+
+A mantra is a special note with a specific frequency that can vibrate the body's internal qi-channels.
+
+The Great Bright Mantra, also called the Six-Syllable Mantra, is an important Buddhist mantra composed of six syllables: "Om, Ma, Ni, Pad, Me, Hum." It vibrates the body's internal qi-channels, promoting qi-blood circulation and physical-mental health.
+
+In Tibetan-esoteric yoga, the Great Bright Mantra is used as a special qigong method called the "sound-emission method." It uses the unique circling and trembling of Tibetan-letter pronunciation; sound and breath combine, the sound leads the breath, the breath enters and exits with the sound, driving the qi to move, achieving the purpose of opening the channels. Each letter's pronunciation introduces a chakra, opening it. Specifically: Om represents the crown and brow chakras; Ma represents the throat chakra; Ni represents the heart chakra; Ba-Me represent the abdominal and solar chakras; Hum represents the navel and root chakras. By reciting the Great Bright Mantra, the wisdom qi-channels related to the mantra's parts are continuously vibrated open, and stray thoughts are led into the wisdom channel, transforming into the energy of compassion and wisdom.
+
+Besides in Tibetan-esoteric yoga, the Great Bright Mantra is widely used in Buddhism. Reciting it helps purify the mind, strengthen inner power and wisdom, and improve practice effect. At the same time, it is used to heal physical disease and psychological problems, with certain efficacy. The Six-Syllable Mantra, as a sound-emission qigong method — each letter's pronunciation introduces a chakra, opening it.
+
+![Great Bright Mantra](../docs/media/image230.png)
+
+Om (OM): the sound opens the crown chakra (+ brow chakra).
+
+Ma (ma): the sound vibrates the throat, opening the throat chakra.
+
+Ni (ni): the sound is a tongue-tip sound; the heart opens at the tongue; the sound vibrates the heart chakra.
+
+Ba (ba) Mi (mi): the two characters' qi penetrates the abdomen, with a warm feeling, opening the abdominal chakra (+ solar chakra).
+
+Hum (hōng): the sound rushes straight to the navel chakra, from the navel chakra descending along the two legs to the foot-sole centers.
+
+Thus the wisdom qi-channels related to the mantra's parts are opened by continuous recitation and vibration; once opened, stray thoughts are led into the wisdom channel, transforming into the energy of compassion and wisdom.
+
+![Buddhist mantra true words](../docs/media/image228.jpeg)
+
+#### 4.5.5.3 The Green Tara Mantra
+
+A mantra is not writing, not speech, and has no semantic meaning.
+
+A mantra is a wave, a vibration — take body and mind as the chime, as the bowl, as the automatic generator.
+
+Through the universe's vowel, OM (嗡 ōng) opens stillness, tunes the frequency; then with the most devout heart, emit the Green Tara signal, completing body-mind same-frequency resonance, realizing body-mind embodiment.
+
+![Buddhist mantra true words](../docs/media/image228.jpeg)
+
+In translating Buddhist Sanskrit into Chinese, there is the "five non-translations"; the first is that secret mantras are not translated — using transliteration; the eminent monks who translated the sutras believed the mantra's power lies not in the word's meaning but in the pronunciation when recited.
+
+The Green Tara mantra is an important Buddhist mantra, also called the "Green Tara Mantra Mandala." The Green Tara mantra is not writing or speech, has no semantic meaning, but is a wave, a vibration — taking body and mind as the chime, as the bowl, as the automatic generator. Through the universe's vowel "Om (OM)" tuning resonance, it opens stillness, then with the most devout heart emits the Green Tara signal, completing body-mind same-frequency resonance, realizing body-mind embodiment.
+
+The mantra's vibration is physical-level resonance, because the body-storage device in space can realize physical-material-level tuning resonance. And the wave is physical-level driving space-level sound and penetration, realizing body-mind purification and unblocking, completing a coordinated purification from body and spirit levels.
+
+By reciting the Green Tara mantra, one can realize coordinated body-mind purification, achieving the purposes of purifying body and mind, unblocking qi-blood, and strengthening inner power and wisdom. At the same time, it is considered a way to resonate with the universe, completing a process of COSMOS and its light, with its dust.
+
+![Green Tara Mantra](../docs/media/image231.png)
+
+#### 4.5.5.4 The Hundred-Syllable Mantra (Vajrasattva)
+
+Om
+
+Vajrasattva samaya, manu palaya
+
+Vajrasattva tvenopa
+
+Tishtha dridho me bhava
+
+Suto kayo me bhava
+
+Supo kayo me bhava
+
+Anu rakto me bhava
+
+Sarva siddhi me tra ya tsa
+
+Sarva karma su tsa me
+
+Tzayam shi tram e ham
+
+Haha haha ho
+
+Bhagavan
+
+Sarva tathagata
+
+Vajra ma me mun tsa
+
+Vajra bhava maha samaya
+
+Sattva ah
+
+The Vajrasattva Hundred-Syllable Mantra is the mantra of Vajrasattva Bodhisattva. Vajrasattva is the substance of all beings' bodhicitta, as firm as a vajra (diamond), hence "Vajrasattva," also called the Vajra-Heart Bodhisattva; all beings, through this bodhisattva's blessing, arouse the mind. He is the same body but different name as the manifest-school's Samantabhadra Bodhisattva, the eldest son of all Tathagatas. After taking refuge in Buddhism, one vows and acts, cultivating from hearing; in the preliminary path many obstacles arise — past-life and present-life karmic obstructions. Because karma arises from birth, and the mind has defilement that can obstruct bodhicitta, therefore in this pure-circumstance karma, repentance and emergence, one should study. Among the many exoteric and esoteric repentance methods, the esoteric vehicle's practice of Vajrasattva is the supreme essential.
+
+The Vajrasattva karma-cleansing method is one of the four preliminaries for esoteric practitioners, required of all, relying on the four powers: (1) the power of reliance; (2) the power of determination to remove; (3) the power of the remedial action; (4) the power of severing the karma — to eliminate all beings' evil-karma obstructions, making them pure. All evil thoughts are prevented from growing. It can break all afflictions, increasing immeasurable and boundless blessing and wisdom. For occasional errors, omissions, the protective deities will not fault.
+
+The Hundred-Syllable Mantra is the mantra used to eliminate karmic obstruction, repent, and make up omissions, called "the king of all repentances."
+
+![Hundred-Syllable Mantra](../docs/media/image232.png)
+
+#### 4.5.5.5 Chakra Vowels
+
+In Sanskrit, "mantra" refers to "thought that brings liberation and protection," generally translated as "sacred mantra" or "true word."
+
+The sound or text of the mantra, once repeated, can change the reciter's consciousness.
+
+In the Hindu tradition, there are literally thousands of mantras, each with a different purpose and intent. Some mantras are used to unite the reciter with a deity or energy body. Some are used to bless the reciter, bringing specific "siddhi" or power.
+
+Others are used to resonate with and activate the reciter's chakras.
+
+Here we explore the use of vowels in the third function of the mantra — that is, making the chakras resonate.
+
+Chakra: the body's energy centers are energy centers distributed along the body's midline. Clairvoyants and others who can see the subtle energy centers perceive them as vortices whose color, sound, and density constantly change.
+
+Indeed, "chakra" in Sanskrit means "wheel"; they look like rotating wheels of energy. The knowledge of chakras is not limited to Eastern traditions, though most information comes from the Hindu and Tibetan systems. Many esoteric traditions mention energy centers distributed along the body, and anyone with true sensitivity seems able to feel them.
+
+Specific vowels seem to have a direct relationship with different body parts; these vowel sounds seem themselves to make the chakras resonate. This resonance technique is said to be ancient — Edgar Cayce mentioned that ancient Egyptian priests learned to use vowel sounds to resonate with their own energy centers. When these vowel sounds combine with pitch, we have a very powerful sound module to make the body and subtle energy centers resonate.
+
+Above we introduced different systems' vowel-chakra correspondences; find what suits you — that is the best sound-healing module.
+
+### Chapter Summary
+
+This chapter elevates healing from "technique" to "life wisdom," giving the healer's ethics and state requirements, as well as vital-energy self-cultivation methods such as three-channel balance, Taiji fixed stake, meridian movement, and mantra chanting. The premise of healing others is that the healed first takes good care of themselves.
+
+### Reflection Questions
+
+1. What does "the human is the bowl" mean to you?
+2. Why must the healer first manage their own state and energy?
+3. Which self-cultivation method would you incorporate into your daily routine?
 
 # Chapter 5 — Natural Therapies
 
