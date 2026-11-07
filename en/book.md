@@ -463,7 +463,311 @@ As the singing bowl developed under the great Tang heyday, so the great rejuvena
 
 The Jiannian Singing Bowl brand was founded and registered in May 2019, established in the metropolis of Shanghai as the first singing-bowl-themed healing center, training batch after batch of singing-bowl healers, spreading singing-bowl culture, and leading the blossoming of life energy.
 
-<!-- TODO: translate 1.2 Bowl Basics (1.2.1 types of bowls / 1.2.2 making / 1.2.3 selecting / 1.2.4 identifying / 1.2.5 accessories) and 1.3 Techniques of Use (1.3.1 inviting … 1.3.13 gong striking) from the Chinese source sections "1.2.1 各类颂钵" … "1.3.13 单铜锣敲击技巧" -->
+## 1.2 Bowl Basics
+
+### 1.2.1 Types of Singing Bowls
+
+#### Traditional Bowl Categories
+
+A bowl older than 40 years (measured from the 2020 reference point) may be called an "old bowl." Each old bowl is like an elder, with its own unique experience and story — akin to an antique or cultural relic — possessing extremely high collectible value. In the hands of a new owner this collection continues to be used, and through being struck it develops its own unique energy.
+
+Although singing bowls can be made, the craft of that time — lower refinement techniques, the presence of mineral elements, differing eras, different makers, and varying energies — means they are non-renewable, one-of-a-kind, and bear the attributes of a collectible.
+
+Below are the shape categories of traditional bowls. Modern handmade bowls also imitate traditional shapes and may be called by the same names.
+
+##### Jambati
+
+![Jambati](../docs/media/image28.jpeg)
+
+The Jambati is an essential healing singing bowl, traceable to the 17th–19th centuries. Earlier it was generally used in rituals; ancient Indians also used it to cook, boil water, or hold offerings in sacrifice.
+
+"Jambati" means to drink water or wine; "bati" means bowl. The Jambati is the largest, heaviest, and most beautiful of the singing-bowl family. Its curvature is elegant, its bottom small and flat, and its rim characteristically flat or with a wide groove.
+
+##### Thadobati
+
+The Thadobati is one of the oldest bowl-shaped singing bowls, traceable as far back as the 15th century. Its characteristic is very straight walls, a broad flat bottom — heavy and sturdy.
+
+The rim is usually flat; heavier bowls have thicker and wider rims; the bottom bears concentric circular patterns; the walls usually show slight lumps and unevenness. The bottom is fairly flat; where the bottom edge meets the side wall it is rounded, and the side walls curve inward. The Thadobati comes in thick-wall and thin-wall versions; the thick-wall produces a higher register, the thin-wall a deeper, lower tone.
+
+![Thadobati](../docs/media/image29.jpeg)
+
+##### Other Traditional Bowls
+
+![traditional bowls](../docs/media/image30.jpeg)
+![traditional bowls](../docs/media/image31.jpeg)
+![traditional bowls](../docs/media/image32.jpeg)
+![traditional bowls](../docs/media/image33.jpeg)
+![traditional bowls](../docs/media/image34.jpeg)
+![traditional bowls](../docs/media/image35.jpeg)
+![traditional bowls](../docs/media/image36.jpeg)
+
+#### Modern Bowl Introductions
+
+##### Full-Moon Bowl
+
+![full-moon bowl](../docs/media/image37.png)
+
+Unlike ordinary handmade bowls, a full-moon bowl can serve multiple chakras. Its sound is very clear and pleasing, effectively balancing the body's energy and promoting natural healing. The full-moon bowl is a top-tier cast, handmade singing bowl — one of the most popular and highest-quality healing bowls on the market.
+
+It is a premier singing bowl developed and created by masters across generations of transmission, using the purest metals. Completed at the time of the full moon, invented by the Santa master family, it is used mainly for singing-bowl healing.
+
+The making of the full-moon handmade bowl is exacting, with very low output; its sound-vibration frequency is very powerful and its healing effect the best. It is made only on the day of the full moon each month — and not even if it is overcast that day. The master who makes the bowl must fast and purify the mind two or three days in advance, and chant scriptures while making it. The workspace must be purified beforehand; only full-moon bowls are made that day. The raw materials use only original-ore metals: the seven metals — gold, silver, copper, iron, zinc, tin, lead — are all 100% raw-ore metal. Full-moon bowls are usually matched to chakras by note: **C = Root, D = Sacral, E = Navel, F = Heart, G = Throat, A = Brow, B = Crown**.
+
+In singing-bowl healing, full-moon bowls are widely used for various physical and emotional issues — anxiety, depression, insomnia, pain, and more. They can also be used for meditation and relaxation, helping people calm the mind and improve focus and attention. The full-moon bowl is a very precious singing bowl — exacting in process, excellent in quality, beautiful in sound, and remarkable in healing effect. If you are looking for a high-quality bowl to help with physical and emotional issues, the full-moon bowl is an excellent choice.
+
+##### New-Moon Bowl
+
+The new-moon bowl is a new-concept bowl made with the same craft as the full-moon bowl, completed on a clear, windless new-moon night. They represent the power of rebirth and are the yin-yang complement of the full-moon bowl. Some believe the new-moon bowl is actually made by silver-plating a full-moon bowl, with a new naming to create new market demand and economic value. Regardless, the new-moon bowl is a very unique singing bowl, representing the power and hope of rebirth; it can help people balance body and emotion and improve focus and attention.
+
+##### Bottomless (Deep-Therapy) Bowl
+
+![bottomless bowl](../docs/media/image38.jpeg)
+
+The deep-therapy bowl suits the knee and head; the body is thinner and lighter, with large amplitude. Designed specifically for the knee joint and head, with a hollowed-out bottom — when used on the knee it fits all around for a better effect; when used on the head it is lighter.
+
+##### Purple-Gold Bowl (Zijin)
+
+![purple-gold bowl](../docs/media/image39.png)
+
+In *Journey to the West*, Tang Xuanzang exchanged a purple-gold bowl for true scriptures worth "more than three *dou* and three *sheng* of gold." Purple represents the sacred; the Forbidden City in Beijing is also called the Purple Forbidden City; "purple qi comes from the east" represents noble temperament and excellent aspiration. The purple-gold bowl, as the ceiling of contemporary singing bowls, is superb in sound, form, vibration intensity, and beauty — every detail honed and polished countless times; the inner bottom is rounded golden polish, the exterior ink-green with the sedimentation of time; every dimension and every tone discussed and refined several times. When using the purple-gold bowl, close your eyes and quietly listen to the ethereal, distant tones from the mountains, feeling the culture and spirit they contain.
+
+##### Jiannian® Thin Deep-Therapy Bowl
+
+A common body-mind healing bowl, often used for body healing; light and convenient, with obvious vibration, purely handmade, thin-polished, rich and full timbre, and abundant vibration — an essential healing bowl for the singing-bowl healer, and the type recommended by the Jiannian Singing-Bowl Sound-Therapy Center for venue healing.
+
+![Jiannian thin bowl](../docs/media/image40.png)
+
+##### Meinl Bronze Bowl (Germany)
+
+![Meinl bowl](../docs/media/image41.jpeg)
+
+The Meinl singing bowl is one of the products under *Sonic Energy*, the renowned German percussion brand founded in 1951. The brand is devoted to crafting professional percussion instruments, including gongs, sound bars, tuning forks, and bronze bowls. The bronze-bowl series is all produced in India in cooperation with local artisans, conforms to European R&D and manufacturing standards, and is quality-inspected in Germany before shipping to China — a guarantee of German rigorous craft and quality. The bronze-bowl series has four products covering different application scenarios, from zero-basis to professional healer, giving users more choice and a quality experience.
+
+##### Taiwanese Bronze Qing
+
+![Taiwanese qing](../docs/media/image42.png)
+![Taiwanese qing](../docs/media/image43.png)
+
+Made of pure copper; Japanese style: polished from a whole golden copper core; Taiwanese style: black, machine-made, hand-polished. Used for decoration or striking. The *qing* is a bronze bowl-shaped ritual instrument struck with a mallet; it is also called a *zan*.
+
+The qing is one of humanity's earliest invented instruments, recorded in ancient books. Buddhist scriptures also mention the bronze qing; in ancient India's Jetavana monastery there was a bronze qing that could hold five *sheng*, its four sides inlaid with gold, engraved with images of the Buddha's past disciples, and a nine-dragon shape of purple-finished gold on the nose. On the back stands a celestial figure holding a jade mallet striking the qing, its sound spreading throughout the three thousand worlds. The qing is used mainly in religious practice — an instrument of sacred meaning.
+
+##### Music Bowl
+
+The music bowl has relatively strict pitch requirements, used mainly for sound healing, regulating brain-wave frequencies, and through sound bringing bodily and mental relaxation and deep sleep. It is also a music-type healing tool recommended by the Jiannian center. Music bowls can also be made from full-moon bowls; the sound is relatively distinctive, with matched pitches for each level of sound healing, with a layered sense of high and low frequencies.
+
+##### Sanskrit-Sound Bowl (Fanyin)
+
+Made of copper, machine semi-handmade; also used for listening, not a healing or music bowl; it produces sound but with insufficient overtones, and is generally not used in professional singing-bowl healing. Uses: entering stillness, struck or spun to produce sound.
+
+##### Dolphin-Sound Bowl
+
+A singing bowl that can produce dolphin sounds.
+
+##### Taiwanese Yin-Qing
+
+The yin-qing is a ritual instrument of monks and Daoists, mostly made of copper, shaped like a small bowl, with a button through the bottom and a wooden handle beneath. Used during sutra chanting and Buddha-name recitation to adjust the syllable. Bright, crisp timbre.
+
+![yin-qing](../docs/media/image44.jpeg)
+
+##### Machine-Made Bowl
+
+Mostly used for decoration or display, with aesthetic, artistic, and ornamental value; not used for body or energy healing.
+
+##### Khasa Bowl
+
+Currently, Nepal has newly launched an innovative healing bowl on the market — the Khasa bowl.
+
+![Khasa bowl](../docs/media/image45.png)
+![Khasa bowl](../docs/media/image46.png)
+![Khasa bowl](../docs/media/image47.png)
+
+##### Crystal Bowl
+
+The crystal bowl is made by refining high-purity natural crystal sand. Using high technology, 99.99%-pure natural crystal sand is melted into liquid at temperatures as high as 3000–4000°C and formed in one piece in a vacuum, dust-free environment, avoiding bubbles or impurities in the process, achieving a perfect one-piece bowl shape. Crystal itself is a vibration emitter, able to bring the vibration consciousness of the crystal into our cellular level. Our bodies are 65%–70% water — perfect receivers of this information; their vibrations permeate us.
+
+![crystal bowl](../docs/media/image48.png)
+
+The crystal bowl has memory, focus, conduction, and energy-amplification functions, mainly used for purifying space and field. Method of use: light striking and rubbing. Crystal-bowl sound healing is a deeply penetrating crystal healing; the circle symbolizes perfection; through striking or friction it emits audible sound; the center of the circle is empty, symbolizing greater emptiness — when rubbing the bowl it is easy to open a space both outside and inside simultaneously; because of this space (nothingness), more possibilities flow and arise within. When the crystal bowl is struck, the sound is crisp and loud; when rubbed, it shows a grand momentum; its pitch is relatively high, and for those with overactive thoughts it may sound irritating. The crystal bowl suits space purification or large-space fields.
+
+#### Other Healing Instruments
+
+ASMR (Autonomous Sensory Meridian Response) is a perceptual phenomenon in which stimulation of vision, hearing, touch, smell, and other senses — and of the intracranial, scalp, back, and limb regions — produces a pleasant response such as scalp tingling or goosebumps.
+
+| Instrument | Image |
+| --- | --- |
+| Gong 铜锣 | ![gong](../docs/media/image49.png) |
+| Rain Stick 雨棍 | ![rain stick](../docs/media/image50.png) |
+| Ocean Drum 海浪鼓 | ![ocean drum](../docs/media/image51.png) |
+| Wind Chime 风铃 | ![wind chime](../docs/media/image52.jpeg) |
+| Natural Shell Shaker 天然果壳摇铃 | ![shell shaker](../docs/media/image53.jpeg) |
+| Wind-Thunder Tube 风雷筒 | ![wind-thunder tube](../docs/media/image54.jpeg) |
+| Tuning Fork 音叉 | ![tuning fork](../docs/media/image55.jpeg) |
+| Sound Bar 音束 | ![sound bar](../docs/media/image56.jpeg) ![sound bar](../docs/media/image57.jpeg) |
+| Kongling Drum 空灵鼓 | ![kongling drum](../docs/media/image58.jpeg) |
+| Handpan 手碟 | ![handpan](../docs/media/image59.jpeg) |
+| Thumb Piano / Kalimba 拇指琴 | ![kalimba](../docs/media/image60.jpeg) |
+| Other Chinese & Western instruments 其他中外乐器 | coconut drum, *xun*, *xiao*, *dizi*, *qin*, bass drum, *erhu*, piano, harp, etc. |
+
+### 1.2.2 Making the Singing Bowl
+
+#### Smelting (Mineral Smelting)
+
+![smelting](../docs/media/image61.png)
+
+Whether traditional craft or modern industrial smelting advances make smelting more convenient and efficient, the method and process are no different from tradition — selecting copper-rich natural copper ore.
+
+**Natural copper ore**
+
+![natural copper ore](../docs/media/image62.png)
+
+Through grinding, copper ingots are refined, transforming the various chemical compound states of copper in the minerals into a collection form of copper atoms, achieving copper extraction. Compared with other metals, copper is the easiest for humans to extract; in the application of human materials, bronze came first — called in materials science the Bronze Age.
+
+#### Grinding Powder and Refining Copper
+
+![grinding powder](../docs/media/image63.png)
+
+Casting into shape is performed, preparing for further application.
+
+#### Casting into Shape
+
+#### Heating and Forging
+
+![forging](../docs/media/image64.png)
+
+Through continuous forging it takes shape, making various copper implements. In the making of the singing bowl, three or four experienced artisans collaborate, repeatedly tempering and annealing, shaping the singing bowl, reciting and chanting mantras to fix its form.
+
+#### Tempering and Annealing
+
+*Annealing*: heating the workpiece to an appropriate temperature, holding according to material and workpiece size, then slow cooling — aimed at bringing the metal's internal structure to or near equilibrium, obtaining good process and service performance.
+
+*Tempering*: reheating a quenched workpiece to an appropriate temperature below the lower critical temperature Ac1 (the start temperature at which pearlite transforms to austenite on heating), holding for a time, then cooling in air or in media such as water or oil. Or heating an alloy workpiece after quenching to an appropriate temperature, holding for some time, then slow or fast cooling. Generally used to reduce or eliminate internal stress in quenched steel, or lower its hardness and strength to improve ductility or toughness. Quenched workpieces should be tempered promptly; only through the combination of quenching and tempering can the required mechanical properties be obtained.
+
+#### Grinding and Polishing
+
+*Grinding* is a surface-modification technique — generally using a rough object (sandpaper containing higher-hardness particles, etc.) to change the material's surface physical properties through friction, mainly to obtain a specific surface roughness. *Polishing* is a processing method that uses mechanical, chemical, or electrochemical action to reduce the workpiece's surface roughness, obtaining a bright, smooth surface.
+
+#### Carving and Coloring
+
+![carving](../docs/media/image65.png)
+
+In the craft of making singing bowls, especially handmade bowls, beyond material selection it depends more on experienced singing-bowl artisans; technological development helps improve the bowl's precision and stability, but differs from industrialized production that pursues homogenization and mechanical mass output. As an emerging and niche market, the singing bowl has no huge market demand, yet has a sufficient consumer market; aside from machine-made bowls used for display, handmade bowls have their market and can drive local employment, stabilizing the livelihood basis on which artisans depend. Whether using or making singing bowls, development comes through flow, benefiting both ends of the bowl and blessing the world.
+
+### 1.2.3 How to Choose a Bowl
+
+As a professional singing-bowl sound therapist / healer, how does one walk the professional path and choose one's own singing bowl? The ancients said: "A worker who would do his work well must first sharpen his tools." Although we are not artisans sharpening our tools, as healers the singing bowl is both our essential healing tool and the carrier through which we convey healing skill and culture.
+
+In healing, one must surely begin from healing oneself and influencing others; choosing a bowl is the same — be your true self and influence those around you. Choosing a bowl has corresponding professional principles, but none of this rational professional guidance surpasses perceiving, resonating, and choosing with the most real and sincere heart. Below, we collaborate from two aspects to select the bowl that belongs to you.
+
+#### Clarify the Purpose
+
+The purpose of using a singing bowl divides into two kinds: performance and healing. For performance purposes, consider whether the bowl's pitch and timbre quality meet performance standards. For healing purposes, first consider whether to use the sound-resonance method or the bowl-body vibration method — if sound is primary, consider the stability and sustain of its sound; if bowl-body vibration is primary, choose a bowl with good vibration intensity and sustain. Also weigh portability, size, and budget comprehensively.
+
+#### Choose the Chakra
+
+Choose by pitch and related chakra. Pitch: **C D E F G A B** correspond to numbers **1 2 3 4 5 6 7**. Corresponding chakras: Root, Navel (Sacral), Stomach (Solar Plexus), Heart, Throat, Brow, Crown.
+
+**Advice for beginners:**
+- *One bowl*: suggest a Heart-chakra bowl, or choose by individual chakra need. The Jiannian center suggests, for a first bowl: Root-chakra bowl, Stomach-chakra bowl, or thin Heart-chakra bowl, for sound and body-mind healing — convenient to begin the healer's first-bowl practice journey. E.g., the Stomach-chakra bowl can target stomach regulation and also heal the whole body; the Root-chakra bowl, besides targeting root energy, can also heal the whole body, corresponding to the Crown for relaxation and meditation — stable, low-frequency tones that make body and mind relaxed and comfortable. The lower three chakras are relatively larger and convenient for "spaceman" healing; choose a thin, moderately weighted bowl.
+- For healers on the professional path, it is suggested to choose the Jiannian custom-recommended thin Root-chakra energy bowl for the first purchase, usable for professional body healing.
+- *Three bowls (lower three)*: Root, Stomach (or Navel), Heart.
+- *Three bowls (upper three)*: Heart, Crown, Throat.
+- *Full seven-bowl healing set*: full set of full-moon bowls (bowl-body vibration), music bowls (music), light thin seven bowls (suitable for handheld, vibration), crystal bowls (mainly rubbing).
+
+#### Choose Size / Color / Shape
+
+Generally a set's sizes run from large to small in pitch order; choose the pitch by preference, then the size that suits you. Also choose size by the area of the healing space: large venues — choose full-moon bowls, color mainly dark; small occasions — suitable small full-moon bowls, size not too large.
+
+**Price**
+
+Hundred-yuan bowls (small music bowls), thousand-yuan bowls (mainly body-mind healing) — note: body-mind healing type bowls basically do not go below one thousand yuan; ten-thousand-yuan bowls (collecting | feng shui | artistic cultivation combined). Now, compared with before, many people engage in singing-bowl healing, and the Chinese market has promoted cooperation to build factories in Nepal; the price of singing bowls, while still a niche market, has also declined somewhat.
+
+#### Choose Weight
+
+Whether a performance bowl or a healing bowl, both differ in size and weight; the bowl's thickness is also an option — an even, thin healing bowl or an appropriately sized healing bowl suits women or has advantages in handheld healing. From a professional standpoint, we may choose a category or set of bowls selected through professional commonality; within the commonality, finding your own unique individuality is the emotional and energetic basis for choosing a bowl next.
+
+In healing-culture philosophy, or in our TCM prescription philosophy, we emphasize exclusive customization — one person, one bowl; one person, one plan. Healing singing bowls are handmade by artisans — truly "a thousand bowls, a thousand sounds," each bowl with different energy. This requires us to find individuality within commonality. When we choose a life partner, it is not only about choosing the common parts, but more importantly: respect for individuality enables resonance and joint progress, common growth. Next, choosing a bowl is the same — how to choose the bowl suited to your present self? From three aspects, connect a more professional angle with emotion and intention to choose your "destined heavenly bowl."
+
+#### Preference First
+
+Prioritize choosing what suits you, with the strongest psychic resonance, as the entry point. On the premise of having selected a category of bowls by the above conditions, prioritize choosing what you like, within your budget — decide decisively. Meeting is beauty; once met, don't miss it. Among the vast sea of bowls, it need not be the most expensive or the largest, but it must be your favorite. This is much like picking up stones by the sea — following your own preference is the most real way to face yourself and build your first connection with the bowl.
+
+Listen with your heart — use your whole body and mind to listen fully; you will hear not only the sound audible to the fleshly ear, but also that deeper secret sound that touches your inner being. You must have the experience of love at first sight with certain people; choosing a bronze bowl is the same. Once you meet your "destined heavenly bowl," you resonate with each other, and there is a clear understanding of "ten thousand words cannot compare with wordless."
+
+#### Personal Experience
+
+"A worker who would do his work well must first sharpen his tools." Singing bowls have complex composition; measured audio frequencies all differ. At the beginning, don't cling to needing a certain pitch or certain chakra bowl; a high-frequency small bowl makes one joyful and relaxed, a low-frequency large bowl makes one settled. At first, abandon knowledge-based brain analysis; set out from the heart, communicate with the heart, dialogue with the body, and through hearing and body-mind feeling choose the encounter that belongs uniquely to you.
+
+**The choice and use of healing tools should both be experienced and felt personally (hand-feel & heart-feel); first connect with yourself, then through the singing bowl influence others with stable and powerful frequency and energy.**
+
+#### Listen with Ears, Muscles, and Emotion
+
+If you only intend to buy one bowl, then the best way is to follow your heart and listen with ears, muscles, emotion, and spirituality — no need for others' opinions, no need for a spiritual teacher to sense on your behalf. Follow the one you know, that pitch, with profound resonance; open yourself more freely to listen to infinite possibilities, and choose the bowl that belongs to you.
+
+### 1.2.4 Identifying a Singing Bowl
+
+#### Observation
+
+*(material, craft, shape, pattern)* Observe the bowl's material, investigate its making craft, its shape and substance, and the decoration on the bowl body and color; investigate the bowl's age and making craft, as well as bowl shape and bowl decoration.
+
+#### Striking
+
+*(vibration-feel + frequency + amplitude)* Through testing the bowl's pitch, perceive and test the stability of the pitch through striking force, and while striking perceive the interval and length of the overtones. Perceive and judge through vibration-feel, sound sustain, and vibration sustain.
+
+*1/4 striking*: divide the bowl into four directions, strike at the four fixed points, perceive balance and stability. Through long-term striking and use, the bowl's frequency stability will gradually settle; the bowl's healing attribute, together with the striker, forges a fixed healing tool.
+
+*1/8 striking*: divide the bowl into eight regions, strike within each region, perceive the feel and stability of the bowl in different regions; the striking force may use a certain tilting angle, then let the mallet fall naturally to strike the bowl body.
+
+#### Spinning the Bowl
+
+*(stability + connectivity)* Perceive the stability of the bowl's vibration, its uniformity, balance, and stability in all directions. You can also add 1/3–2/3 water into the bowl and observe and perceive the state of the water ripples and their beating rhythm. Good rhythm, symmetry, and dispersion make the bowl's stability and sonic harmony a delight to behold. The method of identifying a singing bowl is also a path to choosing one; ultimately, combining goal with preference, choose the companion that will follow you on your healing journey.
+
+#### Decoration and Flaws
+
+Generally handmade bowls have more or less a few flaws — this is precisely the difference and identification between handmade and machine-made bowls. As the saying goes, "flaws do not obscure the jade"; beautiful jade generally also has flaws; truly flawless fine jade is either priceless or heavily processed imitation.
+
+In terms of decoration, generally high-quality sounding bowls will not have decorative carving added; the natural state needs no gilding of the lily. On the other hand, adding decoration adds a layer of cultural meaning and faith, and through decoration also cultural-energy healing — such as the *lingam*, a bowl with a central protrusion symbolizing the male genital, occupying an important place in Indian culture; such a bowl gains an extra layer of cultural color, and the shape adjustment also differs from the sound resonance, adding a power of reverence for the gods, becoming one of the typical shapes among old bowls.
+
+Other decorations — Buddha, Bodhisattva, mantras, patterns, Flower of Life, etc. — are mainly decorative, healing secondary. For a true healing bowl, like a jade-carving master, one carves following the natural shape of the jade, or even keeps the original state; a quality bowl is the same — not much decoration carved on it. But from a market perspective, decorated bowls more easily catch the eye and win market recognition and sales. Whether carved decoration or plain face, the final consideration is to shed the cultural and faith outer garments and simply listen to the bowl's original sound from timbre and tone; then consider the imagery of appearances, not over-pursuing appearances — this is also the cultivator's path of the singing-bowl healer.
+
+### 1.2.5 Accessories
+
+#### Mallet (Bowl Striker)
+
+![mallet](../docs/media/image66.jpeg)
+
+#### Rubbing Stick
+
+![rubbing stick](../docs/media/image67.png)
+
+#### Cushion Ring
+
+![cushion ring](../docs/media/image68.jpeg)
+
+#### Suction Cup
+
+![suction cup](../docs/media/image69.png) *(not recommended; feeling with the hand is better)*
+
+#### Anti-Slip Mat
+
+![anti-slip mat](../docs/media/image70.jpeg)
+
+#### Pillow
+
+![pillow](../docs/media/image71.jpeg)
+
+#### Eye Pillow
+
+![eye pillow](../docs/media/image72.jpeg)
+
+#### Massage Table / Sleep Mat
+
+![massage table](../docs/media/image73.jpeg)
+![massage table](../docs/media/image74.jpeg)
+
+#### Yoga Blanket
+
+<!-- TODO: translate 1.3 Techniques of Use (1.3.1 inviting / 1.3.2 holding / 1.3.3 striking / 1.3.4 rubbing / 1.3.5 moving / 1.3.6 placing / 1.3.7 strike technique-rhythm-force / 1.3.8 rub angle-speed-force / 1.3.9 stopping / 1.3.10 ting-sha / 1.3.11 cleaning & care / 1.3.12 breathing practice / 1.3.13 gong striking) from Chinese source sections "1.3.1 请钵 Inviting" … "1.3.13 单铜锣敲击技巧" -->
 
 # Chapter 2 — Theoretical Topics
 
