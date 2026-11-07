@@ -199,9 +199,9 @@ ZH_HTML = """<!DOCTYPE html>
   <meta property="og:description" content="系统、免费、可传播的声音疗愈与音疗师培训教程。涵盖颂钵技法、理论、脉轮经络与实操。" />
   <meta property="og:locale" content="zh_CN" />
   <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
-  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
+  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
+  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -240,7 +240,7 @@ __NAV__
 
     <main class="main">
       <div class="hero">
-        <img src="assets/social-preview.png" alt="颂钵疗愈师培训 7.0 封面" />
+        <img src="assets/social-preview.jpg" alt="颂钵疗愈师培训 7.0 封面" />
       </div>
       <h1>颂钵疗愈师培训 7.0（大字版）</h1>
       <p class="sub">免费开源 · 声音疗愈 / 音疗师培训教材 · CC BY-NC-SA 4.0</p>
@@ -353,9 +353,9 @@ EN_HTML = """<!DOCTYPE html>
   <meta property="og:description" content="A systematic, free, shareable manual for sound healing and singing-bowl practitioner training." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
-  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
+  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
+  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -394,7 +394,7 @@ __NAV__
 
     <main class="main">
       <div class="hero">
-        <img src="../assets/social-preview.png" alt="Singing Bowl Healer Training 7.0 cover" />
+        <img src="../assets/social-preview.jpg" alt="Singing Bowl Healer Training 7.0 cover" />
       </div>
       <h1>Singing Bowl Healer Training 7.0 <span style="font-size:18px;color:var(--muted)">(Large-Print Edition)</span></h1>
       <p class="sub">Free &amp; open-source · Sound Healing / Sound-Therapy Practitioner Training · CC BY-NC-SA 4.0</p>
