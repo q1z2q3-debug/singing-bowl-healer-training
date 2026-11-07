@@ -912,7 +912,266 @@ This chapter set out from "what is a bowl," systematically sorting the bowl's fo
 2. Why does the textbook list "personal experience" as the first standard for choosing a bowl?
 3. What energy logic is implied among inviting, holding, and striking the bowl?
 
-<!-- TODO: translate Chapter 2 — Theoretical Topics (2.1 Sound Fundamentals / 2.2 Vibration Fundamentals / 2.3 Energy Fundamentals / 2.4 Healing Principles / 2.5 Chakra Rhythm / 2.6 Meridians) from Chinese source headings "## 2.1 声音基础" … "第六节 穴位经络（中高级）" -->
+# Chapter 2 — Theoretical Topics
+
+### Chapter Learning Objectives
+
+- Understand the elements of sound and bowl tones (pitch, overtones, the fifth interval);
+- Master the relationship between same-frequency resonance, physical vibration, and the energy field (three channels and seven chakras, five great elements);
+- Build a science–philosophy unified framework of "healing principles."
+
+## Section 1 — Sound Fundamentals (Beginner–Advanced)
+
+When the singing bowl is struck upon the body, every cell in the whole body vibrates. The body enjoys a cellular-level sound massage, drawing the brain into deep relaxation. After a quarter of an hour, one is comfortable, at ease, unwilling to wake. This contact and connection between bowl and body is the unique charm of singing-bowl sound therapy. Hearing and touch perceive the cellular-level vibration of water, achieving complete bodily and mental relaxation and healing — healing without medicine.
+
+![sound on body](../docs/media/image79.jpeg)
+
+### 2.1.1 Form and Substance as One
+
+![form and substance](../docs/media/image80.png)
+
+**Keywords:** copper · hollow · round.
+
+Imagine: if the singing bowl were triangular or square, could it still emit beautiful, long-sustaining sound? If the bowl were made of other materials — iron, lead, wood, or stone — could it still emit such long-sustaining sound? Clearly, the reason the singing bowl can produce such wonderful sound is the perfect combination of its form and material.
+
+Let us explore the four elements of sound from the human vocal structure.
+
+![vocal structure](../docs/media/image81.jpeg)
+
+The physiological basis of voice is the human vocal organs, mainly composed of three parts: the power part, the vibration part, and the transmission-resonance part. The power part is the lungs; the vibration part is the vocal cords; the transmission and resonance parts include the chest cavity, throat cavity, oral cavity, and nasal cavity.
+
+Likewise, the sound basis of the singing bowl is also composed of three parts. The power part is the striker; the vibration part is produced by the copper bowl form; the transmission and resonance parts are the air and the bowl cavity — that is, the hollow part of the singing bowl. Sound is produced by sound waves generated from the vibration of an object. We hear sound because it propagates as waves.
+
+### 2.2.2 Elements of Sound
+
+![elements of sound](../docs/media/image82.jpeg)
+
+The four elements of sound are **pitch, intensity, duration, and quality**.
+
+- **Pitch (tone):** as the name suggests, pitch refers to how high or low our sound is; it depends on how fast the sounding body vibrates. Fast vibration → high pitch; slow vibration → low pitch. Generally, a small, thin, short, tight sound vibrates fast and is high-pitched; a large, thick, long, loose sound vibrates slow and is low-pitched. Colloquially, women's voices tend higher, men's lower.
+
+![pitch](../docs/media/image83.jpeg)
+
+- **Frequency:** the number of periodic changes completed per unit time — a measure of how frequent a periodic motion is. Commonly denoted *f* or *ν*, unit s⁻¹. In honor of German physicist Hertz, the unit is named the hertz (Hz). Every object has a frequency determined by its own nature, independent of amplitude — called its **natural frequency**.
+
+![frequency](../docs/media/image84.jpeg)
+
+- **Intensity:** intensity refers to the strength of sound; it depends on the amplitude of the sounding body's vibration. Large amplitude → strong intensity; small amplitude → weak intensity. Simply put, the harder we speak, the larger the amplitude and the stronger the intensity, and vice versa.
+
+![intensity](../docs/media/image85.jpeg)
+
+The singing bowl's intensity comes from the striker's striking method and force, determining the sound's volume and the bowl's vibration amplitude, but it does not change its inherent frequency. The striking method or force, large or small, can be flexibly adapted to the field, the bowl's position, and the healee's body-mind state — a common way the healer changes the sound's elements.
+
+![bowl intensity](../docs/media/image86.jpeg)
+
+- **Duration:** duration refers to the length of sound; it depends on how long the sounding body vibrates. Long vibration → long duration; short vibration → short duration. Duration has little distinguishing significance for us as speech, but is not wholly useless — when we speak slowly, duration is long; when arguing, short; when reciting, long; in everyday talk, short.
+
+![duration](../docs/media/image87.jpeg)
+
+As an instrument, duration can be designed according to different environments and changes — for the singing bowl, different striking tools and techniques (striking, rubbing, colliding, stopping) realize different sounds and expressions from the same bowl, enriching its uses and creating and satisfying the design and output of bowl tones.
+
+- **Quality:** quality is the quality, clarity of sound — high-quality sound means a lossless original waveform. But be clear that quality differs from timbre: whether a sound is pleasant refers to timbre, not quality. Quality is the sound's texture, coarseness, purity, springiness, and density. For the singing bowl, different forms and substances have fixed frequencies, unaffected by the striker's intention; the moment the bowl is finished, its frequency is essentially set. Grasping quality comes from the choice of bowl — a comprehensive, mostly physical consideration; the bowl's own charm means that, regardless of force or method, it yields excellent bowl tones and overtones.
+
+### 2.1.3 Sound Reception
+
+![sound reception](../docs/media/image88.jpeg)
+
+When sound waves pass through the outer ear into the eardrum, they are transmitted to the middle-ear tissue, then guided to the inner ear and cochlea; the auditory receptors within the cochlea then transmit the received sound waves via the auditory nerve to the brain, forming hearing.
+
+In school we learned that sound reception comes from the connection between our auditory system and the brain, letting us hear part of nature's sounds. Science defines the human hearing range as 20 Hz–20 kHz; as we age this range shrinks further, so that in old age one must speak loudly to be heard — a feeling much like hearing sounds from shore while underwater.
+
+### 2.1.4 Basic Bowl Tones
+
+#### 2.1.4.1 The Bowl's Pitch
+
+Different schools or regions classify differently; see the figure.
+
+![bowl pitch](../docs/media/image89.jpeg)
+
+Through the chakra discourse, the Vedic system's pitch system is C D E F G A B. C D E F G A B are the British note names, corresponding: C=1=do, D=2=re, E=3=mi, F=4=fa, G=5=so, A=6=la, B=7=ti (si).
+
+Since ancient times, sound has been considered one of the media through which humans communicate with sacred power; singing-bowl healing is a kind of sound healing. The bowl was originally a vessel Himalayan monks used to hold food, but because of its unique and wondrous sound it was extensively studied and clinically practiced by Europeans, who found the bowl's sound plays a fine role in promoting human health; gradually singing-bowl healing has been accepted by more and more people. Now the singing bowl has become a special instrument beloved for physiotherapy, sound massage, sound healing, and chakra balancing, and singing-bowl healing has been formally included in the internationally recognized natural-therapy system, recognized by mainstream medicine in Europe and America and incorporated as auxiliary medicine into local health insurance. The resonant universal vowel is *Aum* or *Om*.
+
+The Tibetan system's planetary order is determined by the speed at which planets appear to move from Earth: the Moon feels fastest, Saturn slowest, and the Sun in the middle. This is the system used by ancient astronomers and alchemists.
+
+- Doh ~ C
+- Ray ~ D
+- Me ~ E
+- Fah ~ F
+- Soh ~ G
+- Lah ~ A
+- Te ~ B
+
+#### 2.1.4.2 The Five Viscera Have Sound
+
+In traditional Chinese culture, "the five viscera each have sound" is an important concept. In the Chinese TCM five-element theory, nature has five heavenly sounds — *jue*, *zhi*, *gong*, *shang*, *yu*; matter also has five elements — wood, fire, earth, metal, water; correspondingly, the human body has five important organs — liver, heart, spleen, lung, and kidney. These organs correspond to the five elements, five flavors, and five sounds, so music benefits the healing of disease.
+
+![five viscera sound](../docs/media/image90.jpeg)
+
+In Chinese character culture, both *music* (乐) and *medicine* (药) are means of healing. The mechanism of medicine, like music, regulates body-mind balance, bringing joy and health. More than two thousand years ago, the Chinese medical masterpiece *Huangdi Neijing* (Yellow Emperor's Inner Canon) recorded the connection between the five viscera and five frequencies. Liver belongs to wood, its sound *jue*, its emotion anger; heart belongs to fire, its sound *zhi*, its emotion joy; spleen belongs to earth, its sound *gong*, its emotion thought; lung belongs to metal, its sound *shang*, its emotion worry; kidney belongs to water, its sound *yu*, its emotion fear. The five sounds *jue, zhi, gong, shang, yu* are called the "five heavenly elements." Because the five viscera correspond to the five elements, five flavors, and five sounds, music benefits the healing of disease. When a piece ends, the illness recedes and the person is at peace.
+
+![five viscera sound 2](../docs/media/image91.png)
+
+> "Music has distant origins; it is born of measure, rooted in the Great One. The Great One births the two modes; the two modes birth yin and yang; yin and yang transform, rising and falling, harmonizing into pattern."
+> — *Lüshi Chunqiu* (Spring and Autumn Annals of Master Lü)
+
+> "It stirs the blood and vessels, circulates the spirit, and harmonizes and rectifies the heart."
+> — *Shiji · Book of Music* (Records of the Grand Historian)
+
+> "The five viscera have sound; when sounds harmonize, there is no disease."
+> — *Huangdi Neijing* (Yellow Emperor's Inner Canon)
+
+#### 2.1.4.3 The Magic of Overtones
+
+In music-making and singing-bowl healing there is an important concept that gives sound its magical function and value — the **overtone**.
+
+An overtone is a musical term. In professional music, the description of the overtone series: among all wave trains the longest-wavelength one is called the fundamental wavelength (fundamental), and its wavelength determines the pitch of the note the instrument plays. Almost all instruments, besides emitting the fundamental, also emit shorter-wavelength sounds — called overtones.
+
+After these sounds are emitted, the lowest frequency is called the fundamental; all partials with frequency higher than the fundamental are called overtones. In instruments with clear pitch, between the string or air column there are waves of the same wavelength traveling in opposite directions due to reflection; because they interfere with each other they produce harmonics of different wavelengths — in music called overtones. The wavelengths of the overtone series are respectively 1/2, 1/3, 1/4, 1/5, 1/6… of the string length or air-column length.
+
+The singing bowl is a traditional Tibetan Buddhist healing instrument and also a sounding instrument; its main feature is the ability to emit rich overtones. The singing bowl's overtones are determined by its special design and craft. Its making materials include copper, tin, lead, gold, silver, and other metals, and the craft produces sound through hammering and rotating the bowl. The singing bowl's sound is very special — it lets one feel strong resonance and also produces a healing effect.
+
+Notably, after the singing bowl is struck, besides its inherent frequency, as the duration lengthens the overtone frequency becomes smaller and higher. Interestingly, its peak resonance frequency approaches an integer-ratio relationship, which gives the singing bowl its harmonious sound effect. The figure below is a model of the energy state and frequency change after striking a singing bowl, detected in scientific literature.
+
+Overtones are not limited to the singing bowl; they also exist in many other instruments — piano, violin, guitar, etc. When an instrument emits sound, overtones change with the fundamental's change — which is also why instruments produce different pitches. At the same time, overtones are an important component of an instrument's timbre, letting it emit richer, deeper tone, so people feel stronger emotion and meaning while appreciating music.
+
+Overtones are a very important concept in music — they exist not only in the sounds instruments emit, but can also produce healing effects. For music lovers, understanding the principle and application of overtones not only lets them better appreciate music, but better understand its inner construction and charm.
+
+![overtones](../docs/media/image92.png)
+**Singing bowl: the fundamental frequency and overtone frequency of the struck sound become smaller and higher.**
+**Interestingly, its peak resonance frequency approaches an integer-ratio relationship, which gives the singing bowl its harmonious sound effect.**
+
+#### 2.1.4.4 The Fifth Interval
+
+Music originates from mathematics. Sound is produced by the vibration of objects; the ancients arranged strings of different vibration frequencies by ratio, and could play musical tones, thus producing music. When a string vibrates it produces a fundamental frequency, called the fundamental, but the string vibrates not only as a whole — its halves, thirds, etc. also vibrate simultaneously, thus producing a combination of many tones including the octave and fifth — these partial tones are called overtones.
+
+An interval is the mutual relationship between two scale degrees in pitch — that is, the distance in pitch between two tones; its unit name is the "degree."
+
+An interval refers to the pitch relationship between two musical tones, expressed in "degrees." Taking numbered notation as an example, from 1 to 1, or 2 to 2, is a first (unison); from 1 to 3 or 2 to 4 is a third; from 1 to 5 is a fifth.
+
+First, the degree is a unit that measures the auditory distance between tones — a metric whose size is artificially defined.
+
+![fifth interval](../docs/media/image93.jpeg)
+
+The "fifths-generated temperament" (Pythagorean) uses overtone generation, with only two frequency ratios: the octave is 1:2, the fifth is 2:3. The octave is mainly used to move a tone within one group; the fifth is mainly used to derive each tone's frequency, by means of the circle of fifths.
+
+![fifth circle](../docs/media/image94.jpeg)
+
+| CDEFG | GABCD | DEFGA | ABCDE | EFGAB | FGABC |
+| --- | --- | --- | --- | --- | --- |
+| DFACE | ACEGB | FACEG | GBDFA | BCDEF | CEGBD |
+| EGBDF | BDFAC | CFBEA | DGCFB | EADGC | FBEAD |
+| GCFBE | ADGCF | BEADG | CGDAE | DAFCG | EBFCG |
+
+*Figure: Singing-bowl fifth-interval table*
+
+## Section 2 — Vibration Fundamentals (Beginner–Advanced)
+
+**Related reading:** elements of sound see [2.1.2 Elements of Sound](#212-elements-of-sound); healing principles see [2.4 Healing Principles](#section-4--healing-principles-beginneradvanced).
+
+### 2.2.1 Same-Frequency Resonance (Wave Vibration)
+
+![resonance](../docs/media/image95.jpeg)
+
+Whether it is the striking-point vibration of a single bowl triggering the whole bowl's same-frequency resonance, amplifying the vibration's energy and completing the overall resonance — like the butterfly effect, from molecular-level vibration bringing macroscopic bowl resonance — or the bowl's vibration resonating at the same frequency with the human body, using vibration to move energy from disordered to ordered, achieving a tendency toward the same frequency.
+
+A stable singing-bowl frequency, when struck, makes the unbalanced (disordered) body-mind frequency tend toward stability while regulating each chakra back to a stable, balanced energy frequency, building one's own strong energy resonance field, reaching high-energy balance and resonance amid the unceasing bowl sound.
+
+#### 2.2.1.1 Chakra Same-Frequency (Energy Field)
+
+![chakra resonance](../docs/media/image96.jpeg)
+
+The chakra, in medieval Indian tradition, is a profound belief in physiological and psychological centers, holding that human life exists simultaneously in two parallel dimensions — one physical, the other psychological, emotional, mental, non-physical — thus called the subtle body. This subtle body is energy, while the physical body is mass.
+
+These chakras are important components of the human energy field; their operating state directly affects people's physical and mental health. Different chakras have different resonance frequencies, so choosing a chakra bowl of the same frequency for healing yields the best energy-resonance effect. Same-frequency resonance is a phenomenon of energy transfer that can amplify the vibration's energy and complete the overall resonance.
+
+In singing-bowl healing, choosing a singing bowl of the same frequency as the target chakra helps people adjust their energy field, reaching high-energy balance and resonance, and carrying out the adjustment and transformation of our karma (daily routine, eating habits, personality traits [thought, emotion, physical energy, and nature's energy]).
+
+![chakra field](../docs/media/image97.png)
+
+The human chakra energy map is not an independent closed system, but an interactive whole; a strong field can drive a weak field, and a weak field also affects a strong field. The principle behind same-frequency resonance is a superposition of vibrations at the same frequency — strong joining strong, realizing the high-energy vibration of the energy field, raising the aura, and thereby bringing body-mind healing. Hence even a single bowl can heal the whole.
+
+Take the chakra as an example: if a person's certain chakra is unbalanced, the singing bowl with the same resonance frequency will help that chakra restore balance. This is because the principle behind same-frequency resonance is a superposition of vibrations at the same frequency — strong joining strong, realizing the high-energy vibration of the energy field.
+
+#### 2.2.1.2 What Is Resonance (Tuning)
+
+![resonance tuning](../docs/media/image98.jpeg)
+
+Resonance, also called "sympathetic vibration," is a phenomenon in which an oscillatory system, under a periodic external force, has its amplitude sharply increase when the external force's frequency is the same as or very close to the system's natural oscillation frequency. This phenomenon also appears in the human body and is called "resonance frequency."
+
+Resonance frequency is the optimal vibration frequency when the singing bowl's vibration is applied to the healing site. It is defined as the vibration frequency that can most activate muscle activity, producing the greatest influence on neuromuscular performance in the shortest time. This vibration frequency can produce benign manifestations in the human body, becoming a healing means.
+
+In singing-bowl healing, by choosing a singing bowl whose resonance frequency matches the target site, one can realize energy resonance and achieve better healing effect. This energy-resonance healing method has been accepted by more and more people, becoming a popular physical-and-mental health therapy.
+
+### 2.2.2 Physical Vibration (Vibration Sensation)
+
+![physical vibration](../docs/media/image99.jpeg)
+
+Physical vibration (vibration sensation) is a stimulus conducted through sound waves or physical vibration, able to directly affect all tissues and organs of the human body — starting from water molecules, causing water resonance through to cells, muscles, bones, nerves, brain, etc., realizing a deep, cellular-level, all-around, systematic body-mind resonance system. Therefore, sound is called the medicine of the future.
+
+The dense-rarefied waves produced by the sound-wave conduction medium, or physical vibration sensation, can be directly delivered to the receptors within the body's cortex. When the receptor is stimulated, it produces a local potential in the body's nerve endings, and the local potential in turn causes a local current, conducting it to the central nervous system, finally reaching the brain and forming touch.
+
+In modern medicine, physical vibration has been widely applied in various healing methods. For example, sound therapy, through sound-wave conduction, can regulate the human body's physiological and psychological states, relieving stress, anxiety, depression, and other symptoms. In addition, physical vibration can also be used to heal muscle diseases, bone diseases, and nervous-system diseases.
+
+Beyond medical applications, physical vibration is also widely used in music, entertainment, and sports. For example, music's melody and rhythm, through sound-wave conduction, can directly affect people's emotional and psychological states. Some fitness equipment and training methods also use the principle of physical vibration, stimulating muscles and bones through vibration to achieve the purpose of exercising the body.
+
+As a stimulus that directly affects the human body, physical vibration has been widely applied in medicine, music, entertainment, and sports. With the continuous development of science and technology, we believe physical vibration's future applications will be even broader and deeper.
+
+#### 2.2.2.1 Water in the Human Body
+
+![body water](../docs/media/image100.jpeg)
+
+The human body is about 70% water; thus its vibration wave frequency resonates and co-resonates with the body's inner molecular frequency, forming a ripple-vibration massage and healing effect — like a tuner, awakening and activating the body's self-healing ability, helping the body restore a balanced, harmonious, healthy state.
+
+When we strike the singing bowl, the emitted sound-vibration resonates harmoniously with the universe's energy. This vibration is received by the human body, giving our energy the possibility of resonating along with it, and the body-mind energy changes accordingly, bringing deep, rapid relaxation.
+
+The singing bowl is an instrument that can produce vibration; its vibration source is the water within the human body. We can put water into the singing bowl, strike or rub it, and observe the regular jumping of water waves and splashes.
+
+This is because the singing bowl's orderly and regular vibration brings the dancing of water molecules; within the stable, regular bowl sound, the water's vibration tends toward stable and regular, and finally, in resonance, strong joining strong, forms visible physical phenomena such as water waves and splashes.
+
+In the singing-bowl healing process, the water in the human body, besides the skin perceiving the bowl's vibration, can also, through cellular resonance, be directly transmitted via the nervous system, realizing deep, all-around massage from cells and organs — a miraculous natural therapy.
+
+The singing bowl's vibration frequency and its vibration mode under physical phenomena can deeply "massage" from our cells and organs, relax the nerves, open the positive circulation of our body's water, and better unblock and metabolize.
+
+After singing-bowl healing, the human body experiences thirst. This is a very normal bodily response — not thirst caused by water being expelled from the body, but thirst arising because water enters a deep balance. After the bowl, drinking water in small sips is very beneficial to the body's water absorption and metabolism — a rare body purification.
+
+#### 2.2.2.2 Tissue Systems
+
+![tissue systems](../docs/media/image99.jpeg)
+
+**The body's seven chakras are located at different parts of the body, overlapping the positions of endocrine glands such as the adrenals, ovaries or testes, pancreas, thymus, thyroid, pituitary, and pineal gland.**
+
+Hormones: meaning to awaken and stimulate. Hormones promote the body's growth and metabolism, awaken the sleeping body, and comprehensively affect functions such as pulse, body temperature, physical development, metabolism, sleep, and sensation.
+
+Advanced singing-bowl healing, through massage and relaxation of the endocrine and nervous systems, achieves self-balance and coordination, realizing hormonal balance, also promoting chakra-balance regulation, and realizing a high-energy, healthy body-mind state.
+
+Modern science holds that eight major systems maintain the body's normal operation: the circulatory system, respiratory system, endocrine system, nervous system, digestive system, immune system, motor system, and reproductive system. All things have their own unique vibration frequency, and in this way absorb and release energy. For the human body, down to the cell, hard as bone, fine as brainwaves, all fluctuate; if frequencies are consistent, resonance occurs, and seemingly weak energy can cause great influence.
+
+Each person is a unique symphony; every cell, organ, muscle, tissue, thought, etc. constantly performs the song of perception, emotion, mind, and spirit.
+
+Water can co-resonate with singing bowls of different chakras; whichever chakra's bowl it is, causing same-frequency resonance, it splashes water. The human body is constituted of water; this open same-frequency resonance is the foundation and basis of holistic body-mind healing. High-dimension's same-frequency resonance with low-dimension is approachable.
+
+Humans are advanced beings, able to resonate with all things, reaching the wise state of "all things and I are one." Thus one can perceive and comprehend the joy of fish, and the four seasons and twenty-four solar terms — for human development and health preservation, follow the Dao, resonate with the four seasons to preserve health: spring birth, summer growth, autumn harvest, winter storage — the health preservation of the four seasons. The proud plum, the humble bamboo, the plain chrysanthemum, the secluded orchid — resonating with the gentleman's bearing; with infinite mind dwelling in bounded affairs, is the spirit of water — "the highest good is like water."
+
+## Section 3 — Energy Fundamentals (Intermediate–Advanced)
+
+The mystery of the three channels and seven chakras and their opening.
+
+The human body has an inner energy system called the subtle body, composed of three parts: three channels (*Nadis*), seven energy centers (*Chakras*), and the spiritual energy (*Kundalini*).
+
+The three channels are the left channel, central channel, and right channel, governing different energies.
+
+The left channel governs memory, the past, and the emotional aspect; the right channel governs thought, the future, action, and planning; the central channel is the passage connecting the left and right channels — only when the central channel is open can the energies of the left and right channels be balanced and used.
+
+The *Kundalini* is an important part of human spirituality, located in the sacrum at the base of the pelvis — a triangular, coiled energy of three and a half turns. Only under appropriate conditions is the Kundalini awakened and raised, passing through the five chakras to the nerve plexus at the top of the brain, finally crossing the crown chakra and skull to connect with the universe's energy, reaching the state of self-realization — the thoughtless yet aware state of stillness.
+
+The seven energy centers are the seven convergence points of human energy, also called chakras. They are, respectively, the Root, Navel (Sacral), Solar Plexus, Heart, Throat, Brow, and Crown chakras, governing different energies and emotions. When these seven energy centers are opened and operate in balance, the body is healthy, inspiration good, physical strength good, thought clear and lucid, self-love and love of others, understanding one's life path, experiencing the wonderful feeling of thoughts becoming reality.
+
+In daily life, we need to maintain body-mind-spirit balance and coordination, avoiding emotional and spiritual imbalance leading to chakra closure or energy imbalance. Through healing tools and methods such as yoga, meditation, singing bowls, and collision bells, we can open and balance the three channels, seven energy centers, and Kundalini, reaching body-mind-spirit balance and health.
+
+![subtle body](../docs/media/image101.png)
+
+<!-- TODO: translate 2.3 Energy Fundamentals (2.3.1 three channels / 2.3.2 seven chakras / 2.3.3 three doshas / 2.3.4 five elements / 2.3.5 scientific cognition / 2.3.6 chakras & galaxies) and 2.4 Healing Principles (2.4.1-2.4.5) and 2.5 Chakra Rhythm (2.5.1-2.5.5) and 2.6 Meridians (2.6.1-2.6.7) from Chinese source headings "### 2.3.1 三脉" … "### 2.6.7 心包经" -->
 
 # Chapter 2 — Theoretical Topics
 
