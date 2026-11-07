@@ -239,13 +239,13 @@ The bowl's present-day healing function was, from the very birth of its material
 
 The singing bowl has since become a distinctive musical instrument, widely used in meditation, relaxation, and healing.
 
-![Singing bowl](media/image11.jpeg)
+![Singing bowl](../docs/media/image11.jpeg)
 
 #### 1.1.4.2 Tracing the Bowl's Source
 
 Following the thread of all history, the singing bowl very likely comes from a civilization of the last 100,000 years. According to Maya prophecy, the Earth has already passed through five civilizations; the planet is far older than we imagine, and other civilizations existed before our own. The **fourth** of these was the **civilization of Atlantis**.
 
-![Atlantis](media/image12.png)
+![Atlantis](../docs/media/image12.png)
 
 Atlantis, the Maya's conjectured fourth Earth civilization, is also called the "civilization of light." The earliest description appears in Plato's dialogues, which say it was destroyed by a great flood around 10,000 BCE. According to Maya-calendar lore, humanity's world undergoes five cycles of destruction and rebirth — the so-called "Sun Ages" — each ending in a cataclysmic tragedy. The fourth Sun Age is Atlantis, the civilization of light, which perished in a towering deluge.
 
@@ -261,7 +261,7 @@ In the mere 5,000 years we can precisely date, humanity has built the world visi
 
 *Sapiens* summarizes the Earth's and humanity's development in a single passage:
 
-![Sapiens timeline](media/image13.png)
+![Sapiens timeline](../docs/media/image13.png)
 
 - About 13.5 billion years ago, matter, energy, time, and space took their present form — physics was born.
 - About 3.8 billion years ago, molecules combined into intricate structures — organisms — giving rise to biology.
@@ -274,23 +274,23 @@ Next, we examine the bowl's history through the lens of our understanding of the
 
 The **bowl**: archaeologists use this name for vessels of this same material and form. The bowl is an ancient and common shape; like the bowl-shaped basin and the tub, it served as a daily utensil, simple in form and easy to make, and appeared as early as the early-to-middle Neolithic, continuing in use to the present day.
 
-![Neolithic bowl](media/image14.png)
+![Neolithic bowl](../docs/media/image14.png)
 
 In terms of material, humanity's earliest vessels were pottery. Our Chinese characters make this distinction clearly.
 
-![Pottery character](media/image15.png)
+![Pottery character](../docs/media/image15.png)
 
 From the pottery *bō*, to stone or (now) quartz crystal bowls, to the metal-radical bowl we are studying — the singing bowl.
 
 In the Neolithic period, humanity moved from nomadism and a matriarchal society toward settlement and tribal systems, entering an animist age of revering heaven and honoring earth. Utensils from around 10,000 years ago survived on Earth and were rediscovered through archaeology.
 
-![Archaeological bowl](media/image16.png)
+![Archaeological bowl](../docs/media/image16.png)
 
 In Chinese archaeology, painted pottery bowls with decorative patterns have been found in the Yellow and Yangtze River basins — clearly daily eating vessels of the time, yet already bearing an artistic sensibility, showing that people had begun to pursue a "quality-art" way of life beyond basic utility. The Henan Museum holds a 9,000-year-old bone flute made from a crane's leg bone — the Jiahu bone flute — capable of producing different tones.
 
 Later, in the Bronze Age, humanity began using bronze to make all manner of daily vessels, among them bronze bowls. In the late Warring States period, a single storage box for outings could hold a nesting set of bronze tableware — large and small, even including condiment dishes — sixty-two pieces in all.
 
-![Bronze tableware](media/image17.png)
+![Bronze tableware](../docs/media/image17.png)
 
 Among them were bowls identical in form and material to today's "singing bowls" — but they were eating vessels. A bowl, **even of bronze, can only be called a bronze bowl, not a singing bowl (singing bowl).**
 
@@ -298,11 +298,11 @@ From another angle, **the bronze bowl's history of use traces back to the very b
 
 By the time of the Bronze Age, China's was already a late one. The earliest archaeological evidence places the first bronze casting in Anatolia (modern Turkey), with bronzes dated to 6000 BCE. Mesopotamia entered the Bronze Age around 3000 BCE, with ancient Egypt close behind; China's bronzes appeared somewhat later.
 
-![Bronze Age map](media/image18.png)
+![Bronze Age map](../docs/media/image18.png)
 
 In Mesopotamia's Sumerian civilization — while China was still in its Three Sovereigns and Five Emperors era — the Sumerians were already keeping accounts, minting coins, entering agricultural society, and undertaking the great social division of labor.
 
-![Sumer](media/image19.png)
+![Sumer](../docs/media/image19.png)
 
 Archaeologists have also **found bowls of the same material in Mesopotamia**, but **there is no proof they were used as musical instruments or for healing — they were very likely still eating vessels or containers.**
 
@@ -312,13 +312,13 @@ Ancient India is one of the Eastern civilizations, yet now we must prefix it wit
 
 India became a colony of the British Empire in modern times; before that it had been ruled for nearly a century each by Greeks, Arabs, Islam, and the Yuezhi from Central Asia.
 
-![Ancient India](media/image20.png)
+![Ancient India](../docs/media/image20.png)
 
 The chakra system now used with the singing bowl originates in **Aryan** literature. The Aryans came to the lands of ancient India and created a brilliant Eastern wisdom civilization — the *Rigveda* myths and more — along with a social governance system, the "caste system." Around 600 BCE, under the influence of the *śramaṇa* movement, Siddhārtha intended to break India's caste system and preached the equality of all beings; he was later recognized as the founder of Buddhism.
 
 **Yoga, Āyurveda, and the Buddhist scriptures are all cultural treasures that ancient India left to the world.**
 
-![Indian wisdom](media/image21.jpeg)
+![Indian wisdom](../docs/media/image21.jpeg)
 
 *Āyurveda* records an Indian custom: among the wealthy and powerful, a daughter's dowry was required to include a "bronze bowl" for use as a dietary vessel after childbirth. Although science had not yet developed, this custom and ritual already bore a scientific attribute — modern research shows copper ions or copper nanoparticles possess antibacterial and bacteriostatic properties. Monks, too, used bronze bowls for cooking. **These are all uses of the bronze bowl, but none entered the systems of spiritual practice, music, or healing.**
 
@@ -328,7 +328,7 @@ Faxian's 1,500-year-ago study-tour of India, and Xuanzang's 1,400-year-ago westw
 
 We trace further:
 
-![Bronze bell](media/image22.png)
+![Bronze bell](../docs/media/image22.png)
 
 Between eating vessel and instrument, it slowly became a tool of sound healing. Among eating vessels, from the earlier pottery bowl to the bronze bowl (and basin), they always existed; archaeology has found Warring States bronze tableware, Han bronze bowls, and a Song-era set of bronze basin, bowl, and chopsticks — but none of these branched into instrument or healing vessel.
 
@@ -338,7 +338,7 @@ Bronze percussion instruments have existed throughout archaeology. In China — 
 
 Then at what time did the singing bowl begin to be used for practice and sound healing?
 
-![Tibet](media/image23.png)
+![Tibet](../docs/media/image23.png)
 
 In the long course of development, by the 6th century CE — 1,300 years ago — Songtsen Gampo unified Tibet. To facilitate the governance of religion and state and to escape the situation where "the shaman outranked the king," he married two princesses and converted to Buddhism, taking Princess Wencheng from China and Princess Bhṛkutī from Nepal, who brought statues of Śākyamuni. A century later, another Tibetan ruler invited the Indian master **Padmasambhava** to Tibet to synthesize Buddhism and Bon; in this process Tibetan Buddhism (Vajrayāna) formed, merging mantra recitation with meaning-free chanting into the practice we know today.
 
@@ -346,7 +346,7 @@ Padmasambhava was not only an attained master but also a skilled craftsman; very
 
 **The singing bowl transformed from a container-like bronze bowl into a spiritual musical vessel; in Tibet (broadly the Himalayan region) it attained a new function and development.**
 
-![Tibetan singing bowl](media/image24.png)
+![Tibetan singing bowl](../docs/media/image24.png)
 
 Nepal has now become the international trading market for singing bowls. Beyond the low cost of an underdeveloped economy, what matters more is the collaboration of Nepalese artisans, which lets the singing bowl shine with unending overtones and a sound-healing function.
 
@@ -362,7 +362,7 @@ When modern people first encountered the singing bowl, their first impression wa
 
 Bowl culture flourished after Master Xuanzang, roughly in the era of Empress Wu Zetian of the Tang — the great Tang heyday and its supremely refined experience. The bowl-culture system is fully displayed in Buddhist sculpture and painting art.
 
-![Healing illustration](media/image25.jpeg)
+![Healing illustration](../docs/media/image25.jpeg)
 
 After the Second World War, Germany as a defeated nation bore immense psychological wounds; the inhuman experiences of Auschwitz were traumas its people could hardly survive.
 
@@ -382,7 +382,7 @@ At this point the bowl earned the name "singing bowl." Now the singing bowl has 
 
 The *qìng* (磬) used by Daoism and Buddhism differs in craft from the singing bowl, and even in material.
 
-![Qing](media/image26.png)
+![Qing](../docs/media/image26.png)
 
 After hearing the story of the sutra's translation and transmission, Tang Empress Wu Zetian was deeply moved and wrote the four-line verse we recite or copy at every sutra session:
 
@@ -405,7 +405,7 @@ The history of the singing bowl is varied; Dr. Runze, building on the history of
 
 #### 1.1.4.3 The Development of the Singing Bowl
 
-![Singing bowl v1.0](media/image27.jpeg)
+![Singing bowl v1.0](../docs/media/image27.jpeg)
 
 **001 The uncertainty of origins**
 
@@ -1915,7 +1915,205 @@ Different planetary singing bowls can help us balance and activate different cha
 
 ## Section 4 — Healing Principles (Beginner–Intermediate–Advanced)
 
-<!-- TODO: translate 2.4 Healing Principles (2.4.1 sound/wave basis, 2.4.2 … 2.4.5) from Chinese "## 第四节 疗愈原理" / "### 2.4.1 声（波）音基础" onward -->
+*Related reading: practical contraindications and client protection — see [Healing Safety Notice](#healing-safety-notice).*
+
+### The Singing Bowl's Chant — "The Sound from the Universe"
+
+The singing bowl is an ancient musical instrument that originated in the Himalayan region and is widely used for meditation, healing, and relaxation. Its chant is more than mere music; it conveys a sound that comes from the universe and forms a profound connection with the human heart.
+
+The vibrational waves of the singing bowl are a form of energy that can connect with the energy of cosmic space, enabling the reception and transmission of energy.
+
+Through language, humanity has come to know and transform the world. The singing bowl, by contrast, connects with the energy of cosmic space through vibrational waves, producing a resonance effect that brings deep and rapid relaxation, reduces tension and stress, and allows the body's meridians to flow freely and unobstructed. The creation of the singing bowl and the application of its effects arise from humanity's own self-knowledge and self-exploration.
+
+Because of its long wavelength, the singing bowl's low-frequency sound can penetrate deep into the body's core and resonate with the inner frequency.
+
+In practice, a wooden mallet is used to rub or strike the bowl's rim, producing a deep, full, harmonious, and far-reaching sound and vibration. This induces molecular resonance within the body, creating a ripple-like massage and healing effect.
+
+During healing, bowls corresponding to the body's seven energy centers (chakras — roughly analogous to the acupoints and meridians of Chinese medicine) are placed beside or directly on the recipient's body.
+
+As the bowl sounds, the body's molecules resonate with its sound waves, tuning the body's frequencies, activating the flow of energy, opening chakras that have long been knotted or blocked, dissolving areas of pain and discomfort, and allowing the body's organs to operate in harmony.
+
+The singing-bowl healing experience is a mysterious and wonderful one. It is not merely music, but a way of transmitting energy and healing. When we resonate with the bowl, our body and mind receive deep relaxation and restoration.
+
+The bowl experience lets us understand ourselves more deeply, break through rigid thinking, balance the chakras, awaken intuition, clear negative energy, and renew the vitality and liveliness of our body and mind.
+
+### 2.4.1 The Basis of Sound (Waves)
+
+Sound is a form of "energy" that travels mainly through air as a medium, advancing by means of compression and rarefaction waves, stimulating the human body's sense of hearing and touch.
+
+![Singing bowl healing diagram](../docs/media/image133.jpeg)
+
+Through its unique frequency and vibration, the singing bowl produces same-frequency resonance with the inherent frequencies of the body's chakras, repairing or purifying the energy field. At the same time, the bowl's beautiful frequency and the lovely melody created by the striker can coordinate brainwaves through hearing and stimulate the secretion of hormones — dopamine (the brain's "happiness substance"), oxytocin (the "love hormone"), endorphins, and serotonin. These four substances cause breathing, heartbeat, and even brainwaves to shift along with hormonal changes, further regulating the cerebral cortex, influencing brainwave frequency, tuning and awakening the brainwaves, and improving mood. At the same time, during deep sleep or a state of "body asleep, mind awake," they enable the body's self-healing mechanisms to operate in a state of profound relaxation and sleep.
+
+- **Endorphins**: Reduce anxiety and let one experience a sense of ease, warmth, intimacy, and calm. They also counteract pain, lift the spirit, relieve depression, improve work efficiency, and make a person more loving, positive, and willing to communicate with others.
+- **Serotonin**: Helps us relax and become more sunny and positive; a lack of serotonin leads to anxiety, depression, and irritability.
+- **Oxytocin**: Commonly called the "love hormone" — and this love refers not only to romance, but also to family affection, friendship, and other love-filled feelings. Oxytocin builds intimacy and connection between people, producing a sense of trust and love; the more oxytocin, the more easily one forms a close, dependent bond with the other.
+- **Dopamine**: Commonly called the "anticipation hormone." Dopamine ≈ *want* — it is a kind of "thirst," bringing craving, expectation, and fantasy. Its effect arises from the anticipation of reward, not from obtaining the reward. Dopamine does not bring satisfaction; it is merely the brain's "one more time" reward mechanism driving and enslaving you, and what it ultimately brings is more likely anxiety than happiness.
+- **Phenylethylamine (PEA)**: Commonly called the "love hormone," a neuro-stimulant that makes one feel extremely excited, more energetic, confident, and courageous; also known as the "love excitant." PEA is present in romantic love for 1.5–3 years, during which lovers infinitely magnify each other's virtues and overlook the flaws, related to "love at first sight," "falling in love," and the "suspension bridge effect." Eating chocolate or bananas and creating a sense of danger can raise PEA secretion.
+
+### 2.4.2 The Basis of Vibration (Shock)
+
+The origin of the world is vibration; sound is the perfect expression of vibration and is essentially also vibration. But beyond the same-frequency resonance brought by sound, the vibration at a live singing-bowl healing session adds a physical "shaking" — a sense of tremor and healing that can only be experienced face to face. This is the greatest value of human-to-human presence in the moment, and precisely the biggest difference and value that distinguishes bowl healing from internet-based music therapy.
+
+![Singing bowl healing diagram](../docs/media/image135.svg)
+
+Singing-bowl healing is a vibrational therapy that uses the bowl's vibration to act directly or indirectly on the human body, causing local or systemic changes and thereby producing a certain healing effect on illness. The origin of bowl healing can be traced back to antiquity, when people already discovered that the bowl's vibration brings peace and relaxation to body and mind.
+
+At the healing site, the therapist strikes the bowl, which emits beautiful sound and vibration. This sound and vibration act directly on the human body, relaxing and soothing it.
+
+Furthermore, through vibration, bowl healing can comprehensively and holistically unblock the flow of qi and blood, relax muscles, and relieve nerve pain, achieving an all-around healing effect.
+
+During the process of bowl healing, one can feel the body's tremor and the resonance of sound. This trembling sensation and resonance bring a very special feeling, making people feel physically and mentally joyful and relaxed. In addition, bowl healing can help relieve anxiety, depression, and stress, and raise both the body's immunity and its mental-health level.
+
+Bowl healing is not only a healing method, but also a way of communicating and connecting between people. In this fast-paced, indifferent society, bowl healing provides people with a warm, intimate space where they can feel the deep connection and resonance between human beings.
+
+### 2.4.3 Tuning the Brainwaves
+
+![Singing bowl healing diagram](../docs/media/image136.jpeg)
+
+As a form of natural therapy, the overtone frequencies emitted by the singing bowl can penetrate deep into the human body, induce molecular resonance within, purify, awaken, and adjust the flow of physical and mental energy, quickly leading one into deep relaxation, unblocking congested chakras and meridians, and improving insomnia, anxiety, and many emotional problems.
+
+The greatest effect of the singing bowl is to lead the brainwaves down — from the anger of 30 Hz to the 8 Hz alpha wave. As one of the best natural therapies in the world today, its most obvious effect is the relief of emotional problems, sleep disorders, and depression.
+
+![Singing bowl healing diagram](../docs/media/image137.jpeg)
+
+### 2.4.4 Holistic Natural Therapy
+
+As a method of sound healing, bowl healing works by striking or rubbing the bowl to emit specific-frequency sound and vibration that act on the human body, regulating the vibrational frequencies of the body's various organs. This method can cross consciousness and act directly on the body, producing large amounts of alpha waves in the brain within a short time, entering a state of deep relaxation, and启动 both the physical and the spiritual levels of self-repair. Bowl healing can also regulate biological rhythms such as sleep, replenish energy, relieve pain, promote detoxification, purify and repair the aura, and improve focus and intuition. It is a safe, non-invasive, non-intrusive healing method that helps people relieve physical and psychological stress, raise the body's immunity, and promote a healthy lifestyle.
+
+![Singing bowl healing diagram](../docs/media/image138.jpeg)
+
+The bowl's sound and vibration can unblock the congested energy in the seven chakras, reduce tension and stress, and make the body's meridians flow freely and unobstructed — thereby achieving the effects of balancing the chakras, awakening intuition, and clearing negative energy.
+
+In the process of experiencing the bowl, immerse body and mind in such a vast, far-reaching, mysterious, and ancient magnetic field; break through rigid minds and thought patterns; expand the field of thinking; and elevate spiritual wisdom… producing good improvement and elevation for body, mind, and spirit.
+
+The origin of the world is vibration, and sound is the perfect expression of vibration. The mysterious, far-reaching audio always lets people quickly relieve physical and mental stress, reaching deep relaxation, tranquility, and peace, becoming a highly respected alternative therapy for the integration of body, mind, and spirit.
+
+Sound healing with the bowl is a healing method that restores the body's vitality and harmony by adjusting its vibration. When we are in a state of harmony, resonance, and balance, our bodily functions reach their optimal state; the body's organs work in mutual support and resonance, and life naturally feels smooth and happy.
+
+The influence of a bowl-healing session touches all levels of body, mind, and spirit. When our five roots (eye, ear, nose, tongue, body) contact the five external dusts (form, sound, smell, taste, touch), these messages are then transmitted into our sixth root (consciousness), influencing our mind and shaping our "world of meaning," giving rise to the ever-changing [Dharma-realm].
+
+In terms of all levels of body, mind, and spirit, they are in fact closely interrelated; the seven chakras also influence and depend on one another. Any form of healing — whether you approach it from the physical, the psychological, or the spiritual level — ultimately moves the whole body with a single pull of one hair. Therefore, in the ultimate sense, no matter what skill or method is used, the direction of healing that is hoped for is not different.
+
+- **The art of hearing**: about the brain, sleep…
+- **The enjoyment of touch**: about vibration, massage
+- **Easing the accumulation of emotion, creating space for flow, opening the channels of emotional unblocking**
+- **The clarity of intention**: about energy, higher dimensions
+
+### 2.4.5 The Life Value of the Singing Bowl (Beginner–Intermediate–Advanced)
+
+Different cells and parts of the human body each have their own vibrational frequency. When a normal cell vibrates normally, it can maintain that part's energy state and operate as usual. Conversely, once the frequency of a body's cells or organs falls out of balance, it causes insufficient energy supply — affecting not only that part but sometimes even the functioning of the whole body — and thus disease arises. And with the disharmony of cells in different parts, corresponding symptomatic signs appear in the body.
+
+Our body normally stays in a constant, unchanging state of balance, which we call homeostasis (maintaining a steady state). But when this state is disrupted and becomes different from usual, the endocrine glands go to work — secreting hormones to bring the body back to its original, or even a better, balance.
+
+The word "hormone" comes from the ancient Greek *HORME*, meaning to awaken and stimulate. Hormones promote bodily growth and metabolism, awaken the sleeping body, and comprehensively affect our pulse, body temperature, physical development, metabolism, sleep, and sensory functions.
+
+Scientific experiments prove that under alpha brainwaves the brain secretes a neurotransmitter called β-endorphin. Endorphin is an endogenous chemical produced by the body itself, a neuro-transmitter that helps the body deal with pain, stress, and emotion; it can calm the emotions of anxious patients and produce a sense of pleasure in depressed patients. Endorphin is also called the "happiness hormone" or "youth hormone," meaning it helps people maintain a young and happy state.
+
+The energy body is not composed of substances such as muscle and bone, but of energies of various frequencies; the source of disease is the disharmony of these frequencies, which causes imbalance in the energy body and entanglement in the aura, ultimately manifesting in the material flesh as concrete symptoms.
+
+When the bowl's sound touches the body's tissues and cells, it then affects blood circulation, metabolism, and the endocrine system, balances the chakras, purifies the aura, and simultaneously influences the brain hemispheres — this sound healing creates a flow of light that pervades the whole body.
+
+#### What Causes Our Energy Imbalance?
+
+*(notes area)*
+
+- **Internal causes**: awareness, emotion
+- **External causes**: environment, things, water
+
+![Seven-color tea drinks](../docs/media/image139.jpeg)
+
+#### 2.4.5.1 The Physical Level
+
+At the physical-physiological level:
+
+- Induces deep, rapid relaxation and creates a feeling of ease
+- Increases systemic circulation and helps qi and blood flow smoothly
+- Promotes rapid energy replenishment
+- Helps clear the head, relieve gout, arrhythmia, and chest tightness
+- Relieves bodily pain, headaches, migraines, low-back pain, back pain
+- Relieves stomach aches, gastrointestinal discomfort, constipation; improves digestion
+- Supports drug therapy
+- Relieves tinnitus, hemiplegia
+- Reduces the chance of stroke
+- Accelerates rehabilitation after stroke
+- Assists childbirth
+- …
+
+At the physical level: the sound of the singing bowl can restore disharmonious cell frequencies to harmony and calm, improve the body's magnetic field, awaken and activate the body's self-healing ability, help the body's organs and tissues self-regulate and repair, and promote the restoration of a balanced, harmonious, healthy state. Within the bowl's harmonious resonance, the body's cells seem to be washed clean and returned to their rightful places.
+
+Singing-bowl healing is a therapy that uses sound-wave vibration to promote the body's self-repair and restore balance. It can produce many positive effects at the physical-physiological level, including improving arrhythmia and blood pressure, stimulating self-healing and regulating bodily functions, promoting blood circulation, improving sleep quality, relieving insomnia, headaches/migraines, neurasthenia, and other symptoms, coordinating energy, and rebalancing physical health.
+
+The human body is composed of roughly 70% water; the influence of emotional energy changes the structure of water, leading to the occurrence of disease. After the bowl's sound-wave frequency enters the body, it can resonate with every cell, restoring disharmonious cell frequencies to harmony and calm, improving the body's magnetic field, awakening and activating the body's self-healing ability, and helping the body's organs and tissues self-regulate and repair, promoting the restoration of a balanced, harmonious, healthy state.
+
+When the singing bowl's sound and vibration act on the human body, the bowl's frequency is transmitted, via water's resonance characteristics, to the organs of corresponding frequency in the body, thereby regulating function and completing transformation and regulation within the fluids.
+
+The intervention of sound healing can precisely play a "tuning" role at this moment: the sound healer, outside the client's body, uses the resonance of "sound waves" to import healing audio energy into the human body, triggering the body's resonance response (heart-rate speed, breathing rhythm, pulse rise and fall, gastrointestinal peristalsis, and muscle contraction).
+
+The purpose is to use the rhythm of sound waves to drive and regulate the vibrational frequency of the body's imbalanced parts, returning the body to its proper frequency and original balance. It can ease chronic headaches or migraines caused by stress or high blood pressure.
+
+It improves endocrine function: when we are under stress, the release of adrenaline and cortisol causes multiple changes in the body's endocrine system. These neurochemicals then affect how other hormones in the body operate, throwing the endocrine system into chaos. The stress relief achieved through sound healing happens to bring significant improvement to the endocrine system.
+
+Research shows that vibration is an important mechanism for improving neuromuscular performance; vibration can cause a rise in local muscle temperature, an increase in blood-flow speed, an increase in hormone secretion, and changes in muscle-cell volume.
+
+Neural factors are the reason for increased muscle strength; their regulation of strength is mainly reflected in impulse frequency, neural coordination, inhibition level, and reflex regulation.
+
+In bowl healing, the bowl's vibration can cause rapid changes in muscle length; by vibrating and stimulating receptors such as muscle spindles and tendon organs, it induces the stretch reflex of neurally-innervated skeletal muscle to enhance its neuromuscular function, and by activating the inhibitory neurons of antagonistic muscles, suppresses the excitation of antagonistic muscles, thereby enhancing the flexibility and coordination of limb movement.
+
+#### 2.4.5.2 The Psychological Level
+
+At the psychological-emotional level:
+
+- Relaxes and reduces stress, calms the mind
+- Releases fear and anxiety, reduces excessive dreaming, insomnia, depression, and restlessness
+- Anti-aging, detoxification, purification, repair of the aura
+- Opens congested, blocked energy within the body, unties heart-knots (emotional knots)
+- Improves learning ability and memory, raises work efficiency and productivity
+- Improves focus, restores intuition, opens creativity, unlocks cellular memory
+- Strengthens inner energy in both men and women
+- Heals the inner child
+
+At the psychological-emotional level: the bowl's ripple-like vibrational healing effect, like a tuner, can very subtly influence the frequency of the body's cells, helping emotional balance and stability, relieving stress and mental tension, releasing fear and anxiety, and thereby improving the body's magnetic field.
+
+**Releasing fear, strengthening confidence**
+
+Using sound healing, one can gradually release the deep fears once repressed within the heart, and thereby recreate a new, positive experiential pattern in the brain, bringing us confidence and courage. Through the building of confidence, we can have ample courage to meet the various challenges of the future and make new changes in life.
+
+Will our emotions change because of external, objective factors?
+
+Of course they will, because they are not stable or strong enough. But the vibration frequency emitted by the singing bowl is very stable and strong; it does not change because of external factors.
+
+So healers thought of using this stable and powerful frequency to influence the unstable small frequencies — using the bowl to improve sleep and regulate the bodies of those with emotional problems. Many people, because of the appearance of the singing bowl, have had their sleep and emotions repaired.
+
+It can be said that the singing bowl's evolution from a household utensil into a healing tool that can regulate people's sleep, improve emotion, and include bodily function has been verified by countless people, countless times.
+
+For example: the healthy frequency of the heart chakra is 100 Hz. If it is affected by emotion, it will fluctuate. When it fluctuates, the frequency changes — like blood pressure: the healthy value of blood pressure is 90–120; if your blood pressure reaches 180, problems will appear over time, and if it drops to 60, problems will also appear.
+
+When a chakra's frequency deviates from the healthy value for a long time, disease gradually appears. So we have scientifically measured that the frequency of the singing bowl happens to be 100 Hz — right within the range of the healthiest value.
+
+When emotional fluctuation makes the frequency unstable — too high or too low — placing the corresponding frequency on the corresponding position and striking it, the person will be influenced by its stable and powerful vibration.
+
+#### 2.4.5.3 The Spiritual Level
+
+At the spiritual level:
+
+- Cultivates character, elevates the aura
+- Raises awareness, perceives the present moment
+- Helps with meditation, strengthens spiritual practice
+- Connects with the universe, opens wisdom
+- Purifies negative energy in the space and environment
+
+At the spiritual level: the vibration frequency of the singing bowl can lead the brain into an alpha-wave state — the state in which consciousness connects with the subconscious. In this state, we can develop the brain's potential and connect with higher wisdom. It helps with meditation and awakening wisdom.
+
+Experiencing bowl healing and spiritual sound helps and stimulates different hormones and glands, seeks one's own inner resonance frequency, and balances one's own energy field. Elevating the energy state can not only stimulate the brain to release its potential, but also replenish the energy needed by body and mind, thereby raising the overall state.
+
+When we strike and rub the singing bowl, the sound emitted can resonate with the frequency of cosmic energy and of nature itself, and can also influence the vibrational frequency of the molecules that compose nearby objects. When the bowl is close to the human body, the body's tiniest atoms also change with the bowl's sound-wave vibration — including our thoughts and thinking, especially the frequency of our body.
+
+Let the restless molecules gradually settle and stabilize; the state of insomnia is balanced; the accumulated pressure and wounds are released and dissipated; depressed emotions are soothed. When the energy within the body can flow harmoniously, the self-healing ability is also awakened.
+
+The vibration of the bowl's sound waves crosses rational thought and speaks directly to consciousness. After the mind is purified and organized through sound, body and mind experience a clear intuition. The low-frequency sound emitted by the bowl, because its wavelength is longer than that of higher frequencies, can penetrate deep into the body's core and resonate with the inner frequency; the physiological sensations of soreness, numbness, itch, and pain vary from person to person — and those with high sensitivity can even feel the feedback after the bowl interacts with the body, experiencing the messages transmitted from the body.
+
+The singing bowl can be said to be the best fine-tuner that simultaneously influences both body and mind, and naturally it is also the best tool to help people attain health, beauty, joy, and ease.
 
 ## Section 5 — Chakra Rhythm (Beginner–Intermediate–Advanced)
 
