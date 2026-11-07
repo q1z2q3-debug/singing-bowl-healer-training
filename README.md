@@ -24,7 +24,10 @@
 
 - 🇨🇳 **中文全文**：[`docs/颂钵疗愈师培训7.0.md`](docs/颂钵疗愈师培训7.0.md)
 - 🌐 **中文落地页**：https://q1z2q3-debug.github.io/singing-bowl-healer-training/
-- 🇬🇧 **英文版（框架已译，正文共建中）**：[`en/README.md`](en/README.md) · [英文落地页](en/index.html)
+- 🇬🇧 **英文版（全书已译完）**：
+  - 📖 [英文全书正文 `en/book.md`](en/book.md) — 序言至附录完整英文翻译（约 5500 行）
+  - 📘 [英文版说明 `en/README.md`](en/README.md)
+  - 🌐 [英文落地页 `en/index.html`](en/index.html)
 
 ## 在线阅读
 
@@ -40,9 +43,9 @@ singing-bowl-healer-training/
 ├── docs/
 │   ├── 颂钵疗愈师培训7.0.md    # 教材正文（主文件）
 │   └── media/                   # 教材配图（250+ 张）
-├── en/                          # 英文版（框架已译，正文共建中）
-│   ├── README.md                # 英文版说明 + 已翻译前言/术语表/七轮速查表/参考资料
-│   ├── book.md                  # 英文版正文工作文件（按章节逐步翻译）
+├── en/                          # 英文版（全书已完整翻译）
+│   ├── README.md                # 英文版说明（前言/适用对象/使用说明/安全须知/目录）
+│   ├── book.md                  # 英文版全书正文（序言→附录，已完整翻译）
 │   └── index.html               # 英文落地页
 ├── scripts/                     # docx -> markdown 转换与修订流水线
 │   ├── convert.py               # pandoc 转换（含图片提取）

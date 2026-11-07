@@ -5,6 +5,7 @@
 > Original author: **Runze (WuGanLiuJue) · JianNian Singing-Bowl Sound Therapy Center**.
 
 - 📘 Chinese full text: [`../docs/颂钵疗愈师培训7.0.md`](../docs/颂钵疗愈师培训7.0.md)
+- 📖 **English full book**: [`book.md`](book.md) — complete translation (Preface → Appendices)
 - 🌐 Chinese landing page: [`../index.html`](../index.html)
 - 🤝 How to contribute: [`../CONTRIBUTING.md`](../CONTRIBUTING.md) · Translation guide: [`../TRANSLATION.md`](../TRANSLATION.md)
 
@@ -55,7 +56,7 @@ For more on professional ethics and practitioner state, see Chapter 4, *Basic Pr
 
 ## Table of Contents
 
-> The links below currently point to the corresponding **Chinese** sections (for side-by-side reading). Once `book.md` is populated they will point to the English anchors.
+> The complete book body is now translated in [`book.md`](book.md). The links below point to the corresponding **Chinese** sections for side-by-side reference.
 
 - **Front Matter**
   - [Preface](#preface-editors-note) · [Who This Is For](#who-this-is-for) · [How to Use](#how-to-use-this-manual) · [Safety Notice](#healing-safety-notice)
@@ -138,6 +139,6 @@ The center's WeChat official account and bowl-ordering QR codes are included in 
 
 ## Translation Status
 
-The framing and reference material above is fully translated to English. **Chapter bodies are being translated incrementally by the community** — see [`TRANSLATION.md`](../TRANSLATION.md) to claim a section. The English working file is [`book.md`](book.md).
+The entire manual — framing, reference material, and all chapter bodies — is **fully translated to English**. The complete text lives in [`book.md`](book.md) (Preface through Appendices, ~5500 lines). To help improve or extend it, see [`TRANSLATION.md`](../TRANSLATION.md).
 
 > This work is licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Attribution to **Runze (WuGanLiuJue)** required; non-commercial use only; derivatives under the same license.
