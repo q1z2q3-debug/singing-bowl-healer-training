@@ -767,15 +767,15 @@ Other decorations — Buddha, Bodhisattva, mantras, patterns, Flower of Life, et
 
 #### Yoga Blanket
 
-### 1.3 Techniques of Use
+## 1.3 Techniques of Use
 
-#### 1.3.1 Inviting the Bowl
+### 1.3.1 Inviting the Bowl
 
 **Mind method:** with heart · focus · gratitude · devotion · reverence.
 **Body posture:** stable not stiff; relaxed not slack.
 **Intention:** composed not hasty.
 
-#### 1.3.2 Holding the Bowl
+### 1.3.2 Holding the Bowl
 
 Mind method: steady, sink, slow. Avoid contact with the sounding area as much as possible; hold stably, avoid shaking or even tipping.
 
@@ -786,7 +786,7 @@ Mind method: steady, sink, slow. Avoid contact with the sounding area as much as
 - Three-finger steady hold
 - Fingertip hold
 
-#### 1.3.3 Striking the Bowl
+### 1.3.3 Striking the Bowl
 
 Mind method: gentle, graceful, crisp, clean.
 
@@ -804,7 +804,7 @@ Mind method: gentle, graceful, crisp, clean.
 
 **Connection:** Heart chakra — light strike 3 times (3, 5 parts force) — to the healee (3, 5 parts force), then return with both hands cupping.
 
-#### 1.3.4 Rubbing the Bowl
+### 1.3.4 Rubbing the Bowl
 
 Mind method: steady, still, soft, with breath-rhythm. Calm and focus the spirit; extend the left hand flat, place the bowl at the center of the palm; hold the wooden stick in the right hand, then with the lower end of the stick lightly wipe the bowl rim clockwise or counterclockwise, slowly circling. From fast to slow, as the bowl is rubbed it produces vibration and an agreeable resonant sound, growing louder, lingering and ethereal, deep and far.
 
@@ -812,17 +812,17 @@ Mind method: steady, still, soft, with breath-rhythm. Calm and focus the spirit;
 
 **Key point:** the start is the end. Before rubbing: wash hands, quiet the mind, purify the bowl, prepare the healing intent. Hold the stick like a brush pen; sink the shoulders, drop the elbows, regulate the breath. Practice, practice, and practice again the rubbing — force, speed, angle, attitude (find your own rubbing experience through self-trial) — ultimately reaching the harmonious state of bowl-and-person as one.
 
-#### 1.3.5 Moving the Bowl
+### 1.3.5 Moving the Bowl
 
 Translation + rotation.
 
-#### 1.3.6 Placing the Bowl
+### 1.3.6 Placing the Bowl
 
 Place gently, on the bowl cushion. **Two-stage placing:** observe the healee's breathing; when inhaling, the chest or abdomen bulges upward; place the bowl according to the two-stage key.
 
 Specifically: on inhalation the body gradually expands, the abdomen begins to bulge upward — this is the moment the healee is full of strength and able to bear; at this time we bring the bowl into contact with the bulging abdomen, noting that your two hands still support the bowl, bearing half its weight, slowly transmitting the other half to the healee. Note that we do not transfer the bowl's full weight; following the healee's breath, at the next inhalation place the bowl fully and stably on the healee. Such placing completed between two breaths does not easily arouse the healee's body awareness, while smoothly transitioning, completing the bowl's placement. In such a placing process, in the vast majority of cases the healee does not perceive the process of the bowl being placed on the body; for one already relaxed and asleep, the weight of the bowl is entirely unfelt.
 
-#### 1.3.7 Striking Technique, Rhythm, Force
+### 1.3.7 Striking Technique, Rhythm, Force
 
 Striking technique is the process of using a wooden mallet or other tool to strike the singing bowl, producing resonance and vibration. Force can be adjusted as needed, generally ranging from 1 to 10 parts; the greater the force, the louder the sound the bowl emits. When using the singing bowl for healing, different striking techniques and forces can be chosen as needed to produce different effects.
 
@@ -850,15 +850,15 @@ wood-fish (muyu):
 
 Relaxation and focus, combining bowl with breath, letting the bowl's energy lead the breath, transcending limits, assisting deeper breathing — inhaling more energy, exhaling more turbid qi — in breath practice reaching the state of breath-ceasing and concentration.
 
-#### 1.3.8 Rubbing Angle, Speed, Force
+### 1.3.8 Rubbing Angle, Speed, Force
 
 **Exploration stage:** self-try angles — vertical, 30°, 45°, 60° — and your wrist/elbow comfort. **Relative speed:** accelerate, accelerate, constant (fast constant, slow constant), etc. **Force:** 0, 1, 2, 3, 5, 7, 10.
 
-#### 1.3.9 Stopping the Sound
+### 1.3.9 Stopping the Sound
 
 No stopping | natural decay. Mallet stopping. **Crystal bowl — cannot be stopped.**
 
-#### 1.3.10 Ting-sha Technique and Occasions
+### 1.3.10 Ting-sha Technique and Occasions
 
 In Tibetan called *ting-sha*; in the Chinese-speaking world also called collision bells or touch bells for their use — both instrument and healing tool. The ting-sha consists of two bells strung together; when the bells collide they produce a high, bright, ethereal, agreeable sound, or a distant ethereal tone; their extraordinary overtones help purify and elevate the frequency of personal and spatial auras. The ting-sha has a long history and varied uses; early on it was common in religious rituals and popular in the songs and dances of different peoples. In modern times, because the ting-sha is small and portable, it became a common carry-on meditation tool for practitioners; the ting-sha can also be used with the singing bowl to become an excellent partner in body-mind healing.
 
@@ -869,7 +869,7 @@ Traditionally, the music emitted by the ting-sha can clear the negative energy o
 
 For healing tinnitus, because the ear is a very delicate organ, strike the ting-sha about 24 inches (80 cm) from the ear, quickly move to 3 inches (10 cm) from the ear, hold for 5 seconds or until the sound fades, then move back to the original position; continue for 3–5 minutes. The healee may proceed in meditation or lying flat. A ting-sha of 8–10 cm is most suitable; overtones that are agreeable and long-lasting are the best choice. If accidental discomfort or a serious situation occurs and the sound cannot be borne, try striking gently, and keep a greater distance, slowly approaching.
 
-#### 1.3.11 Cleaning and Care of the Singing Bowl
+### 1.3.11 Cleaning and Care of the Singing Bowl
 
 The greatest care is to **use it often** (striking + rubbing).
 
@@ -887,7 +887,7 @@ The greatest care is to **use it often** (striking + rubbing).
 - The bowl's placement should be with devotion; place it in a principal position with offering and respect; avoid placing it in an uncommon corner or near a trash bin.
 - The music world's method for maintaining struck bronze instruments: plant maintenance oil.
 
-#### 1.3.12 Singing-Bowl Breath Practice
+### 1.3.12 Singing-Bowl Breath Practice
 
 Sit quietly, hold the brush-pen posture, sink the shoulders, drop the elbows, regulate the breath, gather qi to the dantian. On the first exhale, exhale to 8–9 tenths, then begin to rotate the bowl clockwise, slowly inhale. On the second exhale, exhale to ten tenths, then slowly inhale. On the third exhale, try to exhale to eleven tenths, then slowly inhale. Gradually increase, trying to exhale a bit more than the previous time. Stay in natural relaxation; do not force yourself.
 
@@ -895,7 +895,7 @@ Likewise, on the first inhale, inhale only 8 tenths, then begin to exhale. On th
 
 **Non-violent breathing — avoid clinging to force.** Through repeated practice, you can hear your own breath, hear the stable bowl tone, as if experiencing the reality of breath's existence, returning to the most precious present, returning between breaths, receiving the energy of life, possessing abundant everything, full of love and gratitude.
 
-#### 1.3.13 Single Gong Striking Technique
+### 1.3.13 Single Gong Striking Technique
 
 ![gong](../docs/media/image78.jpeg)
 
@@ -942,7 +942,7 @@ The physiological basis of voice is the human vocal organs, mainly composed of t
 
 Likewise, the sound basis of the singing bowl is also composed of three parts. The power part is the striker; the vibration part is produced by the copper bowl form; the transmission and resonance parts are the air and the bowl cavity — that is, the hollow part of the singing bowl. Sound is produced by sound waves generated from the vibration of an object. We hear sound because it propagates as waves.
 
-### 2.2.2 Elements of Sound
+### 2.1.2 Elements of Sound
 
 ![elements of sound](../docs/media/image82.jpeg)
 
@@ -1766,7 +1766,7 @@ All things are energy — first the universe, our galaxy, the earth, then the in
 
 All things in the world are composed of energy, including thoughts, consciousness, and emotions — all are energy, all exist in the form of waves.
 
-#### 2.3.4.5 All Is Number
+#### 2.3.5.5 All Is Number
 
 "All is number" is a philosophical view holding that all things in the universe can be described and explained with numbers. This view existed in ancient times; for example, ancient China's *I Ching* (Book of Changes) has the saying "The Tao gives birth to the one, the one gives birth to two, two gives birth to three, three gives birth to all things," meaning that all things in the universe are composed of numbers.
 
