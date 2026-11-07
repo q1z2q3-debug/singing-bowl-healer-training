@@ -5079,11 +5079,471 @@ This chapter places the singing bowl within a larger map of natural therapies, e
 
 # Appendices
 
+### Learning Objectives of This Chapter
+
+- Master the structure and usage of meditation guidance words and relaxation guidance words;
+- Be able to use the Athens Insomnia Scale, the anxiety/depression self-rating scales, and the Ayurvedic energy constitution scale for preliminary assessment.
+
 ## Meditation Guidance Words
+
+### Seated Guidance
+
+First guide the person being healed to sit comfortably on a yoga block / or a cushion 【please choose a comfortable seated posture and sit steady】. Shift the buttocks and sit on the yoga block, with both hands resting on the knees. Now bring awareness to the breath: as you inhale, feel the breath drawn in from the tip of the nose, flowing into the body; as you exhale, feel the breath leaving from the tip of the nose. Now we try a deep breath — inhale deeply, the spine upright and tall; exhale slowly, the shoulders sinking and stable. Keep perceiving the breath, (until) the body becomes more and more centered, the body and mind more and more relaxed.
+
+Now, inhale through the nose, exhale through the mouth. On inhalation, draw the breath into our abdomen and chest, aware (of) the abdomen rising, the chest full; on exhalation, use the mouth, slowly release, feeling the turbid qi and pressure within the body completely expelled. Maintain this awareness until the body's pressure, tension, and discomfort are fully discharged from the body.
+
+Now perceive your body again — the spine, centered and stable (3 breaths); the shoulders sinking, relaxed (3 breaths). Now gently turn the left hand upward, drop in essential oil; through the essential oil, open our body and mind, relax (our) brain nerves again and stabilize body-mind awareness.
+
+Place the two hands gently, one over the other, slowly and softly; draw apart, transition, draw apart softly again (be aware of the process of drawing apart). Bring the palms together, fingertips touching, the center of the palms hollow, place at a suitable position by the nose, inhale the essential oil, soothe (our) body and mind. Inhale deeply, feel the fragrance enter our nasal cavity and rise to the brow center; on exhale, bring the palms together, the palms贴合, turn the head to the right of the clear fragrance, fully expel the breath, making more space for the next inhalation. Fingertips touching, palms apart, inhale deeply again — this time the breath fully enters our chest, the abdomen rising, the chest opening, the fragrance fully entering body and mind, healing our body and mind. Maintain this state, self-aware. (3–5 minutes)
+
+Good. Now bring awareness to the connection between sound and body, and begin the singing-bowl / music healing.
+
+Purify the energy field, purify the Du meridian, perceive the body-mind vibration.
+
+*Writing meditation words*
+
+### Lying Guidance
+
+Let us lie down in the most comfortable lying posture, letting the legs relax naturally, the neck relax, both hands at the sides of the body, palms up, naturally relaxed.
+
+(Use the ting-sha to gather awareness), focus on the breath, inhale deeply, exhale slowly, place awareness at the toes; on inhale, try to draw the breath into the toes, on exhale relax the toes, (with each exhalation, relax the body parts), relax the soles and the tops of the feet.
+
+Relax the calves, the backs of the knees, the thighs.
+
+Relax the buttocks, the lower back.
+
+Relax the spine, the shoulders. (Feel oneself sleeping on the earth, completely relaxed)
+
+Relax the arms, the elbows.
+
+Relax our fingers. (Relax the wrists, the backs of the hands, the palms; relax the thumb, index, middle, ring, and little fingers)
+
+Perceive the breath again, inhale deeply, exhale slowly.
+
+Unfurrow the brow center, relax the facial expression, (with a smile).
+
+Open the ears, listen quietly to the singing bowl, feel the connection of sound with the body.
+
+### Exit Guidance
+
+Now slowly withdraw awareness, focus on the breath; on inhale, be aware of the body-mind state, on exhale, focus on the body.
+
+Slowly wiggle the toes, wiggle the fingers, roll the eyes, return attention to the breath, adjust body and mind, stretch upward, forward, give a big stretch, slowly rise from the right side, keep the eyes closed, sit cross-legged.
+
 ## Relaxation Guidance Words
+
+*Right body (one yang):* the skeleton, the five zang and six fu are in their proper and normal positions.
+
+*Right mind (one yin):* muscles, consciousness, meridians, qi and blood operate normally.
+
+Standing, sitting, lying, walking.
+
+**Stand like a pine**
+
+The pine's "uprightness": upright like a pine tree, the five toes grip the ground; stability comes from the Root Chakra — the toes, soles, tops of feet, ankles, calves, backs of knees, thighs, buttocks, lower back, spine, shoulders, neck, head, and all the bones.
+
+The pine's "relaxation": the feet control the ground with force, while everything above the knee joint should be relaxed. *Maximum relaxation* means maintaining only the strength needed to hold the current posture or movement, without adding any superfluous force.
+
+Standing: face with a smile, the upper body upright, chest contained and back lifted, the waist extended, the buttocks as if sitting on a high stool.
+
+**Sit like a bell**
+
+Centered, the torso returns to the midline.
+
+**Lie like a bow**, right lateral recumbent position.
+
+**Walk like the wind:**
+
+> **Jian Nian® Body-Mind State Record Form**
+>
+> The following is a pre-session client body-mind state collection form, for the healer to build the client's file.
+
+**I. Basic Information**
+
+- Name: __________
+- Gender: Male □　Female □
+- Residence: __________
+- Phone: __________
+- New client (membership type): Trial member □　Trainee □
+- Pregnant or gave birth □
+
+**II. Populations Who Cannot Have the Bowl Placed Directly on the Body (Contraindications)**
+
+- □ Metal foreign body in body, IUD (intrauterine device), cardiac stent
+- □ Within six months of surgery or with an open wound
+- □ Less than one year after abortion
+- □ Within four months of pregnancy
+- □ Skin disease: boils…
+- □ Severe varicose veins with breaks, epilepsy, sleepwalking
+- □ Fever
+
+**III. Lifestyle Habits**
+
+- Eating habits: breakfast □　lunch □　dinner □　midnight snack □　meat □　vegetarian □
+- Taste: spicy □　light □　salty □　sweet □
+- Sleep quality: very good □　average □　insomnia □　frequent dreams □
+- Sleep time: before 23:00 □　after 23:00 □　after 1:00 a.m. □
+- Pre-sleep habits: drink water before sleep □　drink water after waking □　within one hour before sleep, habit of looking at electronic devices □
+- Already adopted: TCM □　Western medicine □　TCM physiotherapy □　other: __________
+
+**IV. Physical Condition** (multiple choice allowed)
+
+- □ Migraine □ Hemiplegia □ Cerebral thrombosis □ Cerebral infarction □ Insomnia □ Forgetfulness □ Unclear thinking □ Drowsiness □ Declining memory
+- □ Vegetative state □ Alzheimer's □ Parkinson's □ Premature graying □ Dizziness □ Hair easily falling
+- □ Trachoma □ Myopia □ Eye pain and dryness □ Wind-sensitive eyes □ Floaters □ Eye disease from hypertension/diabetes
+- □ Hearing impairment □ Nasal disease □ Pre-/post-auricular lymph nodes □ High stress
+- □ Throat disease □ Dry mouth □ Thyroid □ Shoulder-neck frozen shoulder □ Cervical issues (wealth bump)
+- □ Shoulder-neck strain □ Bone spurs □ Unclear expression
+- □ Heart disease □ Three highs □ Breast hyperplasia □ Lobular hyperplasia □ Breast distension □ Chest green veins □ Benign tumor □ Easy fatigue
+- □ Irritable/easily angered □ Liver-qi stagnation □ Hyperactive liver fire □ Fatty liver □ Gallstones □ Cholecystitis □ Axillary lymph □ Axillary blockage
+- □ Depression □ Emotional instability
+- □ Gastroenteritis □ Constipation □ Indigestion □ Poor appetite □ Gastric bloating □ Abdominal distension □ Diarrhea □ Belt-vessel blockage □ Weak spleen-stomach
+- □ Gynecological inflammation □ Uterine fibroids □ Pelvic effusion □ Lumbar-abdominal soreness □ Lower-abdominal dragging distension □ Ovarian cyst
+- □ Infertility □ Lumbar disc herniation □ Lumbar-back soreness □ Muscle stiffness □ Autism □ Fear of darkness
+- □ Lower-limb atrophy □ Leg-foot swelling □ Arthritis □ Joint pain □ Varicose veins □ Cold hands and feet □ Numb hands and feet
+- □ Limb weakness □ Gout □ Rheumatoid □ Whole-body soreness □ Dark groin color
+
+**V. Informed Consent and Declaration**
+
+- The part I hope to improve: __________
+- □ I understand the effects and precautions of singing-bowl regulation; after the bowl, eat light that day, drink more water, increase qigong and other exercise
+- Note: I am aware of the characteristics of the singing bowl and am willing to cooperate with the regulator for periodic regulation.
+- To obtain better regulation effects with exercise, etc., whether to persist in the regulator-assigned homework: willing to persist □　try to persist □
+- I am willing to make the singing-bowl regulation experience public (or not public) to share: __________　The above information is true: __________
+
 ## Athens Insomnia Scale
+
+The Athens Insomnia Scale (AIS) is also called the Athens Insomnia Scale, an internationally recognized self-measurement scale for sleep quality. It can be used for public sleep-quality surveys. On World Sleep Day, China recommends using this scale to investigate sleep quality.
+
+This scale records your self-assessment of sleep disorders you have encountered.
+
+For the questions listed below, if within the past 1 month each occurs at least 3 times a week on you, please circle the corresponding self-assessment result.
+
+(If a problem below occurs 3 times a week, assessment is needed)
+
+**1. Sleep latency (time from lights-out to falling asleep)**
+
+0 No problem; 1 Slightly delayed; 2 Markedly delayed; 3 Severely delayed or no sleep.
+
+**2. Nocturnal awakenings**
+
+0 No problem; 1 Slight impact; 2 Marked impact; 3 Severe impact or no sleep.
+
+**3. Earlier awakening than desired**
+
+0 No problem; 1 Slightly early; 2 Markedly early; 3 Severely early or no sleep.
+
+**4. Total sleep time**
+
+0 Sufficient; 1 Slightly insufficient; 2 Markedly insufficient; 3 Severely insufficient or no sleep.
+
+**5. Overall sleep quality (regardless of duration)**
+
+0 Satisfied; 1 Slightly dissatisfied; 2 Markedly dissatisfied; 3 Severely dissatisfied or no sleep.
+
+**6. Daytime mood**
+
+0 Normal; 1 Slightly low; 2 Markedly low; 3 Severely low.
+
+**7. Daytime functioning (physical or mental: memory, cognition, attention, etc.)**
+
+0 Sufficient; 1 Slightly affected; 2 Markedly affected; 3 Severely affected.
+
+**8. Daytime sleepiness**
+
+0 No sleepiness; 1 Slight sleepiness; 2 Marked sleepiness; 3 Severe sleepiness.
+
+**Questionnaire construction and scoring**
+
+The scale has 8 items, each scored 0, 1, 2, 3 from none to severe — simple, concise, and easy to use.
+
+Total score below 4: no sleep disorder;
+
+Total score at 6: suspected insomnia;
+
+Total score above 6: insomnia.
+
+Insomnia usually refers to a subjective experience in which the patient is dissatisfied with sleep time or quality and it affects daytime social function.
+
+By clinical manifestation: ① Sleep latency: time to fall asleep exceeds 30 minutes; ② Sleep maintenance: awakenings more than 2 times a night or early awakening before dawn; ③ Sleep quality: many nightmares; ④ Total sleep time less than 6 hours; ⑤ Residual daytime effect: next morning feels dizzy, low spirit, sleepy, fatigued, etc.
+
+By course: ① Transient or acute insomnia: course under 4 weeks; ② Short-term or subacute insomnia: course over 4 weeks but under 6 months; ③ Long-term or chronic insomnia: course over 6 months.
+
+By severity: ① Mild: occasional, little impact on quality of life; ② Moderate: occurs every night, moderately affects quality of life, with certain symptoms (irritability, anxiety, fatigue, etc.); ③ Severe: occurs every night, severely affects quality of life, prominent clinical symptoms.
+
 ## Self-Rating Anxiety Scale (SAS)
+
+The Self-Rating Anxiety Scale (SAS) was compiled by W.K. Zung in 1971, used to assess the subjective feelings of individuals with anxiety symptoms, as a basis for measuring the severity of anxiety states and their changes during healing. Anxiety is a common emotional disorder in counseling clinics; in recent years, SAS has been used as a self-rating tool to understand anxiety symptoms in counseling clinics.
+
+SAS assesses the symptom level within the past week; scoring is not affected by age, gender, economic status, etc., but if the test-taker has low education or poor intelligence, self-assessment may not be possible.
+
+Below are 20 statements; please read each carefully, understand its meaning, then choose according to your actual situation over the past week.
+
+① Rarely = none or little time; ② Sometimes = a small part of the time; ③ Often = quite a lot of the time; ④ Continuous = most or all of the time.
+
+1. I feel more nervous and anxious than usual
+2. I feel afraid for no reason
+3. I am easily upset or feel panic
+4. I feel I might go crazy
+5. I feel everything is fine and nothing unfortunate will happen
+6. My hands and feet tremble or shake
+7. I am troubled by headaches, neck pain, and back pain
+8. I feel easily weakened and fatigued
+9. I feel calm and can sit quietly easily
+10. I feel my heart beating very fast
+11. I am troubled by bouts of dizziness
+12. I have fainting spells, or feel as if I might faint
+13. I find it easy to breathe in and out
+14. My hands and feet are numb and tingling
+15. I am troubled by stomachache and indigestion
+16. I need to urinate frequently
+17. My hands are usually dry and warm
+18. My face flushes and feels hot
+19. I fall asleep easily and sleep well
+20. I have nightmares
+
+① Rarely ② Sometimes ③ Often ④ Continuous
+
+**Scale description**
+
+**Scoring:** For items 5, 9, 13, 17, 19: ① = 4 points; ② = 3 points; ③ = 2 points; ④ = 1 point. For the remaining items: ① = 1 point; ② = 2 points; ③ = 3 points; ④ = 4 points.
+
+**Score calculation:** Add the scores of the 20 items to get the raw score; multiply the raw score by 1.25 and take the integer to get the standard score.
+
+**Score interpretation:** China's anxiety cutoff is 50 points; the higher the score, the more obvious the anxiety tendency. Below 49 is normal; 50–59 is mild; 60–69 is moderate; above 69 is severe.
+
+**Assessment notes:** SAS can reflect the severity of anxiety but cannot distinguish types of neurosis; it must be used together with other self-rating or clinician-rating scales such as HAMD to help classify neurosis clinically.
+
+**[Special statement]**
+
+This assessment scale is only a hypothesis about the assessor's psychological state and should not be the sole basis for any decision; it should be comprehensively analyzed together with other information about the assessor.
+
+This assessment scale is not responsible for any decision.
+
+This assessment scale is for reference only; for specific situations please defer to a doctor's diagnosis.
+
 ## Self-Rating Depression Scale (SDS)
+
+The Self-Rating Depression Scale (SDS) contains 20 items, a self-rating scale with 4-level scoring; the prototype is the Zung Depression Scale (1965). Its characteristic is ease of use, and it can fairly directly reflect the depressive patient's subjective feelings.
+
+Instructions: Please read each item below carefully, and based on the past week, choose the appropriate level and mark "√". 1 = none or little time; 2 = a small part of the time; 3 = quite a lot of the time; 4 = most or all of the time.
+
+| Item | None/little | Small part | Quite a lot | Most/all |
+| --- | --- | --- | --- | --- |
+| 1. I feel depressed, low in mood | 1 | 2 | 3 | 4 |
+| *2. I feel best in the morning |  |  |  |  |
+| 3. I want to cry or feel like crying |  |  |  |  |
+| 4. My sleep at night is poor |  |  |  |  |
+| *5. I eat as much as usual |  |  |  |  |
+| *6. I feel as happy as usual when in contact with the opposite sex |  |  |  |  |
+| 7. I feel weight loss |  |  |  |  |
+| 8. I am troubled by constipation |  |  |  |  |
+| 9. My heart beats faster than usual |  |  |  |  |
+| 10. I feel fatigued for no reason |  |  |  |  |
+| *11. My mind is as clear as usual |  |  |  |  |
+| *12. I do things not feeling as difficult as usual |  |  |  |  |
+| 13. I am restless and find it hard to be calm |  |  |  |  |
+| *14. I feel hopeful about the future |  |  |  |  |
+| 15. I get angry more easily than usual |  |  |  |  |
+| *16. I find it easy to make decisions |  |  |  |  |
+| *17. I feel I am a useful and needed person |  |  |  |  |
+| *18. My life is interesting |  |  |  |  |
+| 19. I think others would be better off if I died |  |  |  |  |
+| *20. I still enjoy the things I usually enjoy |  |  |  |  |
+
+Note: Items marked * are reverse-scored.
+
+**Result analysis:** The indicator is the total score. Add the scores of the 20 items to get the raw score. The standard score equals the integer part of the raw score multiplied by 1.25. The normal upper limit of the raw total is 41 points, and the standard total is 53 points.
+
+**Notes:**
+
+1. SDS is mainly applicable to adults with depressive symptoms; it can be used in counseling clinics and psychiatric outpatient or inpatient settings. For severely retarded depressive patients, assessment is difficult.
+2. Regarding the grading of depressive symptoms, besides referring to scale scores, it mainly depends on clinical symptoms — especially the degree of drug-harm symptoms — to classify; the scale score can only serve as a reference indicator, not an absolute standard.
+3. SDS's raw-total normal upper limit is 41 points; the lower the score the better the state. The standard score is the integer part of the raw total multiplied by 1.25. China uses SDS standard score ≥ 50 as indicating depressive symptoms.
+4. Time range: past week.
+5. Applicable to: adults with depressive symptoms.
+6. 4-level scoring: none or little time, a small part of the time, quite a lot of the time, most or all of the time.
+7. Note: there are 10 reverse-scored items. **When assessing, let the self-rater understand the reverse-scored items**; failure to understand will affect statistical results. For example, a depressed patient often feels life is meaningless, but the question asks whether one feels life is meaningful, so the scoring direction should be reversed. Such items are prefixed with * to remind the examiner and the examined.
+
+**Result interpretation**
+
+Rate your depression level:
+
+53–62 is mild depression; 63–72 is moderate depression; above 72 is severe depression.
+
 ## Ayurvedic Energy Constitution Scale
 
-<!-- TODO: translate appendices (guidance scripts and standardized self-assessment scales) -->
+Please rate each statement below, thinking about your life all along. If a statement completely does not match your life, score 0; if it completely describes your life, score 5; if it rarely happens, score 1 or 2; if it happens sometimes, score 3; if it often happens, score 4.
+
+**Part One (Vata)**
+
+| # | Statement | 0 | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. I have always been thin and do not gain weight easily |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 2. I walk fast and am always ahead of the group |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 3. I am easily nervous or anxious |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 4. I eat fast; family says I should slow down |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 5. I am very creative |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 6. I learn things fast, but also forget fast |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 7. I like to pace when on the phone |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 8. As a child, people always said I was restless |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 9. I am often constipated |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 10. My mind is very active and sometimes cannot stop |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 11. When conflict arises, I always ask myself "what did I do wrong" |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 12. Alone, my daily eating and sleeping times differ |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 13. If I stay in one place too long, I feel bored |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 14. When entering a room, I always feel it is too cold |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 15. My skin is always dry and rough |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 16. I am more easily affected than others by cold and windy weather |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 17. Sometimes people accuse me of being "brainless" |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 18. Friends say I am a chatterbox |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 19. My sleep is light; hard to fall asleep or always can't sleep |  | 0 | 1 | 2 | 3 | 4 | 5 |
+| 20. I like new projects, new activities, new hobbies, but always lose interest in 3 minutes, hard to persist |  | 0 | 1 | 2 | 3 | 4 | 5 |
+
+Part One total: __________ points
+
+**Part Two (Pitta)**
+
+| # | Statement | 0 | 1 | 2 | 3 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1. My eyes are sensitive to sunlight | 0 | 1 | 2 | 3 | 4 | 5 |
+| 2. I am of medium build | 0 | 1 | 2 | 3 | 4 | 5 |
+| 3. I have a good appetite | 0 | 1 | 2 | 3 | 4 | 5 |
+| 4. I dislike wasting time | 0 | 1 | 2 | 3 | 4 | 5 |
+| 5. I have a strong desire to learn new things | 0 | 1 | 2 | 3 | 4 | 5 |
+| 6. I plan each day and like to follow a schedule | 0 | 1 | 2 | 3 | 4 | 5 |
+| 7. When I overeat or feel unwell, I get acid reflux, heartburn, or a burning sensation in the stomach | 0 | 1 | 2 | 3 | 4 | 5 |
+| 8. Many think I am stubborn | 0 | 1 | 2 | 3 | 4 | 5 |
+| 9. My behavior is always mental and orderly | 0 | 1 | 2 | 3 | 4 | 5 |
+| 10. I like to see things in their proper places | 0 | 1 | 2 | 3 | 4 | 5 |
+| 11. When conflict arises, I think "why can't others see it my way" | 0 | 1 | 2 | 3 | 4 | 5 |
+| 12. If I miss a meal, I become irritable and angry | 0 | 1 | 2 | 3 | 4 | 5 |
+| 13. I like outdoor activities; they are exciting | 0 | 1 | 2 | 3 | 4 | 5 |
+| 14. I always feel the room is too hot | 0 | 1 | 2 | 3 | 4 | 5 |
+| 15. I easily get acne, hives, and various rashes; my skin reddens | 0 | 1 | 2 | 3 | 4 | 5 |
+| 16. I usually have loose stools or defecate at least twice a day | 0 | 1 | 2 | 3 | 4 | 5 |
+| 17. I am irritable but also forget fast | 0 | 1 | 2 | 3 | 4 | 5 |
+| 18. Friends say I am warm/enthusiastic | 0 | 1 | 2 | 3 | 4 | 5 |
+| 19. Spicy food irritates my stomach and intestines | 0 | 1 | 2 | 3 | 4 | 5 |
+| 20. When I want something, I firmly get it through effort | 0 | 1 | 2 | 3 | 4 | 5 |
+
+Part Two total: __________ points
+
+**Part Three (Kapha)**
+
+| # | Statement | 0 | 1 | 2 | 4 | 5 |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1. People say I have a large frame | 0 | 1 | 2 | 4 | 5 |
+| 2. I walk slowly; I don't understand why some are always in a rush | 0 | 1 | 2 | 4 | 5 |
+| 3. Even if my life is very stressful, I don't want to deal with it | 0 | 1 | 2 | 4 | 5 |
+| 4. I eat slowly; I am the last to finish at the table | 0 | 1 | 2 | 4 | 5 |
+| 5. I take longer to learn than others, but once learned I don't forget | 0 | 1 | 2 | 4 | 5 |
+| 6. Just one look at cake and I gain ten jin | 0 | 1 | 2 | 4 | 5 |
+| 7. I like to curl up on the sofa reading, not moving for hours | 0 | 1 | 2 | 4 | 5 |
+| 8. I like to sleep, especially in the morning; I am not a morning person | 0 | 1 | 2 | 4 | 5 |
+| 9. I digest slowly and feel very full after meals | 0 | 1 | 2 | 4 | 5 |
+| 10. I'd rather watch sports on TV than participate | 0 | 1 | 2 | 4 | 5 |
+| 11. When conflict arises, I want to crawl into bed and forget it exists | 0 | 1 | 2 | 4 | 5 |
+| 12. I don't understand those who say they aren't hungry; if food is before me, I want to eat | 0 | 1 | 2 | 4 | 5 |
+| 13. I need at least eight hours of sleep to feel good the next day | 0 | 1 | 2 | 4 | 5 |
+| 14. I hate cold, damp weather | 0 | 1 | 2 | 4 | 5 |
+| 15. I think I am affected by seasonal affective disorder | 0 | 1 | 2 | 4 | 5 |
+| 16. I dislike too much change; I like things to stay the same | 0 | 1 | 2 | 4 | 5 |
+| 17. My friends and family say I am sincere and a good listener | 0 | 1 | 2 | 4 | 5 |
+| 18. I have copious nasal mucus, phlegm; or chronic sinusitis and nasal sensitivity | 0 | 1 | 2 | 4 | 5 |
+| 19. Weight issues often accompany me | 0 | 1 | 2 | 4 | 5 |
+| 20. I move slowly, always methodical | 0 | 1 | 2 | 4 | 5 |
+
+Part Three total: __________ points
+
+**Total and Dosha**
+
+Fill in each part's total in the blanks below. Then determine which of the three has the highest score, and match it against "Possible Body-Mind Types" to find the corresponding dosha. If your highest score exceeds 85, you may be a single-dosha type. If your Part Two score and Part One score are close, and exceed Part Three by more than 10 points, you are a dual-dosha type. For example, if your Part One is 73, Part Two 54, Part Three 27, then you are Vata-Pitta type. Rarely is someone a triple-dosha type — a body-mind type composed of equal amounts of all three doshas.
+
+Part One total: __________ Vata
+
+Part Two total: __________ Pitta
+
+Part Three total: __________ Kapha
+
+Possible body-mind types:
+
+Vata　　　　　Pitta-Vata
+
+Pitta　　　　　Pitta-Kapha
+
+Kapha　　　　　Kapha-Vata
+
+Vata-Pitta　　　Kapha-Pitta
+
+Vata-Kapha
+
+## Glossary
+
+| Term | Explanation |
+| --- | --- |
+| Singing bowl | Traditional hand-forged copper bowl from the Himalayan region, widely used in modern sound healing |
+| Overtone | Harmonic partials produced by a resonator besides the fundamental tone |
+| Sympathetic resonance | The phenomenon where objects with close frequencies drive each other's vibration |
+| Three channels and seven chakras | Yoga energy system: left/central/right channels and seven energy centers |
+| Chakra | The seven main energy centers distributed in the human body |
+| Stopping the sound | Using the hand or a soft pad to halt the bowl's sustained vibration, used to close the sound wave |
+| Perfect fifth interval | A pitch relationship spanning five scale degrees, commonly used for tuning and pitch-setting |
+| Vata / Pitta / Kapha | The three constitutional energies of Ayurveda (wind / fire / water) |
+| Full-moon bowl | A larger singing bowl with long sustain, suited to space healing |
+
+## Chakra Quick Reference
+
+| Chakra | Position | Element | Theme |
+| --- | --- | --- | --- |
+| Root Chakra | Base of coccyx | Earth | Security, survival, grounding |
+| Navel Chakra | Lower abdomen | Water | Creativity, sexual energy, pleasure |
+| Stomach Chakra (Solar Plexus) | Upper abdomen | Fire | Power, will, action |
+| Heart Chakra | Center of chest | Air | Love, connection, compassion |
+| Throat Chakra | Throat | Ether | Expression, truth, communication |
+| Brow Chakra | Between the brows | — | Intuition, insight, inner vision |
+| Crown Chakra | Top of head | — | Spirituality, oneness, transcendence |
+
+## References
+
+**Recommended books:**
+
+1. *Social Psychology*
+2. The Erickson series of books
+3. *Man's Search for Meaning*
+4. *The Tibetan Book of Living and Dying*
+5. *Singing Bowl | The Silence That Rings Through the Sky* — Zhao Ge
+6. *Introduction to Singing-Bowl Healing* — Surin Shrisa
+7. *Scientific, Medical, and Philosophical Singing-Bowl Meditation* — Kamala
+8. *Understanding Singing-Bowl Sound Healing* — Zhang Da & He Guang
+9. *Ayurvedic Self-Healing* — Bohlen
+10. *Tibetan Esoteric Yoga* — Wang Chunhua
+11. *Chakra Aromatherapy* — Kobayashi Kei
+12. *The Complete Book of Chakra Healing* — Cindy Dale
+
+**Recommended articles:**
+
+1. "The Power of the Mind" — Mao Zedong, age 27
+2. "Heart Sutra" — translated by Tang Xuanzang
+
+**Recommended films and series:**
+
+1. *The Legend of Buddha* — Indian film/TV series
+2. *The Journey of Xuanzang* — Chinese documentary
+
+**Academy official account**
+
+![Singing bowl healing illustration](../docs/media/image254.png)
+
+**Training & bowl-order contact**
+
+![WeChat image 20230827201509](../docs/media/image255.jpeg)
+
+### Chapter Summary
+
+The attachments are ready-to-use guidance-word templates and standardized self-assessment scales — a practical toolbox for teaching demonstrations and individual case evaluation. The scales serve only for preliminary screening and cannot replace professional diagnosis.
+
+### Reflection Questions
+
+1. Why do guidance words go from "seated / lying" to "exit"?
+2. What are the limitations of self-assessment scales, and when must one refer to a professional?
