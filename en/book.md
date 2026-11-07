@@ -1066,7 +1066,7 @@ The "fifths-generated temperament" (Pythagorean) uses overtone generation, with 
 
 ## Section 2 — Vibration Fundamentals (Beginner–Advanced)
 
-**Related reading:** elements of sound see [2.1.2 Elements of Sound](#212-elements-of-sound); healing principles see [2.4 Healing Principles](#section-4--healing-principles-beginneradvanced).
+**Related reading:** elements of sound see [2.1.2 Elements of Sound](#212-elements-of-sound); healing principles see [2.4 Healing Principles](#section-4--healing-principles-beginnerintermediateadvanced).
 
 ### 2.2.1 Same-Frequency Resonance (Wave Vibration)
 
@@ -1243,7 +1243,7 @@ Our brain does indeed look like two objects — the left and right hemispheres �
 
 ### 2.3.2 The Seven Chakras
 
-**Related reading:** for a quick reference of the seven chakras, see [Seven-Chakra Quick Reference](#seven-chakra-quick-reference).
+**Related reading:** for a quick reference of the seven chakras, see [Chakra Quick Reference](#chakra-quick-reference).
 
 ![singing bowl healing illustration](../docs/media/image105.jpeg)
 
