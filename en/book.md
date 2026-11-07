@@ -2647,17 +2647,667 @@ The Wei period (13:00–15:00) is when the small intestine is in command — the
 
 # Chapter 3 — Practical Operation
 
-## 3.1 Case Practice
+### Learning Objectives of This Chapter
 
-<!-- TODO: translate 3.1 (case studies by condition / level) -->
+- Master aura clearing, space purification, and single-bowl / multi-bowl (including seven-bowl comprehensive) healing cases;
+- Become familiar with the environment setup for singing-bowl concerts and the premium individual-session flow;
+- Be able to compose healing sequences for common issues such as insomnia, shoulder-neck tension, and dysmenorrhea.
 
-## 3.2 Singing Bowl Concert Performance
+## Section 1 — Case Practice
 
-<!-- TODO: translate 3.2 -->
+### 3.1.1 Aura Clearing & Purification (Beginner)
 
-## 3.3 Premium Individual Session Flow
+The aura is an ancient term used to describe an existence not easily recognized by ordinary awareness.
 
-<!-- TODO: translate 3.3 (self protection, pre-session talk, space purification, relaxation, project opening, back/front healing, withdrawing, awakening, sharing) -->
+The goal of singing-bowl aura purification is to use ancient and modern insights, benefiting humanity within good sound healing, as a complement to the healing method. The aura is a subtle energy system with flowing properties; it can breathe and vibrate, and though normally invisible to the naked eye, we cannot deny its existence.
+
+The most condensed form of the aura in light is upon the physical body and is directly related to a person's consciousness. A normal person's aura extends about 1.5 meters beyond the body, but a cultivator or long-term meditator may have a larger halo extending hundreds of meters. The chakras are energy centers within the aura; all seven chakras develop as a separate thread throughout his or her life.
+
+Our life path, the developmental stage of our aura, and the level of consciousness development are all directly related to the chakras and their basic attributes.
+
+As our being and aura level continuously evolve, life and death alternate, transcending the coarse physical body and the subtle energy body.
+
+If the next evolutionary stage of life and aura is not in an ideal state, a person's consciousness development will not realize its full potential, and it will also bring negative emotional states and even physical discomfort and pain.
+
+A harmonious and balanced aura is the purification, decompression, and repair in the course of life — helping to purify and elevate the coarse physical body and the subtle energy body, and the human being's relationship with the universe.
+
+![Singing bowl healing diagram](../docs/media/image156.png)
+
+The singing bowl is an ancient musical tool that can clear and purify the surrounding aura by emitting a unique resonance. Its resonant sound produces frequency and vibration that can help people eliminate negative emotions, stress, and anxiety, while also enhancing the body's natural healing ability.
+
+The bowl's resonant sound affects not only the human body but also the surrounding aura. The aura is an invisible energy field that surrounds people and objects, reflecting their state and energy.
+
+If the aura is negatively affected, it may lead to physical and psychological discomfort. The bowl's resonant sound can help clear and purify the aura, dispel the negative influence, and make the surrounding environment more comfortable and calm.
+
+The bowl's resonant sound produces an effect called "resonance." When the bowl's sound matches the frequency and vibration of surrounding objects, they can produce a powerful energy field that helps clear and purify the surrounding aura. At the same time, the bowl's sound also helps people relax body and mind, making the physical and mental state calmer and more relaxed.
+
+#### Brow-Chakra Purification
+
+The brow chakra, also called the sixth chakra or forehead chakra, is one of the body's seven major energy centers, located at the center of the eyebrows and the main energy center of the upper body.
+
+Its function is to control the power of thinking, wisdom, intuition, and mind, and it is also related to the head, eyes, ears, nose, and nervous system.
+
+![Singing bowl healing diagram](../docs/media/image157.png)
+
+*(notes area)*
+
+#### Ren-Meridian Purification
+
+The Ren Meridian was first recorded in the *Huangdi Neijing* (Yellow Emperor's Inner Canon). It begins in the uterus within the lower abdomen, emerges at the perineum and pubic hair, passes the pubic mound, and ascends along the midline of the abdomen through Guanyuan and other points to the throat (Tiantu CV22), then ascends to inside the lower lip, encircles the lips, meets the Governing Vessel at Yinjiao (GV28), then passes beside both sides of the nose up to below the eye (Chengqi ST1), meeting the Stomach Meridian of Foot-Yangming.
+
+It commands all the yin meridians of the body and regulates the qi and blood of the yin meridians — the "sea of the yin vessels." The Ren Meridian runs along the midline of the abdomen; the abdomen is yin, showing that the Ren Meridian has an overarching and commanding effect on all the yin meridians' qi. In addition, the three yin meridians of the foot intersect the Ren Meridian in the lower abdomen, and the three yin meridians of the hand connect with the Ren Meridian via the three foot yin meridians; therefore the Ren Meridian regulates the qi and blood of the yin meridians, hence the saying "commands all the yin."
+
+The Ren Meridian begins in the uterus and regulates menstruation and promotes the female reproductive function, hence the saying "the Ren governs the womb."
+
+![Singing bowl healing diagram](../docs/media/image158.png)
+
+*(notes area)*
+
+#### Du-Meridian Purification
+
+![Singing bowl healing diagram](../docs/media/image159.png)
+
+*(notes area)*
+
+#### Three-Channel Purification
+
+![Three-channel purification 2024](../docs/media/image160.png)
+
+#### 3.1.1.5 Chakra Activation
+
+**Sound-Eating Method (Food-Sound)**
+
+After striking, bring the throat chakra close to the bowl, inhale through the mouth, and "eat the sound" — you can make a sound that causes the crystal bowl or singing bowl to vibrate, activating the oral muscle groups and cells, bringing deep perception and raising the activated cellular energy.
+
+**Mutual-Impression Method**
+
+Bring both hands close to the bowl, perceive the bowl's wave-vibration, feel the bowl's qi, build a deep experience of the bowl, and connect more with the bowl.
+
+**Chakra Activation**
+
+Chakra singing-bowl activation is an energy therapy that uses the singing bowl to balance and activate the body's seven major chakras (also called energy centers). These chakras are located in different parts of the body, each associated with different organs, emotions, and mental states.
+
+Lie flat; strike different rhythms at different chakras, perceive the bowl — you can follow the heartbeat rhythm or the wooden-fish rhythm, feel the bowl's vibration and the body's connection. Regular, stable striking brings holistic activation of the chakra muscle groups, bones, etc., further building the perception of bowl and body-mind.
+
+**SPA Massage**
+
+Through the application of the bowl's vibration, heal and relax the muscles, performing a deep SPA massage.
+
+The bowl SPA is not only detoxification and purification of the organs, but also detoxification and purification of the mind and spirit, protecting the aura energy.
+
+It can even be applied directly to painful areas to reduce pain, for some stomach pain and liver-gallbladder discomfort.
+
+As an auxiliary alongside medical drug treatment, it has unexpected effects, helping to strengthen the body's "internal alchemy system," especially the liver.
+
+**Girdle-Vessel Unblocking**
+
+Through the bowl combined with essential oils, movement, and tapping, relax and unblock the Girdle Vessel, with a promoting effect.
+
+### 3.1.2 Space Clearing & Purification (Beginner)
+
+#### Techniques for Field Purification
+
+Singing-bowl field purification is an energy therapy that uses the bowl to clear negative energy and rebuild positive energy, creating a balanced and harmonious field.
+
+*(notes area)*
+
+#### Making Energy Water
+
+Singing-bowl energy water can be used for drinking, spraying, or soaking the body. It can help balance body, emotion, and spirit, and promote health and healing.
+
+*(notes area)*
+
+#### Making Energy Flowers
+
+*(notes area)*
+
+### 3.1.3 Single-Bowl Healing Cases (Intermediate)
+
+#### Emptying & Stress Relief
+
+![Singing bowl healing diagram](../docs/media/image161.png) The bowl sound guides relaxation; settle down with the bowl sound, focus on the breath, attend to the bowl's overtones, perceive the bowl sound between breaths, empty the mind, and concentrate on the sound of the bowl.
+
+*Principle*: parasympathetic nervous system · brain focus · consciousness emptying · breath observation · auditory meditation
+
+#### Meditation
+
+*Focus*: breath + vibration sensation + consciousness itself.
+
+Meditative breathing + consciousness concentrated on the bowl's vibration.
+
+Heart chakra — brow chakra — navel chakra.
+
+Combined with energy-field purification (brow-chakra purification + Ren and Du vessels).
+
+Fixed point 3 times, cycles of 1, 3, 7 times, 10–15 minutes.
+
+Meditation: focus on breath, vibration sensation, and consciousness itself. Through meditative breathing and consciousness concentrated on the bowl's vibration, strengthen the purification of the heart, brow, and navel chakras, combined with energy-field purification (including brow-chakra purification and the Ren and Du vessels). Fixed point 3 times, cycle 1, 3, 7 times, each lasting 10–15 minutes.
+
+![Singing bowl healing diagram](../docs/media/image162.png)
+
+#### Intestinal Cleansing & Bowel Movement
+
+![Singing bowl healing diagram](../docs/media/image163.jpeg)
+
+*Bowl selection*: lower three chakras (navel, stomach, root).
+
+Start at the navel, proceed clockwise downward.
+
+Shenque point, strike 3 times — Qihai point, strike 3 times — Daju point — Daheng point — Zhongwan point — Daheng point — Daju point — Qihai point — Shenque point.
+
+15–30 minutes.
+
+Or fixed-point (navel chakra) rubbing — clockwise — 10–15 minutes.
+
+Use bowls of the lower three chakras (navel, stomach, root). Starting at the navel, proceed clockwise: first strike Shenque 3 times, then strike Qihai, Daju, Daheng, Zhongwan, Daheng, Daju, Qihai, and Shenque. Lasts 15–30 minutes, or fixed-point rubbing (navel chakra) rotating clockwise for 10–15 minutes.
+
+![Intestinal cleansing 3](../docs/media/image164.jpeg)
+
+#### Unblocking Shoulder & Neck
+
+![Singing bowl healing diagram](../docs/media/image165.jpeg)
+
+Heart-chakra bowl.
+
+Dazhui point — to the coccyx.
+
+Dazhui point — Jianjing point — Tianzong point — Xinshu point — Tianzong point — Jianjing point — Dazhui point.
+
+20–30 minutes.
+
+To unblock the shoulder and neck, use the heart-chakra bowl. Starting at Dazhui, proceed in order to the coccyx, then back to Jianjing, Tianzong, Xinshu, Tianzong, Jianjing, and Dazhui, for 20–30 minutes.
+
+![Shoulder-neck unblocking 12](../docs/media/image166.png)
+
+#### Relieving Dysmenorrhea
+
+![Singing bowl healing diagram](../docs/media/image167.jpeg)![R-C (1)](../docs/media/image168.jpeg)
+
+Guanyuan point — Zigong point (left and right) — 10–20 minutes.
+
+Pour warm water (40°C) into the bowl — rub the bowl at Guanyuan for 10 minutes.
+
+Turn over and lie prone — Mingmen point (to Shenshu point) — rub the bowl for 10 minutes.
+
+To relieve dysmenorrhea: first massage Guanyuan and Zigong (left and right) for 10–20 minutes. Then pour 40°C warm water into the bowl and rub it at Guanyuan for 10 minutes. Next turn over and lie prone, massage Mingmen to Shenshu, then rub the bowl at Mingmen for 10 minutes.
+
+![Dysmenorrhea relief 1](../docs/media/image169.png)
+
+#### "Spaceman" Healing
+
+![Singing bowl healing diagram](../docs/media/image170.png)
+
+Those with tinnitus should not undergo this; it can be done via the tingsha.
+
+*(notes area)*
+
+### 3.1.4 Bladder-Meridian Unblocking & Detox (Intermediate–Advanced)
+
+The Bladder Meridian is a meridian of the body, starting from the head and running along the back, buttocks, legs, soles, down to below the lower abdomen. There are many acupoints on it; stimulating these points can promote the body's qi and blood circulation, enhance immunity, improve sleep quality, relieve physical fatigue and pain, and promote the body's detoxification function.
+
+It is suitable for physical fatigue, constipation, insomnia, headache, shoulder-neck pain, etc., and plays a good role in raising immunity and promoting health.
+
+![Singing bowl healing diagram](../docs/media/image171.png)
+
+*(notes area)*
+
+### 3.1.5 Du-Meridian Unblocking (Advanced)
+
+The Du Meridian is a major meridian in the body's meridian system, originating in the perineum and extending upward along the spine to the top of the head. Its role is very important: it regulates the body's yin-yang balance, regulates qi and blood circulation, enhances immunity, and raises the body's resistance.
+
+![Singing bowl healing diagram](../docs/media/image172.png)
+
+*(notes area)*
+
+### 3.1.6 Heart-Chakra Pressure Relief & Qi Regulation (Intermediate)
+
+Heart-chakra pressure relief and qi regulation can heal many heart-related diseases, such as palpitations, chest oppression, angina, and hypertension. In addition, it can relieve stress, raise immunity, promote blood circulation, and improve skin quality.
+
+Note that heart-chakra pressure relief and qi regulation must be carried out under the guidance of a professional sound healer to avoid bodily injury. At the same time, it is not suitable for everyone — pregnant women, heart patients, etc. need to use it with caution.
+
+![Singing bowl healing diagram](../docs/media/image173.png)
+
+*(notes area)*
+
+### 3.1.7 Three-Bowl Healing (Intermediate)
+
+Three-bowl sound therapy is a therapy based on sound and vibration, using three bowls of different chakras to create a calm and relaxed atmosphere by striking the bowls and letting them sound. This therapy is said to help restore the balance of body and mind, reduce stress and anxiety, and promote the body's self-healing ability. It is usually combined with meditation, yoga, and other sound-healing programs.
+
+![Singing bowl healing diagram](../docs/media/image174.png)
+
+*(notes area)*
+
+### 3.1.8 Insomnia & Headache Therapy (Advanced)
+
+The singing bowl can quickly change our brainwaves into a meditative or sleep state. Many people, having experienced only very basic bowl healing, can fall into a deep snore within minutes. In a strange healing room, such deep sleep means a very profound relaxation and sense of safety, embraced by an especially warm, peaceful, and reassuring energy frequency. This frequency is a great comfort and nourishment for everyone. Many who have tried the bowl once thought the effect only works when the healer is doing it, but unexpectedly found that on the day after healing, sleeping at home brought a noticeably improved sleep quality.
+
+![Singing bowl healing diagram](../docs/media/image175.png)
+
+*(notes area)*
+
+### 3.1.9 Women's Gynecological Care (Advanced)
+
+Singing-bowl healing is a very gentle, natural therapy that can help women regulate body and mind, promote natural balance and self-healing. But it must be done under professional guidance.
+
+![Singing bowl healing diagram](../docs/media/image176.png)
+
+*(notes area)*
+
+### 3.1.10 Liver-Soothing Qi-Regulating Sound Therapy (Advanced)
+
+Step 1: Press the diaphragm left and right for 1 minute each.
+
+Step 2: Strike along the Liver Meridian (see training class notes for specifics).
+
+Step 3: Settle the heart chakra (heart-chakra pressure-relief therapy).
+
+Step 4: Tingsha heart-chakra awakening.
+
+![Singing bowl healing diagram](../docs/media/image177.png)
+
+*(notes area)*
+
+### 3.1.11 Stomach Regulation Therapy (Advanced)
+
+Singing-bowl healing is a therapy based on sound and vibration that can help relieve stomach discomfort and regulate stomach health.
+
+![Singing bowl healing diagram](../docs/media/image178.png)
+
+*(notes area)*
+
+### 3.1.12 Chronic Migraine (Advanced)
+
+![Singing bowl healing diagram](../docs/media/image179.png)
+
+*(notes area)*
+
+### 3.1.13 Simple Lumbar-Muscle Strain Sound Therapy (Advanced)
+
+Simple lumbar-muscle strain is a common sports injury, usually caused by prolonged sitting or strenuous exercise.
+
+![Singing bowl healing diagram](../docs/media/image180.png)
+
+*(notes area)*
+
+### 3.1.14 Seven-Bowl Comprehensive Therapy (Advanced)
+
+![Singing bowl healing diagram](../docs/media/image181.png)
+
+*(notes area)*
+
+**Seven-Chakra Energy Therapy** — (the healer customizes healing based on chakra-energy learning)
+
+**Flower-of-Life Ten-Bowl Therapy** — (the healer customizes healing based on number-geometry learning)
+
+**Fourteen-Meridian Healing Method** — (the healer customizes healing based on meridian learning)
+
+![3100](../docs/media/image182.png) ![3113](../docs/media/image183.png)
+
+![3112](../docs/media/image184.png)
+
+**Seven-Chakra Energy Therapy**
+
+![Seven-bowl sleep 1](../docs/media/image185.jpeg) ![Seven-bowl sleep 2](../docs/media/image186.jpeg) ![Seven-bowl sleep 3](../docs/media/image187.jpeg)
+
+![Seven-bowl sleep 4](../docs/media/image188.jpeg) ![Seven-bowl sleep 5](../docs/media/image189.jpeg)
+
+**Four-Bowl Therapy**
+
+![Four-bowl 1](../docs/media/image190.jpeg)
+
+**Five-Bowl Therapy**
+
+![Five-bowl 1](../docs/media/image191.jpeg)![Five-bowl 2](../docs/media/image192.jpeg)
+
+![Untitled-3](../docs/media/image193.png)
+
+**Seven-Bowl Sound Therapy** (heart or stomach chakra for body-mind relaxation)
+
+![Untitled-2](../docs/media/image194.png)
+
+**Music-Healing Placement Guide**
+
+### 3.1.15 Women's Care Categories (Advanced Elective)
+
+#### Ovary & Uterus Care
+
+The ovaries and uterus are female reproductive organs and important components of female fertility and physiological health.
+
+#### Breast Care
+
+Singing-bowl healing uses the bowl's resonance and sound-wave vibration to adjust the body's energy and balance. In breast care, it can help the breast lymphatic detoxification, promote lymphatic circulation, and enhance the health of breast tissue.
+
+#### Facial Care
+
+In facial care, the bowl can be used to massage the face, enhancing the massage effect, while also bringing deeper relaxation and pleasure.
+
+#### Menopause Regulation
+
+Menopause is an important stage in a woman's life, accompanied by physical and psychological changes. Menopause regulation can help relieve menopausal symptoms and improve quality of life. In addition to medication and lifestyle adjustment, singing-bowl healing can also serve as an auxiliary therapy to better regulate body and mind.
+
+In singing-bowl healing, specially made bowls emit sound and vibration that, by stimulating the senses, promote the balance and relaxation of body and mind. This has a good effect on relieving menopausal symptoms such as anxiety, insomnia, and mood swings. At the same time, it can raise immunity and promote self-healing, playing a positive role in relieving menopausal symptoms and improving physical condition.
+
+#### Menstrual Regulation
+
+Menstrual regulation is an important link in a woman's physiological cycle and an important guarantee of women's health. It can help women relieve menstrual discomfort, regulate the menstrual cycle, and maintain reproductive-system health. As an auxiliary therapy, singing-bowl healing can help women better carry out menstrual regulation.
+
+In singing-bowl healing, specially made bowls emit sound and vibration that, by stimulating the senses, promote balance and relaxation of body and mind. This has a good effect on relieving menstrual discomfort such as dysmenorrhea, mood swings, and insomnia.
+
+At the same time, it can raise immunity and promote self-healing, also playing a positive role in maintaining reproductive-system health. Combining singing-bowl healing with menstrual regulation achieves better results — on the basis of bowl healing, combine other methods such as Chinese-medicine regulation, diet adjustment, and moderate exercise to comprehensively regulate body and mind, relieve menstrual discomfort, regulate the cycle, and maintain reproductive health.
+
+#### Dysmenorrhea Relief
+
+Dysmenorrhea is one of the common symptoms in a woman's physiological cycle, bringing great discomfort and pain. There are many causes, including physiological and psychological factors. As an auxiliary therapy, singing-bowl healing can help women relieve dysmenorrhea.
+
+In singing-bowl healing, specially made bowls emit sound and vibration that, by stimulating the senses, promote balance and relaxation of body and mind. This has a good effect on relieving dysmenorrhea such as pain, mood swings, and insomnia. At the same time, it can raise immunity and promote self-healing, playing a positive role in relieving dysmenorrhea.
+
+Combining singing-bowl healing with dysmenorrhea relief achieves better results — on the basis of bowl healing, combine other methods such as Chinese-medicine regulation, diet adjustment, and moderate exercise to comprehensively regulate body and mind, relieve dysmenorrhea, and improve quality of life. At the same time, women should also avoid doing bowl healing during the menstrual period, lest it affect health.
+
+**Breast Distension & Pain**
+
+Breast distension and pain is one of the common symptoms in women, usually occurring around the menstrual period, bringing discomfort and pain. There are many causes, including physiological and psychological factors. As an auxiliary therapy, singing-bowl healing can help women relieve breast distension and pain.
+
+In singing-bowl healing, specially made bowls emit sound and vibration that, by stimulating the senses, promote balance and relaxation of body and mind. This has a good effect on relieving breast distension and pain such as soreness and discomfort. At the same time, it can raise immunity and promote self-healing, playing a positive role in relieving breast distension and pain.
+
+#### Techniques for Easing the Couple Relationship
+
+Combined two-person singing-bowl energy sound healing.
+
+Energy healing | aura purification.
+
+### 3.1.16 Emotional Regulation Categories (Advanced Elective)
+
+**Anxiety**
+
+Anxiety is an emotional and psychological state, usually manifesting as worry and unease about the future, accompanied by physical discomfort such as palpitations, rapid breathing, and sweating. Anxiety can affect a person's thinking, behavior, and emotion, and in severe cases affects daily life and work.
+
+#### Depression
+
+Depression is an emotional and psychological state, usually manifesting as low mood, loss of interest and pleasure, self-denial, and self-blame. Depression affects a person's quality of life and work performance, and in severe cases may lead to suicide.
+
+#### Feeling Wronged
+
+Feeling wronged is an emotional and psychological state, usually manifesting as feeling unfairly treated or falsely accused, yet unable to express it or obtain fair treatment. It affects a person's emotional and psychological state, and long-term accumulation may lead to mental-health problems.
+
+#### Fear & Anger
+
+*Fear*: Fear is an emotional and psychological state, usually manifesting as a strong reaction to something or a situation. Fear can be reasonable, such as fear of danger or unsafe things, or unreasonable, such as excessive fear of some harmless things. Fear can affect a person's thinking, behavior, and emotion; if uncontrollable it may lead to further deterioration.
+
+*Anger*: Anger is an emotional and psychological state, usually manifesting as a strong reaction to something or a situation. Anger can be reasonable, such as anger at unfair treatment or violation of one's rights, or unreasonable, such as excessive anger over small matters. Anger can affect a person's thinking, behavior, and emotion; if uncontrollable it may lead to further deterioration.
+
+Both fear and anger are among the basic human emotions; to a certain extent they play a positive role in human survival and development. However, if excessive or uncontrollable, they may lead to mental-health and social problems. Therefore, we need to learn how to control and manage our fear and anger to maintain mental health and social harmony.
+
+#### Neurasthenia
+
+Neurasthenia is a psychological and physical disease, usually manifesting as anxiety, depression, insomnia, fatigue, headache, stomach pain, and other symptoms. Its symptoms are usually caused by long-term mental stress and physical fatigue, requiring timely treatment and lifestyle adjustment.
+
+## Section 2 — Singing Bowl Concert Performance (Advanced)
+
+*(notes area)*
+
+### 3.2.1 Hand-Purification Ritual
+
+*Heart method*: be present in the moment, tune your own breath, start from a stable energy, speak slowly and with strength.
+
+Make singing-bowl energy water: take about 1/2 to 2/3 water — ① strike the bowl with the mallet to vibrate and activate the water; ② rub the bowl with the mallet to vibrate and activate the water.
+
+Touch the water surface with fingers to purify the hands, or use a long spoon to scoop water to purify the hands.
+
+Back of hands: learn to let go, return to the present.
+
+Palms: may body and mind go smoothly, may all things go as wished.
+
+Palms together: gratitude to the universe, gratitude to parents, gratitude to oneself.
+
+Observe the breath, return to the present, and open the class.
+
+Communication: eye contact — firm and trusting eyes; language — non-restrictive guidance.
+
+### 3.2.2 Venue Setup for the Singing-Bowl Concert
+
+A sense of space, order, warmth, and ease.
+
+- *Eyes*: light — soft, warm; eye pillows; candles (electronic candles); flowers (scentless); crystals.
+- *Ears*: music.
+- *Nose*: aromatic system — incense or essential-oil fragrance.
+- *Tongue*: fruit, drinking water.
+- *Body*: ground environment — warmth-preserving measures, etc.
+
+1. *Eyes*: the lighting in the venue should be soft and warm, not too bright or glaring. Use warm-toned lights, or place soft lights in appropriate places, such as candles (electronic candles may be used), to create a warm atmosphere.
+2. *Eye pillows*: let the audience enjoy a deeper relaxation while appreciating the bowl music. Soft fabric can be used so the audience feels more comfortable.
+3. *Nose*: use an aromatic system in the venue, such as incense or essential-oil fragrance, so the audience feels a more comfortable aura. Place some scented candles or essential-oil diffusers in the venue.
+4. *Tongue*: provide some fruit and drinking water in the venue, so the audience enjoys small surprises and deliciousness while appreciating the music.
+5. *Body*: ensure the ground environment in the venue, such as ground temperature and humidity, so the audience feels a more comfortable environment. Provide warmth-preserving measures such as blankets and heaters.
+6. *Intention*: (to be supplemented by yourself)
+
+### 3.2.3 The Bowl-Playing Flow of the Music Salon
+
+Breath bowl-playing.
+
+Overtone bowl-playing.
+
+Free bowl-playing.
+
+One strike of the tingsha to gather attention and focus on the present.
+
+Voice guidance (body-mind relaxed state) — during relaxation, crystal bowls may be combined (crystal bowl counterclockwise three circles, clockwise 3 / 5 circles) — music bowls open (3 / 5 / 7 bowls) — full-moon bowl, crystal bowl — slow and gentle rhythm — fast rhythm + gong bath — finally 5 / 10 / 15 minutes ocean drum, rain stick, wind chime (strike the full-moon bowl if time allows) — three strikes of the full-moon bowl — three tingsha to awaken.
+
+- One strike of the tingsha to gather attention and focus on the present. Before the concert begins, one tingsha can be struck to let the audience put down stray thoughts, concentrate, and enter the concert atmosphere.
+- Voice guidance (body-mind relaxed state). Before the concert begins, voice guidance can be given to let the audience enter a relaxed body-mind state, preparing for the music appreciation ahead.
+- During relaxation, crystal bowls may be combined (crystal bowl counterclockwise three circles, clockwise 3 / 5 circles). During relaxation, the use of crystal bowls can be combined to let the audience relax more deeply.
+- Music bowls open (3 / 5 / 7 bowls). After the music bowls open, 3, 5, or 7 music bowls can be used to play gentle melodies, letting the audience feel the beauty of the music.
+- Full-moon bowl, crystal bowl. During the concert, full-moon bowls and crystal bowls can be added to let the audience feel deeper relaxation and meditation.
+- Slow and gentle rhythm. During the concert, slow and gentle rhythms can be used to let the audience feel the music's tenderness and comfort.
+- Fast rhythm + gong bath. During the concert, fast rhythms can be combined with a gong bath to let the audience feel the music's power and energy.
+- Finally 5 / 10 / 15 minutes ocean drum, rain stick, wind chime (strike the full-moon bowl if time allows). In the final stage, instruments such as the ocean drum, rain stick, and wind chime can be used to let the audience feel the natural beauty of the music.
+- Three strikes of the full-moon bowl. Before the concert ends, three strikes of the full-moon bowl can be made to let the audience return to the present.
+- Three tingsha to awaken. After the concert ends, three tingsha can be struck to awaken the audience slowly back to the real world, ending the concert.
+
+### 3.2.4 Notes for the Music Salon
+
+1. Observe the state of the healed and make flexible adjustments. During the music salon, the state of the healed may change for various reasons. Therefore, observe the state of the healed and make corresponding adjustments to ensure the smooth conduct of the salon.
+2. Move from the direction of the root chakra. During the salon, move from the root chakra direction, playing the music of each chakra in turn, to achieve the healing effect.
+3. Throughout the process, maintain the connection and awareness among the bowl, the healed, the bowl sound, and oneself. During the salon, maintain the connection and awareness among the bowl, the healed, the bowl sound, and oneself, so the salon's effect is more obvious and the healed receives better healing.
+
+## Section 3 — Premium Individual Session Flow (Advanced)
+
+*(notes area)*
+
+### Flow 1 — Self Energy Protection
+
+Meditation, breath observation, bowl connection.
+
+Breath observation is a simple and effective meditation skill that helps you relax body and mind. In breath observation, you only need to focus on the breath, noticing the feeling of breath entering and leaving the body, without thinking of other things.
+
+Use of aromatic essential oils — the "On Guard" protective blend is recommended.
+
+### Flow 2 — Pre-Session Communication
+
+1. *Understand symptoms and needs*: Before the bowl-healing session, communicate with the healer so the healer understands your symptoms and needs — for example, whether you have physical pain, stress, anxiety, etc. This information helps the healer better provide healing service.
+2. *Healing goals*: Communicate your healing goals with the healer — for example, you hope to relieve physical pain, relax body and mind, and balance energy through bowl healing. This helps the healer better formulate a healing plan.
+3. *Health status*: Communicate your health status with the healer — for example, whether you have chronic diseases, allergies, etc. This helps the healer better adjust the healing method and the bowls used.
+4. *Healing time and fees*: Communicate healing time and fees with the healer to ensure you clearly understand the healing process.
+5. *Healer's experience and background*: Ask about the healer's experience and background — for example, whether they have relevant certificates or training, and their healing methods and philosophy.
+6. *Healing environment*: Ask about the healing environment — for example, the atmosphere and music of the healing room, and what you need to bring.
+7. *Preparation before healing*: Ask what needs to be done before healing — for example, whether fasting or stopping certain medications is required.
+8. *Healing process*: Understand the healing process — for example, how the healer uses the bowl, what you need to do, and what to pay attention to during healing.
+9. *Post-healing advice*: Ask for post-healing advice — for example, how long to rest, what to do, and how many healings are needed.
+
+Through communication with the singing-bowl healer, you can better understand the healing process and effect, and also help the healer better provide healing service.
+
+### Flow 3 — Healing-Field Purification
+
+The environment for providing healing or meditation for yourself or others should be quiet, clean, tidy, orderly, and pleasant.
+
+A safe, private, undisturbed environment.
+
+*Contraindications (health survey form)*: religious belief & mental health & physiological disease & metal implants.
+
+### Flow 4 — Guided Relaxation (Yoga Relaxation)
+
+**Seated Meditation**
+
+Now find a quiet and comfortable place, sit in a comfortable yoga posture, and gently pat the buttock muscles with both hands so the sit-bones press firmly on the cushion.
+
+Let the hands rest naturally on the thighs, or hang down relaxed.
+
+Close your eyes, follow the melody of the music, slow the breathing rhythm, from inside out. Relax the facial expression, relax the furrowed brow, relax the eyes, nose, and mouth.
+
+Let the shoulders sink naturally, relax the arms, straighten the back, keeping the neck and spine in a straight line.
+
+Feel a wall behind you; the lower back, upper back, and back of the head lightly lean against the wall; as you inhale, the spine extends upward infinitely.
+
+Focus attention on the breath, inhale deeply, feel the airflow enter the nasal cavity, slowly into the chest, abdomen, and thighs, then slowly exhale.
+
+Take another deep breath, feel all the energy, essence, and oxygen of the universe deeply inhaled into the body, nourishing every cell, slowly exhale all the toxins, waste gas, turbid air, and unhappy emotions.
+
+Set aside external distractions, let the body become light and soft, the breath become even, smooth, and natural.
+
+Concentrate the consciousness on the breath, quietly observe yourself, one inhale and one exhale, let the breath become deeper and longer, slower and slower, calm yourself down, feel every sound of the body, listen to the inner voice, let the mind become more and more tranquil, more and more peaceful.
+
+Please find a comfortable seated posture, cross the legs sitting on the cushion, extend the spine upward, relax the shoulders, let the hands rest naturally on the knees, index finger and thumb touching, forming the yoga wisdom mudra.
+
+Close your eyes, breathe deeply, exhale slowly. Each inhale, feel fresh oxygen enter the body; each exhale, expel waste gas, turbid air, nitrogen dioxide, expelling all anxiety and tension.
+
+Focus on the breath; as long as the inhale is, so is the exhale.
+
+At this time, the breath becomes even, smooth, and natural, the mind free of stray thoughts.
+
+Along with the wonderful music, the breath becomes smoother and smoother, the body lighter and lighter, imagine yourself a blooming lotus, brilliantly blooming in the sunlight.
+
+Slowly draw the consciousness back, gently move the fingers, turn the palms, slowly open the eyes, adapt to the brightness before you.
+
+Please choose a comfortable cross-legged posture, rotate the shoulders back and sink down, let the chest extend upward, sit the sit-bones firmly down, while paying attention to drawing in the ribs.
+
+Palms up, thumbs touching the index fingers forming the wisdom mudra, slightly tuck the chin, then slowly close the eyes.
+
+Try to draw all the senses and intentions inward, listen to the body's voice, let it slowly quiet down.
+
+Now, observe the breath, feel each inhale and exhale, let the breath become gentle and relaxed. Stay here for a moment. (stay one minute)
+
+Slowly draw the consciousness back; at the next inhale, bring the palms together, thumb lightly against the heart chakra, slightly lower the head, index finger against the brow, raise the head and open the eyes, Namaste.
+
+Choose your most comfortable seated posture and sit well, with the waist and back straight. Keep the spine vertical in the middle of the sit-bones, open the yoga mudra and place it on the left and right knees.
+
+Slightly draw in the lower jaw, gently close the eyes.
+
+Relax your brow, relax your facial expression, let the corners of the mouth rise slightly, give yourself a comfortable smile.
+
+Draw all your consciousness back inward, to attend to your breath at this moment.
+
+Slowly inhale, slowly exhale, observe the breath exiting and entering your body, feel this process.
+
+At this moment, we sit here quietly, attending to our breath, drawing the heart back to the present, to find the truest self deep within, listening to the soothing music, feeling the music like streams of clear mountain spring, quietly flowing into our hearts, letting all the tension, stress, anxiety, and unhappy emotions within the body be eliminated.
+
+Deep in the heart, give yourself a confident smile, feel the inner peace and calm at this moment, feel it like a lake clear to the bottom, clear and peaceful.
+
+Let us face the family and every friend around us with a grateful heart; our life becomes rich and colorful because of their company.
+
+Let our hearts be filled with tolerance, understanding, inclusion, and love, let everyone around us feel the joy of our hearts, and pass this joyful emotion to every friend and relative around us.
+
+Continue to attend to your own breath; if at this moment scattered thoughts arise in your mind, do not rush, do not deliberately attend to them, quietly watch them, let them come and go naturally like clouds in the sky.
+
+Quietly attend to your inner heart, feel the peace and tranquility of the inner heart at this moment. Each inhale, feel the air slowly enter the chest and abdominal cavity with your inhalation, slowly downward, spreading to the whole abdomen.
+
+The abdomen naturally bulges outward as the airflow arrives, slowly exhale, exhaling the turbid air within the body.
+
+In one inhale and one exhale, let the body relax, feel this relaxing force slowly spreading downward from the top of your head, to every corner of your body.
+
+Let us maintain this relaxed state, slowly open the eyes, feel the brightness and clarity before us. Namaste.
+
+Body straight, chest thrust outward and upward, shoulders relaxed parallel to the ground, chin drawn back, eyes closed, tongue against the palate, gazing at the tip of the nose. Now place the consciousness on abdominal breathing, inhale deeply, exhale slowly, feel the calm of the heartbeat and the peace of the body. Between one inhale and one exhale, quietly observe the body's sensations, to find the smoothness of the breath.
+
+Let the body relax, gently close the eyes, perceive the natural breath.
+
+Be aware from the feet to the knees, observe the spine, lumbar, thoracic, cervical; keep the breath centered, natural breathing is fine. Be aware of the chest, the flow state of the breath within the chest.
+
+Attend to the space of both shoulders, quietly observe, without any judgment. Adjust the breath, then inhale deeply and slowly, open the mouth and exhale with a "ha," quickly inhale, exhale at a constant speed; the sound of the "ha" is made by the air. Quickly, slowly, and long, exhale the breath.
+
+The breath drives the arms upward, feel the power of upward growth. Inhale arms extend, as you exhale, shoulders sink, count to 5 then slowly lower. Attend to natural breathing, observe the breathing state and body-mind state; whether soreness, numbness, distension, or pain, quietly observe the state, bring the breath to the relevant position, let the breath stretch it, without judgment, without any action, quietly observe, breath brought in.
+
+**Supine Progressive Relaxation Meditation**
+
+In the body-scan practice, we usually take a supine posture, bringing awareness to the corresponding body parts according to the guidance.
+
+Now, please make yourself as comfortable as possible, sitting leaning or lying in this room.
+
+When you are comfortable and stable enough, you can, when you want, close your eyes… take your time.
+
+Attend to your breath. When you are ready, take a few deeper yet relaxed breaths.
+
+Slowly draw air into your abdomen, then slowly let the air out. Deeply inhale fresh, beautiful air, slowly exhale the turbid, tense breath.
+
+Very good, deeply inhale and exhale… continue to breathe like this, relaxed, and with each breath, imagine and feel the relaxation.
+
+As you inhale, let the feeling of relaxation spread from the chest to the whole body… with each of your breaths, spreading…
+
+Relax… the facial muscles… and… relax your scalp… forehead… eyebrows… and relax your eyelids, cheeks…
+
+Especially relax your mouth, and the muscles around your lips. Relax your jaw, let the upper and lower jaw open a bit, the teeth and lips can open a bit, this will help the facial muscles relax more. (pause one second)
+
+Very good, now let your breath return to an easy, comfortable, and natural way of breathing.
+
+Continue to relax the neck, let the back of your neck, the back of your head, have good support or leaning, can relax your neck and shoulders, let all tension disappear from the shoulders, feel very comfortable. Now let your arms relax, the hands naturally hang there. You can feel the weight of the hands, the arms, elbows, and palms; notice each of your fingers is relaxed, imagine your whole hand is relaxed, heavy, sinking, needing no strength at all, all relaxed, like a wet towel, hanging heavily.
+
+You will find your breath can be deeper than usual… feel your breath, the chest, and the rise and fall of the abdomen… and as you exhale, the chest also relaxes, down to your belly, the abdomen also relaxes…
+
+Now let your back relax, from the back and below the waist, to the buttocks… downward, to the thighs, knees, calves, toes, soles… all the way down, all relaxed. Your feet rest on the floor, all the muscles of the legs are relaxed, you can enter a very deep, very comfortable relaxed state.
+
+(pause about 3 seconds without sound)
+
+Maintain this relaxed feeling, follow the sound of the bowl, enter the universe of the bowl sound.
+
+In a moment, I will count from one to five; when you hear the number five, you will return here with clear consciousness, feeling everything is well. One,… two,… three,… four,… five.
+
+(roughly, pause two breaths at each number)
+
+Slowly regain consciousness, move the fingers and toes, extend the right hand over the head, slowly turn to the right side, push the ground with the left hand and slowly get up, sit up, eyes remain closed.
+
+### Flow 5 — Project Opening
+
+### Back Healing
+
+### Front Healing
+
+### Flow 6 — Withdrawing the Bowls
+
+Strike in sequence; after the sound gradually fades, withdraw the bowls.
+
+### Flow 7 — Awakening
+
+Tingsha awakening.
+
+During the healing, the cell layer to the whole body receives complete relaxation. Tingsha awakening can not only awaken the brain consciousness of the sleeping healed, but also awaken cellular awareness at the corresponding relaxed chakra areas, restoring the body's awareness from the cell layer and nerve layer, balancing body and mind, stably aware of the present, and obtaining a high-energy state.
+
+### Flow 8 — Sharing the Healing Experience
+
+After the session, give the person a cup of warm water, reminding them to replenish fluids throughout the day.
+
+Light diet, foot-soaking before sleep, etc.
+
+If you want to share the singing-bowl experience, here are some guiding directions:
+
+1. *Describe your experience*: Describe what you felt when listening to the bowl, including physical sensations, emotional experiences, and mental states. Use specific words such as relaxed, calm, joyful, clear, etc.
+2. *Share your insights*: Share the revelations, insights, and realizations you gained in the bowl experience. These may be understandings of life, the universe, and the self, or insights about yourself, others, and the environment.
+3. *Explore the role of the bowl*: Explore the bowl's role in healing, meditation, and relaxation, and its influence on body, mind, and spirit. You can combine your own experience with scientific research.
+4. *Share bowl-use techniques*: Share techniques and methods of using the bowl — how to select, how to play, how to use it for healing. These can help others better use the bowl.
+5. *Exchange bowl culture*: Exchange the history, culture, and traditions of the bowl. Share knowledge of its origin, transmission, and evolution, and its application and meaning in different cultures.
+
+Exchanging the bowl experience requires attending to your own experience, while also combining scientific research and cultural tradition. By sharing your experience and knowledge, you can help others better understand and use the bowl.
+
+> Yesterday I was clever, so I wanted to change the world.
+> Today I am wise, so I am changing myself.
+> — Rumi, the 13th-century spiritual poet
+
+### Chapter Summary
+
+This chapter puts the theory of the previous two chapters into "hand" — providing a large number of reusable cases from stress relief and meridian unblocking to women's care, as well as standard flows for concerts and individual sessions. Technique becomes more proficient with practice, but the awareness of "healing others" takes much longer.
+
+### Reflection Questions
+
+1. What scenarios are respectively suited to single-bowl healing and seven-bowl comprehensive therapy?
+2. In the individual-session flow, why is "self energy protection" placed first?
+3. Design a healing sequence for a visitor with "insomnia + headache."
 
 # Chapter 4 — Life Wisdom of the Singing Bowl (Advanced)
 
