@@ -1171,33 +1171,759 @@ In daily life, we need to maintain body-mind-spirit balance and coordination, av
 
 ![subtle body](../docs/media/image101.png)
 
-<!-- TODO: translate 2.3 Energy Fundamentals (2.3.1 three channels / 2.3.2 seven chakras / 2.3.3 three doshas / 2.3.4 five elements / 2.3.5 scientific cognition / 2.3.6 chakras & galaxies) and 2.4 Healing Principles (2.4.1-2.4.5) and 2.5 Chakra Rhythm (2.5.1-2.5.5) and 2.6 Meridians (2.6.1-2.6.7) from Chinese source headings "### 2.3.1 三脉" … "### 2.6.7 心包经" -->
 
-# Chapter 2 — Theoretical Topics
+### 2.3.1 The Three Channels (*Nadis*)
 
-## 2.1 Sound Fundamentals
+![singing bowl healing illustration](../docs/media/image102.jpeg)
 
-<!-- TODO: translate 2.1 -->
+The left channel, central channel, and right channel are the body's three energy passageways, also called the three channels (*Nadis*). They are:
 
-## 2.2 Vibration Fundamentals
+**Left channel** (*Ida Nadi*): also called the yin or moon channel. It rises from the left nostril into the brain, descends along the left side of the central channel, and meets the central channel about four fingers below the navel.
 
-<!-- TODO: translate 2.2 -->
+The left channel corresponds to the past, dullness, the emotional, and the superego (social conditioning); it also governs the power of desire. Those inclined toward the left channel tend to be introverted, emotionally rich, but indecisive, unsystematic, and easily swayed by others.
 
-## 2.3 Energy Fundamentals
+**Central channel** (*Sushumna Nadi*): located along the middle of the spine, running from the perineum straight to the crown of the head, connecting with the left and right channels. The central channel is the only passage through which the human being unites with the universal spiritual force; it is the source of joy and the key to spiritual ascent.
 
-<!-- TODO: translate 2.3 -->
+The central channel is the body's most important energy pathway. It runs through the entire body, connecting body and soul. Opening the central channel helps clear toxins from the body, strengthens immunity, and lets us understand our inner world more deeply, thus achieving balance and elevation of body, mind, and spirit.
 
-## 2.4 Healing Principles
+**Right channel** (*Pingala Nadi*): also called the yang or sun channel. It rises from the right nostril into the brain, descends along the right side of the central channel, and meets the central channel about four fingers below the navel.
 
-<!-- TODO: translate 2.4 -->
+The right channel corresponds to the future, rational logic, domination, and ego; it also governs the power of action. Those inclined toward the right channel are usually extroverted, good at thinking, planning, and acting, with strong execution. The downside is they may be overly cool and rational, lacking emotion and feeling. They need to learn to connect better with their own emotions and inner world, to attain body-mind-spirit balance.
 
-## 2.5 Chakra Rhythm
+#### 2.3.1.1 The Left Channel
 
-<!-- TODO: translate 2.5 -->
+The left channel is an important concept in yoga theory, also called the yin or moon channel. It is one of the body's three main energy channels, originating at the perineum, rising from the left nostril into the brain, descending along the left side of the central channel, and meeting the central channel four fingers below the navel. The left channel is usually grayish-white, cool in nature, and governs the power of desire.
 
-## 2.6 Acupoints & Meridians
+The left channel is associated with the past, the emotional, dullness, and the superego (social conditioning).
 
-<!-- TODO: translate 2.6 -->
+It is responsible for the reference of judgment and action. When the left channel stays active, a person has the desire to survive; when the left channel withers, the person dies; when the left channel is weak, it causes extreme emotionality and moodiness.
+
+Those inclined toward the left channel are usually introverted, rich in feeling, but not good at expression. They tend to be sentimental, artistic, easy to get along with, and won't make trouble without cause. The downside is a rather lazy character, indecision, lack of system, and being easily dominated by others.
+
+#### 2.3.1.2 The Central Channel
+
+The central channel (*Sushumna Nadi*).
+
+The central channel, also called the middle path or central passage, is an important concept in yoga theory. It is one of the body's three main energy channels, located between the left and right channels, rising from the perineum and passing through the entire spine up to the crown of the head. The central channel is a red passageway, representing yang energy, governing the body's consciousness and spirituality.
+
+#### 2.3.1.3 The Right Channel
+
+The right channel (*Pingala Nadi*), also called the yang or sun channel.
+
+The right channel is an important concept in yoga theory, also called the yang or sun channel. It is one of the body's three main energy channels, located beside the central channel, rising from the right nostril into the brain and descending along the right side of the central channel to meet it four fingers below the navel.
+
+The right channel is usually red, hot in nature, and governs the body's action and thinking ability.
+
+The right channel is associated with the future, rational logic, domination, and ego. It supplies action and thinking ability. When the right channel is full of energy, a person's action is vigorous and thinking and attention are focused. When the right channel lacks energy, a person lacks drive and both thinking and attention decline. Those inclined toward the right channel are usually extroverted and active, good at thinking and planning, and brave in showing themselves, but lack emotional and artistic development. Their strength is competence, orderliness, and the ability to organize others to work for them. Because they have abundant energy, they act as if they never run out, and thus can have the boldness to do great things. In modern society such people often become politicians, officials, etc., with some achievement and status. Yet their weakness is often an oversized ego — thinking everything is in their grasp, seeing only themselves and not others. They will then sacrifice others to serve themselves. On a small scale this means commanding and exploiting others; on a large scale it means invading and plundering other nations. Those who over-rely on the right channel often have an overheated liver, a hot temper, and shout at others, causing them pain. The right channel (*Pingala*), representing the sun, also represents the hot, yang, active, dynamic, tense aspect — corresponding to the sympathetic nervous system.
+
+#### 2.3.1.4 The Autonomic Nervous System
+
+The autonomic nervous system is an internal self-regulating system of the body. It autonomously regulates many important physiological functions, such as heartbeat, blood pressure, breathing, digestion, and metabolism. The autonomic nervous system includes the sympathetic and parasympathetic nervous systems, whose actions on the body are complementary.
+
+The sympathetic nervous system is mainly responsible for responding to emergencies, putting the body into a "fight or flight" state, while promoting the breakdown of liver glycogen and fat to help the body produce enough energy. When startled, the sympathetic nervous system is aroused: pupils dilate, heartbeat and blood pressure rise, breathing quickens, and large amounts of blood flow into the skeletal muscles so we can flee quickly, while blood flow to the digestive tract and skin decreases. Meanwhile the liver breaks down glycogen and fat tissue breaks down fat to help produce energy. Sympathetic arousal puts the body into a tense state.
+
+The parasympathetic nervous system is mainly responsible for promoting the body's rest and recovery, putting it into a "rest and digest" state, while promoting the secretion of digestive juices and the release of insulin to help the body store energy. When eating, the parasympathetic nervous system is aroused, promoting digestive-tract movement, sending blood into the stomach and intestines, and promoting the secretion of saliva and other digestive juices. Blood flow to the intestines rises and insulin secretion is promoted, drawing blood sugar out of the bloodstream and storing it in the body. In other words, parasympathetic arousal puts the body into a relaxed state.
+
+These two systems adjust with different environments and states to reach balance, enabling the body to function normally and maintain physiological operation. Irregular living habits disrupt the balance of the autonomic nerves, causing physiological disorder — this is called autonomic nervous system disorder. Autonomic nervous disorder can lead to various diseases, such as cardiovascular disease, digestive-system disease, and metabolic disorders.
+
+![human nervous system](../docs/media/image103.png)
+
+#### 2.3.1.5 Brain Coordination and Balance
+
+![IMG\_256](../docs/media/image104.jpeg)
+
+The human brain contains tens of billions of neurons. They look like a small tree; the tiny branches extending outward from the cell body are called dendrites. The role of neural synapses is to seek out other synapses, making connections with each other to receive and transmit messages. Every neuron stimulated by visual, olfactory, auditory, and tactile messages transmitted to the brain will spur the neuron to grow synapses outward, and all our daily messages are stored within.
+
+Our brain is divided into the left brain and the right brain, which control different domains and have different functions.
+
+The left brain is the abstract, academic brain, responsible for language, text, knowledge, and the five senses, determining analytic ability, judgment, and comprehension.
+
+The right brain is the artistic, creative brain, responsible for imagination, creativity, the sixth sense, and musical rhythm, determining creativity, intuition, speed-reading, imagination, and memory.
+
+Our brain does indeed look like two objects — the left and right hemispheres — pieced together. But in fact there is a bridge of connection between the two hemispheres, called the corpus callosum. The corpus callosum is the brain's largest white-matter band, containing about 200–250 million nerve fibers. Most communication between the two hemispheres is carried out through the corpus callosum. This means that even though the functions of the left and right brains are not entirely the same, the implementation of any of our activities cannot be separated from the joint completion by both hemispheres.
+
+### 2.3.2 The Seven Chakras
+
+**Related reading:** for a quick reference of the seven chakras, see [Seven-Chakra Quick Reference](#seven-chakra-quick-reference).
+
+![singing bowl healing illustration](../docs/media/image105.jpeg)
+
+The chakra system originates in ancient India, which holds that the human soul contains seven chakras: the Root chakra, (Navel/Sacral) Sacral chakra, (Solar Plexus) Abdominal chakra, Heart chakra, Throat chakra, Brow chakra, and Crown chakra. Through these chakras one can receive and transmit spiritual or other kinds of energy. These chakras correspond to lights of different colors, and these lights are also one source of energy. Each chakra governs a different energy center, strings together a seven-colored radiance, and resonates with the universe, deeply influencing every choice and future on your path of love, career, and life.
+
+Chakras are the body's energy centers and the gathering points of endocrine (glands) and neural networks.
+
+Vedic system: C D E F G A B.
+
+Perfect fifth interval: the five-bowl striking rule.
+
+The seven chakras connect with the universe through the crown chakra.
+
+The lower three chakras are the material foundation of life in the world, related to body consciousness.
+
+The upper three chakras are the spiritual foundation of the person, related to higher-self consciousness, soul, and spirituality.
+
+The Heart chakra lies in the middle, representing love, the bridge connecting humanity and divinity, matter and spirit.
+
+#### 2.3.2.1 The Root Chakra
+
+![singing bowl healing illustration](../docs/media/image106.jpeg)
+
+Root chakra (color: red).
+
+Root chakra theme (root energy center): survival, the material world, safety (security), stability and trust, adapting to change, money and wealth.
+
+Body location — coccyx, tailbone.
+
+Governs: genitals, below the waist, both legs, below the dantian, adrenal glands, bones, skin, blood (red), large intestine, pelvis, buttocks, legs, feet, excretory system.
+
+Corresponding emotion — fear.
+
+Basic meaning: the lowest vibration frequency, most related to the material world, representing a primitive, nameless, instinctual, simple energy — humanity's basic needs for food, clothing, shelter, and security, i.e., material satisfaction.
+
+Corresponding mantra: *I have*.
+
+Corresponding element: Earth.
+
+Color: crimson red.
+
+Gemstones: ruby, garnet.
+
+Endocrine system: adrenal glands.
+
+The energy of the Root chakra mainly governs the connection with the physical body, making one feel safe and reassured. It represents life force and vitality, the chakra that satisfies our desire to survive. The Root chakra extends downward through both feet, like the trunk of a tree extending its roots into the earth. The Root chakra gives us the passion to pursue survival in the material world, the will to survive adversity, and the basic ability to ensure the reproduction of offspring, bringing a sense of security and stability, letting us experience the abundance of material life and the satisfaction and joy of the spirit. In character one also appears grounded and steady, doing things step by step.
+
+When the Root chakra is balanced, you will feel "planted in the earth," stable and safe, instinctively trusting others, not doubting others unnecessarily, living in the present, tightly bonded with the body, feeling warmth, with a full sense of territory. When imbalanced, there will be spine, kidney, and sexual problems. Your thoughts are constantly surrounded by issues of life force, security, possessions, money, and survival.
+
+When the Root chakra energy is too weak, you easily feel fear or tension, feel unwelcome, lack a sense of security, are unwilling to face uncertainty or change, and cannot feel real love or the fear of scarcity.
+
+When the Root chakra is overactive, there will be strong material desire and greed, selfishness, over-pursuit of stability and convention, refusal to change, individualism above everyone's welfare, inability to consider others, sexual abuse, seeking sensory satisfaction at all costs, treating survival and entertainment as the primary pursuit of life.
+
+Life theme: know why you were born, and be able to live out the strength of your true nature, cultivating the cornerstone of life.
+
+#### 2.3.2.2 The Sacral Chakra
+
+![singing bowl healing illustration](../docs/media/image107.jpeg)
+
+Sacral chakra (color: orange).
+
+Sacral chakra theme (emotional center): conditional love, relationships, emotion, feeling, sensation, enjoyment, pleasure, desire, intimacy, longing, capacity to love, imagination, (original) creativity and productivity.
+
+Body location — lower abdomen.
+
+Governs: the whole belly (excluding stomach and diaphragm) including the lower back, prostate, ovaries, reproductive system, colon, cecum, and bladder, the digestive and urinary systems of the lower abdomen.
+
+Corresponding emotion — passion.
+
+Basic meaning: located at the bladder position of the lower abdomen, with a vibration frequency higher than the Root chakra; it is also where joy and pleasure arise, representing creativity and fertility, related to the interaction between intimate partners.
+
+Corresponding mantra: *I feel*.
+
+Corresponding element: Water.
+
+Color: orange.
+
+Gemstones: orange calcite, carnelian, bloodstone.
+
+Endocrine system: gonads (testes/ovaries).
+
+The Sacral chakra mainly governs how you feel within a group (social relationships).
+
+Located from above the pubic bone to the navel, this chakra represents optimism, confidence, enthusiasm, courage, strength, creativity, and compassion, and also represents the ability to enjoy sexual pleasure. This chakra shows a longing for intimate relationships, such as the relationship between individual and spouse, individual and family, individual and society — the ability to connect socially, often expressed through intimate relationships and creativity. The positive expression of this chakra is the willingness to take risks and the ability to recover and self-heal from loss.
+
+When the Sacral chakra is active (balanced), you feel in control and have sufficient self-confidence.
+
+When the Sacral chakra energy is weak, you easily appear passive and indecisive, may become submissive and unable to get what you want, defensive, distrustful, confused about sex and love, overly fearful, depressed, with addictive behaviors: smoking, alcohol, drug addiction, excessive sexual desire, etc.
+
+If this chakra is overactive, there may be strong control and aggression, fighting, fear of scarcity, loss of intimate relationships, blaming others, inexplicable anger, weak sexual ability, showing disease of the organs in this chakra's vicinity. This chakra's organs specifically govern the body's stress glands — the adrenals and the secretion of various hormones.
+
+Life theme: respect others and yourself, find the optimal state of space and connection, and let life become colorful through savoring emotion.
+
+#### 2.3.2.3 The Solar Plexus Chakra
+
+![singing bowl healing illustration](../docs/media/image108.jpeg)
+
+Abdominal chakra (color: yellow).
+
+Solar Plexus chakra theme (will center): (right and wrong, true and false) judgment, stance, fighting, boundaries, will, concentration, power, the outward tension of energy, about the direction of life, goals, action, persistence, strength, responsibility for self, and glorifying self, personal power, will, control, self-determination, energy, self-esteem, self-destiny, wisdom.
+
+Body location: abdominal cavity, nerve plexus.
+
+Governs: ribs, stomach, diaphragm, small intestine, liver, pancreas, spleen, gallbladder, and nervous system.
+
+Corresponding emotion — anger.
+
+Basic meaning: located between the ribs and the navel, responsible for warning of crisis and negative conditions, representing a center of self-consciousness.
+
+Corresponding mantra: *I can*.
+
+Corresponding element: Fire.
+
+Color: yellow.
+
+Endocrine system: pancreas.
+
+Gemstones: amber, citrine, malachite.
+
+Also called the Solar wheel. Located at the diaphragm above the navel and below the sternum. It represents the ability to take action, the ability to handle crisis, the courage to take risks, power, willpower, self-esteem, confidence, morality, and self-restraint, and the ability to dedicate to the public. When the third chakra operates normally, the body has enough energy to support all activities, realizing personal power to change society.
+
+When the Solar Plexus is open, emotional expression is natural and not overly emotional; one takes an open attitude toward intimate relationships; feels full of passion and vitality; has no problem with sexuality.
+
+If you usually feel stiff, lacking emotion, or often expressionless, lacking confidence, low self-worth, low self-esteem, worry, anxiety, weakness, abused, helpless, and a sense of powerlessness over things, then the personal-self wheel has not yet opened and you take a closed attitude toward others.
+
+If the Solar Plexus is overactive, you are always overly emotional, self-inflated, controlling, plundering. Emotionally you will overly attach to whoever you think is sexy.
+
+When disordered: disease of the organs in this chakra's vicinity appears; this chakra's important organs are the stomach, spleen, pancreas, and liver — the body's place of energy storage, with glucose as its store, concerning nutrition absorption and storage.
+
+Life theme: develop the self, find the unique self, express personality, find the open, infinite energy gene code.
+
+#### 2.3.2.4 The Heart Chakra
+
+![singing bowl healing illustration](../docs/media/image109.jpeg)
+
+Heart chakra (color: green).
+
+Heart chakra theme: love, unconditional love, love and acceptance, receptivity, allowance, inclusion, compassion and joy, balance, affinity, unconditional giving.
+
+Body location — chest cavity.
+
+Governs: heart, below the collarbones, arms, hands, immune system, lungs, thymus, blood, arterial and venous circulation, arms, palms.
+
+Corresponding emotion — love.
+
+Basic meaning: located at the depression of our chest cavity, mainly focused on love, harmony, and giving. The Heart chakra lies at the center of the upper and lower chakras, the hub of the body, a high-vibration-frequency chakra corresponding to higher levels of consciousness.
+
+Corresponding mantra: *I love*.
+
+Corresponding element: Space.
+
+Color: green.
+
+Endocrine system: thymus.
+
+Gemstones: rose quartz, agate, emerald, malachite, gold, jade.
+
+Located around the heart, the thymus. It is the axis of the whole chakra system, the chakra of emotional power. Through the Heart chakra we share love and intimacy. Those with an open Heart chakra are easily happy and like to make friends, are glad to share with others, are popular and thus have many friends, and have the ability to heal themselves or others.
+
+The Heart chakra mainly governs emotions such as love and kindness.
+
+When the Heart chakra is open, one has compassion, is friendly, and devotes oneself to harmonious interpersonal relationships.
+
+When the Heart chakra is inactive, one is rather cold, keeps distance from others, cannot build intimate relationships, does not enjoy the pleasure of sharing, and unconsciously creates distance to protect oneself when interacting with others.
+
+If this chakra is overactive, over-indulgent love is suffocating, and usually love has quite selfish reasons behind it — stingy, lonely, jealous, selfish, betraying, excluding others, arrogant, sad, abandoned, resentful, abusing or humiliating others, disliked by or disliking others.
+
+Life theme: self-acceptance and empathy for others, unconditional love.
+
+#### 2.3.2.5 The Throat Chakra
+
+![singing bowl healing illustration](../docs/media/image110.jpeg)
+
+Throat chakra (color: blue).
+
+Throat chakra theme (creativity center): expression — communication — creativity, the storehouse of belief, valve, belief.
+
+Developed consciousness: expressing inner feelings, creativity, truth, and communication, resonance and reception.
+
+Body location: throat. Governs: mouth, nose, throat. Throat chakra, thyroid, neck and shoulders, bronchial and vocal organs, esophagus, metabolic system, ears, nose, lips and teeth.
+
+Basic meaning: located at the root in front of the neck, responsible for communicating and expressing our creativity; the throat area is the body's central gathering and concretization of different energies, representing the ability of self-expression and integration.
+
+Corresponding mantra: *I speak*.
+
+Corresponding element: Space.
+
+Color: blue.
+
+Endocrine system: thyroid, parathyroid.
+
+Gemstones: lapis lazuli, sapphire, blue agate.
+
+Located front and back of the throat. It is the hub of mental power, the communicative power of expressing emotion, related to the ability of self-expression. This chakra's ability comes from integrating the power of the first three chakras and then displaying it outward — how to present oneself before others, face one's true self bravely, have the courage to speak inner feelings, and the smooth expressive power of the mind, leadership ability, and creativity are all related.
+
+The Throat chakra mainly governs self-expression and speech.
+
+When the Throat chakra is active, one expresses oneself precisely without obstacles and understands action, thereby becoming an artist.
+
+When the Throat chakra is inactive, one tends not to speak, fears expression, is autistic, with an introverted and shy personality. Not speaking the truth may close this chakra.
+
+If the Throat chakra is overactive, one easily talks too much, usually likes to control the conversation so others cannot approach, is critical, maliciously slanders, betrays, becomes addicted, has sleep disorders, tells lies, is noisy.
+
+When disordered, one may also show uncontrolled mental experiences and a borderline personality, making one unable to distinguish fantasy from reality.
+
+The Throat chakra is the passage through which the energy of other chakras is released; if the Throat chakra is unbalanced, the energy of other chakras cannot be manifested.
+
+Sound is the origin of the development of primitive symbols; the throat is a creative organ, manifesting a certain omnipotent essence.
+
+Life theme: the words of truth you choose affect the world.
+
+#### 2.3.2.6 The Brow Chakra
+
+![singing bowl healing illustration](../docs/media/image111.jpeg)
+
+Brow chakra (color: indigo).
+
+Brow chakra theme (wisdom energy center): vision, my relationship with the universe, wisdom, the sixth sense, prediction, intuition, intuitive knowledge, clairvoyance, intuitive power, perceptual power, spiritual energy.
+
+Body location: between the two eyes, 1 cun inward, pineal gland. Governs: hypothalamus, pituitary, and eyes, sinuses (left eye), endocrine system, head, face.
+
+Corresponding emotion: transcends all emotions.
+
+Basic meaning: located at the center of the eyebrows, the position of intuition or the so-called third eye. It allows us to express and confirm our dreams and imagination, influences understanding and wisdom; calm, judgment, insight — a mature energy of inner certainty.
+
+Corresponding mantra: *I see*.
+
+Corresponding element: Space.
+
+Color: indigo.
+
+Endocrine system: pituitary.
+
+Gemstones: diamond, sodalite, smoky quartz.
+
+Also called the third eye, located at the center of the forehead. This energy is related to the pituitary and pineal glands, the brain and nervous system, eyes, ears, and nose. It is a super-perceptual power, intuitive ability, self-awakening, enlightenment, the insight ability to discover truth and penetrate illusion. It raises our consciousness from the material level to the spiritual level, letting us penetrate the appearance of things, no longer bound by past thoughts and feelings, with the ability of self-realization.
+
+The Brow chakra mainly governs insight and visualization ability.
+
+When this chakra is active, one has good intuition, handles things wisely, and likes to fantasize.
+
+If this chakra is inactive, one tends to rely on authority rather than one's own thinking, may rely too much on belief rather than rational criticism, and may even easily fall into confusion. Physically it manifests as depression, autism, denying oneself, stress-related illness, and mental illusion.
+
+If this chakra is too active, it makes us feel mentally arrogant and inflated, a sense of superiority, desire for power, attachment, seizing, controlling, or using mental ability to enslave others to satisfy one's own desires; one may live in a fantasy world and, in extreme cases, may have hallucinations.
+
+Life theme: see through essence, self-reflect and elevate.
+
+#### 2.3.2.7 The Crown Chakra
+
+![singing bowl healing illustration](../docs/media/image112.jpeg)
+
+Crown chakra (color: purple).
+
+Crown chakra theme (spiritual center): spirituality, great love, unity of heaven and humanity, religion, smooth unblocking, unconditional happiness, inspiration, wisdom, self-realization, spiritual connection, completion, cosmic consciousness.
+
+Body location: top of head, scalp, and 1 meter outward. Governs: upper brain, right eye, pineal gland, nervous system, mind, and the whole body.
+
+Corresponding emotion: none.
+
+Basic meaning: located at the center of the top of the head, connected to the energy of the universe, a high-oscillation frequency, an inspiration, spirituality, a qualitative change from inside to outside, influencing spiritual elevation and the awakening of wisdom roots.
+
+Corresponding mantra: *I know*.
+
+Corresponding color: purple.
+
+Endocrine system: pineal gland.
+
+Gemstones: amethyst, ametrine, sugilite, white phantom.
+
+The Crown chakra mainly governs wisdom and the feeling of being one with the world.
+
+Located at the center of the top of the head, it is the gate to enter heaven. In this chakra we transcend the self and reach the consciousness of cosmic oneness, experiencing the feeling of unity of heaven and humanity — an ability to transcend the appearance of form, no longer having the separation of subject and individual, understanding that we are no different from all things, seeing me in all things and all things in me, helping us transcend the illusion of cause and effect, gain true freedom, and reach the state of enlightenment.
+
+When this chakra is active, one tends to be unbiased and highly aware of this world and existence.
+
+If this chakra is inactive, it makes us shrink back, negative, delusional, unaware of the existence of the spiritual world, and very limited in thinking.
+
+If this chakra is overactive, one may overthink things, be overly enthusiastic about the pursuit of the spiritual world and ignore the body's needs. Insomnia, clamoring thoughts in the brain, inability to rest, degeneration, functional abnormalities of the organs.
+
+Life theme: live in the present.
+
+### 2.3.3 The Three Great Energies (Intermediate elective)
+
+![singing bowl healing illustration](../docs/media/image113.jpeg)
+
+Ayurveda is an ancient Indian medical system. It holds that there are three life energies within the human body: Vata, Pitta, and Kapha.
+
+These three life energies are composed of the five great elements: space, air, fire, water, and earth.
+
+Among them, Vata is composed of space and air, with typical attributes of dry and variable; Pitta is composed of fire and water, with typical attributes of hot and intense; Kapha is composed of water and earth, with typical attributes of heavy and slow.
+
+In Ayurveda:
+
+- Vata mainly governs movement, including breathing, blood circulation, and nerve conduction;
+- Pitta governs metabolism, including digestion, absorption, and metabolism;
+- Kapha governs structure, including bones, muscles, and skin.
+
+Every cell in our body possesses these three life energies, and the balance and coordination of these life energies is the key to maintaining physical and mental health. When these life energies are imbalanced, it leads to physical and mental discomfort and disease.
+
+Vata, Pitta, and Kapha are the three life energies in Indian medicine, called the three great life elements. They are the three basic forces inside the human body, interacting to maintain the body's normal physiological functions.
+
+- Vata represents air and movement, controlling the body's nervous system, respiratory system, muscles, etc.
+- Pitta represents fire and digestion, controlling the body's metabolism, digestion, and absorption functions.
+- Kapha represents water and structure, controlling the body's stability, tissue structure, and fluid balance.
+
+In Indian medicine, doctors regulate the balance of Vata, Pitta, and Kapha according to individual constitution and illness, to heal disease and maintain health.
+
+Ayurveda advocates adjusting and balancing these three life energies through diet, lifestyle, massage, yoga, and other methods, to improve physical and mental health.
+
+![Ayurveda](../docs/media/image114.jpeg)
+
+#### 2.3.3.1 The Vata Theme
+
+![Ayurveda symbols](../docs/media/image115.jpeg)
+
+In Ayurveda, Vata is the most subtle energy, representing air and movement. It is associated with lightness, movement, cold, dryness, transparency, and irregularity — all traits that remind one of wind. Those with a Vata constitution are usually slim with poor endurance. They may have dry skin, cold hands and feet, or constipation. They are cheerful, lively, optimistic, and imaginative, with strong adaptability and comprehension but lacking persistence. They are easily anxious and restless, and walk quickly.
+
+It is suggested that those with a Vata constitution practice any forward-bending yoga posture, which can help calm the mind; or sitting meditation and deep rest, which also help stabilize the floating mind.
+
+Those with a Vata constitution are interesting, lively, and always have something to say.
+
+When balanced, they are energetic, creative, and always come up with ideas that brighten others' eyes.
+
+However, when imbalanced, they become nervous, confused, and tired, with stiff joints, unstable metabolism, and unstable emotions. They tend to be slim, with dry skin, rough complexion, small but spirited eyes, dry and thin hair, uneven teeth, and fragile, easily broken nails. They have low immunity, easily catch fevers, inflame, and fall ill; high neural activity, poor persistence, poor sleep quality, many dreams, poor memory, easily distracted; lively in character but unstable in faith.
+
+For those with a Vata constitution, activities that balance and stabilize body and mind are recommended, such as yoga, meditation, and breathing exercises.
+
+They should eat warm, moist, nutritious foods, such as brown rice, oats, chicken, milk, and beans, and avoid overly stimulating foods and drinks such as coffee, chili, and alcohol. They should maintain regular routines, avoid excessive fatigue and stress, keep a happy mood, interact with friends, and participate in social activities. At the same time, they should learn to relax, keep inner peace, and avoid overthinking and worrying.
+
+#### 2.3.3.2 The Pitta Theme
+
+![Ayurveda symbols](../docs/media/image115.jpeg)
+
+**PITTA** — a steady energy, the fire element.
+
+PITTA refers to a steady energy that governs mechanism and energy transformation. It has the qualities of hot, sharp, light, pungent, and flowing — traits that remind one of fire. Those with a fire constitution are of medium build, fear heat, sweat easily, and easily have diarrhea or skin problems. They are full of passion and intellect, with courage and leadership temperament, but also easily irritable, hot-tempered, and perfectionist. Medium persistence, correct movements, and rule-abiding.
+
+Fire-type people have perseverance and constantly push themselves forward. When balanced, they easily succeed, full of vitality and very passionate.
+
+When imbalanced, they speak bitterly and directly. Under excessive stress, the body easily collapses. Medium height, muscular build, medium weight, ruddy and shiny skin, rather oily, eyes easily inflamed, oily and thin hair. Teeth easily bleed, nails pink, good flexibility. Loose joints, good metabolism, very good appetite, greedy eater, easy to sweat but not for long, smooth bowel movements, more urination, yellowish, average immunity. Rather focused attention, various sleep conditions, rather romantic, clear and agile memory. High-pitched tone of speech, likes to ridicule, strong and firm faith.
+
+Once Pitta energy is imbalanced, fire-type people easily lose their temper, become agitated and impulsive. Suitable yoga movements are chest-opening postures.
+
+It is recommended that fire-type people avoid spicy, greasy, and irritating foods in their diet, and eat more light, cooling foods, such as vegetables, fruits, and soy products. At the same time, pay attention to keeping a happy mood and avoiding excessive tension and stress, which can be relieved through yoga, meditation, etc.
+
+It is recommended that fire-type people choose suitable exercise, such as jogging, swimming, and yoga, which can help regulate the balance of body and mind.
+
+#### 2.3.3.3 The Kapha Theme
+
+![Ayurveda symbols](../docs/media/image115.jpeg)
+
+**KAPHA** — the heaviest energy.
+
+KAPHA refers to the heaviest energy, governing structure, shape, weight, and softness/hardness. It has the qualities of heavy, soft, cold, slow, and wet — traits that remind one of water. Those with an earth constitution are sturdy, easily overweight; because of the heavy internal dampness, they easily have respiratory problems. Good physical strength and endurance. Calm and steady, broad-minded. Gentle and honest, with a spirit of sacrifice and dedication. Slow comprehension but deep. Slow movement, strong patience. Easily attached to things, with a habit of hoarding.
+
+Once Kapha energy is imbalanced, one may become lacking in vitality, making people feel lazy. Suitable yoga movements are the energizing Sun Salutation, and for improving the respiratory tract, one can practice the Camel pose, etc.
+
+Earth-type people have a very solid and slow character and slow action. When balanced, they work seriously and patiently, are kindly, plain, steady, and lovely. When imbalanced, action and mind become slow. They have depressive symptoms. In severe imbalance, there is limb edema, weight gain, usually slow action, sturdy and burly build. Hard to lose weight, pale skin, moist texture, large eyes with much white, thick oily shiny hair, large neat teeth, white soft nails. Firm and large joints, average metabolism, average but stable appetite, normal bowel movements, moderate urination, high immunity, few diseases. Lungs easily get sick, do not sweat easily but sweat a lot once they do, good patience and activity, good sleep, few dreams, slow but very stable memory, slow speech. Generally easily satisfied, conservative, stable faith.
+
+It is recommended that Kapha-type people avoid greasy, sweet, and high-calorie foods in their diet, and eat more light, warm foods, such as vegetables, fruits, and coarse grains. At the same time, pay attention to maintaining appropriate exercise, such as walking, jogging, and yoga, which can help regulate the balance of body and mind. It is recommended that Kapha-type people maintain a happy mood, avoid excessive gloom and negativity, and regulate emotions through socializing, travel, etc.
+
+### 2.3.4 The Five Great Elements (Advanced elective)
+
+![singing bowl healing illustration](../docs/media/image116.jpeg)
+
+The five great elements of the body refer to the five life-force (energy) elements of earth, water, fire, air, and space, which constitute the material world. In the human body, these elements also play important roles.
+
+First is the space element, representing space. In the human body, the oral cavity, digestive tract, respiratory tract, alveoli, and capillaries all belong to the space element. These spaces provide the necessary sites for the various functions inside the body.
+
+Next is the air element, representing the gaseous state of matter. Air has drive and explosive power, and can trigger various movements. For example, muscle movement, heart beating, lung contraction, gastrointestinal peristalsis, and nerve conduction are all related to the air element.
+
+The fire element is a kind of force. Although formless and substanceless, it can transform solids into liquids and gases. In the human body, the fire element controls the role of metabolism and enzyme conversion, related to digestion, thinking, and vision.
+
+The water element represents the liquid state of matter, with fluidity. In the human body, the water element includes digestive juices, saliva, various body fluids, etc., which play an important lubricating and regulating role inside the body.
+
+Finally the earth element, representing the solid state of matter. In the human body, bones, cartilage, muscles, skin, nails, and hair all belong to the earth element. These tissues provide the body's structure and support.
+
+The five great elements interact to jointly maintain the normal operation of the human body. Understanding the characteristics and roles of these elements can help us better protect our own physical health.
+
+#### 2.3.4.1 Earth
+
+The Root chakra, also called the base wheel or Muladhara Chakra, is one of the body's seven main chakras. It is located at the bottom end of the spinal column, representing humanity's most primitive and basic needs, including the needs for survival, safety, stability, and reproduction. The Root chakra corresponds to the earth element, the "heaviest" of all elements.
+
+When the Root chakra is balanced, we feel the body is stable and steady, and emotionally feel safe, confident, rooted, and powerful. But when this chakra is imbalanced, we feel strong fear, insecurity, and a sense of scarcity. Therefore, keeping the Root chakra balanced is very important.
+
+The Apana Vata in life energy corresponds to this chakra.
+
+Vata mainly governs movement, and Apana Vata is the sub-life-energy that controls the body's excretory system. In addition, Apana Vata also controls sexual function, menstruation, etc. When Apana Vata is imbalanced, the body shows related symptoms such as constipation, flatulence, reproductive-organ disorders, and irregular menstruation, usually corresponding to Root chakra imbalance at the emotional and energy level.
+
+Ayurvedic healing strategies include purgative herbal therapy, Ayurvedic massage therapy, etc. These therapies can help balance the Root chakra and Apana Vata, thereby promoting physical health and emotional stability.
+
+#### 2.3.4.2 Water
+
+The Sacral chakra, also called the second chakra or Svadhisthana Chakra, is one of the body's seven main chakras. It is located in the pelvic region, representing humanity's life-creation consciousness and the flow of emotion, desire, and creativity, and is also related to the reproductive system. The Sacral chakra corresponds to the water element, and is related to several of the body's major bones.
+
+When the Sacral chakra is balanced, we feel it is easy to connect with others, feeling satisfied, peaceful, creative, and agile like water. But when this chakra is imbalanced, we feel the non-flow of emotion and a lack of felt support — which may be emotional, financial, or physical. This non-flow of emotion and lack of felt support is the manifestation of Sacral chakra imbalance, interacting with Kapha life-energy imbalance.
+
+The Kapha life energy governs the body's immunity, strength, and stability, especially the sub-life-energy "Avalambaka Kapha," which maintains the "strength" of the chest, lungs, and back. Therefore, keeping the Sacral chakra balanced is very important for physical health and emotional stability.
+
+When menstrual pain appears, the emotional association is usually a lack of a sense of support. Targeted exercise programs, such as Tai Chi, dance, belly dance, etc., can help balance the Sacral chakra. Emotional relaxation therapy, such as essential-oil massage, can also help relax body and mind and promote Sacral chakra balance.
+
+The Sacral chakra is one of the body's important chakras, representing humanity's life-creation consciousness and the flow of emotion, desire, and creativity, and is also related to the reproductive system. Keeping the Sacral chakra balanced is very important for physical and emotional health.
+
+#### 2.3.4.3 Fire
+
+The Abdominal chakra, also called the Solar Plexus or Manipura Chakra, is located at the abdominal nerve plexus and is the seat of human personal-power consciousness. It corresponds to the Pitta life energy that governs digestion, especially Ranjaka Pitta, which is associated with our liver.
+
+The Abdominal chakra's element is fire, representing energy, power, passion, and transformation. When the Abdominal chakra is balanced, our digestive system and metabolism are good, and we are confident with strong execution, power, passion, and enthusiasm. But when this chakra is imbalanced, emotions such as irritability, repression, and anger, victim mentality, etc. will also appear, thereby affecting the physical level such as abnormal functioning of the spleen and liver.
+
+Ayurvedic healing strategies include deep relaxation programs, Shirodhara (head oil-pouring purification), high-intensity exercise such as martial arts, and psychological healing aimed at self-worth denial. These methods can help balance the Abdominal chakra and relieve related physical and emotional problems.
+
+The Abdominal chakra is one of the body's important chakras, representing energy, power, passion, and transformation, corresponding to the Pitta life energy that governs digestion, especially Ranjaka Pitta. Keeping the Abdominal chakra balanced is very important for physical and emotional health.
+
+#### 2.3.4.4 Air
+
+The Heart chakra, also called Anahata Chakra, is one of the body's seven main chakras. It is located at the center of the sternum, between the two breasts, and is the seat of human group consciousness. The Heart chakra's element is the air element, and its corresponding life energy is Sadhaka Pitta, which controls the physiological function of the heart. Whether the Heart chakra is balanced is directly related to our emotional and physical health.
+
+When the Heart chakra is balanced, our love flows, and we can receive and give. We feel light and open, with compassion, able to feel love. This state lets us be more confident, cheerful, and happy. However, when the Heart chakra is imbalanced, we feel sadness, anger, and inability to find our true mission and other negative emotions. These emotions are also reflected at the physical level, possibly leading to heart disease and other diseases.
+
+Keeping the Heart chakra balanced is very important. There are many ways to balance the Heart chakra, such as Heart-chakra-related meditation, especially essential-oil massage and aromatherapy around the Heart chakra. These methods can help us relax body and mind, reduce stress, and enhance confidence and compassion. In addition, the Heart chakra can also be balanced through yoga, breathing exercises, music therapy, etc.
+
+The Heart chakra is an important indicator of our emotional and physical health. By keeping the Heart chakra balanced, we can be more confident, cheerful, and happy, and at the same time prevent and heal many physical diseases.
+
+#### 2.3.4.5 Space
+
+The Throat, Brow, and Crown chakras are the body's upper three chakras among the seven main chakras, all representing the space element.
+
+The Throat chakra is located at the throat, the seat of human expression consciousness, associated with Udana Vata, which controls the body's speech function. When imbalanced it causes sluggish speech, shyness, and throat problems.
+
+Healing strategies include mantra chanting, writing records, and essential-oil massage that clears the nasal passages.
+
+The Brow chakra is located at the brow, associated with Alochaka Pitta, which controls the body's vision and insight, awareness, and the sixth sense. When imbalanced, we feel decreased vision, lack of insight, declined memory, and even nightmares.
+
+Healing strategies include the use of mantras or sacred geometry, color, visualization, and Shirodhara (head oil-pouring purification).
+
+The Crown chakra is located at the top of the head, associated with Prana Vata, which controls the body's nervous system, perception, and all activities. When this chakra is balanced, the body shows the manifestation of balanced Prana Vata — agile thinking, full of vitality, feeling the unity of body, mind, and spirit; when imbalanced, one feels aimless, unclear thoughts, learning disabilities, and rigid creeds.
+
+Healing strategies include meditation, as well as Shirodhara, and aromatherapy with sweet orange, lavender, and bergamot.
+
+Whether the five great elements, the three great life energies, or the seven main chakras, they are all energy centers inside the human body, closely related to physical and mental health. Through healing strategies, we can adjust the balance of the chakras, promote physical and mental health, and improve self-awareness and insight.
+
+![singing bowl healing illustration](../docs/media/image117.jpeg)
+
+Esoteric Buddhism (Vajrayana) is an important branch of Buddhism, emphasizing personal cultivation and practice, achieving the effects of purifying body and mind, increasing wisdom, and elevating cultivation attainment through various rituals and mantras. In Vajrayana practice, implements and tools are indispensable and important elements, among which the most important is the Five-Wheel Stupa.
+
+The "Five-Wheel Stupa," also called the "Dharma-realm Five-Wheel Stupa," "Five Emancipation Wheels," "Dharma-realm Stupa," "Five-Wheel Stupa." It is in Vajrayana Buddhism the elements that constitute the generation of all things in the world: "earth," "water," "fire," "air," and "space," called the "five wheels," and the stupa-shaped objects piled up from geometric shapes symbolizing the five wheels — square, circle, triangle, semicircle, sphere — with functions of cultivation and blessing. Their respective representative colors are yellow, white, red, black, and blue, paired with Sanskrit seed syllables A (aṃ), Va (vaṃ), Ra (raṃ), Ha (haṃ), and Kha (khaṃ). Each part of the Five-Wheel Stupa has specific colors and Sanskrit seed syllables, such as yellow representing the earth wheel, white representing the water wheel, red representing the fire wheel, black representing the air wheel, and blue representing the space wheel.
+
+In the Five-Wheel Stupa, each wheel has a corresponding Buddha or Bodhisattva: Earth Store Bodhisattva, Samantabhadra Bodhisattva, Manjushri Bodhisattva, Avalokiteshvara Bodhisattva, and Maitreya Bodhisattva.
+
+The Five-Wheel Stupa holds an important position in Vajrayana practice, believed to be an implement that can eliminate karmic obstacles, increase wisdom, and elevate cultivation attainment. During practice, one can purify body and mind and increase merit and virtue through visualization of the Five-Wheel Stupa and recitation of the Sanskrit seed syllables.
+
+![singing bowl healing illustration](../docs/media/image118.jpeg)
+
+### 2.3.5 Scientific Understanding
+
+#### 2.3.5.1 The Nature of Waves
+
+![singing bowl healing illustration](../docs/media/image119.png)
+
+The nature of waves:
+
+① Principle of independent propagation of waves — the waves excited by each wave source can propagate independently in the same medium; after they meet and separate again, their propagation conditions (frequency, wavelength, propagation direction, period, etc.) are the same as before they met, not interfering with each other, as if they had not met other waves;
+
+② Principle of displacement vector superposition — in the region where they overlap, the medium's particles participate simultaneously in the vibrations caused by these several waves, and the displacement of the particle equals the vector sum of the displacements caused by each wave propagating alone;
+
+③ All waves can produce interference, including water waves, light waves, etc. Interference is a phenomenon unique to waves. (Diffraction is also a phenomenon unique to waves.)
+
+#### 2.3.5.2 Nikola Tesla
+
+![singing bowl healing illustration](../docs/media/image120.jpeg)
+
+Nikola Tesla was a famous physicist, engineer, and inventor; many of his inventions and theories are related to energy, frequency, and vibration. He once said: "If you want to find the secrets of the universe, think in terms of energy, frequency, and vibration."
+
+This sentence means we can understand the operation and essence of the universe through energy, frequency, and vibration. In physics, energy, frequency, and vibration are very important concepts. Energy is the attribute of matter and fields, describing the ability of matter and fields to do work and produce change. Frequency and vibration describe the motion mode and pattern of matter and fields.
+
+Tesla believed that everything in the universe exists and operates through the interaction of energy, frequency, and vibration. His theories and inventions are based on these concepts, such as his radio transmission technology, AC generators, and high-frequency transformers. He believed that if we can understand and master these concepts, we can better understand the secrets of the universe.
+
+Einstein believed that all tangible matter is composed of intangible inner energy forms. He proposed the famous mass-energy equation E=mc², where E represents energy, m represents the mass of an object, and c represents the speed of light, a constant of about 299792458 m/s. This equation shows an equivalence between matter and energy: matter can be transformed into energy, and energy can also be transformed into matter.
+
+The unit of sound frequency is second only to light, the physical unit is hertz. Frequency is applied not only in mechanics and optics, but also often in quantum mechanics, electromagnetism, and radio technology. To commemorate the contribution of German physicist Hertz, people named the unit of frequency hertz, abbreviated "Hz." Every object has a natural frequency determined by its own nature, independent of amplitude.
+
+Energy (energy), abbreviated as "energy," is a measure of the possible degree of change in the spatiotemporal distribution of mass, used to express the ability of a physical system to do work. Modern physics has clarified the quantitative relationship between mass and energy, namely Einstein's mass-energy relation: E=MC². This formula reveals the equivalence between mass and energy, showing that mass can be transformed into energy and energy into mass, which is of great significance for understanding the secrets of the universe.
+
+#### 2.3.5.3 Emergence
+
+"Emergence" refers to the appearance of new global properties or phenomena in a system due to the interaction between its parts and complex nonlinear relationships. These global properties or phenomena cannot simply be obtained by adding up the behaviors or characteristics of the individual parts, but are determined by the interactions and relationships among them.
+
+Emergence can appear in various natural and artificial systems, such as biological systems, social systems, computer networks, etc. The appearance of emergent phenomena is often unpredictable because they are caused by the complex internal interactions of the system.
+
+The study of emergence is of great significance for understanding the overall properties and behavior patterns of systems, and also provides inspiration for the development of fields such as artificial intelligence and machine learning.
+
+Energy is relative; energy is a relative value.
+
+Mass-energy equation.
+
+Energy is manifested through mass.
+
+Energy is the cause, mass is the effect.
+
+![singing bowl healing illustration](../docs/media/image121.jpeg)
+
+You are energy, and energy cannot be created or destroyed, energy only changes form. That is you! Your true essence — your pure energy — has always existed and will always exist. You exist forever, you can never not exist.
+
+#### 2.3.5.4 Energy
+
+An energy wave is a physical phenomenon, referring to the wave form of energy propagating in space. Such waves can be electromagnetic waves, sound waves, gravitational waves, etc., characterized by having energy and frequency. The higher the frequency of an energy wave, the shorter the wavelength and the stronger the energy.
+
+"The world is the manifestation of waves" is a physical theory holding that the entire universe is composed of waves. In this theory, matter is not composed of solid material particles, but of wave-like energy fields. Such energy fields can explain the properties and behaviors of matter — for example, electromagnetic fields explain electromagnetic force, and gravitational fields explain the gravity between objects.
+
+![singing bowl healing illustration](../docs/media/image122.png)
+
+In quantum physics, the nature of energy waves is widely studied. Quantum mechanics holds that the behavior of microscopic particles is determined by wave functions, and the wave function itself is also a wave form. This wave can explain the strange behaviors of microscopic particles, such as quantum entanglement and quantum tunneling.
+
+An energy wave is a physical phenomenon that can explain the properties and behaviors of matter. The theory that the world is the manifestation of waves holds that the entire universe is composed of wave-like energy fields, a theory widely applied in quantum physics.
+
+All things are energy — first the universe, our galaxy, the earth, then the individual; within the human body the five viscera and six bowels, cells, molecules, atoms, and finally energy. Therefore there are many levels we can think about, yet everything in the universe is energy.
+
+![singing bowl healing illustration](../docs/media/image123.jpeg)
+
+All things in the world are composed of energy, including thoughts, consciousness, and emotions — all are energy, all exist in the form of waves.
+
+#### 2.3.4.5 All Is Number
+
+"All is number" is a philosophical view holding that all things in the universe can be described and explained with numbers. This view existed in ancient times; for example, ancient China's *I Ching* (Book of Changes) has the saying "The Tao gives birth to the one, the one gives birth to two, two gives birth to three, three gives birth to all things," meaning that all things in the universe are composed of numbers.
+
+![singing bowl healing illustration](../docs/media/image124.png)
+
+In modern science, this view has also been confirmed; for example, mathematics, physics, and other fields extensively apply the concept of numbers.
+
+Mathematics is the core of the "all is number" view. Mathematics is a discipline that uses symbols and formulas to describe and solve problems; it can be applied to various fields, such as physics, engineering, computer science, etc. The numbers in mathematics can be used to describe and explain the laws and properties of all things in the universe, such as the motion of objects, the action of electromagnetic fields, and celestial motion. The concepts and formulas in mathematics can be used to solve various practical problems, such as engineering design, financial analysis, and data processing.
+
+Physics also supports the "all is number" view. Physics is a discipline that studies the interrelationship between matter and energy; it can explain the essence and behavior of all things in the universe. In physics, numbers are widely used to describe the motion of objects, the action of electromagnetic fields, celestial motion, etc. For example, Newton's laws of motion can be described with numbers to express the laws of object motion, Maxwell's equations can be described with numbers to express the action of electromagnetic fields, and Einstein's relativity can be described with numbers to express the laws of celestial motion.
+
+"All is number" is a philosophical view holding that all things in the universe can be described and explained with numbers. This view existed in ancient times and has also been confirmed in modern science. Mathematics and physics are the core of this view; they can use numbers to describe and explain the laws and properties of all things in the universe and solve various practical problems.
+
+![singing bowl healing illustration](../docs/media/image125.jpeg)
+
+#### 2.3.5.6 The Seven-Color Rainbow
+
+![singing bowl healing illustration](../docs/media/image126.png)
+
+Color science is a discipline that studies color, exploring how colors are produced, perceived, and combined and used. In color science there are seven basic colors, including red, orange, yellow, green, blue, indigo, and purple. This is also called the "seven-color rainbow."
+
+Each basic color has its corresponding complementary color. A complementary color is the color opposite the given color on the color wheel.
+
+For example, the complement of red is green, the complement of orange is blue, the complement of yellow is purple, the complement of green is red, the complement of blue is orange, the complement of indigo is yellow, and the complement of purple is yellow-green.
+
+The use of complementary colors is to achieve a strong contrast effect, which can be used in many aspects of design, such as color matching, typography, and graphic design.
+
+#### 2.3.5.7 Energy Levels
+
+![singing bowl healing illustration](../docs/media/image127.jpeg)
+
+**Enlightenment (700–1000):** Enlightenment is the energy level of all great figures in history who established spiritual models followed by countless people for generations. This is the energy level of powerful inspiration; the birth of these people forms a gravitational field affecting all humanity. At this level there is no longer a sense of separation between individual and individual; instead, consciousness and divinity become one. This is the peak of human consciousness evolution.
+
+Arriving at this level, there is no longer attachment to the body as "I," no longer attention to it. The body becomes a tool for consciousness to descend upon the head; its primary value is to connect the two. This is non-dual, a completely unified energy level.
+
+Among those in history who reached such a high level of wisdom, these great "Avatars" (God incarnate) are most fittingly called "the Lord": Lord Krishna, Lord Buddha, and Lord Jesus Christ. A person's energy level is sometimes high and sometimes low. His energy level is the average of all those times. The rise and fall of energy level is directly related to a person's state of mind. Therefore, keeping oneself in a peaceful, joyful, love-filled mood for a long time will naturally raise our average energy level.
+
+**Love (500):** The love in love is not the love described in the usual sense by various media. The usual love easily puts on the mask of anger and dependence. Once frustrated, this kind of love immediately turns into resentment. Love that triggers resentment comes from pride rather than true love. This 500-level love is unconditional love, unchanging love, permanent love. This love does not waver; it does not come from external factors. Love is the basic state of existence. Love is tolerance, nourishing and sustaining this world. It is not intellectual love, not love from the head, it is love from the heart. Love always focuses on the good side of life and amplifies positive experience. This is a truly happy energy level. Only 0.4% of people in the world have ever reached this level of consciousness evolution.
+
+**Joy (540):** Joy — when love becomes more and more infinite, it begins to develop into inner joy. This is joy rising from within rather than from without, in every present moment. The 540 level is also the energy level of healing and spiritual independence. Above this are the levels of many saints, advanced cultivators, and healers. The characteristic of people at this level is that they have great patience and a persistent optimistic attitude toward repeatedly appearing difficulties, as well as compassion. Those who reach this level have a significant influence on others. Their persistent attention brings love and calm. In the eyes of those above level 500, the world is full of shining beauty and perfect creation. Everything happens effortlessly at the same time. What they do as a matter of course is regarded as a miracle by ordinary people. Near-death experiences characteristically appear in their transformation, which also lets them experience energy floating between 540–600.
+
+**Peace (600):** Peace — this energy level is related to so-called excellence, self-realization, and Christ consciousness. It is very rare; only one in ten million people can reach it. And once reached, the distinction between inner and outer disappears, the senses are shut off (the *Heart Sutra*: "no eye, ear, nose, tongue, body, mind; no form, sound, smell, taste, touch, dharma…"). The perception of those at level 600 and above is like slow motion; time and space hang suspended — nothing is fixed, and everything is vibrant and radiant. Although the world looks the same to others, in this person's eyes the world is a continuously floating, evolving flow dancing in coordination with the evolution of the universe's source. This is an extraordinary, ineffable phenomenon, so the head remains silent for a long time, no longer analyzing and judging. The observer and the observed become the same person; the observer dissolves into the observing, becoming the observing itself. Works of art, music, and architecture at energy levels 600–700 can temporarily bring us to what is usually considered a psychic and eternal state.
+
+**Willingness (310):** Willingness — this level of consciousness can be seen as a door to higher levels. Those at the calm level will faithfully complete work tasks. But those at the willingness level usually complete tasks excellently and strive for success. The growth of people at this level is rapid; they are the candidates prepared for human progress. Those below energy level 200 are closed-minded, but those at level 310 are fully open. People at this level are usually sincere and friendly, and easily achieve social and economic success. They are always helpful and contribute to social progress. They are also willing to face internal conditions and have no major learning obstacles. Given that they have released pride, they can see their own shortcomings and learn from others' strengths.
+
+**Acceptance (350):** Acceptance — at this energy level a huge transformation occurs: realizing that one is the master of one's own destiny, the creator of one's own life. Those below level 200 are powerless, usually seeing themselves as victims, completely at the mercy of life. The root of this view is the belief that a person's happiness and suffering come from some "external" thing. At the acceptance level, no "external" thing can make a person happy, and love is not something anyone can give or take away — all come from within. Acceptance means letting life be as it is, not deliberately shaping it into a specific pattern. People at this level are not interested in judging right and wrong; instead, they are happy to participate in how to solve difficulties. They care more about long-term goals; good self-discipline and self-control are their salient features.
+
+**Reason (400):** Reason — beyond the emotional lower energy levels, one enters the stage of reason and intelligence. This is the energy level where science, medicine, and the ability to conceptualize and understand are formed. Knowledge and education become qualifications here. This is the level of Nobel Prize winners, great politicians, and senior court judges. Einstein, Freud, and many other historical thinkers were at this level. The weakness of people at this level is excessive focus on the distinction between symbols and the meanings the symbols represent. Reason cannot lead people to truth. It can only produce a large amount of information and documentation, but lacks the ability to resolve differences in data and results. Reason itself is the biggest obstacle to reaching higher energy levels. In our society, very few people can transcend this level.
+
+**Anger (150):** Anger — if one can jump out of the cycle of indifference and guilt, break free from the control of fear, one begins to have desire, and desire brings frustration, then triggers anger. Anger is often manifested as resentment and a revenge mentality; it is volatile and dangerous. Anger comes from unmet desire, from a lower energy level than it. Frustration comes from magnifying the importance of desire. Anger easily leads to hatred, which gradually erodes a person's mind.
+
+**Pride (175):** Pride — compared with other lower energy levels, people feel this energy level is positive. In fact pride makes one feel better, only relative to other lower levels. Pride is defensive and vulnerable because it is a feeling based on external conditions. Once the conditions are absent, one easily falls into a lower energy level. Ego inflation is the booster of pride and arrogance, and the ego is often vulnerable. Therefore the evolutionary trend of pride is arrogance and denial. And these resist growth.
+
+**Courage (200):** Courage — only when one arrives at the energy level of 200 does momentum appear. Courage is the foundation for expanding the self, achieving success, perseverance, and decisive decision-making. At lower energy levels the world looks helpless, disappointing, frustrating, terrifying, but at the courage level life looks exciting, challenging, fresh, and interesting. At this active energy level, people have the ability to seize opportunities in life. Therefore personal growth and receiving education are feasible paths. The obstacles that can strike those below energy level 200 are a piece of cake for those who evolve to level 200. People at this level always give back enough energy to the world. Those below this level constantly draw energy from society without giving back. The collective consciousness level of humanity stayed at 190 for hundreds of years; strangely, in the last 10 years it suddenly jumped to 207, and the 2006 measurement result became 204, the 2007 measurement result 205.
+
+**Neutrality (250):** Neutrality — at this energy level the energy becomes very active. Below 250, consciousness tends toward division and rigidity. The neutrality level is flexible and non-discriminating in viewing the problems of reality. Arriving at this level means detachment from results; one no longer experiences frustration and fear. This is a safe energy level. People at this level are easy to get along with and make one feel warm and reliable. Because they have no intention of disputes, competition, or crime. Such people are always calm and composed. They will not force others to do anything.
+
+**Shame (20):** Shame — the energy level of shame is close to death; it is like the suicide of consciousness, cleverly taking away a person's life. In the state of shame we wish we could find a crack to crawl into, or hope we could become invisible. This is a condition that seriously damages physical and mental health, and will eventually make our body sick.
+
+**Guilt (30):** Guilt — guilt is presented in many ways, such as regret, self-blame, masochism, and all victim plots. Unconscious guilt leads to physical and mental illness, and brings accidental injury and suicidal behavior; it is also often manifested as frequent anger and fatigue.
+
+**Apathy (50):** Apathy — this energy level is manifested as poverty, disappointment, and helplessness; the world and the future both look hopeless. Apathy means helplessness, making one a victim in all aspects of life, lacking not only resources but also luck; unless there is an external helper to promote them, they are likely to die in destitution.
+
+**Grief (75):** Grief — this is the energy level of sadness, loss, and dependence. People at this energy level live a life of dejection and depression for eight lifetimes. This life is full of regret, self-blame, and mourning over the past; those in grief see the world as gray and black.
+
+**Fear (100):** Fear — from this energy level the world is full of danger, traps, and threats. Once people begin to focus on fear, there really will be countless unsettling things coming. Then compulsive fear forms, which hinders personality growth and finally leads to repression. Because it directs energy toward fear, this repressive behavior cannot be raised to a higher level.
+
+**Desire (125):** Desire — makes us expend great effort to achieve our goals and obtain our rewards. This is also an addictive energy level; one never knows when a desire will become more important than life itself. Desire means accumulation and greed. Wishes can help us get on the path of achievement. But desire can become a springboard to a higher level than knowing.
+
+Whether books, food, water, clothing, people, animals, buildings, cars, movies, sports, music, etc., all have a definite energy level. The vast majority of pop songs are below level 200. No wonder many people show behavior at low consciousness levels. Popular culture is mostly low-consciousness and low-energy. Most movies lower the audience's energy level below 200. 85% of the world's people are at energy levels below 200 (1994 measurement result).
+
+Specifically, now (as of 2006) it is 78% of the total population. The average consciousness level of all humanity is 207 (1994 test result). It changes every year; the 2006 measurement result is 204, the 2007 test result is 205. Energy level 250 is the beginning of a meaningful, smooth life, because this is the energy level where confidence appears. When someone's energy level drops below 200 due to external conditions, they begin to lose energy and become more vulnerable and more at the mercy of the environment. A person's energy level is sometimes high and sometimes low. His energy level is the average of all those times. The rise and fall of energy level is directly related to a person's state of mind.
+
+This also explains why a person is "in high spirits when good things happen" — and the fundamental reason why Abraham teaches us to be happy and joyful. When you are joyful, when you are in those high-energy states of mind, your attractiveness is enhanced thousands of times!
+
+So how to raise one's personal energy level? Perhaps you have guessed — give up low-energy things and stay with high-energy things.
+
+This includes people with higher energy levels, high-energy books, music, movies, video tapes, paintings, crafts, gentle cats, and lovely dogs.
+
+![energy level illustration 1](../docs/media/image128.jpeg)
+
+![energy level illustration 2](../docs/media/image129.jpeg)
+
+#### 2.3.5.8 Human Design
+
+![singing bowl healing illustration](../docs/media/image130.jpeg)
+
+Human Design is a comprehensive anthropological system combining Western astrology, the *I Ching*, Hindu philosophy, quantum physics, and genetics. It aims to help people understand their essence, discover their talents and potential, and better understand the relationship between themselves and others.
+
+The Human Design system contains a personal chart, calculated from the individual's birth time, birth place, and birth date. This chart contains five energy types, nine centers, thirty-six channels, and sixty-four gates; each person's chart is unique.
+
+By studying one's own Human Design chart, people can understand their inner traits, strengths, and weaknesses, and their best way of living and working. Human Design also provides some tools and techniques to help people better cope with challenges, enhance confidence, and improve efficiency.
+
+Human Design has received increasing attention and application worldwide, and many people consider it a very useful tool for self-exploration and development.
+
+### 2.3.6 Chakras and the Galaxy (Extended elective)
+
+![singing bowl healing illustration](../docs/media/image131.jpeg)
+
+Jupiter planetary singing bowl: used at the crown-chakra area, transforming energy into positive thoughts.
+
+Mercury planetary singing bowl: used at the throat-chakra area, stimulating mental activity and communication.
+
+Om planetary singing bowl: used at the heart-chakra area, calming and relaxing people and freeing them from daily stress.
+
+Sun planetary singing bowl: used at the sacral-chakra area, providing energy full of warm love and joy.
+
+Moon planetary singing bowl: used at the navel-chakra area, balancing each individual's inner feminine energy.
+
+Earth-day planetary singing bowl: used at the root-chakra area, giving people a sense of being fixed to the ground and being attended to.
+
+When the ancient Himalayan singing bowls resonate harmoniously and in unison with the energy of the cosmic planets, the human body's energy has the possibility of resonating in unison accordingly; body-mind energy changes accordingly, bringing deep and rapid relaxation, the clogged energy in the seven chakras can be unblocked, reducing tension and stress, and the whole body's meridians can become smooth and unobstructed… balancing the chakras, opening intuition, eliminating negative energy. Breaking fixed minds and thought patterns, activating life force, awakening cellular memory, smoothing the meridians, and replenishing life energy.
+
+![singing bowl healing illustration](../docs/media/image132.jpeg)
+
+#### 2.3.6.1 Jupiter
+
+Crown chakra (Jupiter): the crown chakra is located at the top of the head, representing our spirit and thought. The Jupiter planetary singing bowl can help us transform negative energy into positive thoughts and actions, expand thinking, and thus better realize our dreams and goals.
+
+#### 2.3.6.2 Saturn
+
+Root chakra (Saturn): the root chakra is located at the very bottom of the body, representing our foundation and root. The Saturn planetary singing bowl can help us build a solid foundation, strengthen self-confidence and firm belief.
+
+#### 2.3.6.3 Mercury
+
+Throat chakra (Mercury): the throat chakra is located at the throat, representing our communication and expression ability. The Mercury planetary singing bowl can stimulate mental activity and communication, improving eloquence and expression ability.
+
+#### 2.3.6.4 Sun
+
+Solar plexus (Sun): the solar plexus is located above the spine, representing our self and creativity. The Sun planetary singing bowl can provide energy full of love and joy, letting us feel the vitality and power of life.
+
+#### 2.3.6.5 Mars
+
+Brow chakra (Mars): the brow chakra is located at the brow, representing our intuition and insight. The Mars planetary singing bowl can enhance our courage and determination, making us more decisive and firm.
+
+#### 2.3.6.6 Venus
+
+Heart chakra (Venus): the heart chakra is located at the chest, representing our love and beauty. The Venus planetary singing bowl can let us feel the power of love and beauty, enhancing our sensibility and aesthetic sense.
+
+#### 2.3.6.7 Moon
+
+Navel chakra (Moon): the navel chakra is located at the abdomen, representing our emotion and intuition. The Moon planetary singing bowl can balance each individual's inner feminine energy, enhancing our intuition and sensibility.
+
+Different planetary singing bowls can help us balance and activate different chakras, thereby improving the health of body and mind.
+
+
+## Section 4 — Healing Principles (Beginner–Intermediate–Advanced)
+
+<!-- TODO: translate 2.4 Healing Principles (2.4.1 sound/wave basis, 2.4.2 … 2.4.5) from Chinese "## 第四节 疗愈原理" / "### 2.4.1 声（波）音基础" onward -->
+
+## Section 5 — Chakra Rhythm (Beginner–Intermediate–Advanced)
+
+<!-- TODO: translate 2.5 Chakra Rhythm (2.5.1–2.5.5) from Chinese source -->
+
+## Section 6 — Acupoints & Meridians (Beginner–Intermediate–Advanced)
+
+<!-- TODO: translate 2.6 Acupoints & Meridians (2.6.1–2.6.7) from Chinese source -->
 
 # Chapter 3 — Practical Operation
 
