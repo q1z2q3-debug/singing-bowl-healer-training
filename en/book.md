@@ -767,7 +767,152 @@ Other decorations — Buddha, Bodhisattva, mantras, patterns, Flower of Life, et
 
 #### Yoga Blanket
 
-<!-- TODO: translate 1.3 Techniques of Use (1.3.1 inviting / 1.3.2 holding / 1.3.3 striking / 1.3.4 rubbing / 1.3.5 moving / 1.3.6 placing / 1.3.7 strike technique-rhythm-force / 1.3.8 rub angle-speed-force / 1.3.9 stopping / 1.3.10 ting-sha / 1.3.11 cleaning & care / 1.3.12 breathing practice / 1.3.13 gong striking) from Chinese source sections "1.3.1 请钵 Inviting" … "1.3.13 单铜锣敲击技巧" -->
+### 1.3 Techniques of Use
+
+#### 1.3.1 Inviting the Bowl
+
+**Mind method:** with heart · focus · gratitude · devotion · reverence.
+**Body posture:** stable not stiff; relaxed not slack.
+**Intention:** composed not hasty.
+
+#### 1.3.2 Holding the Bowl
+
+Mind method: steady, sink, slow. Avoid contact with the sounding area as much as possible; hold stably, avoid shaking or even tipping.
+
+**Non-metal preparation, perception, and non-influence holding:**
+- Palming at the center below (Laogong point)
+- Tilting-back palming
+- Tilting-forward palming
+- Three-finger steady hold
+- Fingertip hold
+
+#### 1.3.3 Striking the Bowl
+
+Mind method: gentle, graceful, crisp, clean.
+
+![striking](../docs/media/image75.png)
+
+**Five striking rhythms:** dot strike (return to original position after striking) · scoop strike (water-scooping motion) · hook strike · flat strike · (extension) sun striking method · moon striking method · earth striking method.
+
+**Intent-and-momentum preparation (three locks):** tuck the chin; draw in the abdomen and lift the anus (root lock); expand the chest and straighten the back (heart lock); raise the qi upward (throat lock).
+
+**Intention:** focused, slow, composed, rhythmic; with compassion and reverence in the heart.
+
+**Three breaths:** first breath — quiet the mind (ask the heart); second breath — align the body (ask the body); third breath — right view (ask the spirit).
+
+**Practical method:** inhale to open, exhale to strike slowly.
+
+**Connection:** Heart chakra — light strike 3 times (3, 5 parts force) — to the healee (3, 5 parts force), then return with both hands cupping.
+
+#### 1.3.4 Rubbing the Bowl
+
+Mind method: steady, still, soft, with breath-rhythm. Calm and focus the spirit; extend the left hand flat, place the bowl at the center of the palm; hold the wooden stick in the right hand, then with the lower end of the stick lightly wipe the bowl rim clockwise or counterclockwise, slowly circling. From fast to slow, as the bowl is rubbed it produces vibration and an agreeable resonant sound, growing louder, lingering and ethereal, deep and far.
+
+**Two rubbing techniques:** light touch + hand grip; do not use the wrist, but the strength of elbow and shoulder. Left-right friction, back-and-forth friction. Rubbing is drawing circles at the bowl mouth — circles that may be fast or slow, casual and free, or sacred and forceful, insightful, breath-aware, contagious — elegant, harmonious, soft, compassionate rubbing.
+
+**Key point:** the start is the end. Before rubbing: wash hands, quiet the mind, purify the bowl, prepare the healing intent. Hold the stick like a brush pen; sink the shoulders, drop the elbows, regulate the breath. Practice, practice, and practice again the rubbing — force, speed, angle, attitude (find your own rubbing experience through self-trial) — ultimately reaching the harmonious state of bowl-and-person as one.
+
+#### 1.3.5 Moving the Bowl
+
+Translation + rotation.
+
+#### 1.3.6 Placing the Bowl
+
+Place gently, on the bowl cushion. **Two-stage placing:** observe the healee's breathing; when inhaling, the chest or abdomen bulges upward; place the bowl according to the two-stage key.
+
+Specifically: on inhalation the body gradually expands, the abdomen begins to bulge upward — this is the moment the healee is full of strength and able to bear; at this time we bring the bowl into contact with the bulging abdomen, noting that your two hands still support the bowl, bearing half its weight, slowly transmitting the other half to the healee. Note that we do not transfer the bowl's full weight; following the healee's breath, at the next inhalation place the bowl fully and stably on the healee. Such placing completed between two breaths does not easily arouse the healee's body awareness, while smoothly transitioning, completing the bowl's placement. In such a placing process, in the vast majority of cases the healee does not perceive the process of the bowl being placed on the body; for one already relaxed and asleep, the weight of the bowl is entirely unfelt.
+
+#### 1.3.7 Striking Technique, Rhythm, Force
+
+Striking technique is the process of using a wooden mallet or other tool to strike the singing bowl, producing resonance and vibration. Force can be adjusted as needed, generally ranging from 1 to 10 parts; the greater the force, the louder the sound the bowl emits. When using the singing bowl for healing, different striking techniques and forces can be chosen as needed to produce different effects.
+
+Rhythm is also a very important factor in singing-bowl healing; different rhythms produce different effects. For example, a heartbeat rhythm helps the healee relax body and mind and enter a deeper meditative state, while a fast rhythm helps activate bodily energy and strengthen the body's self-healing ability.
+
+When using the singing bowl for healing, maintain a focused and relaxed state, letting the bowl's energy lead the breath, assisting deeper breathing — inhaling more energy, exhaling more turbid qi. Through breath practice one can reach the state of breath-ceasing and concentration, further strengthening the healing effect.
+
+**Force:** 1 part · 3 parts · 5 parts · 7 parts · 10 parts.
+
+**Bowl-moving (行钵):** free bowl-moving · overtone bowl-moving. **Breath bowl-moving (essential skill).**
+
+**Rhythm (intermediate):**
+
+```
+1000 0000 0000 0000 ~ ~ ~
+1000 1000 1000 1000
+1000000000 1000000000
+heartbeat rhythm   1200 1200 1200 1200
+slow heartbeat     1200 0000 1200 0000
+wood-fish (muyu):
+1111 1111 1111 1111
+123456787654321
+1111 2222 3333 4444 5555 6666 7777 8888 8888 7777 6666 5555 4444 3333 2222 1111
+```
+
+Relaxation and focus, combining bowl with breath, letting the bowl's energy lead the breath, transcending limits, assisting deeper breathing — inhaling more energy, exhaling more turbid qi — in breath practice reaching the state of breath-ceasing and concentration.
+
+#### 1.3.8 Rubbing Angle, Speed, Force
+
+**Exploration stage:** self-try angles — vertical, 30°, 45°, 60° — and your wrist/elbow comfort. **Relative speed:** accelerate, accelerate, constant (fast constant, slow constant), etc. **Force:** 0, 1, 2, 3, 5, 7, 10.
+
+#### 1.3.9 Stopping the Sound
+
+No stopping | natural decay. Mallet stopping. **Crystal bowl — cannot be stopped.**
+
+#### 1.3.10 Ting-sha Technique and Occasions
+
+In Tibetan called *ting-sha*; in the Chinese-speaking world also called collision bells or touch bells for their use — both instrument and healing tool. The ting-sha consists of two bells strung together; when the bells collide they produce a high, bright, ethereal, agreeable sound, or a distant ethereal tone; their extraordinary overtones help purify and elevate the frequency of personal and spatial auras. The ting-sha has a long history and varied uses; early on it was common in religious rituals and popular in the songs and dances of different peoples. In modern times, because the ting-sha is small and portable, it became a common carry-on meditation tool for practitioners; the ting-sha can also be used with the singing bowl to become an excellent partner in body-mind healing.
+
+Traditionally, the music emitted by the ting-sha can clear the negative energy of a space and return the mind to the present; it is also used to heal tinnitus. In the spiritual domain, the collision bell is used to open the third eye, and to create a healing connection between healer and client, conducting positive energy; finally the ting-sha can also be used to balance the chakras. Usually applied at the beginning and end of healing, coordinated with the breathing rhythm, to gather or awaken body and mind — one of the essential sound-healing instruments for the healer.
+
+![ting-sha](../docs/media/image76.png)
+![ting-sha](../docs/media/image77.jpeg)
+
+For healing tinnitus, because the ear is a very delicate organ, strike the ting-sha about 24 inches (80 cm) from the ear, quickly move to 3 inches (10 cm) from the ear, hold for 5 seconds or until the sound fades, then move back to the original position; continue for 3–5 minutes. The healee may proceed in meditation or lying flat. A ting-sha of 8–10 cm is most suitable; overtones that are agreeable and long-lasting are the best choice. If accidental discomfort or a serious situation occurs and the sound cannot be borne, try striking gently, and keep a greater distance, slowly approaching.
+
+#### 1.3.11 Cleaning and Care of the Singing Bowl
+
+The greatest care is to **use it often** (striking + rubbing).
+
+- *Dust deposit* — wipe with a soft cloth (clean the bowl with lemon juice + warm water).
+- *Water stains* — rinse with clean water and wipe dry, air-dry (no sun exposure).
+- *Copper oxidation (patina)* — toothpaste or white vinegar, with a soft cloth or white paper in circular motion gently rub until the green oxide disappears.
+- *Smudging purification* — use dry matter such as white sage leaves, mugwort leaves, cedar leaves; the smoke produced after burning circles inside the bowl body, to remove the energy left by the previous client in the bowl.
+- During use, keep dry, avoid collision.
+- Store in a dry place; after use wipe clean with a cotton cloth until dry.
+- Do not use acidic cleaners, alcohol, volatile solvents, chlorides, etc. to wash the bowl, to avoid corrosion.
+- Do not use steel wool or other hard objects to wash the bowl, to avoid damaging the surface.
+- When placing, do not put the bowl directly on hard objects, to avoid friction and collision.
+- You may also open the bowl's energy clearing and blessing through rituals such as chanting scriptures, mantras, prayer, burning incense.
+- Full-moon bowls may also be cleaned by offering, or by moonlight bathing on full-moon nights.
+- The bowl's placement should be with devotion; place it in a principal position with offering and respect; avoid placing it in an uncommon corner or near a trash bin.
+- The music world's method for maintaining struck bronze instruments: plant maintenance oil.
+
+#### 1.3.12 Singing-Bowl Breath Practice
+
+Sit quietly, hold the brush-pen posture, sink the shoulders, drop the elbows, regulate the breath, gather qi to the dantian. On the first exhale, exhale to 8–9 tenths, then begin to rotate the bowl clockwise, slowly inhale. On the second exhale, exhale to ten tenths, then slowly inhale. On the third exhale, try to exhale to eleven tenths, then slowly inhale. Gradually increase, trying to exhale a bit more than the previous time. Stay in natural relaxation; do not force yourself.
+
+Likewise, on the first inhale, inhale only 8 tenths, then begin to exhale. On the second inhale, inhale to 10 tenths, then begin to exhale. On the third inhale, try to inhale to 11 tenths. Each time try to inhale a bit more than before. But please reach this naturally in a relaxed state.
+
+**Non-violent breathing — avoid clinging to force.** Through repeated practice, you can hear your own breath, hear the stable bowl tone, as if experiencing the reality of breath's existence, returning to the most precious present, returning between breaths, receiving the energy of life, possessing abundant everything, full of love and gratitude.
+
+#### 1.3.13 Single Gong Striking Technique
+
+![gong](../docs/media/image78.jpeg)
+
+> Born with wings, why prefer to crawl through life?
+> — Rumi, the Sufi poet (13th century)
+
+### Chapter 1 Summary
+
+This chapter set out from "what is a bowl," systematically sorting the bowl's form, name, material, and historical context, and breaking down the complete operating techniques from inviting the bowl to stopping the sound. Vessel and feel are the foundation of all theory and practice that follow — first "be with" the bowl, then speak of healing.
+
+### Reflection Questions
+
+1. What are the differences between traditional and modern bowls in material, timbre, and use?
+2. Why does the textbook list "personal experience" as the first standard for choosing a bowl?
+3. What energy logic is implied among inviting, holding, and striking the bowl?
+
+<!-- TODO: translate Chapter 2 — Theoretical Topics (2.1 Sound Fundamentals / 2.2 Vibration Fundamentals / 2.3 Energy Fundamentals / 2.4 Healing Principles / 2.5 Chakra Rhythm / 2.6 Meridians) from Chinese source headings "## 2.1 声音基础" … "第六节 穴位经络（中高级）" -->
 
 # Chapter 2 — Theoretical Topics
 
