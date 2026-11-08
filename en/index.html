@@ -5,86 +5,653 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Singing Bowl Healer Training 7.0 · Free Open-Source Sound Healing Manual</title>
   <meta name="description" content="A free, open-source training manual for singing-bowl healing, sound healing, and sound-therapy practitioner training — covering bowl techniques, sound & vibration theory, chakras & meridians, hands-on practice, and natural therapies. CC BY-NC-SA 4.0." />
+  <meta name="keywords" content="Singing Bowl Healer Training,Sound Healing,Sound Therapy Training,Tibetan Singing Bowl,Chakra Healing,Singing Bowl Course,Relaxation,Sleep & Stress Relief,颂钵疗愈,声音疗愈" />
+  <meta name="author" content="Runze (WuGanLiuJue)" />
   <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
+  <link rel="alternate" hreflang="zh-CN" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <link rel="alternate" hreflang="en" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
+  <link rel="alternate" hreflang="x-default" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
   <meta property="og:type" content="website" />
   <meta property="og:title" content="Singing Bowl Healer Training 7.0 · Open-Source Manual" />
   <meta property="og:description" content="A systematic, free, shareable manual for sound healing and singing-bowl practitioner training." />
   <meta property="og:locale" content="en_US" />
   <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
-  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
+  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Singing Bowl Healer Training 7.0 (Large-Print Edition)",
+    "description": "A free, open-source training manual for singing-bowl healing and sound therapy: bowl techniques, sound & vibration theory, chakras & meridians, hands-on practice, and natural therapies.",
+    "inLanguage": "en",
+    "provider": { "@type": "Organization", "name": "WuGanLiuJue · JianNian Singing-Bowl Sound Therapy Center",
+                  "sameAs": "https://github.com/q1z2q3-debug/singing-bowl-healer-training" },
+    "educationalLevel": "Beginner to Advanced",
+    "teaches": ["Singing Bowl Techniques", "Sound Healing", "Chakras & Meridians", "Hands-on Practice", "Professional Ethics for Healers"],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  }
+  </script>
   <style>
-    :root{--bg:#f7f4ee;--ink:#2b2622;--muted:#7a7066;--accent:#8a6d3b;--line:#e5dccb;--card:#ffffff;--hover:#efe7d6}
-    [data-theme="dark"]{--bg:#17150f;--ink:#e9e2d4;--muted:#a99e8c;--accent:#d8b46a;--line:#3a342a;--card:#211e17;--hover:#2c2820}
+    :root{
+      --bg:#f7f4ee; --ink:#2b2622; --muted:#7a7066; --accent:#8a6d3b; --line:#e5dccb;
+      --card:#ffffff; --side:#fbf8f2; --hover:#efe7d6;
+    }
+    [data-theme="dark"]{
+      --bg:#17150f; --ink:#e9e2d4; --muted:#a99e8c; --accent:#d8b46a; --line:#3a342a;
+      --card:#211e17; --side:#1c1a13; --hover:#2c2820;
+    }
     *{box-sizing:border-box}
-    body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--ink);line-height:1.7;transition:background .25s,color .25s}
-    a{color:var(--accent);text-decoration:none}a:hover{text-decoration:underline}
-    .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:12px;padding:12px 18px;background:var(--card);border-bottom:1px solid var(--line)}
-    .topbar .brand{font-weight:700;font-size:16px}.topbar .spacer{flex:1}
-    .iconbtn{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);border-radius:8px;padding:6px 10px;font-size:14px}
-    .wrap{max-width:860px;margin:0 auto;padding:30px 20px 80px}
-    h1{font-size:28px;margin:0 0 6px;line-height:1.3}.sub{color:var(--accent);font-size:15px;margin:0 0 20px}
+    html,body{margin:0;padding:0}
+    body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
+      background:var(--bg);color:var(--ink);line-height:1.7;transition:background .25s,color .25s}
+    a{color:var(--accent);text-decoration:none}
+    a:hover{text-decoration:underline}
+    /* top bar */
+    .topbar{position:sticky;top:0;z-index:20;display:flex;align-items:center;gap:12px;
+      padding:12px 18px;background:var(--card);border-bottom:1px solid var(--line)}
+    .topbar .brand{font-weight:700;font-size:16px}
+    .topbar .spacer{flex:1}
+    .topbar .lang a{font-size:13px;padding:4px 8px;border:1px solid var(--line);border-radius:6px}
+    .iconbtn{cursor:pointer;border:1px solid var(--line);background:var(--card);color:var(--ink);
+      border-radius:8px;padding:6px 10px;font-size:14px}
+    .menu-btn{display:none}
+    /* layout */
+    .layout{display:flex;align-items:flex-start;max-width:1200px;margin:0 auto}
+    .sidebar{position:sticky;top:54px;width:300px;max-height:calc(100vh - 54px);overflow:auto;
+      background:var(--side);border-right:1px solid var(--line);padding:16px 14px}
+    .sidebar h3{font-size:13px;color:var(--muted);margin:0 0 8px;letter-spacing:.04em}
+    #search{width:100%;padding:9px 11px;border:1px solid var(--line);border-radius:8px;
+      background:var(--card);color:var(--ink);font-size:14px;margin-bottom:12px}
+    .nav-tree,.nav-tree ul{list-style:none;margin:0;padding:0}
+    .nav-tree ul.sub{padding-left:14px;border-left:1px solid var(--line);margin-left:6px}
+    .nav-tree details.chap>summary{list-style:none;cursor:pointer}
+    .nav-tree details.chap>summary::-webkit-details-marker{display:none}
+    .nav-tree summary a, .nav-tree .nav-branch>a, .nav-tree .nav-leaf>a{
+      display:block;padding:6px 8px;border-radius:6px;font-size:14px}
+    .nav-tree summary a{font-weight:600}
+    .nav-tree .nav-leaf>a{font-size:13px;color:var(--muted)}
+    .nav-tree a:hover{background:var(--hover);text-decoration:none}
+    .nav-tree details.chap>summary::before{content:"\25B8";display:inline-block;width:1em;
+      color:var(--muted);transition:transform .15s}
+    .nav-tree details.chap[open]>summary::before{transform:rotate(90deg)}
+    .nav-count{color:var(--muted);font-size:12px;margin:4px 0 14px}
+    /* main */
+    .main{flex:1;min-width:0;padding:30px 28px 80px}
+    .hero img{width:100%;border-radius:12px;border:1px solid var(--line);margin-bottom:18px}
+    h1{font-size:28px;margin:0 0 6px;line-height:1.3}
+    .sub{color:var(--accent);font-size:15px;margin:0 0 20px}
     .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:18px 20px;margin:16px 0}
-    .btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none!important;padding:11px 20px;border-radius:8px;font-weight:600;margin:6px 8px 6px 0}
+    .btn{display:inline-block;background:var(--accent);color:#fff;text-decoration:none!important;
+      padding:11px 20px;border-radius:8px;font-weight:600;margin:6px 8px 6px 0}
     .btn.ghost{background:var(--card);color:var(--accent);border:1px solid var(--accent)}
-    .kw{display:inline-block;background:var(--hover);color:var(--accent);border-radius:20px;padding:5px 12px;margin:4px 4px 0 0;font-size:13px}
-    .qr{text-align:center;margin:24px 0}.qr img{width:220px;max-width:70%;border:1px solid var(--line);border-radius:10px}
+    .kw{display:inline-block;background:var(--hover);color:var(--accent);border-radius:20px;
+      padding:5px 12px;margin:4px 4px 0 0;font-size:13px}
+    .qr{text-align:center;margin:24px 0}
+    .qr img{width:220px;max-width:70%;border:1px solid var(--line);border-radius:10px}
     footer{color:var(--muted);font-size:13px;margin-top:36px;text-align:center}
+    @media (max-width:860px){
+      .menu-btn{display:inline-block}
+      .sidebar{position:fixed;top:54px;left:0;height:calc(100vh - 54px);width:82%;max-width:320px;
+        transform:translateX(-100%);transition:transform .25s;z-index:15;box-shadow:2px 0 12px rgba(0,0,0,.15)}
+      .sidebar.open{transform:translateX(0)}
+      .main{padding:22px 16px 70px}
+    }
   </style>
 </head>
 <body>
   <div class="topbar">
+    <button class="iconbtn menu-btn" id="menuBtn" aria-label="Menu">☰</button>
     <span class="brand">🌀 Singing Bowl Healer Training 7.0</span>
     <span class="spacer"></span>
-    <span><a href="../index.html">中文</a></span>
+    <span class="lang"><a href="../index.html">中文</a></span>
     <button class="iconbtn" id="themeBtn" aria-label="Toggle theme">🌙</button>
   </div>
-  <div class="wrap">
-    <img src="../assets/social-preview.png" alt="Singing Bowl Healer Training 7.0 cover" style="width:100%;border-radius:12px;border:1px solid var(--line);margin-bottom:18px" />
-    <h1>Singing Bowl Healer Training 7.0 <span style="font-size:18px;color:var(--muted)">(Large-Print Edition)</span></h1>
-    <p class="sub">Free & open-source · Sound Healing / Sound-Therapy Practitioner Training · CC BY-NC-SA 4.0</p>
 
-    <div class="card">
-      <p>This site is the English edition of the open-source repository
-        <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training">singing-bowl-healer-training</a>.
-        It systematically covers <strong>singing-bowl healing, sound healing, and practitioner training</strong>.</p>
-      <a class="btn" href="README.md">📘 English Edition (README)</a>
-      <a class="btn ghost" href="../docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md">📖 中文全文 (Chinese full text)</a>
-    </div>
-
-    <h2>What's inside</h2>
-    <div class="card">
-      <ul>
-        <li><strong>From instrument to wisdom:</strong> Acquaintance → Theory → Practice → Life Wisdom → Natural Therapies.</li>
-        <li><strong>Self-check per chapter:</strong> Learning Objectives, Chapter Summary, and Reflection Questions.</li>
-        <li><strong>Practical toolkit:</strong> meditation guidance scripts and standardized self-assessment scales (Athens Insomnia, SAS, SDS, Ayurvedic).</li>
-        <li><strong>250+ illustrations</strong> in <code>docs/media/</code>.</li>
-        <li><strong>Open collaboration:</strong> CC BY-NC-SA 4.0 — see <a href="../CONTRIBUTING.md">CONTRIBUTING.md</a>.</li>
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <h3>Contents</h3>
+      <input id="search" type="search" placeholder="Search chapters / keywords…" autocomplete="off" />
+      <p class="nav-count" id="navCount"></p>
+      <ul class="nav-tree" id="navTree">
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#singing-bowl-healer-training-70--english-edition" data-text="Singing Bowl Healer Training 7.0 — English Edition">Singing Bowl Healer Training 7.0 — English Edition</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#preface-editors-note" data-text="Preface (Editor's Note)">Preface (Editor's Note)</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#who-this-is-for" data-text="Who This Is For">Who This Is For</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#how-to-use" data-text="How to Use">How to Use</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#healing-safety-notice" data-text="Healing Safety Notice">Healing Safety Notice</a></li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-1--acquainting-with-the-singing-bowl" data-text="Chapter 1 — Acquainting with the Singing Bowl">Chapter 1 — Acquainting with the Singing Bowl</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#learning-objectives-of-this-chapter" data-text="Learning Objectives of This Chapter">Learning Objectives of This Chapter</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-1--what-is-a-bowl-beginner" data-text="Section 1 — What Is a Bowl? (Beginner)">Section 1 — What Is a Bowl? (Beginner)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#111-the-form-of-the-bowl-钵之型" data-text="1.1.1 The Form of the Bowl (钵之型)">1.1.1 The Form of the Bowl (钵之型)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#112-the-name-of-the-bowl-钵之名" data-text="1.1.2 The Name of the Bowl (钵之名)">1.1.2 The Name of the Bowl (钵之名)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#113-the-substance-of-the-bowl-钵之质" data-text="1.1.3 The Substance of the Bowl (钵之质)">1.1.3 The Substance of the Bowl (钵之质)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#114-origins--development" data-text="1.1.4 Origins & Development">1.1.4 Origins & Development</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1141-the-origin-of-the-singing-bowl" data-text="1.1.4.1 The Origin of the Singing Bowl">1.1.4.1 The Origin of the Singing Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1142-tracing-the-bowls-source" data-text="1.1.4.2 Tracing the Bowl's Source">1.1.4.2 Tracing the Bowl's Source</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1143-the-development-of-the-singing-bowl" data-text="1.1.4.3 The Development of the Singing Bowl">1.1.4.3 The Development of the Singing Bowl</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#12-bowl-basics" data-text="1.2 Bowl Basics">1.2 Bowl Basics</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#121-types-of-singing-bowls" data-text="1.2.1 Types of Singing Bowls">1.2.1 Types of Singing Bowls</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#traditional-bowl-categories" data-text="Traditional Bowl Categories">Traditional Bowl Categories</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#jambati" data-text="Jambati">Jambati</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#thadobati" data-text="Thadobati">Thadobati</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#other-traditional-bowls" data-text="Other Traditional Bowls">Other Traditional Bowls</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#modern-bowl-introductions" data-text="Modern Bowl Introductions">Modern Bowl Introductions</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#full-moon-bowl" data-text="Full-Moon Bowl">Full-Moon Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#new-moon-bowl" data-text="New-Moon Bowl">New-Moon Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#bottomless-deep-therapy-bowl" data-text="Bottomless (Deep-Therapy) Bowl">Bottomless (Deep-Therapy) Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#purple-gold-bowl-zijin" data-text="Purple-Gold Bowl (Zijin)">Purple-Gold Bowl (Zijin)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#jiannian-thin-deep-therapy-bowl" data-text="Jiannian® Thin Deep-Therapy Bowl">Jiannian® Thin Deep-Therapy Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#meinl-bronze-bowl-germany" data-text="Meinl Bronze Bowl (Germany)">Meinl Bronze Bowl (Germany)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#taiwanese-bronze-qing" data-text="Taiwanese Bronze Qing">Taiwanese Bronze Qing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#music-bowl" data-text="Music Bowl">Music Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#sanskrit-sound-bowl-fanyin" data-text="Sanskrit-Sound Bowl (Fanyin)">Sanskrit-Sound Bowl (Fanyin)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#dolphin-sound-bowl" data-text="Dolphin-Sound Bowl">Dolphin-Sound Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#taiwanese-yin-qing" data-text="Taiwanese Yin-Qing">Taiwanese Yin-Qing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#machine-made-bowl" data-text="Machine-Made Bowl">Machine-Made Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#khasa-bowl" data-text="Khasa Bowl">Khasa Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#crystal-bowl" data-text="Crystal Bowl">Crystal Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#other-healing-instruments" data-text="Other Healing Instruments">Other Healing Instruments</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#122-making-the-singing-bowl" data-text="1.2.2 Making the Singing Bowl">1.2.2 Making the Singing Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#smelting-mineral-smelting" data-text="Smelting (Mineral Smelting)">Smelting (Mineral Smelting)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#grinding-powder-and-refining-copper" data-text="Grinding Powder and Refining Copper">Grinding Powder and Refining Copper</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#casting-into-shape" data-text="Casting into Shape">Casting into Shape</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#heating-and-forging" data-text="Heating and Forging">Heating and Forging</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#tempering-and-annealing" data-text="Tempering and Annealing">Tempering and Annealing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#grinding-and-polishing" data-text="Grinding and Polishing">Grinding and Polishing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#carving-and-coloring" data-text="Carving and Coloring">Carving and Coloring</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#123-how-to-choose-a-bowl" data-text="1.2.3 How to Choose a Bowl">1.2.3 How to Choose a Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#clarify-the-purpose" data-text="Clarify the Purpose">Clarify the Purpose</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#choose-the-chakra" data-text="Choose the Chakra">Choose the Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#choose-size--color--shape" data-text="Choose Size / Color / Shape">Choose Size / Color / Shape</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#choose-weight" data-text="Choose Weight">Choose Weight</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#preference-first" data-text="Preference First">Preference First</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#personal-experience" data-text="Personal Experience">Personal Experience</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#listen-with-ears-muscles-and-emotion" data-text="Listen with Ears, Muscles, and Emotion">Listen with Ears, Muscles, and Emotion</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#124-identifying-a-singing-bowl" data-text="1.2.4 Identifying a Singing Bowl">1.2.4 Identifying a Singing Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#observation" data-text="Observation">Observation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#striking" data-text="Striking">Striking</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#spinning-the-bowl" data-text="Spinning the Bowl">Spinning the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#decoration-and-flaws" data-text="Decoration and Flaws">Decoration and Flaws</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#125-accessories" data-text="1.2.5 Accessories">1.2.5 Accessories</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#mallet-bowl-striker" data-text="Mallet (Bowl Striker)">Mallet (Bowl Striker)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#rubbing-stick" data-text="Rubbing Stick">Rubbing Stick</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#cushion-ring" data-text="Cushion Ring">Cushion Ring</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#suction-cup" data-text="Suction Cup">Suction Cup</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#anti-slip-mat" data-text="Anti-Slip Mat">Anti-Slip Mat</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#pillow" data-text="Pillow">Pillow</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#eye-pillow" data-text="Eye Pillow">Eye Pillow</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#massage-table--sleep-mat" data-text="Massage Table / Sleep Mat">Massage Table / Sleep Mat</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#yoga-blanket" data-text="Yoga Blanket">Yoga Blanket</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#13-techniques-of-use" data-text="1.3 Techniques of Use">1.3 Techniques of Use</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#131-inviting-the-bowl" data-text="1.3.1 Inviting the Bowl">1.3.1 Inviting the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#132-holding-the-bowl" data-text="1.3.2 Holding the Bowl">1.3.2 Holding the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#133-striking-the-bowl" data-text="1.3.3 Striking the Bowl">1.3.3 Striking the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#134-rubbing-the-bowl" data-text="1.3.4 Rubbing the Bowl">1.3.4 Rubbing the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#135-moving-the-bowl" data-text="1.3.5 Moving the Bowl">1.3.5 Moving the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#136-placing-the-bowl" data-text="1.3.6 Placing the Bowl">1.3.6 Placing the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#137-striking-technique-rhythm-force" data-text="1.3.7 Striking Technique, Rhythm, Force">1.3.7 Striking Technique, Rhythm, Force</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#138-rubbing-angle-speed-force" data-text="1.3.8 Rubbing Angle, Speed, Force">1.3.8 Rubbing Angle, Speed, Force</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#139-stopping-the-sound" data-text="1.3.9 Stopping the Sound">1.3.9 Stopping the Sound</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1310-ting-sha-technique-and-occasions" data-text="1.3.10 Ting-sha Technique and Occasions">1.3.10 Ting-sha Technique and Occasions</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1311-cleaning-and-care-of-the-singing-bowl" data-text="1.3.11 Cleaning and Care of the Singing Bowl">1.3.11 Cleaning and Care of the Singing Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1312-singing-bowl-breath-practice" data-text="1.3.12 Singing-Bowl Breath Practice">1.3.12 Singing-Bowl Breath Practice</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#1313-single-gong-striking-technique" data-text="1.3.13 Single Gong Striking Technique">1.3.13 Single Gong Striking Technique</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-1-summary" data-text="Chapter 1 Summary">Chapter 1 Summary</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#reflection-questions" data-text="Reflection Questions">Reflection Questions</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-2--theoretical-topics" data-text="Chapter 2 — Theoretical Topics">Chapter 2 — Theoretical Topics</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-learning-objectives" data-text="Chapter Learning Objectives">Chapter Learning Objectives</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-1--sound-fundamentals-beginneradvanced" data-text="Section 1 — Sound Fundamentals (Beginner–Advanced)">Section 1 — Sound Fundamentals (Beginner–Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#211-form-and-substance-as-one" data-text="2.1.1 Form and Substance as One">2.1.1 Form and Substance as One</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#212-elements-of-sound" data-text="2.1.2 Elements of Sound">2.1.2 Elements of Sound</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#213-sound-reception" data-text="2.1.3 Sound Reception">2.1.3 Sound Reception</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#214-basic-bowl-tones" data-text="2.1.4 Basic Bowl Tones">2.1.4 Basic Bowl Tones</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2141-the-bowls-pitch" data-text="2.1.4.1 The Bowl's Pitch">2.1.4.1 The Bowl's Pitch</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2142-the-five-viscera-have-sound" data-text="2.1.4.2 The Five Viscera Have Sound">2.1.4.2 The Five Viscera Have Sound</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2143-the-magic-of-overtones" data-text="2.1.4.3 The Magic of Overtones">2.1.4.3 The Magic of Overtones</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2144-the-fifth-interval" data-text="2.1.4.4 The Fifth Interval">2.1.4.4 The Fifth Interval</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-2--vibration-fundamentals-beginneradvanced" data-text="Section 2 — Vibration Fundamentals (Beginner–Advanced)">Section 2 — Vibration Fundamentals (Beginner–Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#221-same-frequency-resonance-wave-vibration" data-text="2.2.1 Same-Frequency Resonance (Wave Vibration)">2.2.1 Same-Frequency Resonance (Wave Vibration)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2211-chakra-same-frequency-energy-field" data-text="2.2.1.1 Chakra Same-Frequency (Energy Field)">2.2.1.1 Chakra Same-Frequency (Energy Field)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2212-what-is-resonance-tuning" data-text="2.2.1.2 What Is Resonance (Tuning)">2.2.1.2 What Is Resonance (Tuning)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#222-physical-vibration-vibration-sensation" data-text="2.2.2 Physical Vibration (Vibration Sensation)">2.2.2 Physical Vibration (Vibration Sensation)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2221-water-in-the-human-body" data-text="2.2.2.1 Water in the Human Body">2.2.2.1 Water in the Human Body</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2222-tissue-systems" data-text="2.2.2.2 Tissue Systems">2.2.2.2 Tissue Systems</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-3--energy-fundamentals-intermediateadvanced" data-text="Section 3 — Energy Fundamentals (Intermediate–Advanced)">Section 3 — Energy Fundamentals (Intermediate–Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#231-the-three-channels-nadis" data-text="2.3.1 The Three Channels (*Nadis*)">2.3.1 The Three Channels (*Nadis*)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2311-the-left-channel" data-text="2.3.1.1 The Left Channel">2.3.1.1 The Left Channel</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2312-the-central-channel" data-text="2.3.1.2 The Central Channel">2.3.1.2 The Central Channel</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2313-the-right-channel" data-text="2.3.1.3 The Right Channel">2.3.1.3 The Right Channel</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2314-the-autonomic-nervous-system" data-text="2.3.1.4 The Autonomic Nervous System">2.3.1.4 The Autonomic Nervous System</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2315-brain-coordination-and-balance" data-text="2.3.1.5 Brain Coordination and Balance">2.3.1.5 Brain Coordination and Balance</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#232-the-seven-chakras" data-text="2.3.2 The Seven Chakras">2.3.2 The Seven Chakras</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2321-the-root-chakra" data-text="2.3.2.1 The Root Chakra">2.3.2.1 The Root Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2322-the-sacral-chakra" data-text="2.3.2.2 The Sacral Chakra">2.3.2.2 The Sacral Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2323-the-solar-plexus-chakra" data-text="2.3.2.3 The Solar Plexus Chakra">2.3.2.3 The Solar Plexus Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2324-the-heart-chakra" data-text="2.3.2.4 The Heart Chakra">2.3.2.4 The Heart Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2325-the-throat-chakra" data-text="2.3.2.5 The Throat Chakra">2.3.2.5 The Throat Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2326-the-brow-chakra" data-text="2.3.2.6 The Brow Chakra">2.3.2.6 The Brow Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2327-the-crown-chakra" data-text="2.3.2.7 The Crown Chakra">2.3.2.7 The Crown Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#233-the-three-great-energies-intermediate-elective" data-text="2.3.3 The Three Great Energies (Intermediate elective)">2.3.3 The Three Great Energies (Intermediate elective)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2331-the-vata-theme" data-text="2.3.3.1 The Vata Theme">2.3.3.1 The Vata Theme</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2332-the-pitta-theme" data-text="2.3.3.2 The Pitta Theme">2.3.3.2 The Pitta Theme</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2333-the-kapha-theme" data-text="2.3.3.3 The Kapha Theme">2.3.3.3 The Kapha Theme</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#234-the-five-great-elements-advanced-elective" data-text="2.3.4 The Five Great Elements (Advanced elective)">2.3.4 The Five Great Elements (Advanced elective)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2341-earth" data-text="2.3.4.1 Earth">2.3.4.1 Earth</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2342-water" data-text="2.3.4.2 Water">2.3.4.2 Water</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2343-fire" data-text="2.3.4.3 Fire">2.3.4.3 Fire</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2344-air" data-text="2.3.4.4 Air">2.3.4.4 Air</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2345-space" data-text="2.3.4.5 Space">2.3.4.5 Space</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#235-scientific-understanding" data-text="2.3.5 Scientific Understanding">2.3.5 Scientific Understanding</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2351-the-nature-of-waves" data-text="2.3.5.1 The Nature of Waves">2.3.5.1 The Nature of Waves</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2352-nikola-tesla" data-text="2.3.5.2 Nikola Tesla">2.3.5.2 Nikola Tesla</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2353-emergence" data-text="2.3.5.3 Emergence">2.3.5.3 Emergence</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2354-energy" data-text="2.3.5.4 Energy">2.3.5.4 Energy</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2355-all-is-number" data-text="2.3.5.5 All Is Number">2.3.5.5 All Is Number</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2356-the-seven-color-rainbow" data-text="2.3.5.6 The Seven-Color Rainbow">2.3.5.6 The Seven-Color Rainbow</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2357-energy-levels" data-text="2.3.5.7 Energy Levels">2.3.5.7 Energy Levels</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2358-human-design" data-text="2.3.5.8 Human Design">2.3.5.8 Human Design</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#236-chakras-and-the-galaxy-extended-elective" data-text="2.3.6 Chakras and the Galaxy (Extended elective)">2.3.6 Chakras and the Galaxy (Extended elective)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2361-jupiter" data-text="2.3.6.1 Jupiter">2.3.6.1 Jupiter</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2362-saturn" data-text="2.3.6.2 Saturn">2.3.6.2 Saturn</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2363-mercury" data-text="2.3.6.3 Mercury">2.3.6.3 Mercury</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2364-sun" data-text="2.3.6.4 Sun">2.3.6.4 Sun</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2365-mars" data-text="2.3.6.5 Mars">2.3.6.5 Mars</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2366-venus" data-text="2.3.6.6 Venus">2.3.6.6 Venus</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2367-moon" data-text="2.3.6.7 Moon">2.3.6.7 Moon</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-4--healing-principles-beginnerintermediateadvanced" data-text="Section 4 — Healing Principles (Beginner–Intermediate–Advanced)">Section 4 — Healing Principles (Beginner–Intermediate–Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#the-singing-bowls-chant--the-sound-from-the-universe" data-text="The Singing Bowl's Chant — "The Sound from the Universe"">The Singing Bowl's Chant — "The Sound from the Universe"</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#241-the-basis-of-sound-waves" data-text="2.4.1 The Basis of Sound (Waves)">2.4.1 The Basis of Sound (Waves)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#242-the-basis-of-vibration-shock" data-text="2.4.2 The Basis of Vibration (Shock)">2.4.2 The Basis of Vibration (Shock)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#243-tuning-the-brainwaves" data-text="2.4.3 Tuning the Brainwaves">2.4.3 Tuning the Brainwaves</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#244-holistic-natural-therapy" data-text="2.4.4 Holistic Natural Therapy">2.4.4 Holistic Natural Therapy</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#245-the-life-value-of-the-singing-bowl-beginnerintermediateadvanced" data-text="2.4.5 The Life Value of the Singing Bowl (Beginner–Intermediate–Advanced)">2.4.5 The Life Value of the Singing Bowl (Beginner–Intermediate–Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#what-causes-our-energy-imbalance" data-text="What Causes Our Energy Imbalance?">What Causes Our Energy Imbalance?</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2451-the-physical-level" data-text="2.4.5.1 The Physical Level">2.4.5.1 The Physical Level</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2452-the-psychological-level" data-text="2.4.5.2 The Psychological Level">2.4.5.2 The Psychological Level</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#2453-the-spiritual-level" data-text="2.4.5.3 The Spiritual Level">2.4.5.3 The Spiritual Level</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-5--chakra-rhythm-beginnerintermediateadvanced" data-text="Section 5 — Chakra Rhythm (Beginner–Intermediate–Advanced)">Section 5 — Chakra Rhythm (Beginner–Intermediate–Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#251-the-navel-chakra-wave" data-text="2.5.1 The Navel-Chakra Wave">2.5.1 The Navel-Chakra Wave</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#252-the-stomach-chakra-wave" data-text="2.5.2 The Stomach-Chakra Wave">2.5.2 The Stomach-Chakra Wave</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#253-the-heart-chakra-wave" data-text="2.5.3 The Heart-Chakra Wave">2.5.3 The Heart-Chakra Wave</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#254-the-three-upper-and-three-lower-chakras" data-text="2.5.4 The Three Upper and Three Lower Chakras">2.5.4 The Three Upper and Three Lower Chakras</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#255-the-melody-of-energy" data-text="2.5.5 The Melody of Energy">2.5.5 The Melody of Energy</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-6--acupoints--meridians-beginnerintermediateadvanced" data-text="Section 6 — Acupoints & Meridians (Beginner–Intermediate–Advanced)">Section 6 — Acupoints & Meridians (Beginner–Intermediate–Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#261-common-acupoints" data-text="2.6.1 Common Acupoints">2.6.1 Common Acupoints</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#262-the-bladder-meridian" data-text="2.6.2 The Bladder Meridian">2.6.2 The Bladder Meridian</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#263-the-spleen--stomach-meridians" data-text="2.6.3 The Spleen & Stomach Meridians">2.6.3 The Spleen & Stomach Meridians</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#264-the-lung-meridian" data-text="2.6.4 The Lung Meridian">2.6.4 The Lung Meridian</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#265-the-gallbladder--liver-meridians" data-text="2.6.5 The Gallbladder & Liver Meridians">2.6.5 The Gallbladder & Liver Meridians</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#266-the-triple-burner-meridian" data-text="2.6.6 The Triple Burner Meridian">2.6.6 The Triple Burner Meridian</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#267-the-pericardium-meridian" data-text="2.6.7 The Pericardium Meridian">2.6.7 The Pericardium Meridian</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#268-the-girdle-vessel-daimai" data-text="2.6.8 The Girdle Vessel (Daimai)">2.6.8 The Girdle Vessel (Daimai)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#269-other-meridians" data-text="2.6.9 Other Meridians">2.6.9 Other Meridians</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-3--practical-operation" data-text="Chapter 3 — Practical Operation">Chapter 3 — Practical Operation</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#learning-objectives-of-this-chapter-1" data-text="Learning Objectives of This Chapter">Learning Objectives of This Chapter</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-1--case-practice" data-text="Section 1 — Case Practice">Section 1 — Case Practice</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#311-aura-clearing--purification-beginner" data-text="3.1.1 Aura Clearing & Purification (Beginner)">3.1.1 Aura Clearing & Purification (Beginner)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#brow-chakra-purification" data-text="Brow-Chakra Purification">Brow-Chakra Purification</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#ren-meridian-purification" data-text="Ren-Meridian Purification">Ren-Meridian Purification</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#du-meridian-purification" data-text="Du-Meridian Purification">Du-Meridian Purification</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#three-channel-purification" data-text="Three-Channel Purification">Three-Channel Purification</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3115-chakra-activation" data-text="3.1.1.5 Chakra Activation">3.1.1.5 Chakra Activation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#312-space-clearing--purification-beginner" data-text="3.1.2 Space Clearing & Purification (Beginner)">3.1.2 Space Clearing & Purification (Beginner)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#techniques-for-field-purification" data-text="Techniques for Field Purification">Techniques for Field Purification</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#making-energy-water" data-text="Making Energy Water">Making Energy Water</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#making-energy-flowers" data-text="Making Energy Flowers">Making Energy Flowers</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#313-single-bowl-healing-cases-intermediate" data-text="3.1.3 Single-Bowl Healing Cases (Intermediate)">3.1.3 Single-Bowl Healing Cases (Intermediate)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#emptying--stress-relief" data-text="Emptying & Stress Relief">Emptying & Stress Relief</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#meditation" data-text="Meditation">Meditation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#intestinal-cleansing--bowel-movement" data-text="Intestinal Cleansing & Bowel Movement">Intestinal Cleansing & Bowel Movement</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#unblocking-shoulder--neck" data-text="Unblocking Shoulder & Neck">Unblocking Shoulder & Neck</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#relieving-dysmenorrhea" data-text="Relieving Dysmenorrhea">Relieving Dysmenorrhea</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#spaceman-healing" data-text=""Spaceman" Healing">"Spaceman" Healing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#314-bladder-meridian-unblocking--detox-intermediateadvanced" data-text="3.1.4 Bladder-Meridian Unblocking & Detox (Intermediate–Advanced)">3.1.4 Bladder-Meridian Unblocking & Detox (Intermediate–Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#315-du-meridian-unblocking-advanced" data-text="3.1.5 Du-Meridian Unblocking (Advanced)">3.1.5 Du-Meridian Unblocking (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#316-heart-chakra-pressure-relief--qi-regulation-intermediate" data-text="3.1.6 Heart-Chakra Pressure Relief & Qi Regulation (Intermediate)">3.1.6 Heart-Chakra Pressure Relief & Qi Regulation (Intermediate)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#317-three-bowl-healing-intermediate" data-text="3.1.7 Three-Bowl Healing (Intermediate)">3.1.7 Three-Bowl Healing (Intermediate)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#318-insomnia--headache-therapy-advanced" data-text="3.1.8 Insomnia & Headache Therapy (Advanced)">3.1.8 Insomnia & Headache Therapy (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#319-womens-gynecological-care-advanced" data-text="3.1.9 Women's Gynecological Care (Advanced)">3.1.9 Women's Gynecological Care (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3110-liver-soothing-qi-regulating-sound-therapy-advanced" data-text="3.1.10 Liver-Soothing Qi-Regulating Sound Therapy (Advanced)">3.1.10 Liver-Soothing Qi-Regulating Sound Therapy (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3111-stomach-regulation-therapy-advanced" data-text="3.1.11 Stomach Regulation Therapy (Advanced)">3.1.11 Stomach Regulation Therapy (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3112-chronic-migraine-advanced" data-text="3.1.12 Chronic Migraine (Advanced)">3.1.12 Chronic Migraine (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3113-simple-lumbar-muscle-strain-sound-therapy-advanced" data-text="3.1.13 Simple Lumbar-Muscle Strain Sound Therapy (Advanced)">3.1.13 Simple Lumbar-Muscle Strain Sound Therapy (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3114-seven-bowl-comprehensive-therapy-advanced" data-text="3.1.14 Seven-Bowl Comprehensive Therapy (Advanced)">3.1.14 Seven-Bowl Comprehensive Therapy (Advanced)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3115-womens-care-categories-advanced-elective" data-text="3.1.15 Women's Care Categories (Advanced Elective)">3.1.15 Women's Care Categories (Advanced Elective)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#ovary--uterus-care" data-text="Ovary & Uterus Care">Ovary & Uterus Care</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#breast-care" data-text="Breast Care">Breast Care</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#facial-care" data-text="Facial Care">Facial Care</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#menopause-regulation" data-text="Menopause Regulation">Menopause Regulation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#menstrual-regulation" data-text="Menstrual Regulation">Menstrual Regulation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#dysmenorrhea-relief" data-text="Dysmenorrhea Relief">Dysmenorrhea Relief</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#techniques-for-easing-the-couple-relationship" data-text="Techniques for Easing the Couple Relationship">Techniques for Easing the Couple Relationship</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#3116-emotional-regulation-categories-advanced-elective" data-text="3.1.16 Emotional Regulation Categories (Advanced Elective)">3.1.16 Emotional Regulation Categories (Advanced Elective)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#depression" data-text="Depression">Depression</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#feeling-wronged" data-text="Feeling Wronged">Feeling Wronged</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#fear--anger" data-text="Fear & Anger">Fear & Anger</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#neurasthenia" data-text="Neurasthenia">Neurasthenia</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-2--singing-bowl-concert-performance-advanced" data-text="Section 2 — Singing Bowl Concert Performance (Advanced)">Section 2 — Singing Bowl Concert Performance (Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#321-hand-purification-ritual" data-text="3.2.1 Hand-Purification Ritual">3.2.1 Hand-Purification Ritual</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#322-venue-setup-for-the-singing-bowl-concert" data-text="3.2.2 Venue Setup for the Singing-Bowl Concert">3.2.2 Venue Setup for the Singing-Bowl Concert</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#323-the-bowl-playing-flow-of-the-music-salon" data-text="3.2.3 The Bowl-Playing Flow of the Music Salon">3.2.3 The Bowl-Playing Flow of the Music Salon</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#324-notes-for-the-music-salon" data-text="3.2.4 Notes for the Music Salon">3.2.4 Notes for the Music Salon</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-3--premium-individual-session-flow-advanced" data-text="Section 3 — Premium Individual Session Flow (Advanced)">Section 3 — Premium Individual Session Flow (Advanced)</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-1--self-energy-protection" data-text="Flow 1 — Self Energy Protection">Flow 1 — Self Energy Protection</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-2--pre-session-communication" data-text="Flow 2 — Pre-Session Communication">Flow 2 — Pre-Session Communication</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-3--healing-field-purification" data-text="Flow 3 — Healing-Field Purification">Flow 3 — Healing-Field Purification</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-4--guided-relaxation-yoga-relaxation" data-text="Flow 4 — Guided Relaxation (Yoga Relaxation)">Flow 4 — Guided Relaxation (Yoga Relaxation)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-5--project-opening" data-text="Flow 5 — Project Opening">Flow 5 — Project Opening</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#back-healing" data-text="Back Healing">Back Healing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#front-healing" data-text="Front Healing">Front Healing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-6--withdrawing-the-bowls" data-text="Flow 6 — Withdrawing the Bowls">Flow 6 — Withdrawing the Bowls</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-7--awakening" data-text="Flow 7 — Awakening">Flow 7 — Awakening</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#flow-8--sharing-the-healing-experience" data-text="Flow 8 — Sharing the Healing Experience">Flow 8 — Sharing the Healing Experience</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-summary" data-text="Chapter Summary">Chapter Summary</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#reflection-questions-1" data-text="Reflection Questions">Reflection Questions</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-4--life-wisdom-of-the-singing-bowl-advanced" data-text="Chapter 4 — Life Wisdom of the Singing Bowl (Advanced)">Chapter 4 — Life Wisdom of the Singing Bowl (Advanced)</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#learning-objectives-of-this-chapter-2" data-text="Learning Objectives of This Chapter">Learning Objectives of This Chapter</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#the-bowl--dao-method-technique-instrument" data-text="The Bowl — Dao, Method, Technique, Instrument">The Bowl — Dao, Method, Technique, Instrument</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-1--outlook-on-life" data-text="Section 1 — Outlook on Life">Section 1 — Outlook on Life</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#411-emptiness--the-human-is-the-bowl" data-text="4.1.1 Emptiness | The Human Is the Bowl">4.1.1 Emptiness | The Human Is the Bowl</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#412-autonomy--practice" data-text="4.1.2 Autonomy | Practice">4.1.2 Autonomy | Practice</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#413-innate--complete" data-text="4.1.3 Innate | Complete">4.1.3 Innate | Complete</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#414-self-reliance--altruism" data-text="4.1.4 Self-Reliance | Altruism">4.1.4 Self-Reliance | Altruism</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#415-moderation--middle-way" data-text="4.1.5 Moderation | Middle Way">4.1.5 Moderation | Middle Way</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#416-harmony--order" data-text="4.1.6 Harmony | Order">4.1.6 Harmony | Order</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#417-life--mindfulness" data-text="4.1.7 Life | Mindfulness">4.1.7 Life | Mindfulness</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#418-life--scale" data-text="4.1.8 Life | Scale">4.1.8 Life | Scale</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#419-life--pixels" data-text="4.1.9 Life | Pixels">4.1.9 Life | Pixels</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-2--worldview" data-text="Section 2 — Worldview">Section 2 — Worldview</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#albert-einstein--the-world-as-i-see-it" data-text="Albert Einstein — "The World As I See It"">Albert Einstein — "The World As I See It"</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#421-what-is-healing" data-text="4.2.1 What Is Healing">4.2.1 What Is Healing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4211-what-is-treatment" data-text="4.2.1.1 What Is Treatment?">4.2.1.1 What Is Treatment?</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4212-what-is-healing" data-text="4.2.1.2 What Is Healing?">4.2.1.2 What Is Healing?</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4213-the-occurrence-of-healing" data-text="4.2.1.3 The Occurrence of Healing">4.2.1.3 The Occurrence of Healing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#422-wisdom-of-the-i-ching" data-text="4.2.2 Wisdom of the I Ching">4.2.2 Wisdom of the I Ching</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#423-tao-te-ching" data-text="4.2.3 Tao Te Ching">4.2.3 Tao Te Ching</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#424-buddhist-wisdom" data-text="4.2.4 Buddhist Wisdom">4.2.4 Buddhist Wisdom</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#425-brain-science" data-text="4.2.5 Brain Science">4.2.5 Brain Science</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#426-energy-manifestation" data-text="4.2.6 Energy Manifestation">4.2.6 Energy Manifestation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#427-huangdi-neijing-yellow-emperors-inner-canon" data-text="4.2.7 Huangdi Neijing (Yellow Emperor's Inner Canon)">4.2.7 Huangdi Neijing (Yellow Emperor's Inner Canon)</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-3--values" data-text="Section 3 — Values">Section 3 — Values</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#the-power-of-the-mind-xin-zhi-li" data-text=""The Power of the Mind" (Xin Zhi Li)">"The Power of the Mind" (Xin Zhi Li)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#431-inner-abundance-love-overflowing" data-text="4.3.1 Inner Abundance, Love Overflowing">4.3.1 Inner Abundance, Love Overflowing</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#432-growth-mindset" data-text="4.3.2 Growth Mindset">4.3.2 Growth Mindset</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#433-state-of-perfection" data-text="4.3.3 State of Perfection">4.3.3 State of Perfection</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#434-life-blossoming" data-text="4.3.4 Life Blossoming">4.3.4 Life Blossoming</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#section-4--basic-professional-requirements-for-healers" data-text="Section 4 — Basic Professional Requirements for Healers">Section 4 — Basic Professional Requirements for Healers</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#441-appearance-requirements" data-text="4.4.1 Appearance Requirements">4.4.1 Appearance Requirements</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#442-professional-requirements" data-text="4.4.2 Professional Requirements">4.4.2 Professional Requirements</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#443-mind-intention-and-vows" data-text="4.4.3 Mind-Intention and Vows">4.4.3 Mind-Intention and Vows</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#444-ethical-considerations" data-text="4.4.4 Ethical Considerations">4.4.4 Ethical Considerations</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#445-the-healers-state" data-text="4.4.5 The Healer's State">4.4.5 The Healer's State</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#446-the-healed-persons-state" data-text="4.4.6 The Healed Person's State">4.4.6 The Healed Person's State</a></li>
+            </ul>
+          </li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#45-healers-vital-energy-self-restoration" data-text="4.5 Healer's Vital-Energy Self-Restoration">4.5 Healer's Vital-Energy Self-Restoration</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#practitioner-levels-beginnerintermediateadvanced" data-text="Practitioner Levels: Beginner–Intermediate–Advanced">Practitioner Levels: Beginner–Intermediate–Advanced</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#451-three-channel-balance" data-text="4.5.1 Three-Channel Balance">4.5.1 Three-Channel Balance</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4511-yin-yang-breathing-method" data-text="4.5.1.1 Yin-Yang Breathing Method">4.5.1.1 Yin-Yang Breathing Method</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4512-moon-breathing-method" data-text="4.5.1.2 Moon Breathing Method">4.5.1.2 Moon Breathing Method</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4513-sun-breathing-method" data-text="4.5.1.3 Sun Breathing Method">4.5.1.3 Sun Breathing Method</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4514-the-six-syllable-breathing-liu-zi-jue" data-text="4.5.1.4 The Six-Syllable Breathing (Liu Zi Jue)">4.5.1.4 The Six-Syllable Breathing (Liu Zi Jue)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#452-taiji-fixed-stake-taiji-ding-zhuang" data-text="4.5.2 Taiji Fixed Stake (Taiji Ding Zhuang)">4.5.2 Taiji Fixed Stake (Taiji Ding Zhuang)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4521-standing-stake-zhan-zhuang" data-text="4.5.2.1 Standing Stake (Zhan Zhuang)">4.5.2.1 Standing Stake (Zhan Zhuang)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4522-sitting-stake-jing-zuo" data-text="4.5.2.2 Sitting Stake (Jing Zuo)">4.5.2.2 Sitting Stake (Jing Zuo)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4523-lying-stake-wo-zhuang" data-text="4.5.2.3 Lying Stake (Wo Zhuang)">4.5.2.3 Lying Stake (Wo Zhuang)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#453-meridian-movement" data-text="4.5.3 Meridian Movement">4.5.3 Meridian Movement</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4531-the-eight-brocades-baduanjin" data-text="4.5.3.1 The Eight Brocades (Baduanjin)">4.5.3.1 The Eight Brocades (Baduanjin)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4532-meridian-patting" data-text="4.5.3.2 Meridian Patting">4.5.3.2 Meridian Patting</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4533-shaking-the-mountain-rocking-the-sea-yao-shan-huang-hai" data-text="4.5.3.3 Shaking the Mountain, Rocking the Sea (Yao Shan Huang Hai)">4.5.3.3 Shaking the Mountain, Rocking the Sea (Yao Shan Huang Hai)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#454-yoga-practice" data-text="4.5.4 Yoga Practice">4.5.4 Yoga Practice</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4541-classic-sun-salutation" data-text="4.5.4.1 Classic Sun Salutation">4.5.4.1 Classic Sun Salutation</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4542-yin-yoga" data-text="4.5.4.2 Yin Yoga">4.5.4.2 Yin Yoga</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#455-mantra-chanting" data-text="4.5.5 Mantra Chanting">4.5.5 Mantra Chanting</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4551-the-yoga-sacred-sound-om" data-text="4.5.5.1 The Yoga Sacred Sound Om">4.5.5.1 The Yoga Sacred Sound Om</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4552-the-great-bright-mantra-mani-mantra" data-text="4.5.5.2 The Great Bright Mantra (Mani Mantra)">4.5.5.2 The Great Bright Mantra (Mani Mantra)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4553-the-green-tara-mantra" data-text="4.5.5.3 The Green Tara Mantra">4.5.5.3 The Green Tara Mantra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4554-the-hundred-syllable-mantra-vajrasattva" data-text="4.5.5.4 The Hundred-Syllable Mantra (Vajrasattva)">4.5.5.4 The Hundred-Syllable Mantra (Vajrasattva)</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#4555-chakra-vowels" data-text="4.5.5.5 Chakra Vowels">4.5.5.5 Chakra Vowels</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-summary-1" data-text="Chapter Summary">Chapter Summary</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#reflection-questions-2" data-text="Reflection Questions">Reflection Questions</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-5--natural-therapies" data-text="Chapter 5 — Natural Therapies">Chapter 5 — Natural Therapies</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#learning-objectives-of-this-chapter-3" data-text="Learning Objectives of This Chapter">Learning Objectives of This Chapter</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#51-breath" data-text="5.1 Breath">5.1 Breath</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#52-yoga" data-text="5.2 Yoga">5.2 Yoga</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#53-aroma" data-text="5.3 Aroma">5.3 Aroma</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#first-chakra" data-text="First Chakra">First Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#second-chakra" data-text="Second Chakra">Second Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#third-chakra" data-text="Third Chakra">Third Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#fourth-chakra" data-text="Fourth Chakra">Fourth Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#fifth-chakra" data-text="Fifth Chakra">Fifth Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#sixth-chakra" data-text="Sixth Chakra">Sixth Chakra</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#seventh-chakra" data-text="Seventh Chakra">Seventh Chakra</a></li>
+            </ul>
+          </li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#54-singing-bowl" data-text="5.4 Singing Bowl">5.4 Singing Bowl</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#55-music" data-text="5.5 Music">5.5 Music</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#56-crystal" data-text="5.6 Crystal">5.6 Crystal</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#57-diet" data-text="5.7 Diet">5.7 Diet</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#58-incense" data-text="5.8 Incense">5.8 Incense</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#59-meditation" data-text="5.9 Meditation">5.9 Meditation</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#510-qigong" data-text="5.10 Qigong">5.10 Qigong</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#511-others" data-text="5.11 Others">5.11 Others</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-summary-2" data-text="Chapter Summary">Chapter Summary</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#reflection-questions-3" data-text="Reflection Questions">Reflection Questions</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
+      <details class="chap" open>
+        <summary><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#appendices" data-text="Appendices">Appendices</a></summary>
+        <ul class="sub">
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#learning-objectives-of-this-chapter-4" data-text="Learning Objectives of This Chapter">Learning Objectives of This Chapter</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#meditation-guidance-words" data-text="Meditation Guidance Words">Meditation Guidance Words</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#seated-guidance" data-text="Seated Guidance">Seated Guidance</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#lying-guidance" data-text="Lying Guidance">Lying Guidance</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#exit-guidance" data-text="Exit Guidance">Exit Guidance</a></li>
+            </ul>
+          </li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#relaxation-guidance-words" data-text="Relaxation Guidance Words">Relaxation Guidance Words</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#athens-insomnia-scale" data-text="Athens Insomnia Scale">Athens Insomnia Scale</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#self-rating-anxiety-scale-sas" data-text="Self-Rating Anxiety Scale (SAS)">Self-Rating Anxiety Scale (SAS)</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#self-rating-depression-scale-sds" data-text="Self-Rating Depression Scale (SDS)">Self-Rating Depression Scale (SDS)</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#ayurvedic-energy-constitution-scale" data-text="Ayurvedic Energy Constitution Scale">Ayurvedic Energy Constitution Scale</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#glossary" data-text="Glossary">Glossary</a></li>
+          <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chakra-quick-reference" data-text="Chakra Quick Reference">Chakra Quick Reference</a></li>
+          <li class="nav-branch">
+            <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#references" data-text="References">References</a>
+            <ul class="sub">
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#chapter-summary-3" data-text="Chapter Summary">Chapter Summary</a></li>
+              <li class="nav-leaf"><a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md#reflection-questions-4" data-text="Reflection Questions">Reflection Questions</a></li>
+            </ul>
+          </li>
+        </ul>
+      </details>
       </ul>
-    </div>
+    </aside>
 
-    <h2>Keywords</h2>
-    <div>
-      <span class="kw">Singing Bowl</span><span class="kw">Sound Healing</span><span class="kw">Sound Therapy Training</span>
-      <span class="kw">Chakra Healing</span><span class="kw">Tibetan Singing Bowl</span><span class="kw">Relaxation</span>
-      <span class="kw">Sleep & Stress Relief</span><span class="kw">颂钵疗愈</span><span class="kw">声音疗愈</span>
-    </div>
+    <main class="main">
+      <div class="hero">
+        <img src="../assets/social-preview.jpg" alt="Singing Bowl Healer Training 7.0 cover" />
+      </div>
+      <h1>Singing Bowl Healer Training 7.0 <span style="font-size:18px;color:var(--muted)">(Large-Print Edition)</span></h1>
+      <p class="sub">Free &amp; open-source · Sound Healing / Sound-Therapy Practitioner Training · CC BY-NC-SA 4.0</p>
 
-    <h2>License</h2>
-    <div class="card">
-      <p>This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
-      (Attribution–NonCommercial–ShareAlike). ✅ Free to read, download, share, teach; ✅ adapt (same license); ❌ not for commercial use.</p>
-      <p style="color:#a05;font-size:14px">⚠️ Disclaimer: content is for learning and training only; it is not medical advice and cannot replace professional care.</p>
-    </div>
+      <div class="card">
+        <p>This site is the English edition of the open-source repository
+          <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training">singing-bowl-healer-training</a>.
+          It systematically covers <strong>singing-bowl healing, sound healing, and practitioner training</strong>.</p>
+        <a class="btn" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/book.md">📘 Read the English Manual</a>
+        <a class="btn ghost" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/en/README.md">📄 README</a>
+        <a class="btn ghost" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md">📖 中文全文</a>
+        <a class="btn ghost" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/archive/refs/heads/main.zip">⬇️ Download</a>
+      </div>
 
-    <footer>© 2026 Runze (WuGanLiuJue) · JianNian Singing-Bowl Sound Therapy Center · Hosted on GitHub Pages</footer>
+      <h2>What's inside</h2>
+      <div class="card">
+        <ul>
+          <li><strong>From instrument to wisdom:</strong> Acquaintance → Theory → Practice → Life Wisdom → Natural Therapies.</li>
+          <li><strong>Self-check per chapter:</strong> Learning Objectives, Chapter Summary, and Reflection Questions.</li>
+          <li><strong>Practical toolkit:</strong> meditation guidance scripts and standardized self-assessment scales (Athens Insomnia, SAS, SDS, Ayurvedic).</li>
+          <li><strong>250+ illustrations</strong> in <code>docs/media/</code>.</li>
+          <li><strong>Open collaboration:</strong> CC BY-NC-SA 4.0 — see <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a>.</li>
+        </ul>
+      </div>
+
+      <h2>Keywords</h2>
+      <div>
+        <span class="kw">Singing Bowl</span><span class="kw">Sound Healing</span><span class="kw">Sound Therapy Training</span>
+        <span class="kw">Chakra Healing</span><span class="kw">Tibetan Singing Bowl</span><span class="kw">Relaxation</span>
+        <span class="kw">Sleep &amp; Stress Relief</span><span class="kw">颂钵疗愈</span><span class="kw">声音疗愈</span>
+      </div>
+
+      <h2>License</h2>
+      <div class="card">
+        <p>This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+        (Attribution–NonCommercial–ShareAlike). ✅ Free to read, download, share, teach; ✅ adapt (same license); ❌ not for commercial use.</p>
+        <p style="color:#a05;font-size:14px">⚠️ Disclaimer: content is for learning and training only; it is not medical advice and cannot replace professional care.</p>
+      </div>
+
+      <footer>© 2026 Runze (WuGanLiuJue) · JianNian Singing-Bowl Sound Therapy Center · Hosted on GitHub Pages</footer>
+    </main>
   </div>
+
   <script>
-    var b=document.getElementById('themeBtn');var s=localStorage.getItem('sbt-theme');
-    if(s)document.documentElement.setAttribute('data-theme',s);
-    function ic(){b.textContent=document.documentElement.getAttribute('data-theme')==='dark'?'☀️':'🌙';}ic();
-    b.onclick=function(){var c=document.documentElement.getAttribute('data-theme');var n=c==='dark'?'light':'dark';
-      document.documentElement.setAttribute('data-theme',n);localStorage.setItem('sbt-theme',n);ic();};
+    // theme toggle
+    var themeBtn = document.getElementById('themeBtn');
+    var saved = localStorage.getItem('sbt-theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    function syncIcon(){ themeBtn.textContent = document.documentElement.getAttribute('data-theme')==='dark' ? '☀️' : '🌙'; }
+    syncIcon();
+    themeBtn.onclick = function(){
+      var cur = document.documentElement.getAttribute('data-theme');
+      var next = cur==='dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('sbt-theme', next); syncIcon();
+    };
+    // mobile menu
+    var menuBtn = document.getElementById('menuBtn');
+    var sidebar = document.getElementById('sidebar');
+    menuBtn.onclick = function(){ sidebar.classList.toggle('open'); };
+    document.querySelector('.main').addEventListener('click', function(){ sidebar.classList.remove('open'); });
+    // search filter
+    var search = document.getElementById('search');
+    var tree = document.getElementById('navTree');
+    var allItems = Array.prototype.slice.call(tree.querySelectorAll('li'));
+    var countEl = document.getElementById('navCount');
+    function applyFilter(q){
+      q = q.trim().toLowerCase();
+      var visible = 0;
+      allItems.forEach(function(li){
+        var a = li.querySelector('a');
+        var t = (a ? a.getAttribute('data-text')||a.textContent : '').toLowerCase();
+        var hit = !q || t.indexOf(q) !== -1;
+        li.style.display = hit ? '' : 'none';
+        if (hit) visible++;
+        if (q){
+          var d = li.closest('details');
+          if (d && hit) d.open = true;
+        }
+      });
+      countEl.textContent = q ? (visible + ' matches') : '';
+    }
+    search.addEventListener('input', function(){ applyFilter(this.value); });
   </script>
 </body>
 </html>

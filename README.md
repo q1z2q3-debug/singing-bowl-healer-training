@@ -59,7 +59,7 @@ singing-bowl-healer-training/
 │   ├── build_landing.py         # 由正文标题生成落地页导航/搜索
 │   └── check_integrity.py       # 校验残留 HTML、表格列数一致性
 ├── assets/
-│   ├── social-preview.png       # 社交分享预览图
+│   ├── social-preview.jpg       # 社交分享预览图
 │   └── wechat-qrcode.jpg        # 微信联系二维码
 ├── index.html                   # 中文落地页（GitHub Pages 入口）
 ├── CONTRIBUTING.md              # 贡献指南

@@ -1,135 +1,119 @@
 # -*- coding: utf-8 -*-
-"""Generate an upgraded docs landing page (sidebar nav + search + dark mode + mobile)
-from the textbook markdown's heading hierarchy."""
-import io, re, json
+"""Generate the zh/en docs landing pages (sidebar nav + search + dark mode + mobile)
+from each textbook markdown's heading hierarchy.
 
-MD = "docs/颂钵疗愈师培训7.0.md"
-BASE = ("https://github.com/q1z2q3-debug/singing-bowl-healer-training/blob/main/"
-        "docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md")
+Anchors follow GitHub's slugger exactly: lowercase, drop punctuation/symbols
+(keep letters incl. CJK, numbers, '-', '_'), spaces -> '-', '-1/-2' de-dup,
+NO collapsing of consecutive hyphens ("A — B" -> "a--b").
+Run from the repo root:  python3 scripts/build_landing.py
+"""
+import io, re, json, unicodedata
+
+REPO = "https://github.com/q1z2q3-debug/singing-bowl-healer-training"
+ZH_MD = "docs/颂钵疗愈师培训7.0.md"
+EN_MD = "en/book.md"
+ZH_BASE = REPO + "/blob/main/docs/%E9%A2%82%E9%92%B5%E7%96%97%E6%84%88%E5%B8%88%E5%9F%B9%E8%AE%AD7.0.md"
+EN_BASE = REPO + "/blob/main/en/book.md"
+EN_README = REPO + "/blob/main/en/README.md"
+CONTRIBUTING = REPO + "/blob/main/CONTRIBUTING.md"
+ZIP = REPO + "/archive/refs/heads/main.zip"
+
 
 def slug(text):
-    s = text.lower()
-    # keep a-z 0-9 - CJK; drop everything else (incl. full-width punctuation)
-    s = re.sub(r"[^a-z0-9\-一-鿿㐀-䶿 ]", "", s)
-    s = s.replace(" ", "-")
-    s = re.sub(r"-+", "-", s).strip("-")
-    return s
+    s = text.strip().lower()
+    out = []
+    for ch in s:
+        if ch == " ":
+            out.append(" ")
+        elif ch in "-_":
+            out.append(ch)
+        elif unicodedata.category(ch)[0] in ("L", "N"):
+            out.append(ch)
+    return "".join(out).replace(" ", "-")
 
-# Parse headings
-headings = []  # (level, text, anchor)
-seen = {}
-with io.open(MD, encoding="utf-8") as f:
-    for line in f:
-        m = re.match(r"^(#{1,6})\s+(.*?)\s*$", line)
-        if not m:
-            continue
-        level = len(m.group(1))
-        text = m.group(2).strip()
-        if text == "目录":
-            continue
-        a = slug(text)
-        # GitHub de-dup: append -1, -2 ... on collision
-        if a in seen:
-            seen[a] += 1
-            a = "%s-%d" % (a, seen[a])
-        else:
-            seen[a] = 0
-        headings.append((level, text, a))
 
-# Build tree: H1 = chapter; H2 = section; H3 = subsection.
-# H2 before first H1 -> synthetic 前言 group.
+def parse_headings(md):
+    headings = []  # (level, text, anchor)
+    seen = {}
+    with io.open(md, encoding="utf-8") as f:
+        for line in f:
+            m = re.match(r"^(#{1,6})\s+(.*?)\s*$", line)
+            if not m:
+                continue
+            level = len(m.group(1))
+            text = m.group(2).strip()
+            if text == "目录":
+                continue
+            a = slug(text)
+            if a in seen:  # GitHub de-dup: append -1, -2 ... on collision
+                seen[a] += 1
+                a = "%s-%d" % (a, seen[a])
+            else:
+                seen[a] = 0
+            headings.append((level, text, a))
+    return headings
+
+
 class Node:
     def __init__(self, level, text, anchor):
         self.level = level; self.text = text; self.anchor = anchor
         self.children = []
 
-roots = []
-front = Node(1, "前言 · Front Matter", "")
-has_front = False
-chapter = None
-section = None
-search_index = []
 
-for (lvl, txt, anc) in headings:
-    link = "%s#%s" % (BASE, anc)
-    search_index.append({"t": txt, "a": anc, "l": lvl})
-    if lvl == 1:
-        chapter = Node(1, txt, anc); roots.append(chapter); section = None
-    elif lvl == 2:
-        node = Node(2, txt, anc)
-        if chapter is None:
-            if not has_front:
-                roots.append(front); has_front = True
-            front.children.append(node)
+def build_tree(headings, front_label):
+    """H1 = chapter; H2 = section; H3+ = subsection.
+    H2 before the first H1 -> synthetic front-matter group."""
+    roots = []
+    front = Node(1, front_label, "")
+    has_front = False
+    chapter = None
+    section = None
+    search_index = []
+    for (lvl, txt, anc) in headings:
+        search_index.append({"t": txt, "a": anc, "l": lvl})
+        if lvl == 1:
+            chapter = Node(1, txt, anc); roots.append(chapter); section = None
+        elif lvl == 2:
+            node = Node(2, txt, anc)
+            if chapter is None:
+                if not has_front:
+                    roots.append(front); has_front = True
+                front.children.append(node)
+            else:
+                chapter.children.append(node)
+            section = node
         else:
-            chapter.children.append(node)
-        section = node
-    elif lvl >= 3:
-        node = Node(lvl, txt, anc)
-        parent = section if section is not None else (chapter if chapter is not None else front)
-        if parent is None:
-            parent = front
-        parent.children.append(node)
+            node = Node(lvl, txt, anc)
+            parent = section if section is not None else (
+                chapter if chapter is not None else front)
+            parent.children.append(node)
+    return roots, search_index
 
-def render(node, depth=0):
+
+def render(node, base, depth=0):
     pad = "  " * depth
     if node.level == 1:
         if not node.children:
             return '%s<li class="nav-leaf"><a href="%s#%s" data-text="%s">%s</a></li>' % (
-                pad, BASE, node.anchor, node.text, node.text)
-        inner = "\n".join(render(c, depth + 2) for c in node.children)
+                pad, base, node.anchor, node.text, node.text)
+        inner = "\n".join(render(c, base, depth + 2) for c in node.children)
         return ('%s<details class="chap" open>\n'
                 '%s  <summary><a href="%s#%s" data-text="%s">%s</a></summary>\n'
                 '%s  <ul class="sub">\n%s\n%s  </ul>\n'
-                '%s</details>') % (pad, pad, BASE, node.anchor, node.text, node.text,
+                '%s</details>') % (pad, pad, base, node.anchor, node.text, node.text,
                                     pad, inner, pad, pad)
-    else:
-        if not node.children:
-            return '%s<li class="nav-leaf"><a href="%s#%s" data-text="%s">%s</a></li>' % (
-                pad, BASE, node.anchor, node.text, node.text)
-        inner = "\n".join(render(c, depth + 2) for c in node.children)
-        return ('%s<li class="nav-branch">\n'
-                '%s  <a href="%s#%s" data-text="%s">%s</a>\n'
-                '%s  <ul class="sub">\n%s\n%s  </ul>\n'
-                '%s</li>') % (pad, pad, BASE, node.anchor, node.text, node.text,
-                              pad, inner, pad, pad)
+    if not node.children:
+        return '%s<li class="nav-leaf"><a href="%s#%s" data-text="%s">%s</a></li>' % (
+            pad, base, node.anchor, node.text, node.text)
+    inner = "\n".join(render(c, base, depth + 2) for c in node.children)
+    return ('%s<li class="nav-branch">\n'
+            '%s  <a href="%s#%s" data-text="%s">%s</a>\n'
+            '%s  <ul class="sub">\n%s\n%s  </ul>\n'
+            '%s</li>') % (pad, pad, base, node.anchor, node.text, node.text,
+                          pad, inner, pad, pad)
 
-nav_html = "\n".join(render(r, 3) for r in roots)
-search_json = json.dumps(search_index, ensure_ascii=False)
 
-HTML = """<!DOCTYPE html>
-<html lang="zh-CN" data-theme="light">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>颂钵疗愈师培训 7.0（大字版）· 免费开源声音疗愈 / 音疗师培训教材</title>
-  <meta name="description" content="免费开源的《颂钵疗愈师培训 7.0（大字版）》教材：系统讲解颂钵疗愈、声音疗愈、音疗师培训，涵盖颂钵技法、声音与振动理论、脉轮经络、个案实操与自然疗法。CC BY-NC-SA 4.0 协议。" />
-  <meta name="keywords" content="颂钵疗愈师培训,声音疗愈,音疗师培训,颂钵教程,脉轮音疗,Tibetan Singing Bowl,Sound Healing,Sound Therapy Training,Chakra Healing" />
-  <meta name="author" content="润泽（五感六觉）" />
-  <meta name="robots" content="index, follow" />
-  <meta property="og:type" content="website" />
-  <meta property="og:title" content="颂钵疗愈师培训 7.0（大字版）· 免费开源教材" />
-  <meta property="og:description" content="系统、免费、可传播的声音疗愈与音疗师培训教程。涵盖颂钵技法、理论、脉轮经络与实操。" />
-  <meta property="og:locale" content="zh_CN" />
-  <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
-  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
-  <meta name="twitter:card" content="summary_large_image" />
-  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.png" />
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Course",
-    "name": "颂钵疗愈师培训 7.0（大字版）",
-    "description": "系统讲解颂钵疗愈与声音疗愈的免费开源培训教材，涵盖颂钵技法、声音与振动理论、脉轮经络、个案实操与自然疗法。",
-    "inLanguage": "zh-CN",
-    "provider": { "@type": "Organization", "name": "五感六觉 · 简念颂钵音疗中心",
-                  "sameAs": "https://github.com/q1z2q3-debug/singing-bowl-healer-training" },
-    "educationalLevel": "初学者到高级",
-    "teaches": ["颂钵技法", "声音疗愈", "脉轮与经络", "个案实操", "疗愈师职业素养"],
-    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
-  }
-  </script>
-  <style>
+CSS = """
     :root{
       --bg:#f7f4ee; --ink:#2b2622; --muted:#7a7066; --accent:#8a6d3b; --line:#e5dccb;
       --card:#ffffff; --side:#fbf8f2; --hover:#efe7d6;
@@ -194,6 +178,45 @@ HTML = """<!DOCTYPE html>
       .sidebar.open{transform:translateX(0)}
       .main{padding:22px 16px 70px}
     }
+"""
+
+ZH_HTML = """<!DOCTYPE html>
+<html lang="zh-CN" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>颂钵疗愈师培训 7.0（大字版）· 免费开源声音疗愈 / 音疗师培训教材</title>
+  <meta name="description" content="免费开源的《颂钵疗愈师培训 7.0（大字版）》教材：系统讲解颂钵疗愈、声音疗愈、音疗师培训，涵盖颂钵技法、声音与振动理论、脉轮经络、个案实操与自然疗法。CC BY-NC-SA 4.0 协议。" />
+  <meta name="keywords" content="颂钵疗愈师培训,声音疗愈,音疗师培训,颂钵教程,脉轮音疗,Tibetan Singing Bowl,Sound Healing,Sound Therapy Training,Chakra Healing" />
+  <meta name="author" content="润泽（五感六觉）" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <link rel="alternate" hreflang="zh-CN" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <link rel="alternate" hreflang="en" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
+  <link rel="alternate" hreflang="x-default" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="颂钵疗愈师培训 7.0（大字版）· 免费开源教材" />
+  <meta property="og:description" content="系统、免费、可传播的声音疗愈与音疗师培训教程。涵盖颂钵技法、理论、脉轮经络与实操。" />
+  <meta property="og:locale" content="zh_CN" />
+  <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "颂钵疗愈师培训 7.0（大字版）",
+    "description": "系统讲解颂钵疗愈与声音疗愈的免费开源培训教材，涵盖颂钵技法、声音与振动理论、脉轮经络、个案实操与自然疗法。",
+    "inLanguage": "zh-CN",
+    "provider": { "@type": "Organization", "name": "五感六觉 · 简念颂钵音疗中心",
+                  "sameAs": "https://github.com/q1z2q3-debug/singing-bowl-healer-training" },
+    "educationalLevel": "初学者到高级",
+    "teaches": ["颂钵技法", "声音疗愈", "脉轮与经络", "个案实操", "疗愈师职业素养"],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  }
+  </script>
+  <style>__CSS__
   </style>
 </head>
 <body>
@@ -217,7 +240,7 @@ __NAV__
 
     <main class="main">
       <div class="hero">
-        <img src="assets/social-preview.png" alt="颂钵疗愈师培训 7.0 封面" />
+        <img src="assets/social-preview.jpg" alt="颂钵疗愈师培训 7.0 封面" />
       </div>
       <h1>颂钵疗愈师培训 7.0（大字版）</h1>
       <p class="sub">免费开源 · 声音疗愈 / 音疗师培训教材 · CC BY-NC-SA 4.0</p>
@@ -227,7 +250,7 @@ __NAV__
           <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training">singing-bowl-healer-training</a>，
           收录《颂钵疗愈师培训 7.0（大字版）》完整 Markdown 教材，系统讲解<strong>颂钵疗愈、声音疗愈与音疗师培训</strong>。</p>
         <a class="btn" href="__BASE__">📖 在线阅读教材</a>
-        <a class="btn ghost" href="https://github.com/q1z2q3-debug/singing-bowl-healer-training/archive/refs/heads/main.zip">⬇️ 下载仓库</a>
+        <a class="btn ghost" href="__ZIP__">⬇️ 下载仓库</a>
       </div>
 
       <h2>教材亮点</h2>
@@ -267,7 +290,6 @@ __NAV__
   </div>
 
   <script>
-    var BASE = "__BASE__";
     // theme toggle
     var themeBtn = document.getElementById('themeBtn');
     var saved = localStorage.getItem('sbt-theme');
@@ -312,10 +334,173 @@ __NAV__
 </html>
 """
 
-HTML = HTML.replace("__NAV__", nav_html)
-HTML = HTML.replace("__BASE__", BASE)
-with io.open("index.html", "w", encoding="utf-8") as f:
-    f.write(HTML)
-print("nav items:", len(search_index))
-print("root nodes:", len(roots))
-print("wrote index.html")
+EN_HTML = """<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Singing Bowl Healer Training 7.0 · Free Open-Source Sound Healing Manual</title>
+  <meta name="description" content="A free, open-source training manual for singing-bowl healing, sound healing, and sound-therapy practitioner training — covering bowl techniques, sound & vibration theory, chakras & meridians, hands-on practice, and natural therapies. CC BY-NC-SA 4.0." />
+  <meta name="keywords" content="Singing Bowl Healer Training,Sound Healing,Sound Therapy Training,Tibetan Singing Bowl,Chakra Healing,Singing Bowl Course,Relaxation,Sleep & Stress Relief,颂钵疗愈,声音疗愈" />
+  <meta name="author" content="Runze (WuGanLiuJue)" />
+  <meta name="robots" content="index, follow" />
+  <link rel="canonical" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
+  <link rel="alternate" hreflang="zh-CN" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <link rel="alternate" hreflang="en" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
+  <link rel="alternate" hreflang="x-default" href="https://q1z2q3-debug.github.io/singing-bowl-healer-training/" />
+  <meta property="og:type" content="website" />
+  <meta property="og:title" content="Singing Bowl Healer Training 7.0 · Open-Source Manual" />
+  <meta property="og:description" content="A systematic, free, shareable manual for sound healing and singing-bowl practitioner training." />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:url" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/en/" />
+  <meta property="og:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://q1z2q3-debug.github.io/singing-bowl-healer-training/assets/social-preview.jpg" />
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Course",
+    "name": "Singing Bowl Healer Training 7.0 (Large-Print Edition)",
+    "description": "A free, open-source training manual for singing-bowl healing and sound therapy: bowl techniques, sound & vibration theory, chakras & meridians, hands-on practice, and natural therapies.",
+    "inLanguage": "en",
+    "provider": { "@type": "Organization", "name": "WuGanLiuJue · JianNian Singing-Bowl Sound Therapy Center",
+                  "sameAs": "https://github.com/q1z2q3-debug/singing-bowl-healer-training" },
+    "educationalLevel": "Beginner to Advanced",
+    "teaches": ["Singing Bowl Techniques", "Sound Healing", "Chakras & Meridians", "Hands-on Practice", "Professional Ethics for Healers"],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/"
+  }
+  </script>
+  <style>__CSS__
+  </style>
+</head>
+<body>
+  <div class="topbar">
+    <button class="iconbtn menu-btn" id="menuBtn" aria-label="Menu">☰</button>
+    <span class="brand">🌀 Singing Bowl Healer Training 7.0</span>
+    <span class="spacer"></span>
+    <span class="lang"><a href="../index.html">中文</a></span>
+    <button class="iconbtn" id="themeBtn" aria-label="Toggle theme">🌙</button>
+  </div>
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <h3>Contents</h3>
+      <input id="search" type="search" placeholder="Search chapters / keywords…" autocomplete="off" />
+      <p class="nav-count" id="navCount"></p>
+      <ul class="nav-tree" id="navTree">
+__NAV__
+      </ul>
+    </aside>
+
+    <main class="main">
+      <div class="hero">
+        <img src="../assets/social-preview.jpg" alt="Singing Bowl Healer Training 7.0 cover" />
+      </div>
+      <h1>Singing Bowl Healer Training 7.0 <span style="font-size:18px;color:var(--muted)">(Large-Print Edition)</span></h1>
+      <p class="sub">Free &amp; open-source · Sound Healing / Sound-Therapy Practitioner Training · CC BY-NC-SA 4.0</p>
+
+      <div class="card">
+        <p>This site is the English edition of the open-source repository
+          <a href="https://github.com/q1z2q3-debug/singing-bowl-healer-training">singing-bowl-healer-training</a>.
+          It systematically covers <strong>singing-bowl healing, sound healing, and practitioner training</strong>.</p>
+        <a class="btn" href="__BASE__">📘 Read the English Manual</a>
+        <a class="btn ghost" href="__EN_README__">📄 README</a>
+        <a class="btn ghost" href="__ZH_BASE__">📖 中文全文</a>
+        <a class="btn ghost" href="__ZIP__">⬇️ Download</a>
+      </div>
+
+      <h2>What's inside</h2>
+      <div class="card">
+        <ul>
+          <li><strong>From instrument to wisdom:</strong> Acquaintance → Theory → Practice → Life Wisdom → Natural Therapies.</li>
+          <li><strong>Self-check per chapter:</strong> Learning Objectives, Chapter Summary, and Reflection Questions.</li>
+          <li><strong>Practical toolkit:</strong> meditation guidance scripts and standardized self-assessment scales (Athens Insomnia, SAS, SDS, Ayurvedic).</li>
+          <li><strong>250+ illustrations</strong> in <code>docs/media/</code>.</li>
+          <li><strong>Open collaboration:</strong> CC BY-NC-SA 4.0 — see <a href="__CONTRIBUTING__">CONTRIBUTING.md</a>.</li>
+        </ul>
+      </div>
+
+      <h2>Keywords</h2>
+      <div>
+        <span class="kw">Singing Bowl</span><span class="kw">Sound Healing</span><span class="kw">Sound Therapy Training</span>
+        <span class="kw">Chakra Healing</span><span class="kw">Tibetan Singing Bowl</span><span class="kw">Relaxation</span>
+        <span class="kw">Sleep &amp; Stress Relief</span><span class="kw">颂钵疗愈</span><span class="kw">声音疗愈</span>
+      </div>
+
+      <h2>License</h2>
+      <div class="card">
+        <p>This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a>
+        (Attribution–NonCommercial–ShareAlike). ✅ Free to read, download, share, teach; ✅ adapt (same license); ❌ not for commercial use.</p>
+        <p style="color:#a05;font-size:14px">⚠️ Disclaimer: content is for learning and training only; it is not medical advice and cannot replace professional care.</p>
+      </div>
+
+      <footer>© 2026 Runze (WuGanLiuJue) · JianNian Singing-Bowl Sound Therapy Center · Hosted on GitHub Pages</footer>
+    </main>
+  </div>
+
+  <script>
+    // theme toggle
+    var themeBtn = document.getElementById('themeBtn');
+    var saved = localStorage.getItem('sbt-theme');
+    if (saved) document.documentElement.setAttribute('data-theme', saved);
+    function syncIcon(){ themeBtn.textContent = document.documentElement.getAttribute('data-theme')==='dark' ? '☀️' : '🌙'; }
+    syncIcon();
+    themeBtn.onclick = function(){
+      var cur = document.documentElement.getAttribute('data-theme');
+      var next = cur==='dark' ? 'light' : 'dark';
+      document.documentElement.setAttribute('data-theme', next);
+      localStorage.setItem('sbt-theme', next); syncIcon();
+    };
+    // mobile menu
+    var menuBtn = document.getElementById('menuBtn');
+    var sidebar = document.getElementById('sidebar');
+    menuBtn.onclick = function(){ sidebar.classList.toggle('open'); };
+    document.querySelector('.main').addEventListener('click', function(){ sidebar.classList.remove('open'); });
+    // search filter
+    var search = document.getElementById('search');
+    var tree = document.getElementById('navTree');
+    var allItems = Array.prototype.slice.call(tree.querySelectorAll('li'));
+    var countEl = document.getElementById('navCount');
+    function applyFilter(q){
+      q = q.trim().toLowerCase();
+      var visible = 0;
+      allItems.forEach(function(li){
+        var a = li.querySelector('a');
+        var t = (a ? a.getAttribute('data-text')||a.textContent : '').toLowerCase();
+        var hit = !q || t.indexOf(q) !== -1;
+        li.style.display = hit ? '' : 'none';
+        if (hit) visible++;
+        if (q){
+          var d = li.closest('details');
+          if (d && hit) d.open = true;
+        }
+      });
+      countEl.textContent = q ? (visible + ' matches') : '';
+    }
+    search.addEventListener('input', function(){ applyFilter(this.value); });
+  </script>
+</body>
+</html>
+"""
+
+
+def build(md, base, out, front_label, template, extra):
+    headings = parse_headings(md)
+    roots, search_index = build_tree(headings, front_label)
+    nav_html = "\n".join(render(r, base, 3) for r in roots)
+    html = template.replace("__CSS__", CSS.rstrip("\n"))
+    html = html.replace("__NAV__", nav_html)
+    html = html.replace("__BASE__", base)
+    for k, v in extra.items():
+        html = html.replace(k, v)
+    with io.open(out, "w", encoding="utf-8") as f:
+        f.write(html)
+    print("%s: nav items=%d, roots=%d" % (out, len(search_index), len(roots)))
+
+
+if __name__ == "__main__":
+    build(ZH_MD, ZH_BASE, "index.html", "前言 · Front Matter", ZH_HTML,
+          {"__ZIP__": ZIP})
+    build(EN_MD, EN_BASE, "en/index.html", "Front Matter", EN_HTML,
+          {"__EN_README__": EN_README, "__ZH_BASE__": ZH_BASE,
+           "__CONTRIBUTING__": CONTRIBUTING, "__ZIP__": ZIP})
