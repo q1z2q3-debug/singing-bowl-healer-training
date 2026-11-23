@@ -29,6 +29,13 @@
   - 📘 [英文版说明 `en/README.md`](en/README.md)
   - 🌐 [英文落地页 `en/index.html`](en/index.html)
 
+## 招生简章 · Brochure
+
+- 📄 [下载 A3 招生简章 PDF](brochure/招生简章.pdf) — 高级颂钵疗愈师培训认证班（2 页 A3 横版，可直接送印）
+- ✏️ [可编辑 HTML 源文件](brochure/招生简章.html) — 修改文字/价格/时间后用浏览器打印为 PDF 即可
+
+> 课程费用：十二月限时折扣 **¥5,800 · 三阶连报**（原价 ¥12,800）。地点报名后发地址。
+
 ## 在线阅读
 
 - **官方站点（GitHub Pages）**：https://q1z2q3-debug.github.io/singing-bowl-healer-training/ — 带 SEO 落地页（目录导航 / 搜索 / 暗色模式 / 移动端适配），含结构化数据，更易被搜索引擎收录
@@ -58,6 +65,11 @@ singing-bowl-healer-training/
 │   ├── fix_intake_form.py       # 重建“身心状态档案表”为规范 Markdown
 │   ├── build_landing.py         # 由正文标题生成落地页导航/搜索
 │   └── check_integrity.py       # 校验残留 HTML、表格列数一致性
+├── brochure/                    # A3 招生简章（PDF + 可编辑 HTML 源文件）
+│   ├── 招生简章.pdf             # 成品（2 页 A3 横版，可直接送印）
+│   ├── 招生简章.html            # 源文件（改文字/价格后用浏览器打印为 PDF）
+│   ├── hero.png                 # 封面主视觉
+│   └── repo-qrcode.png          # 报名仓库二维码
 ├── assets/
 │   ├── social-preview.png       # 社交分享预览图
 │   └── wechat-qrcode.jpg        # 微信联系二维码

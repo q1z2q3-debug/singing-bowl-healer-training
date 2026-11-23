@@ -7,6 +7,7 @@
 - 📘 Chinese full text: [`../docs/颂钵疗愈师培训7.0.md`](../docs/颂钵疗愈师培训7.0.md)
 - 📖 **English full book**: [`book.md`](book.md) — complete translation (Preface → Appendices)
 - 🌐 Chinese landing page: [`../index.html`](../index.html)
+- 📄 **Course brochure (A3 PDF)**: [`../brochure/招生简章.pdf`](../brochure/招生简章.pdf) — Advanced Singing-Bowl Healer Certification (2-page A3 landscape, print-ready)
 - 🤝 How to contribute: [`../CONTRIBUTING.md`](../CONTRIBUTING.md) · Translation guide: [`../TRANSLATION.md`](../TRANSLATION.md)
 
 ---
